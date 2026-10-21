@@ -1,0 +1,629 @@
+[
+  {
+    "candidate_id": "00-A-01",
+    "question": "試合前に選手は何を練習しているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "18:20予定の練習で走る人・蹴る人・GKを見る",
+    "answer_scope": [
+      "体を温める動きとパスやシュートの準備",
+      "GKの捕球練習との違い"
+    ],
+    "today_watch": "FC東京と柏のGKの準備を見比べる",
+    "priority": "star",
+    "novice_value": "試合前の時間を観察に使える",
+    "distinct_from": "既存1-02の試合進行ではなく開始前の動作",
+    "fact_check": [
+      "18:20は予定。練習メニューと開始場所は現地確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php"
+    ]
+  },
+  {
+    "candidate_id": "00-A-02",
+    "question": "練習している人は、全員このあと試合に出るの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-01",
+    "category_hint": 1,
+    "trigger": "大勢が練習していたのに開始時には11人だけ",
+    "answer_scope": [
+      "先発11人と控えの違い",
+      "練習参加と公式登録・実際の出場は別"
+    ],
+    "today_watch": "発表された先発と練習で見た背番号を比べる",
+    "priority": "normal",
+    "novice_value": "見つけた選手が必ず出るとは限らないとわかる",
+    "distinct_from": "1-01-aの人数論ではなく練習参加と出場の関係",
+    "fact_check": [
+      "今日の練習参加者・当日登録は未照合"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-03",
+    "question": "練習が終わると、選手はどこへ行くの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-01",
+    "category_hint": 1,
+    "trigger": "練習中の選手がピッチから一度いなくなる",
+    "answer_scope": [
+      "準備運動と正式入場は別の時間帯",
+      "控室などを経て再び登場する流れ"
+    ],
+    "today_watch": "18:20の練習から18:58の入場まで人数の変化を見る",
+    "priority": "normal",
+    "novice_value": "人がいなくなっても試合準備中とわかる",
+    "distinct_from": "00-A-01は練習内容、こちらは終了後の動線",
+    "fact_check": [
+      "退出先・練習終了時刻は当日確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-04",
+    "question": "名前と背番号が画面に並んだら、どこを見ればいいの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "場内画面や公式情報に選手名が出る",
+    "answer_scope": [
+      "先発・控え・監督の区別",
+      "背番号を現地で人を探す手がかりにする"
+    ],
+    "today_watch": "気になる背番号を一つ選びピッチで探す",
+    "priority": "star",
+    "novice_value": "知らない名前の羅列を現物と結びつけられる",
+    "distinct_from": "6-02は誰を追うか、こちらは表示の読み方",
+    "fact_check": [
+      "会場の発表時刻・画面構成は未確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-05",
+    "question": "「先発」と「控え」は、何が違うの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-04",
+    "category_hint": 1,
+    "trigger": "同じチームの名前が二つの欄に分かれる",
+    "answer_scope": [
+      "開始時に出る11人と交代に備える人",
+      "控え全員が出場するわけではない"
+    ],
+    "today_watch": "開始時の11人とベンチで待つ人を照合する",
+    "priority": "star",
+    "novice_value": "登録と出場を混同しない",
+    "distinct_from": "1-01-aは人数、00-A-02は練習、こちらは正式な一覧の区分",
+    "fact_check": [
+      "当日メンバーは試合前公式で照合"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://theifab.com/laws/latest/the-players/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-06",
+    "question": "入場の列に、選手ではなさそうな人もいるのはなぜ？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "18:58予定の入場で別色の服の人も歩く",
+    "answer_scope": [
+      "主審・副審などの運営者",
+      "入場後の整列と挨拶の見方"
+    ],
+    "today_watch": "ピッチ中央に並ぶ人の服と位置を見分ける",
+    "priority": "star",
+    "novice_value": "最初の笛を吹く人を見つけられる",
+    "distinct_from": "2-03の審判規則ではなく入場列の識別",
+    "fact_check": [
+      "児童同伴・握手・整列の演出は未確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/laws/latest/guidelines/body-language-communication-and-whistle/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-07",
+    "question": "始まる直前、選手が輪になったら何をしているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "開始前にチームが短く集まることがある",
+    "answer_scope": [
+      "円陣はチームの準備の一例",
+      "必須の競技規則ではない"
+    ],
+    "today_watch": "両チームが集まるなら解散後の立ち位置を見る",
+    "priority": "normal",
+    "novice_value": "開始寸前の静かな動作が見どころになる",
+    "distinct_from": "6-03-aの試合中の位置取りと異なる開始前の行動",
+    "fact_check": [
+      "今夜円陣を行うか未確認。会話の中身は推定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-08",
+    "question": "最初にボールを蹴るのはどうやって決めるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "19:00直前に中央のボールへ一方の選手が来る",
+    "answer_scope": [
+      "コイントスと選択の仕組み",
+      "キックオフと攻撃方向の関係"
+    ],
+    "today_watch": "中央のボールと各チームが向かうゴールを見る",
+    "priority": "star",
+    "novice_value": "最初の一蹴りを見失わない",
+    "distinct_from": "1-02-bは攻撃方向、こちらは最初に蹴る権利",
+    "fact_check": [
+      "当日のトス結果・攻撃方向は未確定"
+    ],
+    "sources": [
+      "https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-8---the-start-and-restart-of-play",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-09",
+    "question": "笛が鳴らなくても、ボールを蹴っていいことがあるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "中断後に笛が聞こえないまま再開される",
+    "answer_scope": [
+      "笛が必要な再開とそうでない再開",
+      "主審の許可とボールが動く瞬間"
+    ],
+    "today_watch": "スローインと開始時の音を聴き比べる",
+    "priority": "star",
+    "novice_value": "笛がないから反則だと思わずに済む",
+    "distinct_from": "1-03の再開種類に対し笛の要不要を問う",
+    "fact_check": [
+      "歓声で笛を聞き逃す場合との区別が必要"
+    ],
+    "sources": [
+      "https://www.theifab.com/laws/latest/guidelines/body-language-communication-and-whistle/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-10",
+    "question": "ボールが止まったら、試合も止まっているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "選手が足元のボールを静止させて周囲を見る",
+    "answer_scope": [
+      "ボールが静止してもプレー中の場合",
+      "線の外や主審の停止で中断する場合"
+    ],
+    "today_watch": "ボールを止めた選手へ相手が近寄れるか見る",
+    "priority": "star",
+    "novice_value": "静かな時間にもプレーが続いているとわかる",
+    "distinct_from": "6-03の静かな時間とは違うプレー状態の判定",
+    "fact_check": [
+      "状態は主審とラインを見て確かめる"
+    ],
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://theifab.com/laws/latest/the-referee/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-11",
+    "question": "突然笛が鳴ったら、まず誰を見ればいいの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "プレーが途切れて観客がざわつく",
+    "answer_scope": [
+      "主審の腕の方向",
+      "副審の旗と次のボールの場所"
+    ],
+    "today_watch": "主審→副審→ボールの順に視線を移す",
+    "priority": "star",
+    "novice_value": "細かな反則名を知らずに試合を追える",
+    "distinct_from": "2-03の審判制度に対し中断直後の見る順序",
+    "fact_check": [
+      "腕の方向だけで詳しい反則名を断定しない"
+    ],
+    "sources": [
+      "https://www.theifab.com/laws/latest/guidelines/body-language-communication-and-whistle/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-12",
+    "question": "倒れた人がいるのに、審判が両腕を出して続けさせるのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-11",
+    "category_hint": 1,
+    "trigger": "接触の直後に審判が腕を前に示す",
+    "answer_scope": [
+      "アドバンテージという続行判断",
+      "反則なしの続行との違い"
+    ],
+    "today_watch": "その後でボールを持つ側が攻め続けるかを見る",
+    "priority": "normal",
+    "novice_value": "審判は笛を吹くだけではないと気づく",
+    "distinct_from": "00-A-11の笛全般から特定の続行判断へ進む",
+    "fact_check": [
+      "その動作がアドバンテージか現場で確認"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-referee/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-13",
+    "question": "選手が倒れていても、試合をすぐ止めないことがあるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "遠くで選手が倒れてもボールが動く",
+    "answer_scope": [
+      "主審が安全とプレー状況を判断",
+      "頭部や深刻な負傷には特に配慮する"
+    ],
+    "today_watch": "倒れた選手だけでなく主審の動きも見る",
+    "priority": "star",
+    "novice_value": "安全判断の仕組みを知り不安を減らす",
+    "distinct_from": "00-A-12は反則判断、こちらは負傷時の停止判断",
+    "fact_check": [
+      "けがの程度をスタンドから断定しない"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-referee/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-14",
+    "question": "医療スタッフがピッチに入ったら、次に何が起こるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-13",
+    "category_hint": 1,
+    "trigger": "中断中に医療担当者が選手に駆け寄る",
+    "answer_scope": [
+      "主審の許可と安全確認",
+      "治療後の退出・再入場の条件と例外"
+    ],
+    "today_watch": "スタッフが入った場所と選手が一度外へ出るか見る",
+    "priority": "normal",
+    "novice_value": "一時的に人数が少なくなる理由を理解する",
+    "distinct_from": "00-A-13はいつ止めるか、こちらは止めた後の治療",
+    "fact_check": [
+      "2026/27の場外治療・待機時間の国内適用と例外は再確認"
+    ],
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://theifab.com/law-changes/latest/",
+      "https://theifab.com/laws/latest/the-referee/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-15",
+    "question": "選手は試合中、いつ水を飲めるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "スローイン待ちや休憩中に飲み物へ向かう",
+    "answer_scope": [
+      "普通の中断中の水分補給と公式の飲水・クーリング中断",
+      "今夜一斉飲水が必ずあるわけではない"
+    ],
+    "today_watch": "ベンチ際で飲み再開へ戻る動作を見る",
+    "priority": "normal",
+    "novice_value": "飲水が定時行事だと誤解しない",
+    "distinct_from": "1-02-aのハーフタイムと違う短い水分補給",
+    "fact_check": [
+      "今夜の気象条件と一斉飲水の実施は未確認"
+    ],
+    "sources": [
+      "https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-7---the-duration-of-the-match",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-16",
+    "question": "ボールを置いたのに、なかなか蹴らないのはどうして？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "再開地点で選手が位置を変えている",
+    "answer_scope": [
+      "再開位置・相手との距離・審判の合図の準備",
+      "遅延との違い"
+    ],
+    "today_watch": "ボールではなく周囲の選手の位置の変化を見る",
+    "priority": "normal",
+    "novice_value": "静止中にも次の一手の準備があるとわかる",
+    "distinct_from": "1-03の外に出た時の処理と違い再開待機の理由",
+    "fact_check": [
+      "2026/27の遅延カウントは全再開に一律でない"
+    ],
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-17",
+    "question": "蹴る前に、守る選手が横一列に並ぶのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-16",
+    "category_hint": 1,
+    "trigger": "FKでボールとゴールの間に人の壁ができる",
+    "answer_scope": [
+      "壁でシュートの通り道を狭める",
+      "原則9.15mの距離とGKの配置"
+    ],
+    "today_watch": "壁の人数とGKの位置を別々に見る",
+    "priority": "normal",
+    "novice_value": "意味不明な人垣の目的がわかる",
+    "distinct_from": "2-02-bのFKの種類ではなく守る人の準備",
+    "fact_check": [
+      "毎回壁ができるわけではない。距離の細則を照合"
+    ],
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/laws/latest/guidelines/positioning-movement-and-teamwork/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-18",
+    "question": "ゴールが決まったあと、どうして真ん中から始めるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "得点の歓声の後で選手が中央へ歩く",
+    "answer_scope": [
+      "得点が認められたら失点側のキックオフ",
+      "歓声から再開までの流れ"
+    ],
+    "today_watch": "喜ぶ選手ではなく失点した側の中央への移動を見る",
+    "priority": "star",
+    "novice_value": "歓声後の次のプレーがわかる",
+    "distinct_from": "1-02一般ではなくゴール直後の手順",
+    "fact_check": [
+      "ゴールが正式に認められた場合に限る"
+    ],
+    "sources": [
+      "https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-8---the-start-and-restart-of-play",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-19",
+    "question": "入ったように見えたのに、点が増えないのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-18",
+    "category_hint": 1,
+    "trigger": "ゴールのように見えた後で得点表示が変わらない",
+    "answer_scope": [
+      "反則・オフサイド・ゴールラインなどの可能性",
+      "主審と必要時のVARによる判断"
+    ],
+    "today_watch": "笛・表示・中央からの再開が揃うか見る",
+    "priority": "normal",
+    "novice_value": "歓声と正式得点を区別できる",
+    "distinct_from": "00-A-18の承認後の再開に対し承認前の確認",
+    "fact_check": [
+      "VARの対象と画面演出は今夜の運用に従う"
+    ],
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-20",
+    "question": "ハーフタイムには、ピッチで何が起こるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "前半終了の笛で選手が引き上げる",
+    "answer_scope": [
+      "前後半の休憩は15分以内",
+      "今夜19:50頃予定のハーフタイムショー"
+    ],
+    "today_watch": "選手の動線と会場イベントを分けて眺める",
+    "priority": "star",
+    "novice_value": "休憩中も現地ならではの時間を楽しめる",
+    "distinct_from": "1-02-aは時間規則、こちらは休憩の風景",
+    "fact_check": [
+      "19:50頃は予定。前半追加時間で変動する"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-7---the-duration-of-the-match"
+    ]
+  },
+  {
+    "candidate_id": "00-A-21",
+    "question": "後半は、いつどこを見れば始まったとわかるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-20",
+    "category_hint": 1,
+    "trigger": "休憩後に選手が戻り中央に集まる",
+    "answer_scope": [
+      "後半のキックオフ",
+      "前半と攻撃方向を入れ替える"
+    ],
+    "today_watch": "前半のゴール方向を覚え後半の中央を見る",
+    "priority": "normal",
+    "novice_value": "ショーと後半開始を混同しない",
+    "distinct_from": "1-02-bの方向の理由ではなく再開の見つけ方",
+    "fact_check": [
+      "前半の具体的攻撃方向・後半時刻は未確定"
+    ],
+    "sources": [
+      "https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-8---the-start-and-restart-of-play",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-22",
+    "question": "交代のときに、数字の板を上げるのはなぜ？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "タッチラインで光る数字の板が出る",
+    "answer_scope": [
+      "入る人・退く人の背番号を示す",
+      "停止中に許可を得て交代する"
+    ],
+    "today_watch": "板の数字を見て実際に入れ替わる一組を追う",
+    "priority": "star",
+    "novice_value": "いつ顔ぶれが変わったか理解できる",
+    "distinct_from": "2-03-bは交代人数、こちらは見える板と出入り",
+    "fact_check": [
+      "表示色と方式は会場で確認"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-players/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-23",
+    "question": "交代前の選手が、横でずっと走っているのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-22",
+    "category_hint": 1,
+    "trigger": "ピッチ脇で控えが準備運動する",
+    "answer_scope": [
+      "途中出場に備え体を温める",
+      "走っても必ず交代するとは限らない"
+    ],
+    "today_watch": "走っていた人が後で交代板の場所へ来るか見る",
+    "priority": "normal",
+    "novice_value": "ピッチ外の活動も試合の準備とわかる",
+    "distinct_from": "6-03-bはベンチ全般、こちらは入る前の身体準備",
+    "fact_check": [
+      "ウォームアップエリアは当日確認"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-players/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-24",
+    "question": "追加時間の「＋4分」は、4分ぴったりで終わる意味なの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "1-02-a",
+    "category_hint": 1,
+    "trigger": "前後半の終盤に数字が掲げられる",
+    "answer_scope": [
+      "示すのは最小限の追加時間",
+      "その後の中断で延長は可能だが減らせない"
+    ],
+    "today_watch": "表示された分数と実際の終了の笛を比べる",
+    "priority": "star",
+    "novice_value": "45分・90分超でも慌てない",
+    "distinct_from": "既存1-02-aの基本から最小表示の誤読を解く",
+    "fact_check": [
+      "＋4は例であり今夜の確定値ではない"
+    ],
+    "sources": [
+      "https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-7---the-duration-of-the-match",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-25",
+    "question": "試合終了の笛が鳴ると、何が変わるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "後半終盤に選手が走るのを止める",
+    "answer_scope": [
+      "前半終了と試合終了の違い",
+      "今夜のJ1は引き分けなら延長・PK戦なし"
+    ],
+    "today_watch": "笛の後の選手の動きと得点表示を見る",
+    "priority": "star",
+    "novice_value": "いつ終わったかを確かめられる",
+    "distinct_from": "1-01-bの勝敗ではなく終了の合図と現場",
+    "fact_check": [
+      "笛の回数を絶対的な識別根拠にしない"
+    ],
+    "sources": [
+      "https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-7---the-duration-of-the-match",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-26",
+    "question": "試合が終わったあと、なぜ選手は挨拶に回るの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "選手が相手に近寄りスタンド側へ歩く",
+    "answer_scope": [
+      "相手・仲間・観客への挨拶は別",
+      "順番や実施はクラブと当日で異なる"
+    ],
+    "today_watch": "両チームの選手がどちらへ歩くかを追う",
+    "priority": "normal",
+    "novice_value": "終了後も観察できると気づく",
+    "distinct_from": "7-03は帰路、こちらはピッチ上の挨拶",
+    "fact_check": [
+      "今夜の挨拶形式・実施は未確認。内心を断定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php"
+    ]
+  },
+  {
+    "candidate_id": "00-A-27",
+    "question": "終わっても、ピッチに残る人は何をしているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-26",
+    "category_hint": 1,
+    "trigger": "挨拶後も選手や係員が残る",
+    "answer_scope": [
+      "取材・ケア・片付けなど複数の可能性",
+      "役割と動線の違い"
+    ],
+    "today_watch": "残る選手とボール・道具を片付ける人を見比べる",
+    "priority": "normal",
+    "novice_value": "試合を支える人へ視野が広がる",
+    "distinct_from": "00-A-26は挨拶、こちらは終了後の仕事",
+    "fact_check": [
+      "取材場所・撤収手順は当日確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php"
+    ]
+  }
+]
