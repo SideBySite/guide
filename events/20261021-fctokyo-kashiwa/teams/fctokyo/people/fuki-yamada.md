@@ -1,3 +1,25 @@
+---
+id: fctokyo-fuki-yamada
+title: 山田 楓喜（FC東京・背番号71）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/329615/
+  - https://www.jleague.jp/player/1628223/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/293358/
+  - https://www.verdy.co.jp/match/info/2024040701/report
+  - https://www.jleague.jp/match/j1/2024/040701/summary/
+  - https://jfa.jp/national_team/u23_2024/afc_u23_asiancup_2024/final/match_page/m32.html
+  - https://www.joc.or.jp/athletes/fukiyamada/index.html
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.bellmare.co.jp/2026_emp_3_fctokyo
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.jleague.jp/match/j1/2026/101708/
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E6%A5%93%E5%96%9C
+checked_at: 2026-10-21T16:57:33.085+09:00
+---
+
 ## 山田 楓喜（#71、MF・右側の攻撃／左足のキック、左利き、25歳）
 
 ### 特徴（強み、ユニークポイント）
