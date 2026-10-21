@@ -339,5 +339,325 @@
     "sources": [
       "https://www.jfa.jp/laws/soccer/2026_27/"
     ]
+  },
+  {
+    "candidate_id": "B-17",
+    "question": "手で投げるときと、角から蹴るときは何が違うの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "ボールがピッチの外へ出て、取りに行く位置が変わる",
+    "answer_scope": [
+      "タッチラインからは相手のスローイン",
+      "ゴールラインから攻めた側が最後に触れればゴールキック",
+      "守った側が最後に触れればCK",
+      "最後に触った選手が判断の鍵"
+    ],
+    "today_watch": "東京が横の線へ蹴り出したら柏の選手が投げるか確認し、ゴール脇へ出れば最後のタッチを見る",
+    "priority": "star",
+    "novice_value": "最も頻繁に見られる再開を一気につかめる",
+    "distinct_from": "B-15は笛の位置、B-16は線を越えたか、ここは『誰がどの方法で』",
+    "fact_check": "同時に見た人が触れたかは角度で誤認しうるため当日の判定は断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-18",
+    "question": "スローインで足が浮いたら、やり直しなの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-17",
+    "category_hint": 2,
+    "trigger": "選手が両手で投げながら片足を高く上げる",
+    "answer_scope": [
+      "両手で頭の後ろから頭上を通す動き",
+      "両足の一部をライン上または外側の地面につける",
+      "正しくなければ相手のスローインとなる"
+    ],
+    "today_watch": "柏のロングスローが出れば、球の行方だけでなく投げる人の両足を見る",
+    "priority": "normal",
+    "novice_value": "球だけでなく体の仕草が再開を左右すると知る",
+    "distinct_from": "B-17は再開の種類、こちらは投げ方の成立条件",
+    "fact_check": "個別の投球動作や反則の判定は現場から断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-19",
+    "question": "角から蹴る前、どうして選手たちが固まっているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-17",
+    "category_hint": 2,
+    "trigger": "CK前にゴール前で人が押し合うように並ぶ",
+    "answer_scope": [
+      "ボールが来る場所をめぐる位置取り",
+      "身体接触が許される範囲と押す・つかむ反則",
+      "ボールがインプレーになる前にも処分があり得る"
+    ],
+    "today_watch": "FC東京のCKで柏#4古賀太陽が出ていれば、ボールではなく誰を見て立ち位置を変えるか追う",
+    "priority": "normal",
+    "novice_value": "ボールのない場所の小さな攻防へ目が向く",
+    "distinct_from": "B-17はラインと最後のタッチ、こちらは再開前の人の関係",
+    "fact_check": "押し合いの個別反則は映像・審判裁定なしに断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-20",
+    "question": "ゴールキックは遠くへ蹴らず、近くに渡してもいいの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-17",
+    "category_hint": 2,
+    "trigger": "GKがゴール前から近くのDFへ短く渡す",
+    "answer_scope": [
+      "ゴールエリア内の静止球を蹴り動かせばインプレー",
+      "味方はペナルティーエリア内で受けられる",
+      "相手側の再開時の立ち位置と例外"
+    ],
+    "today_watch": "柏#29永井堅梧がGKで出たら、蹴る直前に近くで受けに来る味方の動きを見る",
+    "priority": "normal",
+    "novice_value": "遠くへ蹴るだけが再開だと思わず、準備の配置を見られる",
+    "distinct_from": "B-17はどちらのチームのボールか、こちらは出し方の選択肢",
+    "fact_check": "GKの実際の出場は当日公式スタメン要確認",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-21",
+    "question": "審判が5秒を数えたら、すぐ相手のボールになるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-17",
+    "category_hint": 2,
+    "trigger": "スローインやゴールキックで主審が腕で秒を示す",
+    "answer_scope": [
+      "2026/27の意図的な再開遅延に対するカウントダウン",
+      "通常の再開すべてを5秒制限する規則ではない",
+      "遅延が続くとスローインは相手へ、ゴールキックは相手CKへ"
+    ],
+    "today_watch": "終盤にボールを運ぶ動きが遅くなったら、審判が計り始めた時点と再開の変化を見る",
+    "priority": "normal",
+    "novice_value": "今季特有の見慣れない再開転換を誤解しない",
+    "distinct_from": "B-40はGKが『手で保持』する8秒、こちらはアウト後の再開遅延",
+    "fact_check": "JFA 2026/27のカウントダウン実施条件とJ1の運用を再確認。今日あると断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "B-22",
+    "question": "審判にボールが当たったのに、続いていいの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "パスが主審に当たって球の向きが変わる",
+    "answer_scope": [
+      "主審もフィールド内にいる",
+      "球が当たった後の攻撃機会・保持チーム変化など停止条件",
+      "止めた場合はドロップボール（審判が球を落とす再開）"
+    ],
+    "today_watch": "中盤を通るパスと主審の位置を見て、接触の後に笛があるか確かめる",
+    "priority": "normal",
+    "novice_value": "珍しい出来事でも判断の基準を持てる",
+    "distinct_from": "B-01は反則の笛、こちらは審判に球が当たった特殊な停止",
+    "fact_check": "規則第9条と第8条、特に2026/27のドロップボール条件を照合",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-23",
+    "question": "審判がボールを地面に落として渡したのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-22",
+    "category_hint": 2,
+    "trigger": "けがなどで試合が止まった後、誰も蹴り出さず主審が球を落とす",
+    "answer_scope": [
+      "どちらの反則でもなく止めたときの再開",
+      "再開位置と受け取るチームの規則",
+      "相手は所定の距離を保つ"
+    ],
+    "today_watch": "けがの停止後などに、主審が球を持ってどこへ歩くかを見る",
+    "priority": "normal",
+    "novice_value": "FKでもスローインでもない再開を説明できる",
+    "distinct_from": "B-22は主審への球の接触、こちらは反則以外の停止全体",
+    "fact_check": "球を渡す相手・場所の2026/27改正を第8条で照合",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-24",
+    "question": "反則のあと、好きな所から蹴っていいの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "笛の後でチームが静止した球を置いて蹴る",
+    "answer_scope": [
+      "FKを与える反則の例",
+      "直接FKは相手ゴールへ直接得点可能・間接FKは他者の接触が必要",
+      "再開位置とボールの静止",
+      "オフサイドも間接FK"
+    ],
+    "today_watch": "中盤で柏#21小西雄大が出場すれば、相手反則の後の蹴る位置とパスの出し先を見る",
+    "priority": "star",
+    "novice_value": "再開で何を狙えるかが分かる",
+    "distinct_from": "B-15は置く場所の差、B-26は間接FKの審判合図",
+    "fact_check": "直接・間接の区別を行為ごとにJFA第12・13条で確認",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-25",
+    "question": "壁になった選手は、どうしてあそこまで離れるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-24",
+    "category_hint": 2,
+    "trigger": "FKで数人が横に並び、審判が距離を測る",
+    "answer_scope": [
+      "相手選手の原則9.15m",
+      "3人以上の壁から攻撃側は1m離れる",
+      "クイックFKとの兼ね合い"
+    ],
+    "today_watch": "味スタで相手ゴール前のFKが出たら、守備の壁と攻撃側の立つ位置を比べる",
+    "priority": "normal",
+    "novice_value": "整列する動きから見えない距離の規則が分かる",
+    "distinct_from": "B-24はFKの種類、こちらは人がどこに立つか",
+    "fact_check": "9.15m・3人以上の壁の条件をJFA競技規則第13条で照合",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-26",
+    "question": "審判が片腕をずっと上げているのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-24",
+    "category_hint": 2,
+    "trigger": "静止球を蹴る前後に主審の片腕が高く上がる",
+    "answer_scope": [
+      "間接FKの合図",
+      "別の選手が触れるまで直接ゴールにならない",
+      "腕を下ろす時機とオフサイドによる間接FK"
+    ],
+    "today_watch": "オフサイド後にボールを置いたら、キックする人より主審の腕を見る",
+    "priority": "star",
+    "novice_value": "見慣れない身振り一つでFKの違いを読み取れる",
+    "distinct_from": "B-24の定義を目で判別する具体的な一歩",
+    "fact_check": "主審の腕が上がる別場面（アドバンテージ等）と誤認しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-27",
+    "question": "笛が鳴る前にすばやく蹴り始めてもいいの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-24",
+    "category_hint": 2,
+    "trigger": "反則のあと守備が並ぶ前に球が蹴られる",
+    "answer_scope": [
+      "クイックFKの原則",
+      "壁の距離管理やカード提示などで主審が合図を待たせた場合",
+      "距離を詰める選手の反則"
+    ],
+    "today_watch": "柏がFKを得たら、相手の守備が整う前に動く味方がいるかを見る",
+    "priority": "normal",
+    "novice_value": "止まった時間にも攻防があると分かる",
+    "distinct_from": "B-25は壁の決まり、こちらは再開のタイミング",
+    "fact_check": "主審が管理したFKかを状況なしに断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-28",
+    "question": "いきなりPKになったのはなぜ？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "ゴール前で笛が鳴り審判がペナルティーマークを示す",
+    "answer_scope": [
+      "守る側が自分のペナルティーエリア内で直接FK相当の反則",
+      "11m地点からの1対GKのキック",
+      "接触しただけ・エリア内で倒れただけでは確定しない"
+    ],
+    "today_watch": "東京・柏がペナルティーエリアに入ったら、接触の位置と笛のあとに主審が指す方向を見る",
+    "priority": "star",
+    "novice_value": "大きな判定の根拠と緊張する理由が分かる",
+    "distinct_from": "B-24は一般FK、B-29は境界線の判断",
+    "fact_check": "当日のPK判定が正しいかは公式映像と最終判定を優先",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-29",
+    "question": "ペナルティーエリアの白線の上で倒れたらPK？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-28",
+    "category_hint": 2,
+    "trigger": "白線をまたいで倒れ、外か中か議論になる",
+    "answer_scope": [
+      "境界線もそのエリアに含まれる",
+      "反則が起きた場所と倒れた場所の違い",
+      "継続するホールディング（つかむ反則）の例"
+    ],
+    "today_watch": "柏の守備がエリア際で対応するとき、倒れた地点だけでなく接触が始まった位置を見る",
+    "priority": "normal",
+    "novice_value": "PKかFKかの差をフィールドの線から理解できる",
+    "distinct_from": "B-28はPKとなる反則の種類、こちらは位置の判定",
+    "fact_check": "接触場所は肉眼では判断できないことがある。具体例は映像で確認",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-30",
+    "question": "PKを蹴る前に、キーパーはどこまで動いていいの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-28",
+    "category_hint": 2,
+    "trigger": "PK前にGKが左右へ動きながら構える",
+    "answer_scope": [
+      "キック時に少なくとも片足の一部をゴールライン上・同一面またはその後方に置く規則",
+      "キッカーと他選手の位置",
+      "侵入やGK違反の扱い"
+    ],
+    "today_watch": "柏#29永井堅梧がGKならPK前の足元を、東京側なら相手GKの位置を観察する",
+    "priority": "normal",
+    "novice_value": "GKが動けないという誤解をほどく",
+    "distinct_from": "B-28はPKの条件、こちらは対峙の足とタイミング",
+    "fact_check": "2026/27第14条のGK足位置と再実施条件を照合。PK発生は仮定",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-31",
+    "question": "PKがキーパーにはじかれたら、蹴った人も追いかけていいの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-28",
+    "category_hint": 2,
+    "trigger": "PKをGKが防ぎ、こぼれ球へ蹴った人が走る",
+    "answer_scope": [
+      "試合中のPKは通常のプレーが続く",
+      "別の選手（GKを含む）に触れればキッカーも再び触れられる",
+      "ポストだけでは続けて二度触れない",
+      "PK戦とは混同しない"
+    ],
+    "today_watch": "もしPKがあれば、キック後にGKかゴール枠のどちらに触れたかを追う",
+    "priority": "normal",
+    "novice_value": "PKの後の一瞬にも続きがあると分かる",
+    "distinct_from": "B-30は蹴る前の位置、ここは蹴った後の二度触りの条件",
+    "fact_check": "試合中PKと勝敗決定のPK戦を分け、当日のJ1は同点でもPK戦をしない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
   }
 ]
