@@ -64,6 +64,7 @@
 - [藤枝公式・期限付き移籍満了、2026-06-27] https://myfc.co.jp/news/20260627/1188015/
 - [藤枝公式・2026春ベストイレブン、2026-06-02] https://myfc.co.jp/news/20260602/1187072/
 - [Jリーグ公式・2026特別シーズン2月月間ヤングプレーヤー賞] https://www.jleague.jp/j2/monthly_awards/2026special/02/young-player-east-b/
+- [JFA公式・2023年U-17ワールドカップ代表登録] https://www.jfa.jp/national_team/u17_2023/u17_worldcup2023/member.html
 - [JFA公式・2026-01-24 U-23アジアカップ決勝、中国0–4日本、永野先発] https://www.jfa.jp/national_team/u23_2026/afc_u23_asiancup_2026/final/match_page/m32.html
 - [FC東京公式・2026-10-07] https://www.fctokyo.co.jp/match/schedule/result/20261007/
 - [FC東京公式・2026-10-10] https://www.fctokyo.co.jp/match/schedule/result/20261010/
