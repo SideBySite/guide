@@ -1,3 +1,25 @@
+---
+id: fctokyo-kyota-tokiwa
+title: 常盤 亨太（FC東京・背番号27）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/2026/298246/
+  - https://www.jleague.jp/player/1627192/
+  - https://www.fctokyo.co.jp/news/details/315975/
+  - https://www.jfa.jp/youth_development/news/00033991/
+  - https://www.meiji.ac.jp/koho/press/2024/mkmht000001x9obx.html
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/292559/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/330197/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://www.jleague.jp/match/j1/2026/101708/
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%9B%A4%E4%BA%A8%E5%A4%AA
+checked_at: 2026-10-21T16:57:50.929+09:00
+---
+
 ## 常盤 亨太（#27、MF・中央の守備とつなぎ、右利き、24歳）
 
 ### 特徴（強み、ユニークポイント）
