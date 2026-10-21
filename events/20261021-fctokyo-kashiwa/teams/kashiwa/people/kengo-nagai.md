@@ -1,3 +1,24 @@
+---
+id: ksw-kengo-nagai
+title: 永井堅梧（柏レイソル・背番号29）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/29.php
+  - https://www.reysol.co.jp/news/topteam/post-1000.html
+  - https://www.s-pulse.co.jp/top_teams/profile/2022/25
+  - https://www.jleague.jp/match/j1/2023/080604/review/
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://www.reysol.co.jp/game/results/202627/1021i.php
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://ja.wikipedia.org/wiki/永井堅梧
+checked_at: 2026-10-21T16:56:19.766+09:00
+---
+
 ## 永井堅梧（#29、GK〈ゴールキーパー＝ゴールを守る選手〉、右利き、31歳）
 
 > **事前ガイド**：2026年10月21日13時台（日本時間）に確認した情報。今日19:00のFC東京戦の出場・先発はまだ予想であり、本人の内心は推測しない。大会は**2026/27明治安田J1リーグ第11節**だ。
