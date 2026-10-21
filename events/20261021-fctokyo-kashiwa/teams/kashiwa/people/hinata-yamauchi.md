@@ -1,7 +1,7 @@
 ---
-id: hinata-yamauchi
-title: 山内日向汰は、前線のどこを見ると面白い？
-category: kashiwa
+id: ksw-hinata-yamauchi
+title: 山内日向汰（柏レイソル・背番号87）
+category: people
 sources:
   - https://www.reysol.co.jp/team/players/202627/87.php
   - https://www.jleague.jp/player/1635485/
