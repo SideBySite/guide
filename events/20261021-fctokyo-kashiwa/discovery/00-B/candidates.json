@@ -659,5 +659,321 @@
       "https://www.jfa.jp/laws/soccer/2026_27/",
       "https://www.jleague.jp/outline/j1/"
     ]
+  },
+  {
+    "candidate_id": "B-32",
+    "question": "黄色いカードと赤いカードは何が違うの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "主審が胸元から色のついた札を出す",
+    "answer_scope": [
+      "黄色は警告・赤は退場",
+      "接触の激しさ以外に遅延や妨害なども対象",
+      "退場でフィールド上の人数が原則減る"
+    ],
+    "today_watch": "柏とFC東京の選手にカードが出たら、直前の動作と主審が示した選手を確かめる",
+    "priority": "star",
+    "novice_value": "警告と退場でその後の試合がどう変わるか分かる",
+    "distinct_from": "B-33はボールへの先触り、B-34は2度目、B-35は人数への影響",
+    "fact_check": "今日の対象者と理由は試合記録・公式判定なしに断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-33",
+    "question": "ボールには先に触ったのに、カードが出るの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-32",
+    "category_hint": 2,
+    "trigger": "滑り込んでボールを奪った直後に相手が倒れカードが出る",
+    "answer_scope": [
+      "ボールへの接触があっても相手への危険なチャレンジは成立",
+      "不用意・無謀・過剰な力の差",
+      "反則と懲戒を分ける"
+    ],
+    "today_watch": "ゴール前で守備が足を投げ出したら、ボールだけでなく相手への足の入り方も見る",
+    "priority": "normal",
+    "novice_value": "先に球に触れば何をしてもよい、という誤解を解ける",
+    "distinct_from": "B-02は倒れても笛がない場合、こちらは接触方法とカードの重さ",
+    "fact_check": "『無謀・過剰な力』の規則上の区分を2026/27第12条で確認",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-34",
+    "question": "黄色いカードが2枚出ると、赤になるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-32",
+    "category_hint": 2,
+    "trigger": "同じ選手にまた黄色が示され、続けて赤い札が出る",
+    "answer_scope": [
+      "同じ試合の2回目の警告で退場",
+      "1回目との行動が違っても累積する",
+      "同じ試合の警告と別試合をまたぐ出場停止の区別"
+    ],
+    "today_watch": "もし警告を受けた選手がいたら、その後の競り合い方が変わるかを観察する",
+    "priority": "star",
+    "novice_value": "札の順序が読めると交代・人数の変化を理解できる",
+    "distinct_from": "B-32は色の意味、ここは同一人物の警告の積み重ね",
+    "fact_check": "別試合にまたがる累積警告停止は大会規定の確認が必要なため断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "B-35",
+    "question": "退場したら、交代選手を入れて11人に戻せないの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-32",
+    "category_hint": 2,
+    "trigger": "赤い札のあと控え選手がすぐには入らず布陣を変える",
+    "answer_scope": [
+      "試合中の退場は通常補充できない",
+      "退場前後の人数と空いた場所",
+      "GK退場の場合もフィールド上の人数枠をやりくりする"
+    ],
+    "today_watch": "もし退場者が出れば、その後に柏#4古賀太陽ら後方の位置が変わるかを数えて見る",
+    "priority": "normal",
+    "novice_value": "ボール外の守備の並びが激変する理由を理解できる",
+    "distinct_from": "B-34は警告の累積、こちらはフィールド上の人員制約",
+    "fact_check": "キックオフ前の退場や選手交代枠との例外は第3条で確認。今夜発生は仮定",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-36",
+    "question": "交代の数字が出たら、何が始まるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "第4の審判が背番号の表示板を掲げ、選手が外へ向かう",
+    "answer_scope": [
+      "2026/27 J1の通常交代5人・試合停止で最大3回、ハーフタイムを除く",
+      "退出選手と新たに入る選手",
+      "2026/27の原則10秒退出と超過時の扱い",
+      "退いた選手は戻らない"
+    ],
+    "today_watch": "柏#20瀬川祐輔が途中投入された場合、入る前後の前線の人数と立ち位置を比べる",
+    "priority": "star",
+    "novice_value": "ベンチ前の動きが試合の見方につながる",
+    "distinct_from": "B-37は追加交代、B-38はけがで一時的に外へ出る話",
+    "fact_check": "当日のベンチ入り・交代は試合前予想と公式メンバー発表を区別",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php"
+    ]
+  },
+  {
+    "candidate_id": "B-37",
+    "question": "5人までのはずなのに、6人目が入れることもあるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-36",
+    "category_hint": 2,
+    "trigger": "両チームの交代が多く、記録上6人目に見える",
+    "answer_scope": [
+      "脳振盪の疑いによる特別交代枠（各チーム最大1人）",
+      "相手側にも追加交代枠が生まれる",
+      "通常の5人制限と混ぜない",
+      "10月17日柏のGK交代事例は今日の予告ではない"
+    ],
+    "today_watch": "10/17柏のGK若原智哉から永井堅梧への交代記録を知ったうえで、今日の交代理由は公式記録を待つ",
+    "priority": "normal",
+    "novice_value": "直近の試合で実際に起きた6交代への疑問を解ける",
+    "distinct_from": "B-36は通常の上限と手続き、こちらは脳振盪例外",
+    "fact_check": "10/17の脳振盪交代はJリーグ試合前プレビュー・柏公式記録で確認。今日の発生や負傷状態は推測しない",
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "B-38",
+    "question": "けがで外に出た選手は、いつ戻れるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-36",
+    "category_hint": 3,
+    "trigger": "選手がスタッフに付き添われピッチ外へ出て、人数が一時的に少ない",
+    "answer_scope": [
+      "負傷者の安全確認と主審の復帰許可",
+      "治療のための退出と正式交代は別",
+      "2026/27の場外評価・待機時間には例外がある",
+      "頭部のけがは別枠で慎重に扱う"
+    ],
+    "today_watch": "もし接触後に治療が入れば、戻る選手がどこで主審の合図を待つかを見る",
+    "priority": "normal",
+    "novice_value": "一時的な人数減少を退場と取り違えない",
+    "distinct_from": "B-35は退場の人数減、B-36は交代、こちらは同じ選手が復帰する経路",
+    "fact_check": "2026/27の場外治療プロトコル・例外およびJ1運用は要確認。決め打ちの待機秒数を書かない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "B-39",
+    "question": "キーパーだけ、どうしてボールを手でつかめるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "GKがボールを手で抱え、相手選手が近づかない",
+    "answer_scope": [
+      "GKでも自分のペナルティーエリア外は通常のハンド規則",
+      "エリア内でも味方からの戻し方に制限",
+      "手で制御中のGKには相手が競りかけられない"
+    ],
+    "today_watch": "柏#29永井堅梧が守るなら、キャッチした場所の線と周囲の相手FWの止まり方を見る",
+    "priority": "star",
+    "novice_value": "GKの特別扱いがどの場所で成り立つか理解できる",
+    "distinct_from": "B-40は保持時間、B-41は味方の意図的な足の戻し球",
+    "fact_check": "当日出場GK・手で触れた地点は現場と公式発表で確認",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-40",
+    "question": "キーパーが持っている間、審判は何秒を数えているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-39",
+    "category_hint": 2,
+    "trigger": "GKが球を抱え、主審が片手を高く上げて指で数える",
+    "answer_scope": [
+      "2025/26以降GKの手・腕での保持は8秒超で相手CK",
+      "審判が最後の5秒を視覚的にカウント",
+      "2026/27のスローイン5秒とは別",
+      "保持開始・解除の考え方"
+    ],
+    "today_watch": "もし柏GKが球を抱えたら、相手が引く動きと審判の最後の5秒を観察する",
+    "priority": "star",
+    "novice_value": "古い6秒・間接FKの説明と混乱せず観戦できる",
+    "distinct_from": "B-21はアウト後の5秒、こちらはインプレー中のGKの8秒",
+    "fact_check": "8秒規定とCKの位置を2026/27第12・17条で照合。違反発生は断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "B-41",
+    "question": "味方がキーパーへ戻した球を、手で取れないことがあるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-39",
+    "category_hint": 2,
+    "trigger": "自陣で味方がGKへパスしたのにGKが足で扱う",
+    "answer_scope": [
+      "味方が意図的に足で蹴ったボールをGKが手で扱う原則禁止",
+      "味方のスローインを直接手で扱う制限",
+      "単なる跳ね返りなどとの違い",
+      "違反では相手の間接FK"
+    ],
+    "today_watch": "柏のDFからGKへのパスがあれば、GKが手を使うか足でつなぐかを見る",
+    "priority": "normal",
+    "novice_value": "普通のパスに隠れた判断を観察できる",
+    "distinct_from": "B-39はGKの手の使える場所、こちらは誰がどう渡したか",
+    "fact_check": "意図的なキックとその他の接触の判定は当日の映像・最終判断に依存",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-42",
+    "question": "審判が空中に四角を描いたのはなぜ？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "主審が両手でテレビ画面のような四角を作り、試合が止まる",
+    "answer_scope": [
+      "VAR（映像による補助審判）の確認とオンフィールドレビュー",
+      "全380試合導入のJ1",
+      "最終決定は主審",
+      "映像室でのチェックと主審の画面確認は同じではない"
+    ],
+    "today_watch": "得点やPKをめぐって長く止まれば、主審が四角を描くかモニターへ行くかを見る",
+    "priority": "star",
+    "novice_value": "大きな中断を『何も起きていない時間』にしない",
+    "distinct_from": "B-43は得点直後の確認、B-44は再確認できる判定の範囲",
+    "fact_check": "2026/27の一部VAR拡張は大会選択制。J1採用範囲が未確認なので確定記述にしない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "B-43",
+    "question": "ゴールのあと、みんなが動かず待つのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-42",
+    "category_hint": 2,
+    "trigger": "得点後すぐ再開せず、主審が耳に手を当てる",
+    "answer_scope": [
+      "得点までの反則・オフサイド等の確認対象",
+      "VARが主審に伝えるチェックとレビューの違い",
+      "画面に必ず詳細が出るとは限らない"
+    ],
+    "today_watch": "東京か柏が得点したら、主審の身振り、再開の許可、周囲の選手の待ち方を順に観察する",
+    "priority": "star",
+    "novice_value": "得点が確定するまでの間も落ち着いて追える",
+    "distinct_from": "B-42は四角の合図の意味、こちらは画面を見る前からある静かな確認",
+    "fact_check": "味スタのビジョンに何を表示するか・当日のチェック結果は公式確認が必要",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "B-44",
+    "question": "VARがあるなら、どんな反則もやり直せるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-42",
+    "category_hint": 2,
+    "trigger": "観客には明らかに見えた接触で映像確認が行われない",
+    "answer_scope": [
+      "基本対象は得点、PK、退場、対象選手の取り違え",
+      "2026/27は明白に誤った2枚目警告の退場等も規則化",
+      "CKは競技会選択の条件付き",
+      "通常のFKや普通の警告を一律再判定しない"
+    ],
+    "today_watch": "ペナルティーエリア外の接触では、映像室がすべての笛を変更できるわけではない点を思い出す",
+    "priority": "star",
+    "novice_value": "VARにできることとできないことを切り分ける",
+    "distinct_from": "B-42は仕組み・身振り、ここは権限と対象判定を問う",
+    "fact_check": "J1で選択制のCKレビューを採用しているか未確認。採用を断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "B-45",
+    "question": "旗を持つ審判と、笛を吹く審判は何を分担しているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-42",
+    "category_hint": 3,
+    "trigger": "タッチライン沿いの副審が旗を振り、中央の主審が指をさす",
+    "answer_scope": [
+      "主審は最終判定・時計管理",
+      "副審はオフサイドやアウト等を援助",
+      "第4の審判は交代・ベンチや時間表示を補助",
+      "VARも補助であり別の主審ではない"
+    ],
+    "today_watch": "観客席から見える側のタッチラインで、旗が上がってから主審がどう動くか見る",
+    "priority": "normal",
+    "novice_value": "審判員どうしの連携も試合の見どころになる",
+    "distinct_from": "B-08は旗が出るオフサイド判定そのもの、B-42は映像確認、ここは役割分担",
+    "fact_check": "当日の審判名・担当人数はJリーグ公式マッチページで試合前後に確認",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
   }
 ]
