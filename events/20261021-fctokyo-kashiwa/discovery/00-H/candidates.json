@@ -274,5 +274,275 @@
       "https://www.theifab.com/laws/latest/free-kicks/",
       "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
     ]
+  },
+  {
+    "candidate_id": "H13",
+    "question": "「勝点」と「得点」って、同じ数字じゃないの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "大型ビジョンの0-0と、順位表の23・21を見て戸惑う",
+    "answer_scope": [
+      "得点はその試合のゴール数で、勝点は順位を決めるための累積値",
+      "通常のJ1リーグでは勝利3、引き分け1、敗戦0が加算される"
+    ],
+    "today_watch": "今夜の試合前はFC東京勝点23、柏21。試合中のスコアと、試合後に加わる勝点を分けて考える",
+    "priority": "star",
+    "novice_value": "観戦中の0-0と順位表の数字を混同しなくなる",
+    "distinct_from": "3-02-cは勝敗の影響。H13は二つの『点』の意味を分ける最初の入口",
+    "fact_check": [
+      "勝点23・21は10月18日までの順位表による試合前値。直前更新を再確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "H14",
+    "question": "勝点が同じなのに、順位が違うのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "H13",
+    "category_hint": 3,
+    "trigger": "試合前にFC東京とほかの上位クラブの勝点が同じと知る",
+    "answer_scope": [
+      "勝点が並んだときは、まず得失点差、その次に総得点などで並べる",
+      "得失点差は得点から失点を引いた数で、直接対決だけではない"
+    ],
+    "today_watch": "FC東京の試合前勝点23と、同じ勝点の広島・町田を順位表で見比べる。今日の結果後は他会場にも注意する",
+    "priority": "star",
+    "novice_value": "『同じなら同順位』という自然な疑問に答えられる",
+    "distinct_from": "3-02-a/bは両チームの現在地。H14は順位を決める比較の順序",
+    "fact_check": [
+      "10月21日の試合前順位表の更新時刻と得失点差を再確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "H15",
+    "question": "ホームとアウェーって、試合で何が違うの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "FC東京がホーム、柏がアウェーと紹介される",
+    "answer_scope": [
+      "ホームは主催側の試合会場、アウェーは訪れる側を示す",
+      "試合規則そのものは同じだが、応援席や移動の事情は違う",
+      "どちらが先攻・後攻と固定される制度ではない"
+    ],
+    "today_watch": "今日はFC東京のホーム。青赤の応援エリアと柏側の応援席を、チケット指定エリアとともに確かめる",
+    "priority": "star",
+    "novice_value": "野球などで『ホーム＝後攻』を知っている読者の思い込みを避ける",
+    "distinct_from": "3-01-aはJ1の階層構造。H15は一試合の開催場所と観客構造",
+    "fact_check": [
+      "本試合のビジター着用可能エリアは当日案内で確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "H16",
+    "question": "今日負けたら、もう大会からいなくなるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "3-01",
+    "category_hint": 3,
+    "trigger": "試合前に『大事な一戦』と言われて勝ち抜き戦を想像する",
+    "answer_scope": [
+      "今日はJ1のリーグ戦第11節で、負けても大会から脱落しない",
+      "引き分けなら90分で終了し、延長・PK戦で勝者を決めない",
+      "今季は全38節で勝点を積み上げる"
+    ],
+    "today_watch": "スコアが同じまま終盤に入ったら、PK戦を待つのでなく、両チームが勝点3を狙うか守るかを観察する",
+    "priority": "star",
+    "novice_value": "一発勝負だという誤った緊張から離れて試合を見られる",
+    "distinct_from": "3-01-cは大会が切り替わった経緯。H16は今夜の終了条件と『敗退』の有無",
+    "fact_check": [],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.theifab.com/laws/latest/determining-the-outcome-of-a-match/"
+    ]
+  },
+  {
+    "candidate_id": "H17",
+    "question": "同じ相手とは、今シーズンもう会わないの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "H15",
+    "category_hint": 3,
+    "trigger": "試合が終わったあと『次の対戦』を聞く",
+    "answer_scope": [
+      "J1はホームとアウェーで同じ相手と各1試合、2回戦総当たり",
+      "別大会で対戦する可能性と、リーグの再戦を区別する"
+    ],
+    "today_watch": "今日はFC東京のホームで柏と対戦。逆の開催地でのリーグ対戦予定を公式日程で確認して比べる",
+    "priority": "normal",
+    "novice_value": "『今日の一回で全てが決まる』という感覚を整えられる",
+    "distinct_from": "H15は会場と立場の違い。H17はシーズン内で対戦する回数",
+    "fact_check": [
+      "2026/27リーグの柏ホーム戦の具体的な日程は未確認。日付を断定しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H18",
+    "question": "後ろにパスしたのに、まだ攻めているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 4,
+    "trigger": "ゴールへ進みそうなのにGKや後方へボールを戻す",
+    "answer_scope": [
+      "相手を無理に抜くより、守りの形を動かして進路を作り直す選択がある",
+      "下げることと危険を避けること、単なるミスは区別して観察する"
+    ],
+    "today_watch": "FC東京か柏が後ろへ戻したあと、次の2〜3本のパスでどの場所へ進めたかを見る",
+    "priority": "star",
+    "novice_value": "前進＝良い、後退＝悪いと決めつけなくなる",
+    "distinct_from": "4-01-aは保持型と速攻型。H18は一つのバックパスの理由とその後",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H19",
+    "question": "パスした人が、すぐ別の場所へ走るのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "H18",
+    "category_hint": 4,
+    "trigger": "パスを出した人が止まらず味方の横や裏へ走る",
+    "answer_scope": [
+      "パス後に走れば次の受け手や相手の注意を引く役になれる",
+      "ボールの進路と、人の進路を別々に追う"
+    ],
+    "today_watch": "前半に一度、FC東京のパスを出した選手をパス後5秒だけ見る。柏側でも同じ動きを探す",
+    "priority": "normal",
+    "novice_value": "ボールから目を離す意味が初めて具体的に分かる",
+    "distinct_from": "H18はボールを戻す判断。H19はパスの後に動く本人の働き",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H20",
+    "question": "受け取る前に、何度も周りを見るのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "4-01-a",
+    "category_hint": 4,
+    "trigger": "ボールが届く前に選手が首を左右へ振る",
+    "answer_scope": [
+      "相手との距離、味方の位置、次に使える空間を確かめる動き",
+      "目線だけで正確な意図を読めないので、次のプレーと照合する"
+    ],
+    "today_watch": "中盤のFC東京の受け手、次に柏の受け手を一人ずつ選び、パス直前の顔の向きを見る",
+    "priority": "star",
+    "novice_value": "目立たない一瞬がボールを受けてからの余裕につながる",
+    "distinct_from": "4-01-aは攻め方の分類。H20は受ける前の確認動作",
+    "fact_check": [
+      "具体的に何を見たかという選手の内心は本人発言・取材なしに断定しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H21",
+    "question": "反対側で一人だけ離れて立つ人は、何を待っているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 4,
+    "trigger": "ボールが右に集まると、左端に一人残る",
+    "answer_scope": [
+      "ピッチを横に広く使い、相手の守りを片寄らせすぎないための立ち位置",
+      "大きく逆側へボールが渡る場合と、渡らなくても相手が広がる場合がある"
+    ],
+    "today_watch": "柏が片側で攻めるとき、ボールと逆側のFC東京選手、あるいは攻める柏の選手の位置を比べる",
+    "priority": "star",
+    "novice_value": "『何もしていない』ように見える遠くの選手を見つけられる",
+    "distinct_from": "4-02-aは中央・サイドという場所の説明。H21は逆側に残る人の具体的な役目",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H22",
+    "question": "守る人がボールに集まると、どこが空くの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "H21",
+    "category_hint": 4,
+    "trigger": "数人がボール保持者へ近づき、反対側に人がいなくなる",
+    "answer_scope": [
+      "密集した側の外・後ろ・背後には別の空間ができ得る",
+      "空いた場所が使えるかは、距離、パスの通り道、守備の戻り方で変わる"
+    ],
+    "today_watch": "片側で選手が密集した瞬間、逆側のスペースを一度見て、次のパスが来るか確かめる",
+    "priority": "normal",
+    "novice_value": "『ボールがある場所』でなく『次に使う場所』へ先回りできる",
+    "distinct_from": "H21は離れた味方の存在理由。H22は守備側の片寄りによって生まれる空間",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H23",
+    "question": "ボールが来ないのに全力で走るのは、むだじゃない？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 4,
+    "trigger": "走り込んだ選手にパスが出ず、観客には空振りに見える",
+    "answer_scope": [
+      "走ることで守る人を連れていき、別の味方への道を開くことがある",
+      "呼び込む走りと、本当にパスを受けたい走りは外見だけでは断定しない"
+    ],
+    "today_watch": "ゴールへ向かう選手ではなく、その斜め後ろを走る選手を見て、相手DFが付いていくかを探す",
+    "priority": "star",
+    "novice_value": "結果に現れない動きにも価値があると気づける",
+    "distinct_from": "H19はパスを出した人の次の受け直し。H23はパスが来ない走りの働き",
+    "fact_check": [
+      "選手の走りの意図は試合映像だけで断定せず、仮説として示す"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H24",
+    "question": "守る人がボールを奪わずに下がるのは、なぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "4-01-b",
+    "category_hint": 4,
+    "trigger": "攻撃側が近づくのにDFが飛び込まない",
+    "answer_scope": [
+      "一気に奪うより、時間を作り味方が戻るのを待つ守り方がある",
+      "相手を外へ誘導したりパスの道を切ったりする価値"
+    ],
+    "today_watch": "FC東京が柏に攻められた時、先頭の守備者が近づくか距離を保つか、味方の戻りとセットで見る",
+    "priority": "star",
+    "novice_value": "奪いにいかない守備を消極的と誤解しなくなる",
+    "distinct_from": "4-01-bは前から奪うか下がるかのチーム単位。H24は目の前の一人が下がる具体的な理由",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
   }
 ]
