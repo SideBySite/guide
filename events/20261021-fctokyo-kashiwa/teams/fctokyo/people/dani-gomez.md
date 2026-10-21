@@ -1,3 +1,21 @@
+---
+id: fctokyo-dani-gomez
+title: ダニ ゴメス（FC東京・背番号99）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/news/details/341428/
+  - https://www.jleague.jp/player/1658986/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.bellmare.co.jp/2026_emp_3_fctokyo
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.jleague.jp/match/j1/2026/101708/
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://as.com/futbol/2020/09/08/primera/1599556630_159847.html
+  - https://es.wikipedia.org/wiki/Daniel_G%C3%B3mez_Alc%C3%B3n
+checked_at: 2026-10-21T16:57:30.359+09:00
+---
+
 ## ダニ ゴメス（#99、FW・前線の交代／先発競争、利き足は公式未確認、28歳）
 
 ### 特徴（強み、ユニークポイント）
