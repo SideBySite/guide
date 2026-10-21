@@ -1,3 +1,22 @@
+---
+id: fctokyo-hayato-inamura
+title: 稲村 隼翔（FC東京・背番号4）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/329570/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/329303/
+  - https://www.fctokyo.co.jp/news/details/318913/
+  - https://www.fctokyo.co.jp/news/details/336966/
+  - https://www.jleague.jp/player/1637095/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://ja.wikipedia.org/wiki/稲村隼翔
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+checked_at: 2026-10-21T16:57:35.840+09:00
+---
+
 ## 稲村 隼翔（#4、センターバック＝中央の守備、左利き、24歳）
 
 > **確認基準**：2026年10月21日15時台 JSTの試合前資料。所属・経歴は公式情報、配置は直近の試合からの解釈、今夜の先発は**予想**なのだ。相手の退場があった10月17日の大勝を、そのまま柏戦の予測には使わない。
