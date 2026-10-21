@@ -482,5 +482,97 @@
       "https://www.jleague.jp/match/j1/2026/102108/",
       "https://www.jfa.jp/laws/soccer/2026_27/"
     ]
+  },
+  {
+    "candidate_id": "D-22",
+    "question": "ボールのない反対側にも、見どころはある？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "片側のタッチライン付近にボールが集まっているとき",
+    "answer_scope": [
+      "反対側にも攻守双方の選手がいる",
+      "距離の離れ方と内側への移動が見える",
+      "ボールが横断したとき突然主役が変わりうる"
+    ],
+    "today_watch": "FC東京と柏がどちら側を攻めても、遠い端の選手一人に10秒だけ目を移す",
+    "priority": "star",
+    "novice_value": "広いスタジアムを使う観戦ならではの楽しみ",
+    "distinct_from": "既存4-02-a『中央とサイド』は攻撃経路の説明、こちらは観客自身の視線の切替",
+    "fact_check": "座席位置で肉眼の見え方が変わる。遠側の選手名と役割は現地で確認",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-23",
+    "question": "ボールと逆の端で、ずっと大きく離れている人はなぜそこに？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-22",
+    "category_hint": 6,
+    "trigger": "一方の端にボールがあるのに逆側の攻撃選手が線際に残るとき",
+    "answer_scope": [
+      "幅（横に広がる距離）が相手の守備範囲に影響",
+      "左右への大きなパスの受け手になりうる",
+      "いつ中央へ入るかと対で観察"
+    ],
+    "today_watch": "ボールが右側で動く時は左端、その逆も同じように見て、遠い選手の移動量を確かめる",
+    "priority": "normal",
+    "novice_value": "『遠くの人は参加していない』という見え方を変える",
+    "distinct_from": "D-24の守備者が中へ絞る動きと対比し、攻撃側が幅を保つ場面に限定",
+    "fact_check": "必ず幅取りを狙ったとは断定しない。現場の陣形によって起きないこともある",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-24",
+    "question": "遠くにいた人が、いつの間にかゴール前に来るのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-22",
+    "category_hint": 6,
+    "trigger": "端からクロスが上がる直前、反対側の前線選手が中央へ走ってきたとき",
+    "answer_scope": [
+      "遠側からゴール前へ向かう走り",
+      "守る側がボール側を見ている場合の発見しづらさ",
+      "パスの到達位置と走った人の関係"
+    ],
+    "today_watch": "クロス（横からのボール）が上がりそうなら、蹴り手でなく逆側から中央へ来る人を探す",
+    "priority": "star",
+    "novice_value": "初観戦でもゴール前の動きに一歩早く気づける",
+    "distinct_from": "D-23の端で広く離れて待つ行動とは逆に『中央への侵入』を扱う",
+    "fact_check": "特定選手がこの動きをするか未確認。走りの意図・得点確率は断定しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-25",
+    "question": "ボールが遠いのに、守る人がゴール寄りへ動くのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-22",
+    "category_hint": 6,
+    "trigger": "反対の端に攻撃が進むと、逆側のサイドDFが内側へ近づいたとき",
+    "answer_scope": [
+      "ボール側が進むと遠い側の危険も変わる",
+      "ゴール前を手薄にしない位置取りという見方",
+      "遠側の攻撃者を見失わない必要"
+    ],
+    "today_watch": "サイドへの攻撃が続くとき、逆側のDFの立つ横位置を二度見比べる",
+    "priority": "normal",
+    "novice_value": "ボールから遠い守備者にも役割があると分かる",
+    "distinct_from": "D-23は攻撃側の横幅、こちらは逆サイドの守備側の内への移動",
+    "fact_check": "誰を見て動いたか未確認。DFが固定の端を守るとは限らない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
   }
 ]
