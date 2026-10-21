@@ -1,7 +1,7 @@
 ---
-id: fctokyo-player-kio-tanaka
-title: 田中 希和｜FC東京 #38
-category: fctokyo-people
+id: fctokyo-kio-tanaka
+title: 田中 希和（FC東京・背番号38）
+category: people
 sources:
   - https://www.fctokyo.co.jp/team/players/2026/329572/
   - https://www.fctokyo.co.jp/news/details/318503/
