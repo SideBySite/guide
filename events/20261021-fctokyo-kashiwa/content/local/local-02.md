@@ -11,7 +11,9 @@ sources:
   - https://blog.reysol.co.jp/koho/post_1842.php
   - https://reysol.co.jp/news/other/post-902.html
   - https://www.fctokyo.co.jp/match/schedule/info/20261021/
-checked_at: 2026-10-21T15:22:39+09:00
+  - https://www.nikkansports.com/general/nikkan/news/202202280000634.html
+  - https://tokatsu-mainichi.com/reysolcolum_202203/
+checked_at: 2026-10-21T16:24:31+09:00
 ---
 
 ## ひとことで
@@ -32,7 +34,11 @@ checked_at: 2026-10-21T15:22:39+09:00
 
 ## おもしろエピソード
 
-**2014年3月**、神戸でのアウェイ戦の翌日、サポーター有志が三小通りの旗を掛け替えた。柏市と三小通り商店会の許可・協力の下で実施したという。[当時のクラブ広報日記](https://blog.reysol.co.jp/koho/post_1842.php)には、街のポスター掲出に協力した店や学校のことも残る。飾りは誰かが毎年手を動かして整えていたのだ。
+**2014年3月**、神戸でのアウェイ戦の翌日、サポーター有志が三小通りの旗を掛け替えた。柏市と三小通り商店会の許可・協力の下で実施したという。[当時のクラブ広報日記](https://blog.reysol.co.jp/koho/post_1842.php)には、店や学校のポスター協力も残る。==黄色い道は、人が手を動かして作る景色==なのだ。
+
+**2022年2月26日**には、サポーター約**30人**が資金を出し合って旗を新調し、周辺も清掃した。通称「みゃ長」さんらが後援会と商店街に協力を求めた。[当日の取材](https://www.nikkansports.com/general/nikkan/news/202202280000634.html)で、**三小通り商店街の佐藤和裕会長**は街のための活動に感謝している。
+
+[地域紙の取材](https://tokatsu-mainichi.com/reysolcolum_202203/)によると、作業は約**2時間**。雨風で傷んだ旗の手入れも続けていたという。==選手や子どもが普段通る生活道路だからこそ、試合のない日も整える==。これは当時の記録で、現在の実施状況を断定するものではない。
 
 ## 今日の試合で見るなら
 
