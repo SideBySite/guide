@@ -445,7 +445,8 @@
       "verified_complete": true,
       "completion_evidence": {
         "prs": [
-          183
+          183,
+          191
         ],
         "status_path": "status/00-I-done.md",
         "output_paths": [
@@ -453,8 +454,8 @@
           "discovery/00-I/proposed-tree.json",
           "discovery/00-I/proposed-tree.md"
         ],
-        "verified_at": "2026-10-21T14:08:19+09:00",
-        "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c"
+        "verified_at": "2026-10-21T14:13:05+09:00",
+        "commit": "2f93f435acac7ede5031978da909a9566f5212be"
       }
     },
     {
@@ -2417,8 +2418,8 @@
     }
   ],
   "snapshot": {
-    "checked_at": "2026-10-21T14:08:19+09:00",
-    "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c",
+    "checked_at": "2026-10-21T14:13:05+09:00",
+    "commit": "2f93f435acac7ede5031978da909a9566f5212be",
     "verified_task_count": 38,
     "verified_ids": [
       "01R-A",
@@ -2465,7 +2466,8 @@
     "kashiwa_player_count": 25,
     "observed_activity_count": 0,
     "reported_complete_unlocated": [],
-    "fctokyo_candidate_count": 25
+    "fctokyo_candidate_count": 25,
+    "adopted_question_count": 277
   },
   "editorial_scope": {
     "user_personal_anecdotes": false,
