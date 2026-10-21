@@ -1,3 +1,25 @@
+---
+id: fctokyo-kashif-bangnagande
+title: バングーナガンデ 佳史扶（FC東京・背番号6）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/295441/
+  - https://www.jleague.jp/player/1618671/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/290826/
+  - https://www.fctokyo.co.jp/en/fan/fanzone/detail/291204/
+  - https://www.fifa.com/ja/articles/japan-v-colombia-international-friendly-review-ja
+  - https://jfa.jp/samuraiblue/20230328/match_page.html
+  - https://www.jleague.jp/match/j1/2022/082703/review/
+  - https://www.fctokyo.co.jp/news/details/311654/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://ja.wikipedia.org/wiki/バングーナガンデ佳史扶
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+checked_at: 2026-10-21T16:57:39.335+09:00
+---
+
 ## バングーナガンデ 佳史扶（#6、左サイドバック＝左端の守備、左利き、25歳）
 
 > **確認基準**：2026年10月21日15時台 JSTの試合前情報。公式に確認した経歴・過去の試合と、柏戦への見方を区別する。今日の先発は公式発表ではなく**予想**なのだ。
