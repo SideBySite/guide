@@ -1,3 +1,28 @@
+---
+id: ksw-yoshio-koizumi
+title: 小泉佳穂（柏レイソル・背番号8）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/2026/08.php
+  - https://life.a01.aoyama.ac.jp/anniversary/001/
+  - https://www.footballchannel.jp/2025/01/20/post666108/4/
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.jleague.jp/player/1500292/
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://www.chiba-tv.com/program/detail/1007/401811
+  - https://sports.yahoo.co.jp/official/detail/202109160078-spnaviow
+  - https://number.bunshun.jp/articles/-/849364
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/0808.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B3%89%E4%BD%B3%E7%A9%82
+  - https://en.wikipedia.org/wiki/Yoshio_Koizumi
+checked_at: 2026-10-21T16:57:01.275+09:00
+---
+
 ## 小泉佳穂（#8、MF・前線へのパスを作る役割、両利き、30歳）
 
 ### 特徴（強み、ユニークポイント）
