@@ -1,3 +1,27 @@
+---
+id: ksw-tomoya-inukai
+title: 犬飼智也（柏レイソル・背番号13）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/13.php
+  - https://www.jleague.jp/player/1200017/
+  - https://www.yamaga-fc.com/archives/28756
+  - https://www.reysol.co.jp/news/topteam/-5-2024j.html
+  - https://www.reysol.co.jp/past-pages/game/results/2024/0511.php
+  - https://www.marlmarl.com/feature/parents_bito/vol03/
+  - https://www.urawa-reds.co.jp/topteamtopics/184524.html
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://ja.wikipedia.org/wiki/犬飼智也
+  - https://en.wikipedia.org/wiki/Tomoya_Inukai
+  - https://www.reysol.co.jp/game/results/202627/1021i.php
+  - https://www.jleague.jp/match/j1/2026/102108/
+checked_at: 2026-10-21T16:56:58.196+09:00
+---
+
 ## 犬飼智也（#13、DF＝守る選手・中央後方、右利き、33歳）
 
 ### 特徴（強み、ユニークポイント）
