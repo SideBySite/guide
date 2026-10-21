@@ -1,6 +1,6 @@
 # FCT-02｜FC東京3人の詳細名鑑・作業記録
 
-- 状態：**FCT-02の3人の本文を個別作成・コミット・推敲済み。自担当PRの作成・反映確認待ち**。
+- 状態：**FCT-02の3人の本文を個別作成・コミット・推敲済み。自担当PR #202 はmainにマージ済み（2026-10-21 JST）**。
 - 着手基準：2026-10-21 JST。試合は19:00キックオフの事前ガイドで、公式先発発表前の予想と区別する。
 - 使用リポジトリ：`SideBySite/guide`、`main` 起点コミット `7eace5c2eee16cfe2337a4264a1f448b4041fb11`。
 - 固定候補表：`events/20261021-fctokyo-kashiwa/teams/fctokyo/roster.md`（13:50 JST版、25人、掲載順4〜6番）。
@@ -17,6 +17,10 @@
 
 - 編集対象は上記3本文とこのstatusだけ。監督、他候補、共有ファイル、本人・製作者の逸話は対象外。
 - 候補総数：25人（今回3人、他担当の人数を削減しない）。
+
+## PR・main反映
+- 自担当PR：[#202](https://github.com/SideBySite/guide/pull/202)、GitHub上でmergedを確認。squash merge SHA：`d3a1b94e41d7e210a8f8fa54ab400be40af815ab`。
+- 本文3件とstatusはmainに存在することを実ファイルで再確認した。
 
 ## 進行・コミット
 - 稲村：初稿 `0fdc8db83440a7bd3b1541a74422f4e3b80c9f72`、公式の移籍根拠追加 `78ae35d6a0fcce499e18930dc1a3cdf807ad84b2`。
