@@ -1,0 +1,343 @@
+[
+  {
+    "candidate_id": "B-01",
+    "question": "今、どうして笛が鳴ったの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "足元で接触があり、攻撃が突然止まる",
+    "answer_scope": [
+      "主審が止める代表的な理由（反則・オフサイド・ボールアウトなど）",
+      "相手を蹴る・押す・つまずかせる接触と競り合いの違い",
+      "手の指す方向と再開位置"
+    ],
+    "today_watch": "FC東京か柏がボールを失った直後、笛の向きと誰に再開球が渡ったかを見る",
+    "priority": "star",
+    "novice_value": "いま何が起きたか分かれば、その場で置いていかれない",
+    "distinct_from": "B-04は笛を吹かず続ける判断、B-24はFKの再開方法を扱う",
+    "fact_check": "個々の接触の違法性は現場映像がない限り断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "B-02",
+    "question": "倒れた人がいたのに、反則にならないの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-01",
+    "category_hint": 2,
+    "trigger": "選手が芝に倒れたが試合は続いた",
+    "answer_scope": [
+      "倒れた事実と反則の区別",
+      "正当な体の競り合い・自分でバランスを崩した場合",
+      "審判の角度と観客席からの見え方の差"
+    ],
+    "today_watch": "両チームの選手が同じボールに向かったとき、足と体の向き、審判の位置を比べる",
+    "priority": "star",
+    "novice_value": "倒れるたび笛が鳴るわけではないと知る入口",
+    "distinct_from": "B-01は停止全般、B-04は反則を認めたうえでの継続",
+    "fact_check": "判定そのものは当日の公式映像・審判説明がないと断言不可",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-03",
+    "question": "反則っぽいのに、どうして審判は流したの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "選手が倒されたように見えるが味方がそのまま攻める",
+    "answer_scope": [
+      "アドバンテージ（止めず有利な攻撃を続けさせる判断）",
+      "成立しない場合の戻し方",
+      "反則なしと判断した場合との違い"
+    ],
+    "today_watch": "柏の攻撃で接触後も味方が前へ進んだら、審判の腕と攻撃の行方を見る",
+    "priority": "star",
+    "novice_value": "笛がないことも判定なのだと分かる",
+    "distinct_from": "B-02はそもそも反則でない場合、B-04は事後のカード",
+    "fact_check": "具体場面でアドバンテージ適用だったかは映像や審判の合図で確認",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-04",
+    "question": "プレーを続けたあとで黄色いカードが出るの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-03",
+    "category_hint": 2,
+    "trigger": "流れたプレーの終了後に主審が前の接触を指す",
+    "answer_scope": [
+      "アドバンテージ後の懲戒の原則",
+      "得点機会阻止など一部の扱いに例外",
+      "カードを出す停止の時機"
+    ],
+    "today_watch": "激しい接触の後も続いたら、次にボールが止まったときの主審の行き先を見る",
+    "priority": "normal",
+    "novice_value": "後からの警告を気まぐれだと思わず見られる",
+    "distinct_from": "B-03は続行判断、B-33はカード一般の色と重さ",
+    "fact_check": "2026/27のDOGSOと有利適用時の具体例は規則に照合。実際の処分は推測しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "B-05",
+    "question": "腕に当たったのに、どうしてハンドじゃないの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "シュートやパスが選手の腕に当たっても笛が鳴らない",
+    "answer_scope": [
+      "手・腕の範囲（脇の下の基準）",
+      "意図的な接触と体を不自然に大きくする動き",
+      "触れただけで自動的な反則にはならない"
+    ],
+    "today_watch": "FC東京のシュートを柏の守備が防いだとき、腕の位置だけでなく直前の動きを見る",
+    "priority": "star",
+    "novice_value": "初心者がもっとも誤解しやすい接触判定をほどく",
+    "distinct_from": "B-06は腕を広げる具体条件、B-07は得点との直接関係",
+    "fact_check": "個別のハンド判定をスロー映像なしで断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-06",
+    "question": "腕を広げていたら、必ずハンドなの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-05",
+    "category_hint": 2,
+    "trigger": "クロスを防ぐ人が横に腕を伸ばしている",
+    "answer_scope": [
+      "自然な動き・体のシルエットを不自然に大きくしたか",
+      "腕の位置だけでは判定できないこと",
+      "ボールの距離と競技状況"
+    ],
+    "today_watch": "柏#4古賀太陽が出場するなら、クロスに向けて横を向くときの腕の置き方を見る",
+    "priority": "normal",
+    "novice_value": "腕の形を見るという具体的な観察に進める",
+    "distinct_from": "B-05は基本の誤解、こちらは姿勢と動きの評価",
+    "fact_check": "選手個人の意図は確定せず、当日の判定は一次映像を優先",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-07",
+    "question": "腕に当たったボールがそのままゴールへ入ったら？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-05",
+    "category_hint": 2,
+    "trigger": "ゴールが生まれた直前に攻撃側の手・腕にボールが当たったように見える",
+    "answer_scope": [
+      "攻撃した人自身の手・腕から直接または直後に生じた得点の扱い",
+      "偶然の接触を一律に他の攻撃者へ広げない",
+      "VARで確認する条件"
+    ],
+    "today_watch": "ゴール直後に主審が耳に手を当てたら、得点者とボールの接点の順序を追う",
+    "priority": "normal",
+    "novice_value": "『ハンド＝全部同じ』ではないと分かる",
+    "distinct_from": "B-05・B-06は守備も含む通常判定、ここは得点成立に限定",
+    "fact_check": "2026/27の得点直前の攻撃側ハンド条文を再確認する",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-08",
+    "question": "今の旗は、パスを出したときの位置なの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "ゴール前へ抜けた直後、副審が旗を上げた",
+    "answer_scope": [
+      "味方がボールを触れた瞬間の位置",
+      "相手陣・ボール・後方から2人目の守備者の三条件",
+      "腕は位置に含めない",
+      "関与した時に反則になる"
+    ],
+    "today_watch": "柏#15藤尾翔太が出場したら、走り出しと味方の足がボールに触れた時を見比べる",
+    "priority": "star",
+    "novice_value": "オフサイドの時間差の謎を解く中心の問い",
+    "distinct_from": "B-09〜B-13は位置だけでは判断できない例外・関与・相手のタッチを分けて扱う",
+    "fact_check": "選手の先発・配置は未確定。判定の正誤は映像なしに断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-09",
+    "question": "ゴール前に一人で立っていたら、それだけで反則？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-08",
+    "category_hint": 2,
+    "trigger": "前線に一人残る選手がいても笛がない",
+    "answer_scope": [
+      "オフサイドポジションだけでは反則でない",
+      "プレーに関与しない場合",
+      "相手陣内の条件とボールの位置"
+    ],
+    "today_watch": "ボールと離れた柏の前線選手が、守備に干渉せず待っているか観察する",
+    "priority": "star",
+    "novice_value": "ボールのない場所を見て面白さが生まれる",
+    "distinct_from": "B-08は測る位置、B-10はボールに触らず相手を妨害する例",
+    "fact_check": "『待ち伏せ』という比喩だけで判定を説明しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-10",
+    "question": "ボールに触っていないのにオフサイドになるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-08",
+    "category_hint": 2,
+    "trigger": "パスを受けたのは別の選手なのに旗が上がる",
+    "answer_scope": [
+      "GKの視界を遮る",
+      "相手に競りかける・プレーを妨げる",
+      "オフサイド位置と積極的な関与を分ける"
+    ],
+    "today_watch": "得点前にキーパーの前へ立つ選手とボールの軌道を同時に見る",
+    "priority": "star",
+    "novice_value": "触らない行動にも判定上の意味があると発見できる",
+    "distinct_from": "B-09は不関与、こちらは触れずに関与したケース",
+    "fact_check": "実際に『妨害』が成立したかは映像と審判判定で要確認",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-11",
+    "question": "守る人が一度触ったのに、なぜオフサイド？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-08",
+    "category_hint": 2,
+    "trigger": "守備の足で方向が変わった球を攻撃者が拾う",
+    "answer_scope": [
+      "単なるはね返り",
+      "意図的にコントロールしてプレー",
+      "意図的なセーブの例外の三分岐"
+    ],
+    "today_watch": "ゴール前で柏のDFに当たった球を東京のFWが拾ったら、DFが制御できる状態だったかを見る",
+    "priority": "normal",
+    "novice_value": "触れたチームが変わっただけで判定を思い込まなくなる",
+    "distinct_from": "B-08は味方のパス時点、こちらは途中の相手の動作が判定に影響する",
+    "fact_check": "『意図的なプレー』の適用は速度・視認性・制御可能性を確認する",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-12",
+    "question": "後ろへパスしたなら、オフサイドではないの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-08",
+    "category_hint": 2,
+    "trigger": "ゴールライン近くから後方へ折り返すパス",
+    "answer_scope": [
+      "前・後ろというパス方向でなく受け手とボールの相対位置",
+      "ボールより後ろで受ける場合",
+      "パス時の判定を図にする"
+    ],
+    "today_watch": "サイドをえぐって折り返す場面で、受け手がボールより手前にいるかを確かめる",
+    "priority": "normal",
+    "novice_value": "横パス・折り返しも同じ規則で読み解ける",
+    "distinct_from": "B-08は一般位置、こちらは『パスの方向』という典型的誤解",
+    "fact_check": "ラインが重なった微妙な場面は映像なしに確定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-13",
+    "question": "スローインから受けた人に旗が上がらないのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-08",
+    "category_hint": 2,
+    "trigger": "相手ゴール近くへ手で投げた球を前線で受ける",
+    "answer_scope": [
+      "スローイン・ゴールキック・CKから直接受ける例外",
+      "その後の味方のパスからは通常判定",
+      "FKには例外がない"
+    ],
+    "today_watch": "柏の攻撃で長いスローインが出たとき、受け手が前にいても最初のタッチの後を観察する",
+    "priority": "normal",
+    "novice_value": "同じ位置でも再開の種類で変わる意外さがある",
+    "distinct_from": "B-08は通常のパス、B-17は再開方法そのもの",
+    "fact_check": "例外は2026/27競技規則第11条で照合済み。発生を前提としない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-14",
+    "question": "旗がすぐに上がらず、しばらく攻め続けたのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-08",
+    "category_hint": 2,
+    "trigger": "抜け出した攻撃が終わってから副審の旗が出る",
+    "answer_scope": [
+      "明白な得点機会での副審の遅延フラッグ手順",
+      "笛まではプレー継続",
+      "VAR確認との関係と最終判定者"
+    ],
+    "today_watch": "際どい抜け出しの直後、旗・笛・主審の耳への動作の順序を見る",
+    "priority": "normal",
+    "novice_value": "『見逃した』と決めつけず判断の順番を見られる",
+    "distinct_from": "B-08はオフサイド成立、こちらは判定を伝えるタイミング",
+    "fact_check": "2026/27 VAR手順の遅延フラッグ条件を再確認。全攻撃で必ず遅らせるとはしない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "B-15",
+    "question": "笛が鳴った場所と、蹴り直す場所が違うのはなぜ？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "反則らしい場面の後、数歩離れた場所にボールを置く",
+    "answer_scope": [
+      "FKは原則反則のあった場所",
+      "オフサイドの再開は関与した場所",
+      "反則の種別による例外や自陣ゴールエリアの扱い"
+    ],
+    "today_watch": "両陣営が笛の後で球を運ぶとき、直前の接触点と置いた場所を見比べる",
+    "priority": "star",
+    "novice_value": "次の攻撃がどこから始まるか分かる",
+    "distinct_from": "B-01は笛の原因、B-24は直接・間接FKの蹴り方",
+    "fact_check": "厳密な例外規定と当日審判の裁定はJFA規則に照合",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "B-16",
+    "question": "線の外に出たと思ったのに、どうして続いてるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "B-15",
+    "category_hint": 2,
+    "trigger": "タッチライン沿いの球が出たように見えたが走り続ける",
+    "answer_scope": [
+      "ボールの全体が線を越えた時だけアウト",
+      "上から見た線と観客席の遠近差",
+      "境界線もフィールドに含まれる"
+    ],
+    "today_watch": "味スタのタッチライン沿いのドリブルを、選手の足よりボール全体に注目して見る",
+    "priority": "star",
+    "novice_value": "線の見方を知れば不思議な続行が分かる",
+    "distinct_from": "B-15は反則と再開位置、こちらはそもそもアウトかどうか",
+    "fact_check": "肉眼で微妙な越境を断定しない",
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  }
+]
