@@ -13,8 +13,11 @@ sources:
   - https://www.reysol.co.jp/news/topteam/u-18-2017.html
   - https://www.reysol.co.jp/news/topteam/u-18-2072.html
   - https://blog.reysol.co.jp/news/2017/010375.html
+  - https://blog.reysol.co.jp/youth/2014/01/
+  - https://www.reysol.co.jp/academy/results/2014/15-alkass.php
+  - https://www.jleague.jp/news/article/22729/
   - https://www.reysol.co.jp/news/topteam/202627-5.html
-checked_at: 2026-10-21T15:23:19+09:00
+checked_at: 2026-10-21T16:25:44+09:00
 ---
 
 ## ひとことで
@@ -29,7 +32,11 @@ checked_at: 2026-10-21T15:23:19+09:00
 
 ## おもしろエピソード
 
-古賀が名を連ねた**2014年の柏U-15**は海外大会でバルセロナと引き分け、パリ・サンジェルマンに勝った。[公式の大会記録](https://blog.reysol.co.jp/news/2017/010375.html)には、古賀を主な参加選手として載せている。==柏での育成が、少年期から世界の相手に試されていた==のだ。古賀が各試合に出場したとまでは断定しない。
+**2014年1月**、**古賀太陽**は柏U-15の守備の選手として、カタールで開かれた国際大会に参加した。[当時の育成スタッフ記録](https://blog.reysol.co.jp/youth/2014/01/)には、背番号2でバルセロナ戦とパリ・サンジェルマン戦に先発したとある。==参加者の名簿だけでなく、実際の出場も確認できる==のだ。
+
+バルセロナ戦では先に2点を取ったが、追いつかれて**2対2**となった。試合後、選手たちが悔しそうにしていると、大会関係者は有名クラブ相手の引き分けを喜ばないことに驚いた。[2014年1月15日のスタッフ日記](https://blog.reysol.co.jp/youth/2014/01/)に残る情景だ。翌日のパリ・サンジェルマン戦では**2対1**で勝っている。[大会の公式結果](https://www.reysol.co.jp/academy/results/2014/15-alkass.php)でも確かめられる。
+
+一方、**細谷真大**は柏U-15に入った頃、練習で「オープン」（体を開いてボールを受ける動き）という言葉が分からず戸惑った。[2022年のJリーグによる本人取材](https://www.jleague.jp/news/article/22729/)にある。==今のプレーにつながる基本も、最初から理解していたわけではない==のである。
 
 ## 今日の試合で見るなら
 
