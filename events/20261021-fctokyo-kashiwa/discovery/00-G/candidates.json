@@ -1,0 +1,231 @@
+[
+  {
+    "candidate_id": "G-01",
+    "question": "何時に行けば、試合前の様子も楽しめる？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 7,
+    "trigger": "行く時刻を決めるとき、19:00開始と知って。",
+    "answer_scope": [
+      "19:00開始、17:30一般開門・17:05優先開門予定",
+      "18:20ピッチ練習予定、18:58選手入場予定",
+      "広場はより早く開くが観戦エリアではない"
+    ],
+    "today_watch": "自分の到着時刻から、練習・スタンド・場外催事のうち一つ選ぶ。",
+    "priority": "star",
+    "novice_value": "早すぎ・遅すぎの不安を減らし、試合前の準備に気づける。",
+    "distinct_from": "既存7-01-aの入場手順と違い、時間ごとの観察計画を立てる。",
+    "fact_check": "当日タイムテーブル変更と遅延を確認。予定を確約しない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/news/details/342462/",
+      "https://www.fctokyo.co.jp/news/details/340436/"
+    ]
+  },
+  {
+    "candidate_id": "G-02",
+    "question": "飛田給駅を出たら、どっちに歩けばいい？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-01-a",
+    "category_hint": 7,
+    "trigger": "飛田給駅改札を出て、歩く人の流れを見たとき。",
+    "answer_scope": [
+      "京王線飛田給駅の北口から約徒歩5分",
+      "駅前から歩道橋・スタジアムを見つける",
+      "帰路に向けて駅の位置を記憶"
+    ],
+    "today_watch": "北口から見える建物と周囲の青赤の服を、道案内の手掛かりにする。",
+    "priority": "star",
+    "novice_value": "初観戦で最も迷いやすい場所を具体化する。",
+    "distinct_from": "G-01の到着時刻ではなく、駅からの徒歩の目印を扱う。",
+    "fact_check": "混雑導線・通行規制・エレベータールートは当日案内確認。",
+    "sources": [
+      "https://www.ajinomotostadium.com/qa/access.php",
+      "https://www.fctokyo.co.jp/first_time_guide/",
+      "https://www.fctokyo.co.jp/news/details/342758/"
+    ]
+  },
+  {
+    "candidate_id": "G-03",
+    "question": "今日は電車以外でも行ける？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-01-a",
+    "category_hint": 7,
+    "trigger": "移動手段を選ぶとき、駅から歩くのが難しいと思ったとき。",
+    "answer_scope": [
+      "路線バスと利用できる停留所",
+      "この試合では直行シャトルバスなし",
+      "施設駐車場は利用不可だが限定の北側場外駐車券販売告知あり"
+    ],
+    "today_watch": "周辺の停留所・駐輪場への案内板を確認し、帰りの手段も調べる。",
+    "priority": "star",
+    "novice_value": "交通手段ごとの実際の可否を混同しないため。",
+    "distinct_from": "G-02の徒歩経路ではなく、バス・車・自転車の条件を扱う。",
+    "fact_check": "北側駐車券の販売・完売・利用条件、駐輪位置、路線バス時刻は直前確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/342758/",
+      "https://www.ajinomotostadium.com/schedule/2026/1021_16099.php",
+      "https://www.fctokyo.co.jp/news/details/342462/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "G-04",
+    "question": "入口がいくつもあるけど、どこから入るの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-01-a",
+    "category_hint": 7,
+    "trigger": "スタジアム前で複数のゲート表示を見たとき。",
+    "answer_scope": [
+      "チケット券面の席種と指定入場ゲートを照合",
+      "開門直後の席種別ゲート制限",
+      "ビジターの専用入場動線と案内員"
+    ],
+    "today_watch": "チケットの席種と当日案内図を見比べて、該当ゲートへ向かう。",
+    "priority": "star",
+    "novice_value": "チケットがあっても別ゲートに並ぶ失敗を防ぐ。",
+    "distinct_from": "G-05の入場操作と異なり、入口の選択を扱う。",
+    "fact_check": "10/21特別ゲート配置の図示は公式最新ページ・現地掲示で確認。通常時の表を転用しない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/news/details/342462/",
+      "https://www.fctokyo.co.jp/news/details/342829/"
+    ]
+  },
+  {
+    "candidate_id": "G-05",
+    "question": "入るとき、チケット以外に何が必要？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-01-a",
+    "category_hint": 7,
+    "trigger": "入場列の手前でスマホと荷物を持っているとき。",
+    "answer_scope": [
+      "購入形態に応じた電子チケット等の提示",
+      "手荷物検査への協力",
+      "券面と入場可能席種の確認"
+    ],
+    "today_watch": "入場前にチケット画面を表示して、係員の案内と前の人の動きを見る。",
+    "priority": "star",
+    "novice_value": "入場前の心理的なハードルを下げる。",
+    "distinct_from": "G-04はどの入口か、ここは入場直前の手続き。",
+    "fact_check": "QR画面・紙券・再読み込み条件は券種ごとの発券元を確認。形式を一律と断定しない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/news/details/342829/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "G-06",
+    "question": "17時05分に入る人と17時30分に入る人は何が違うの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-01",
+    "category_hint": 7,
+    "trigger": "一般開門前から列が動いているのを見たとき。",
+    "answer_scope": [
+      "SOCIO・法人年間チケットの優先入場と一般開門の区別",
+      "優先入場は観戦の権利や早さの違いであり別の試合ではない"
+    ],
+    "today_watch": "17:05と17:30の動きを見比べ、18:20の練習を見るまでの時間を計る。",
+    "priority": "normal",
+    "novice_value": "違う列に気後れしないため。",
+    "distinct_from": "G-07の自由席整理券や列の運用とは別に、入場資格の違いを説明。",
+    "fact_check": "優先開門・一般開門は10/21の予定時刻。変更告知確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/342462/",
+      "https://www.fctokyo.co.jp/news/details/342829/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "G-07",
+    "question": "早くから並んでいる人は、何を待っているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-06",
+    "category_hint": 7,
+    "trigger": "開門前の長い列や整理番号表示を見たとき。",
+    "answer_scope": [
+      "自由席の好きな場所を取りたい人と指定席の違い",
+      "ホーム自由席の整理券抽選・待機列整理",
+      "全員が早朝から並ぶ必要はない"
+    ],
+    "today_watch": "自分のチケットが自由席か指定席か確認し、整列場所に掲示された案内を見る。",
+    "priority": "normal",
+    "novice_value": "『みんな並ぶべき』という思い込みを防ぐ。",
+    "distinct_from": "G-06は優先権、ここは列の理由と自由席の選び方。",
+    "fact_check": "今日の待機列運用、整理番号エントリー状況と集合時刻は最新公式・係員確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/news/details/342462/",
+      "https://www.fctokyo.co.jp/news/details/342829/"
+    ]
+  },
+  {
+    "candidate_id": "G-08",
+    "question": "試合が始まる前に、外で寄れる場所はある？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-01",
+    "category_hint": 7,
+    "trigger": "開門前に広場へ向かう人を見たとき。",
+    "answer_scope": [
+      "北側あじペン広場と南側アジパンダ広場の区別",
+      "青赤パークの飲食・催事・フォトスポット",
+      "場外エリアとスタンドの入場が別であること"
+    ],
+    "today_watch": "15:00予定の北側広場と、14:30予定の南側広場の看板を確認する。",
+    "priority": "star",
+    "novice_value": "開門待ちを『待つだけ』にしない。",
+    "distinct_from": "G-09のアイドルフェス鑑賞条件とは違い、一般の場外空間を案内。",
+    "fact_check": "広場の開放・開催場所、天候での中止や移動を当日確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/news/details/340668/",
+      "https://www.fctokyo.co.jp/news/details/340436/"
+    ]
+  },
+  {
+    "candidate_id": "G-09",
+    "question": "今日のアイドルライブは、観戦チケットなしでも見られるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-08",
+    "category_hint": 7,
+    "trigger": "南側広場のステージや整理券案内を見たとき。",
+    "answer_scope": [
+      "屋外の一般エリアは観戦券なしでも可",
+      "前方の熱狂エリアは当日の試合券が必要で人数制限あり",
+      "スタジアム内18:40〜18:50頃のライブは試合券が必要"
+    ],
+    "today_watch": "14:45開始予定の屋外ステージと、18:45頃の場内ライブの違いを看板で見分ける。",
+    "priority": "star",
+    "novice_value": "今日ならではの会場のにぎわいと権利の違いが分かる。",
+    "distinct_from": "G-08は広場全体、ここは特設ライブの入場条件。",
+    "fact_check": "開始・終演、熱狂エリア整理券、雨天変更、場内観覧ルールを当日公式再確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/340436/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "G-10",
+    "question": "駅から歩く途中で、青と赤の服が増えるのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-02",
+    "category_hint": 7,
+    "trigger": "駅周辺で同じ色の服やタオルを身に着けた人に気づいたとき。",
+    "answer_scope": [
+      "FC東京のチームカラーとホームタウンの集まり方",
+      "服を着ずに観戦してもよい",
+      "地域の日常の道が観戦日の通り道になる"
+    ],
+    "today_watch": "道中の色と、柏の黄色いグッズを見つけても色による席の制限は別問題と知る。",
+    "priority": "normal",
+    "novice_value": "日常の街並みの変化からホームの意味に入れる。",
+    "distinct_from": "G-02の道順とは違い、服装と街の変化を観察する。",
+    "fact_check": "特定の応援装飾・イベント通行演出は今日の実施確認なしには断定しない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/first_time_guide/",
+      "https://www.fctokyo.co.jp/news/details/342829/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  }
+]
