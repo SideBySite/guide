@@ -1,3 +1,27 @@
+---
+id: ksw-sachiro-toshima
+title: 戸嶋祥郎（柏レイソル・背番号28）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/
+  - https://www.reysol.co.jp/team/players/2026/28.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.nikkansports.com/soccer/news/202610090001671.html
+  - https://www.jfa.jp/national_team/news/00014900/
+  - https://jfa.jp/national_team/news/00014878/
+  - https://www.jfa.jp/match/emperorscup_2017/team_detail/08.html
+  - https://www.jufa-kanto.jp/news/detail/1360/
+  - https://www.reysol.co.jp/news/topteam/post-659.html
+  - https://www.reysol.co.jp/news/topteam/-1-4.html
+  - https://curly-cs.com/theWeft/etc/81667/
+  - https://en.wikipedia.org/wiki/Sachiro_Toshima
+checked_at: 2026-10-21T16:56:33.900+09:00
+---
+
 ## 戸嶋祥郎（#28、MF＝中盤登録・右後方も守る役、右利き、31歳）
 
 > **基準**：2026年10月21日19:00、FC東京対柏レイソル（味の素スタジアム、2026/27 J1第11節）に向けた試合前調査。10月21日12時台JSTから公開情報を照合。「先発争い」は予想であり、公式発表ではない。
