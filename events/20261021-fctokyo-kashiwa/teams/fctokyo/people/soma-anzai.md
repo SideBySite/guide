@@ -1,3 +1,27 @@
+---
+id: fctokyo-soma-anzai
+title: 安斎 颯馬（FC東京・背番号7）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/297807/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/291939/
+  - https://www.waseda-afc.jp/news-men/100765
+  - https://note.com/wasedasoccer/n/n27033bd80257
+  - https://www.fctokyo.co.jp/news/details/329587/
+  - https://www.fctokyo.co.jp/news/details/339020/
+  - https://www.jleague.jp/player/1632809/
+  - https://www.fctokyo.co.jp/team/players/2025/297807/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://ja.wikipedia.org/wiki/安斎颯馬
+  - https://en.wikipedia.org/wiki/Soma_Anzai
+checked_at: 2026-10-21T16:58:23.160+09:00
+---
+
 ## 安斎 颯馬（#7、MF・右の攻守と飛び出し、右利き、24歳）
 
 > **2026年10月21日・FC東京×柏レイソルの試合前名鑑**。今日の先発・左右の配置は予想であり、公式発表ではない。MFはミッドフィールダー（中盤で攻めと守りをつなぐ選手）を指す。
