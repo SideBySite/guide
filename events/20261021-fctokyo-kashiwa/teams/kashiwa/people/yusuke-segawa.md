@@ -1,3 +1,26 @@
+---
+id: ksw-yusuke-segawa
+title: 瀬川祐輔（柏レイソル・背番号20）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/20.php
+  - https://www.reysol.co.jp/team/players/2026/20.php
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://www.jleague.jp/player/1600146/
+  - https://www.jleague.jp/j1/monthly_awards/2026-27/09/mvp/
+  - https://www.jleague.jp/corporate/pressrelease/article/16083
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.bellmare.co.jp/275593
+  - https://www.chiba-tv.com/program/detail/1007/56691
+  - https://ja.wikipedia.org/wiki/瀬川祐輔
+  - https://en.wikipedia.org/wiki/Yusuke_Segawa
+checked_at: 2026-10-21T16:57:13.245+09:00
+---
+
 ## 瀬川祐輔（#20、MF・途中出場でゴールへ向かう役、右利き、32歳）
 
 > 調査基準：**2026年10月21日19:00の試合前（日本時間）**。所属・経歴は柏公式、2026/27の起用と得点はJリーグ・柏の試合記録で確認。今日の出場予想は公式メンバー発表ではない。
