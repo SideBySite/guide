@@ -59,6 +59,8 @@
 ### 出典
 - [確認済み・公式所属／体格／質問票、2026-10-21試合前] https://www.fctokyo.co.jp/team/players/202627/329570/
 - [確認済み・公式インタビュー、2026-01-19] https://www.fctokyo.co.jp/fan/fanzone/detail/329303/
+- [FC東京公式・2026-01-04の期限付き移籍加入] https://www.fctokyo.co.jp/news/details/318913/
+- [FC東京公式・2026-06-26の完全移籍発表] https://www.fctokyo.co.jp/news/details/336966/
 - [確認済み・Jリーグ公式選手記録、2026-10-21試合前照合] https://www.jleague.jp/player/1637095/
 - [確認済み・FC東京公式直近試合、10/07] https://www.fctokyo.co.jp/match/schedule/result/20261007/
 - [確認済み・FC東京公式直近試合、10/10] https://www.fctokyo.co.jp/match/schedule/result/20261010/
