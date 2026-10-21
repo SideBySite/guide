@@ -1,0 +1,989 @@
+[
+  {
+    "candidate_id": "D-01",
+    "question": "キーパーは、ボールが遠くにある間、何をしている？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "前半の序盤、攻撃が相手陣に続くのに自陣GKだけ見えるとき",
+    "answer_scope": [
+      "キーパー（GK）は守備範囲を移し味方との距離を保つことがある",
+      "遠くでも相手の走者・背後・味方の位置を見る",
+      "手を使える範囲は自陣ペナルティーエリア内の条件付き"
+    ],
+    "today_watch": "FC東京側の攻撃時は柏GKを、柏側の攻撃時はFC東京GKを数十秒だけ追い、立つ位置の変化を見る",
+    "priority": "star",
+    "novice_value": "最も後ろの一人を見ればボールがない時間にも参加者がいると分かる",
+    "distinct_from": "既存6-03-a『準備と位置取り』の総論と違いGK一人の奥行き移動に限定",
+    "fact_check": "先発GKと見える立ち位置は当日確認。前へ出た理由は断定しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/laws/latest/the-players/"
+    ]
+  },
+  {
+    "candidate_id": "D-02",
+    "question": "キーパーが味方に短いパスを出すのは、どんなとき？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-01",
+    "category_hint": 6,
+    "trigger": "ゴールキックや手からの配球で、遠くに蹴らず近くの選手へ渡したとき",
+    "answer_scope": [
+      "短い配球と長い配球の違い",
+      "短く出すと近くに相手が寄り、次の選択肢が変わる可能性",
+      "足元で受ける選手が現れる位置"
+    ],
+    "today_watch": "どちらかのゴールキックでGKの足元と、左右へ開いた味方の動きを一度に見る",
+    "priority": "normal",
+    "novice_value": "蹴り方だけでなく受ける側も含めた一連のプレーを追える",
+    "distinct_from": "既存1-03-b『ゴールキックとCK』は再開規則、こちらは再開後の人の配置",
+    "fact_check": "今日の実際の配球頻度・方針は未確認。『常に短くつなぐ』とは言わない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/laws/latest/the-field-of-play/"
+    ]
+  },
+  {
+    "candidate_id": "D-03",
+    "question": "味方が攻めているのにキーパーが前へ出るのは、危なくない？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-01",
+    "category_hint": 6,
+    "trigger": "自陣にほとんど選手がいない場面でGKがペナルティーエリアの外寄りまで出たとき",
+    "answer_scope": [
+      "自陣の広い空間を警戒する位置取りという見方",
+      "GKも足で守備とパスに参加できる",
+      "奪われた際には背後に広い空間が残るリスク"
+    ],
+    "today_watch": "攻撃中のGKがいつ前へ進み、ボールを失うとどこへ戻るかを連続で観察",
+    "priority": "star",
+    "novice_value": "キーパーはゴール前に張り付く人という思い込みをほどく",
+    "distinct_from": "D-01の広い行動観察とは異なり『ゴールから離れる距離とリスク』だけを見る",
+    "fact_check": "本当に前進するかは未確定。GKの意図は本人発言等なしに断定不可",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/laws/latest/the-players/"
+    ]
+  },
+  {
+    "candidate_id": "D-04",
+    "question": "シュートが飛ぶ前、キーパーはどこを見て構えている？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-01",
+    "category_hint": 6,
+    "trigger": "相手がペナルティーエリア付近でボールを持ちGKが膝を曲げているとき",
+    "answer_scope": [
+      "ボールと打ちそうな人の位置",
+      "ゴールとの角度を調整する小さな横移動",
+      "前に立つ味方や相手による見通しの違い"
+    ],
+    "today_watch": "FC東京のマルセロ ヒアンが前にいる場面などで、ゴール前のGKの横移動を観察（出場時のみ）",
+    "priority": "normal",
+    "novice_value": "シュート後のセーブ以外にも準備の見どころがある",
+    "distinct_from": "D-03の高い位置取りとは違い『打たれる直前の体の向き』に注目",
+    "fact_check": "マルセロ ヒアンの当日の出場未確認。視線や予測を心情として断言しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-05",
+    "question": "キーパーが何か叫んでいるように見えるのはいつ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-01",
+    "category_hint": 6,
+    "trigger": "相手のコーナーキックやクロス前にGKが口を開け、指を差した場面",
+    "answer_scope": [
+      "ゴール前で複数人の位置を合わせる必要",
+      "手振り・身体の向きで見つかる連携",
+      "声の内容は客席から分からないことも多い"
+    ],
+    "today_watch": "両チームの最初のコーナーキックで、蹴る人ではなくGKと近くのDFの反応を追う",
+    "priority": "normal",
+    "novice_value": "声が聞こえなくても連携を眺められる",
+    "distinct_from": "D-33の一般的な指差しと異なりGKを起点にゴール前だけに絞る",
+    "fact_check": "発声の内容・指示の宛先は未確認。実際に叫ぶ場面の出現も未確定",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/laws/latest/the-field-of-play/"
+    ]
+  },
+  {
+    "candidate_id": "D-06",
+    "question": "守る選手は、ボールがないとき何をしている？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "相手が自陣でゆっくりパスを回し、最終ラインの選手が並んで見えるとき",
+    "answer_scope": [
+      "DF（主に後ろを守る人）の役割はボール奪取だけではない",
+      "ボール側と逆側で周囲の相手を確かめる",
+      "守備の形は人・ボール・ゴールとの距離で変わる"
+    ],
+    "today_watch": "柏の攻撃時はFC東京の最終ライン、FC東京の攻撃時は柏の最終ラインを約30秒だけ追う",
+    "priority": "star",
+    "novice_value": "タックル以外の守備を観察する基本の入口",
+    "distinct_from": "既存4-01-b『前から奪う・下がって守る』は全体作戦、この問いは後ろの個人の行動",
+    "fact_check": "今日の配置は発表後確認。相手を『担当している』と固定的に断定しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "D-07",
+    "question": "真ん中の守る人が左右に離れて立つのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-06",
+    "category_hint": 6,
+    "trigger": "味方GKから出す前、中央付近の守備選手が左右へ広がったとき",
+    "answer_scope": [
+      "中央DFが出口を二つ作る場面",
+      "相手が前から来ると使える空間が変わる",
+      "GKと中盤の選手がどこへ動くかで形が変わる"
+    ],
+    "today_watch": "ゴールキック直前、GKの正面と左右のDFの距離を比べ、再開後の一本目を見る",
+    "priority": "normal",
+    "novice_value": "後方での組み立てをパス一回から理解できる",
+    "distinct_from": "D-02はGKがどう出すか、こちらは受け手となる中央DFの広がり方",
+    "fact_check": "中央DFの具体的起用と現れた配置は当日確認",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/laws/latest/the-field-of-play/"
+    ]
+  },
+  {
+    "candidate_id": "D-08",
+    "question": "端にいる守る人が、攻撃になると前へ走るのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-06",
+    "category_hint": 6,
+    "trigger": "タッチライン際のDFらしい選手が味方FWを追い越して行ったとき",
+    "answer_scope": [
+      "サイドのDFは守備だけに固定されない",
+      "前へ出ると端に味方が増え、後方は薄くなる可能性",
+      "同じ側の前の人が内側へ動く場合もある"
+    ],
+    "today_watch": "石原広教が端の位置に入る場合はその前への動きを、違えば両チームの端のDFを追う",
+    "priority": "star",
+    "novice_value": "『守備の人なのに攻める』という素朴な発見につながる",
+    "distinct_from": "既存4-02-a『中央とサイド』は場所の説明、こちらは端のDF一人の上下移動",
+    "fact_check": "石原広教の先発・当日の役割は未発表。上がる理由は複数あり断定不可",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-09",
+    "question": "ボールに行かず、少し後ろに残る守る人は何をしている？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-06",
+    "category_hint": 6,
+    "trigger": "味方が相手へ迫る一方、もう一人が数歩引いているとき",
+    "answer_scope": [
+      "一人が寄り別の一人が背後を見守る関係",
+      "抜かれたときに対応できる距離の重要さ",
+      "近づきすぎると一度で抜かれる可能性"
+    ],
+    "today_watch": "どちらかのサイドで守備が二人になる場面を選び、寄る人と残る人を区別する",
+    "priority": "star",
+    "novice_value": "追わない人を怠けていると早合点しなくなる",
+    "distinct_from": "D-10は相手との間合い、こちらは味方同士で守る役目の分担",
+    "fact_check": "個人の担当・守備約束は未確認。プレーが成功したかだけで正誤判定しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "D-10",
+    "question": "相手にすぐ飛び込まず、間を空けてついていくのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-06",
+    "category_hint": 6,
+    "trigger": "サイドで一対一になりDFが後ずさりしながら向きを変えるとき",
+    "answer_scope": [
+      "相手とゴールの間に位置し進路を狭める守り方",
+      "飛び込むとかわされる危険",
+      "味方が戻る時間を生む場合がある"
+    ],
+    "today_watch": "タッチライン付近での対面に注目し、ボール奪取の前に相手をどちらへ進ませるか見る",
+    "priority": "normal",
+    "novice_value": "奪わない守備にも価値があると気づける",
+    "distinct_from": "D-09はDF間の助け合い、ここは対戦相手一人との距離",
+    "fact_check": "『時間稼ぎが狙い』等は実況・本人資料なしに断定しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "D-11",
+    "question": "守る選手たちが一緒に前へ動くと、何が変わる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-06",
+    "category_hint": 6,
+    "trigger": "相手が後ろへパスした直後、DFの横並びが数歩前へ出たとき",
+    "answer_scope": [
+      "味方の最終ラインの前進と相手の使える空間",
+      "オフサイドはパス時点・関与の条件で判定される",
+      "一人が遅れると位置関係が変わる可能性"
+    ],
+    "today_watch": "相手が後方へ戻した時、DFが揃って前へ動くかを見て、笛なしでも面白がる",
+    "priority": "normal",
+    "novice_value": "動く一本の線として守備を見る入口",
+    "distinct_from": "既存2-01『オフサイド』は反則説明、ここは同時に前進する人の動きの観察",
+    "fact_check": "オフサイド狙いだったと断定しない。採用する映像例の実際の判定は要確認",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.theifab.com/laws/latest/offside/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-12",
+    "question": "真ん中にいる選手は、パスが来る前に何をしている？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "中盤でボールが横移動している間に、中央の選手が小刻みに動くとき",
+    "answer_scope": [
+      "MF（中盤でつなぐことが多い人）は受ける前の準備が大きい",
+      "近づく・離れる・向きを変える選択",
+      "前方と後方の両方が見えると次に出しやすい"
+    ],
+    "today_watch": "FC東京の中盤か柏の小泉佳穂が出場した場合、その人が受ける前の足取りを一度追う",
+    "priority": "star",
+    "novice_value": "触る瞬間より少し早く見る方法が身につく",
+    "distinct_from": "既存6-03-a『準備と位置取り』の一般論ではなく中盤の受球直前に限定",
+    "fact_check": "小泉佳穂の出場・位置は当日確認。内心の選択を言い切らない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-13",
+    "question": "パスが来る前に、何度も首を振るのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-12",
+    "category_hint": 6,
+    "trigger": "受ける直前、選手がボールと逆の方向へ顔を向けるとき",
+    "answer_scope": [
+      "ボールを見ない短い瞬間に周囲を確認する動作",
+      "背後の相手や空間を知る手掛かり",
+      "受けた後に前を向けるか比較できる"
+    ],
+    "today_watch": "中央付近で三回連続でパスがつながる場面を選び、受ける人の顔の向きを数える",
+    "priority": "star",
+    "novice_value": "初観戦でも肉眼で見つけやすい小さな工夫",
+    "distinct_from": "D-16の後方支援とは別で『顔の向き』だけを追う",
+    "fact_check": "実際に何を見ていたかは不明。『必ず相手を確認』と断定しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-14",
+    "question": "パスをもらう直前に、わざわざ後ろへ下がるのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-12",
+    "category_hint": 6,
+    "trigger": "味方がボールを持った瞬間、近くの中盤の人が数歩自陣側へ戻ったとき",
+    "answer_scope": [
+      "相手の陰から見える位置への移動",
+      "ボールを受ける角度を変える行動",
+      "下がった後すぐ前進する場合とのつながり"
+    ],
+    "today_watch": "両チームの自陣側の組み立てで、中央の人がDFに近寄って受けるかを観察",
+    "priority": "normal",
+    "novice_value": "前へ走る以外の動きも攻撃の一部と捉えられる",
+    "distinct_from": "D-20は前線の選手の下がり、こちらは中盤と後方の受け直し",
+    "fact_check": "下がる理由を一種類に断定しない。実際の配置は当日確認",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-15",
+    "question": "真ん中が混んでいるのに、横へ離れていく人がいるのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-12",
+    "category_hint": 6,
+    "trigger": "中央に相手が集まる中、MFが左右の空いたところへ移ったとき",
+    "answer_scope": [
+      "相手の近くから離れるとパスの通り道が変わる",
+      "中央から端へ移る選択",
+      "ボールが届く場合と届かなくても他者が使う場合"
+    ],
+    "today_watch": "攻撃が詰まった場面で、ボールと反対へ二、三歩移動したMFに次のパスが行くかを見る",
+    "priority": "normal",
+    "novice_value": "混雑した場所から離れる行動を読み解く入口",
+    "distinct_from": "既存4-02-a『中央とサイド』は空間の大枠、これはMF一人の横移動",
+    "fact_check": "役割・移動理由は推測と区別。動きが実際に出るか確認",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-16",
+    "question": "パスを出したあと、その人は何をしている？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-12",
+    "category_hint": 6,
+    "trigger": "中盤の選手が近くへ渡し終わった直後に足を止めないとき",
+    "answer_scope": [
+      "出した後に受け直せる位置を探す",
+      "味方の後方に残ってパスの逃げ道となる場合",
+      "一回のパスで終わらない連続動作"
+    ],
+    "today_watch": "最初の5分で中央の短いパスを一つ選び、出した人だけを次の5秒追う",
+    "priority": "star",
+    "novice_value": "ボールから目を離す第一歩を自分で試せる",
+    "distinct_from": "既存6-01-a『ボール以外も見ていい？』への具体的実践で、D-13の首振りとは時点が違う",
+    "fact_check": "受け直しの意図は確証なし。実際に次へ参加するかを記録する",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-17",
+    "question": "いちばん前の選手は、ボールが来ない間に何をしている？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "ボールが自陣にあるのにFWが相手DFの近くで立ち位置を変えるとき",
+    "answer_scope": [
+      "FW（相手ゴール近くで攻撃を担う人）も走る・待つ・守る",
+      "相手DFとの距離を測れる",
+      "パスを受けなかった動きも味方の選択肢に関わる可能性"
+    ],
+    "today_watch": "FC東京のマルセロ ヒアンが出ればその動きを、柏ならその時点の前線一人を30秒追う",
+    "priority": "star",
+    "novice_value": "得点する人だけだと思いがちなFWの無球プレーを見る",
+    "distinct_from": "既存6-02『華以外に面白い選手は？』は誰を追うか、こちらはFWの時間の使い方",
+    "fact_check": "実際の先発FWは当日確認。動きを相手を引きつけた『成功』と断定しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-18",
+    "question": "パスが来なかったのに、全力で走った人は何を残した？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-17",
+    "category_hint": 6,
+    "trigger": "FWがDFの背後へ走ったが、ボールは別の味方へ出たとき",
+    "answer_scope": [
+      "ボールが届かなくても守る相手が後退する場合",
+      "走った先に空間が生まれる可能性",
+      "必ず『おとり』と限らずパスを要求した可能性もある"
+    ],
+    "today_watch": "背後へ一度走った人と、その直後にボールを受けた別の人の間隔を比べる",
+    "priority": "star",
+    "novice_value": "報われないように見える走りの観察価値が分かる",
+    "distinct_from": "D-19は前線が下がって受ける動き、こちらは前へ走って未受球の場面",
+    "fact_check": "意図が『おとり』だったかは未確認。動いたDFの実際の位置を観察してから解説",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.theifab.com/laws/latest/offside/"
+    ]
+  },
+  {
+    "candidate_id": "D-19",
+    "question": "前の二人が逆方向に走ると、誰が空くの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-17",
+    "category_hint": 6,
+    "trigger": "二人の前線選手が交差したり、一人が外へ一人が中央へ動いたとき",
+    "answer_scope": [
+      "相手の守り手が誰についていくか変わる",
+      "一人が受ける空間と別人が入る空間を区別",
+      "交差は必ずしも事前に決めた作戦とは限らない"
+    ],
+    "today_watch": "前線二人がすれ違ったら、ボールではなく相手DF二人の動きを追う",
+    "priority": "normal",
+    "novice_value": "複数人の連動を一組だけで観察できる",
+    "distinct_from": "D-18の単独の長い走りではなく『二人の向きの組み合わせ』が対象",
+    "fact_check": "交差する場面の発生は未確定。合図や約束ごとは未確認",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-20",
+    "question": "前の選手がゴールから遠ざかって、パスを受けるのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-17",
+    "category_hint": 6,
+    "trigger": "前線の選手が自陣方向へ戻り、背中側からのパスを足元でもらったとき",
+    "answer_scope": [
+      "前で待つ代わりに中盤へ受けに来る例",
+      "守り手がついてくるか残るかで後方の空間が変わる",
+      "受けた直後の味方の走りへ目を移す"
+    ],
+    "today_watch": "前線の人が手前へ戻って受けたら、すぐ元の位置へ走る人がいるか比べる",
+    "priority": "normal",
+    "novice_value": "FWはいつでもゴールへ向かうというイメージを更新できる",
+    "distinct_from": "D-14は中盤がDF近くに下がる動き、これは前線と中盤のつながり",
+    "fact_check": "本人の指示・狙いは未確認。ポジション名は先発情報と実際の位置を区別",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-21",
+    "question": "動いていないように見える前の選手も、何かしている？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-17",
+    "category_hint": 6,
+    "trigger": "味方が横パスをつなぐ間、前線の一人が相手の間で小さく立ち止まるとき",
+    "answer_scope": [
+      "止まる位置が相手DFの視線や守備位置に関わる可能性",
+      "動き始めるタイミングを比較",
+      "疲れ・指示・待機など意図は外から確定できない"
+    ],
+    "today_watch": "前線で立ち止まった人を一度だけ追い、次に動き始めた瞬間とボール位置を比べる",
+    "priority": "normal",
+    "novice_value": "走り続けることだけが働きではないと理解できる",
+    "distinct_from": "既存6-03『何も起きていない時間は？』をFW一人の『静止→発進』に具体化",
+    "fact_check": "静止の理由は未確認。『相手を固定するため』などと決めつけない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-22",
+    "question": "ボールのない反対側にも、見どころはある？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "片側のタッチライン付近にボールが集まっているとき",
+    "answer_scope": [
+      "反対側にも攻守双方の選手がいる",
+      "距離の離れ方と内側への移動が見える",
+      "ボールが横断したとき突然主役が変わりうる"
+    ],
+    "today_watch": "FC東京と柏がどちら側を攻めても、遠い端の選手一人に10秒だけ目を移す",
+    "priority": "star",
+    "novice_value": "広いスタジアムを使う観戦ならではの楽しみ",
+    "distinct_from": "既存4-02-a『中央とサイド』は攻撃経路の説明、こちらは観客自身の視線の切替",
+    "fact_check": "座席位置で肉眼の見え方が変わる。遠側の選手名と役割は現地で確認",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-23",
+    "question": "ボールと逆の端で、ずっと大きく離れている人はなぜそこに？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-22",
+    "category_hint": 6,
+    "trigger": "一方の端にボールがあるのに逆側の攻撃選手が線際に残るとき",
+    "answer_scope": [
+      "幅（横に広がる距離）が相手の守備範囲に影響",
+      "左右への大きなパスの受け手になりうる",
+      "いつ中央へ入るかと対で観察"
+    ],
+    "today_watch": "ボールが右側で動く時は左端、その逆も同じように見て、遠い選手の移動量を確かめる",
+    "priority": "normal",
+    "novice_value": "『遠くの人は参加していない』という見え方を変える",
+    "distinct_from": "D-24の守備者が中へ絞る動きと対比し、攻撃側が幅を保つ場面に限定",
+    "fact_check": "必ず幅取りを狙ったとは断定しない。現場の陣形によって起きないこともある",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-24",
+    "question": "遠くにいた人が、いつの間にかゴール前に来るのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-22",
+    "category_hint": 6,
+    "trigger": "端からクロスが上がる直前、反対側の前線選手が中央へ走ってきたとき",
+    "answer_scope": [
+      "遠側からゴール前へ向かう走り",
+      "守る側がボール側を見ている場合の発見しづらさ",
+      "パスの到達位置と走った人の関係"
+    ],
+    "today_watch": "クロス（横からのボール）が上がりそうなら、蹴り手でなく逆側から中央へ来る人を探す",
+    "priority": "star",
+    "novice_value": "初観戦でもゴール前の動きに一歩早く気づける",
+    "distinct_from": "D-23の端で広く離れて待つ行動とは逆に『中央への侵入』を扱う",
+    "fact_check": "特定選手がこの動きをするか未確認。走りの意図・得点確率は断定しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-25",
+    "question": "ボールが遠いのに、守る人がゴール寄りへ動くのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-22",
+    "category_hint": 6,
+    "trigger": "反対の端に攻撃が進むと、逆側のサイドDFが内側へ近づいたとき",
+    "answer_scope": [
+      "ボール側が進むと遠い側の危険も変わる",
+      "ゴール前を手薄にしない位置取りという見方",
+      "遠側の攻撃者を見失わない必要"
+    ],
+    "today_watch": "サイドへの攻撃が続くとき、逆側のDFの立つ横位置を二度見比べる",
+    "priority": "normal",
+    "novice_value": "ボールから遠い守備者にも役割があると分かる",
+    "distinct_from": "D-23は攻撃側の横幅、こちらは逆サイドの守備側の内への移動",
+    "fact_check": "誰を見て動いたか未確認。DFが固定の端を守るとは限らない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-26",
+    "question": "ボールを取られた瞬間、どこを見ると分かりやすい？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "味方のパスが奪われ、周りの選手がいっせいに向きを変えた直後",
+    "answer_scope": [
+      "切り替えは失った人だけでなく周りの反応",
+      "すぐ寄る人・戻る人・道を塞ぐ人を分けて見る",
+      "全員が同じ方向に走るわけではない"
+    ],
+    "today_watch": "前半にFC東京と柏が一回ずつボールを失った瞬間、近くの三人の最初の二歩を見る",
+    "priority": "star",
+    "novice_value": "最大の見どころがボールを失った直後に始まると気づける",
+    "distinct_from": "既存4-01-b『前から奪う・下がって守る』は守り方の選択、ここは直後数秒の個人の動き",
+    "fact_check": "特定のプレス指示を断定しない。どちらが直後に奪い返すかは予告しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-27",
+    "question": "取られた人がすぐ追うときと、追わないときがあるのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-26",
+    "category_hint": 6,
+    "trigger": "ボールを失った本人が相手へ向かう場合と、離れて戻る場合を続けて見たとき",
+    "answer_scope": [
+      "失った位置・相手との距離・味方の人数で選べる行動が変わる",
+      "追うか戻るかだけで評価しない",
+      "直後の味方のカバーと合わせて読む"
+    ],
+    "today_watch": "どちらかが二回ボールを失った場面で、本人の一歩目だけ比較",
+    "priority": "normal",
+    "novice_value": "『すぐ追わない＝さぼる』の誤解を減らせる",
+    "distinct_from": "D-26全体観察から『ボールを失った本人の一歩目』へ狭める",
+    "fact_check": "追わない理由は未確認。疲労・指示等は立証なしに触れない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-28",
+    "question": "ボールを失ったとき、近くの人が相手の前に立つのは何で？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-26",
+    "category_hint": 6,
+    "trigger": "一人が奪われ、隣の味方がボールより少し先の通り道へ動いたとき",
+    "answer_scope": [
+      "奪い返す以外にパスの道を狭める守備もある",
+      "ボール保持者と次の受け手を見比べる",
+      "相手が別方向を選んだか観察"
+    ],
+    "today_watch": "失った直後、ボールを追った人の隣にいる人を見て、次のパスがどこへ出たか追う",
+    "priority": "normal",
+    "novice_value": "守備が『走って奪うだけ』ではないと知る",
+    "distinct_from": "D-27が本人の追い方、これは周囲の一人がパス経路に入る動き",
+    "fact_check": "本当にパスを制限できたかは相手の選択だけでは証明できない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-29",
+    "question": "ボールを取られた直後、全力で後ろへ走る人は何を見てる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-26",
+    "category_hint": 6,
+    "trigger": "失った場面で一人が相手ではなく自分のゴール方向へ走り出したとき",
+    "answer_scope": [
+      "背後に残る相手や空間を意識しうる",
+      "追う人と戻る人の距離",
+      "戻りながら体や顔の向きを変えることがある"
+    ],
+    "today_watch": "攻撃が途切れたら一度だけ自陣へ戻る人を追い、振り返るタイミングを見る",
+    "priority": "normal",
+    "novice_value": "ボールから離れる動きの意味を考えられる",
+    "distinct_from": "D-28の近くでパス道を塞ぐ動きと違い『長い後退』に注目",
+    "fact_check": "視線の対象や指示は未確認。戻る動きが出るかは試合次第",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-30",
+    "question": "奪い返したのに、すぐ前へ行かず止まるのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-26",
+    "category_hint": 6,
+    "trigger": "ボールを取り返した選手が横や後ろへ短く渡し、前進しなかったとき",
+    "answer_scope": [
+      "相手が戻る前に進む選択と落ち着かせる選択",
+      "近くの味方の数と前方の空間",
+      "前を向ける人の位置が変わる"
+    ],
+    "today_watch": "FC東京と柏のそれぞれの最初の奪い返しで、最初のパスの方向と遠くの味方の動きを見る",
+    "priority": "normal",
+    "novice_value": "『速く攻めない＝消極的』とは限らないと知る",
+    "distinct_from": "既存4-01-a『持って進める・奪って速く』の作戦対比ではなく奪取後の一動作",
+    "fact_check": "遅くした真意は未確認。戦術的評価は実際の場面と分ける",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-31",
+    "question": "声が聞こえない席でも、選手同士のやりとりは見える？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "中盤で選手が手を振る・指す・相手の肩を叩くのが遠くに見えたとき",
+    "answer_scope": [
+      "指差し・視線・体の向きは合図の手掛かり",
+      "声の内容は観客には分からない",
+      "動作から読み取れる事実と解釈を区別する"
+    ],
+    "today_watch": "前半と後半に一度ずつ、ボールが止まった近辺で選手二人の身振りだけを見る",
+    "priority": "star",
+    "novice_value": "実況がなくても連携を見つけられる",
+    "distinct_from": "既存6-03-aの位置取りと異なり手振り・会話の『見えた範囲』を扱う",
+    "fact_check": "実際の発言や宛先は本人証言がない限り未確認。口の動きのみで発言を創作しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-32",
+    "question": "守る人が味方のほうを指さすのは、何を伝えている？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-31",
+    "category_hint": 6,
+    "trigger": "後方の選手がボールではない場所を指しているのを見たとき",
+    "answer_scope": [
+      "指差した先に相手・味方・空間の何があるか確認",
+      "指す前後に味方の立つ位置が変わるか",
+      "指差しの意味は一通りとは限らない"
+    ],
+    "today_watch": "センター付近の守る人が手を出したら、指の先にいる味方の次の一歩を見る",
+    "priority": "normal",
+    "novice_value": "手の動きから複数選手のつながりを見つけられる",
+    "distinct_from": "D-05はGKのゴール前での声らしき動き、これはDFの指差しに限定",
+    "fact_check": "身振りの意味は未確認。『マークを任せた』と断言しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-33",
+    "question": "手を上げているのに、その人へパスが来ないのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-31",
+    "category_hint": 6,
+    "trigger": "味方が持っている間、遠くの選手が片手を上げたがパスが別方向へ出たとき",
+    "answer_scope": [
+      "パスを求める合図にも位置知らせにも見える",
+      "ボール保持者には別の相手や進路が見える可能性",
+      "手を上げた人の次の移動を追う"
+    ],
+    "today_watch": "サイドで挙手する選手がいたら、実際のパス先とその人の次の動きを別々に確認",
+    "priority": "normal",
+    "novice_value": "合図がすぐ結果につながらない場面も楽しめる",
+    "distinct_from": "D-32のDFの指差しとは異なる『受け手候補の挙手』",
+    "fact_check": "挙手の意味とパスを選ばなかった理由は未確認",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-34",
+    "question": "試合中に味方二人が近寄って話すのはどんなとき？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-31",
+    "category_hint": 6,
+    "trigger": "ボールが外へ出た後や得点・失点後、二人が近くで短く話す場面",
+    "answer_scope": [
+      "停止時は配置を整え直す余地がある",
+      "ボールを再開する前後の距離を比較",
+      "何を話したかは客席から推測しない"
+    ],
+    "today_watch": "スローイン前や失点後に二人が近づいたら、再開時の立つ場所だけ追う",
+    "priority": "normal",
+    "novice_value": "プレーが止まった時間も観察する入口になる",
+    "distinct_from": "既存1-03『外に出たボールはどうなる？』は再開規則、こちらは選手間の会話と位置の変化",
+    "fact_check": "会話内容や失点時の責任は断定しない。近寄る場面の有無は不明",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/laws/latest/the-players/"
+    ]
+  },
+  {
+    "candidate_id": "D-35",
+    "question": "味方同士の間が急に狭くなると、何が起きる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-31",
+    "category_hint": 6,
+    "trigger": "同じ側の二人が近づいたり、少し離れて三角形の形が変わるとき",
+    "answer_scope": [
+      "近いと短いパスや助け合いが生まれやすい",
+      "近すぎると相手も一度に寄れる場合",
+      "誰が遠くを受け持つかで見方が変わる"
+    ],
+    "today_watch": "サイドの選手二人の間隔を、ボールを持つ前と受けた後で見比べる",
+    "priority": "normal",
+    "novice_value": "選手の距離を目印に立体的に試合を見られる",
+    "distinct_from": "D-09の守備時のカバーではなく攻守にまたがる『味方二人の距離の変化』",
+    "fact_check": "距離の正解を固定値で示さない。狙いと効果は個別場面次第",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-36",
+    "question": "ベンチの選手は、試合中どんな準備をしている？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "後半に向けてピッチ脇で控えの人が立ち上がり走り始めたとき",
+    "answer_scope": [
+      "控え選手は登録されても必ず出場するとは限らない",
+      "体を温める準備と交代待ちは別",
+      "監督やスタッフの動きも観察の手掛かり"
+    ],
+    "today_watch": "後半開始前後、座席から見える範囲のピッチ脇のアップとベンチを一度確認",
+    "priority": "star",
+    "novice_value": "試合に出ないかもしれない人にも見どころがある",
+    "distinct_from": "既存6-03-b『ベンチと交代』は総論、ここでは交代前の時間の使い方を扱う",
+    "fact_check": "アップする場所・見える範囲・当日の出場選手は現地確認。アップ＝交代確定ではない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.theifab.com/laws/latest/the-players/"
+    ]
+  },
+  {
+    "candidate_id": "D-37",
+    "question": "控えの人が試合の途中で走っているのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-36",
+    "category_hint": 6,
+    "trigger": "ピッチ外の決められた場所で控えの人が短いダッシュを繰り返すとき",
+    "answer_scope": [
+      "出場に備えたウォームアップ（体を温める運動）",
+      "実際に交代する人だけとは限らない",
+      "ピッチ内のプレーを邪魔しない場所で行う"
+    ],
+    "today_watch": "控えがアップを始めたら、何人いるかと、その後誰が呼ばれるかを別々に見守る",
+    "priority": "normal",
+    "novice_value": "交代発表より前の風景を味わえる",
+    "distinct_from": "D-36は控えの一日の役割、これは試合中の具体的なダッシュ",
+    "fact_check": "アップ場所の会場運用・交代選手は未確認。特定選手に紐づけない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.theifab.com/laws/latest/the-players/"
+    ]
+  },
+  {
+    "candidate_id": "D-38",
+    "question": "交代が近いとき、選手とスタッフは何をするの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-36",
+    "category_hint": 6,
+    "trigger": "ハーフウェーライン付近に交代待ちの選手が来てスタッフと並んだとき",
+    "answer_scope": [
+      "交代は審判に届け出てプレー停止中に行う",
+      "交代する人が退いてから入る",
+      "2026/27は退出時間の規定も改訂されている"
+    ],
+    "today_watch": "交代ボードが出たら数字だけでなく、入る人がどこで待ちどちらへ走るかを見る",
+    "priority": "star",
+    "novice_value": "交代を単なる背番号変更ではなく現場の段取りとして楽しめる",
+    "distinct_from": "既存2-03-b『交代枠』は人数・回数の規則、こちらはライン際の準備行動",
+    "fact_check": "J1運用細則と個々の交代は当日要確認。交代10秒規則には例外あり",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.theifab.com/laws/latest/the-players/",
+      "https://www.theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "D-39",
+    "question": "交代した直後、周りの選手の位置はどう変わる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-36",
+    "category_hint": 6,
+    "trigger": "新しい選手が入ってから最初の数分、近くの味方が持ち場を入れ替えたとき",
+    "answer_scope": [
+      "入った人の位置と周囲二、三人の距離の変化",
+      "攻撃と守備で立つ位置が違う場合",
+      "代わる前の配置と後の配置を比較"
+    ],
+    "today_watch": "最初の交代が起きた側の端か中央を選び、直前の選手との違いだけ確認",
+    "priority": "normal",
+    "novice_value": "交代を試合全体の雰囲気の変化として見つけやすくなる",
+    "distinct_from": "既存5-03-c『交代で何が変わる？』は両チームの相性、これは一人の入場前後の足取り",
+    "fact_check": "交代内容・布陣変更は確定前に断言しない。交代の意図は不明",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "D-40",
+    "question": "試合前の練習は、何を見ていると面白い？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "公式予定の18:20ごろ、ピッチ内に選手が出て練習を始めるとき",
+    "answer_scope": [
+      "アップは試合より短い動きを繰り返す",
+      "全員が同じメニューとは限らない",
+      "反復・声・組み合わせを観察対象にできる"
+    ],
+    "today_watch": "18:20開始予定のピッチ内ウォームアップで、二人一組の動きとGKの準備を探す",
+    "priority": "star",
+    "novice_value": "試合の前から観戦体験が始まると分かる",
+    "distinct_from": "既存6-03-aの試合中の準備とは別に『試合前18:20ごろ』へ限定",
+    "fact_check": "開始・内容は当日変更の可能性。誰がどんな練習をするか未発表",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/news/details/342462/"
+    ]
+  },
+  {
+    "candidate_id": "D-41",
+    "question": "試合前、キーパーだけ違う練習をしているのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-40",
+    "category_hint": 6,
+    "trigger": "ピッチ内アップでGKらしい選手が飛ぶ・止める・蹴る練習をしているとき",
+    "answer_scope": [
+      "手も使うGKには専門的な準備がある",
+      "シュートを打つ練習相手や補助スタッフに目を向ける",
+      "他の選手のアップとの動きの違い"
+    ],
+    "today_watch": "試合前のGKアップが見えたら、ボールを打つ人と受け止める人を交互に見る",
+    "priority": "normal",
+    "novice_value": "地味な練習の中にも役割差を見つけられる",
+    "distinct_from": "D-04の試合中のシュート前の構えとは違い練習の組み立てを対象にする",
+    "fact_check": "実際の練習内容・補助者は未確定。練習の理由を断定しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-42",
+    "question": "試合前に、同じ短いパスを何度も繰り返すのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-40",
+    "category_hint": 6,
+    "trigger": "アップ中に数人が同じ距離でパスを往復し続けたとき",
+    "answer_scope": [
+      "足元の感覚と味方との距離を確かめる準備という見方",
+      "受ける前の身振りや向き",
+      "試合では相手がいる点と違う"
+    ],
+    "today_watch": "アップで短いパスの輪が見えたら、出す人より次に受ける人の体の向きに注目",
+    "priority": "normal",
+    "novice_value": "単調に見える反復が試合の動きとつながる",
+    "distinct_from": "D-15は試合中の出した後の動き、この問いは試合前の反復",
+    "fact_check": "当日のメニューとその目的は未確認。実際に短いパス練習をするか未確定",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-43",
+    "question": "選手が集まって輪になったあと、何が変わる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-40",
+    "category_hint": 6,
+    "trigger": "アップ終盤やキックオフ前、数人が集まったあとそれぞれの位置へ散ったとき",
+    "answer_scope": [
+      "円陣や集合を『声が聞こえない場面』として観察",
+      "散った先の配置と開始直後の位置",
+      "集合の言葉・気持ちは見た目だけでは分からない"
+    ],
+    "today_watch": "選手入場18:58予定の前後に集合があれば、輪の中の声より散った後の配置を見る",
+    "priority": "normal",
+    "novice_value": "試合開始前の人間関係へ自然な入口を作れる",
+    "distinct_from": "D-34は試合停止中の二人の会話、こちらは開始前の集合→分散",
+    "fact_check": "円陣の有無・発言内容・時刻は未確認。公式時刻は変更されうる",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  }
+]
