@@ -31,6 +31,11 @@
       "id": "04",
       "evidence": "PR #149 main反映済み",
       "kind": "verified"
+    },
+    {
+      "id": "FCT-PREP",
+      "evidence": "新規公式資料25人・固定9担当。確認コミット c2bf6ef5003a / 65962ea9e0ad とstatus/FCT-PREP-done.md",
+      "kind": "verified"
     }
   ],
   "gates": [
@@ -448,7 +453,7 @@
     },
     {
       "id": "FCT-01",
-      "title": "FC東京：候補表の1〜3人目（3人以内）",
+      "title": "FC東京｜81 キム スンギュ・22 石原 広教・24 アレクサンダー ショルツ（3人）",
       "group": "fctokyo",
       "depends_on": [
         "FCT-PREP"
@@ -456,19 +461,37 @@
       "prompt_path": "prompts/FCT-01.md",
       "status_path": "../../status/FCT-01-done.md",
       "writes": [
-        "teams/fctokyo/people/（候補表1〜3人目の固定slug）"
+        "teams/fctokyo/people/seung-gyu-kim.md",
+        "teams/fctokyo/people/hirokazu-ishihara.md",
+        "teams/fctokyo/people/alexander-scholz.md"
       ],
-      "person_count": null,
+      "person_count": 3,
       "person_range": [
         1,
         3
       ],
-      "people": [],
+      "people": [
+        {
+          "name": "81 キム スンギュ",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/seung-gyu-kim.md"
+        },
+        {
+          "name": "22 石原 広教",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/hirokazu-ishihara.md"
+        },
+        {
+          "name": "24 アレクサンダー ショルツ",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/alexander-scholz.md"
+        }
+      ],
       "optional": false
     },
     {
       "id": "FCT-02",
-      "title": "FC東京：候補表の4〜6人目（3人以内）",
+      "title": "FC東京｜4 稲村 隼翔・6 バングーナガンデ 佳史扶・20 永野 修都（3人）",
       "group": "fctokyo",
       "depends_on": [
         "FCT-PREP"
@@ -476,19 +499,37 @@
       "prompt_path": "prompts/FCT-02.md",
       "status_path": "../../status/FCT-02-done.md",
       "writes": [
-        "teams/fctokyo/people/（候補表4〜6人目の固定slug）"
+        "teams/fctokyo/people/hayato-inamura.md",
+        "teams/fctokyo/people/kashif-bangnagande.md",
+        "teams/fctokyo/people/shuto-nagano.md"
       ],
-      "person_count": null,
+      "person_count": 3,
       "person_range": [
         4,
         6
       ],
-      "people": [],
+      "people": [
+        {
+          "name": "4 稲村 隼翔",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/hayato-inamura.md"
+        },
+        {
+          "name": "6 バングーナガンデ 佳史扶",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/kashif-bangnagande.md"
+        },
+        {
+          "name": "20 永野 修都",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/shuto-nagano.md"
+        }
+      ],
       "optional": false
     },
     {
       "id": "FCT-03",
-      "title": "FC東京：候補表の7〜9人目（3人以内）",
+      "title": "FC東京｜8 高 宇洋・7 安斎 颯馬・33 俵積田 晃太（3人）",
       "group": "fctokyo",
       "depends_on": [
         "FCT-PREP"
@@ -496,19 +537,37 @@
       "prompt_path": "prompts/FCT-03.md",
       "status_path": "../../status/FCT-03-done.md",
       "writes": [
-        "teams/fctokyo/people/（候補表7〜9人目の固定slug）"
+        "teams/fctokyo/people/takahiro-ko.md",
+        "teams/fctokyo/people/soma-anzai.md",
+        "teams/fctokyo/people/kota-tawaratsumida.md"
       ],
-      "person_count": null,
+      "person_count": 3,
       "person_range": [
         7,
         9
       ],
-      "people": [],
+      "people": [
+        {
+          "name": "8 高 宇洋",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/takahiro-ko.md"
+        },
+        {
+          "name": "7 安斎 颯馬",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/soma-anzai.md"
+        },
+        {
+          "name": "33 俵積田 晃太",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/kota-tawaratsumida.md"
+        }
+      ],
       "optional": false
     },
     {
       "id": "FCT-04",
-      "title": "FC東京：候補表の10〜12人目（3人以内）",
+      "title": "FC東京｜26 長倉 幹樹・9 マルセロ ヒアン・10 佐藤 恵允（3人）",
       "group": "fctokyo",
       "depends_on": [
         "FCT-PREP"
@@ -516,19 +575,37 @@
       "prompt_path": "prompts/FCT-04.md",
       "status_path": "../../status/FCT-04-done.md",
       "writes": [
-        "teams/fctokyo/people/（候補表10〜12人目の固定slug）"
+        "teams/fctokyo/people/motoki-nagakura.md",
+        "teams/fctokyo/people/marcelo-ryan.md",
+        "teams/fctokyo/people/kein-sato.md"
       ],
-      "person_count": null,
+      "person_count": 3,
       "person_range": [
         10,
         12
       ],
-      "people": [],
+      "people": [
+        {
+          "name": "26 長倉 幹樹",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/motoki-nagakura.md"
+        },
+        {
+          "name": "9 マルセロ ヒアン",
+          "role": "先発有力",
+          "path": "teams/fctokyo/people/marcelo-ryan.md"
+        },
+        {
+          "name": "10 佐藤 恵允",
+          "role": "主要交代／先発競争",
+          "path": "teams/fctokyo/people/kein-sato.md"
+        }
+      ],
       "optional": false
     },
     {
       "id": "FCT-05",
-      "title": "FC東京：候補表の13〜15人目（3人以内）",
+      "title": "FC東京｜99 ダニ ゴメス・71 山田 楓喜・27 常盤 亨太（3人）",
       "group": "fctokyo",
       "depends_on": [
         "FCT-PREP"
@@ -536,19 +613,37 @@
       "prompt_path": "prompts/FCT-05.md",
       "status_path": "../../status/FCT-05-done.md",
       "writes": [
-        "teams/fctokyo/people/（候補表13〜15人目の固定slug）"
+        "teams/fctokyo/people/dani-gomez.md",
+        "teams/fctokyo/people/fuki-yamada.md",
+        "teams/fctokyo/people/kyota-tokiwa.md"
       ],
-      "person_count": null,
+      "person_count": 3,
       "person_range": [
         13,
         15
       ],
-      "people": [],
+      "people": [
+        {
+          "name": "99 ダニ ゴメス",
+          "role": "主要交代／先発競争",
+          "path": "teams/fctokyo/people/dani-gomez.md"
+        },
+        {
+          "name": "71 山田 楓喜",
+          "role": "主要交代／先発競争",
+          "path": "teams/fctokyo/people/fuki-yamada.md"
+        },
+        {
+          "name": "27 常盤 亨太",
+          "role": "主要交代／先発競争",
+          "path": "teams/fctokyo/people/kyota-tokiwa.md"
+        }
+      ],
       "optional": false
     },
     {
       "id": "FCT-06",
-      "title": "FC東京：候補表の16〜18人目（3人以内）",
+      "title": "FC東京｜15 大森 理生・39 仲川 輝人・3 森重 真人（3人）",
       "group": "fctokyo",
       "depends_on": [
         "FCT-PREP"
@@ -556,19 +651,37 @@
       "prompt_path": "prompts/FCT-06.md",
       "status_path": "../../status/FCT-06-done.md",
       "writes": [
-        "teams/fctokyo/people/（候補表16〜18人目の固定slug）"
+        "teams/fctokyo/people/rio-omori.md",
+        "teams/fctokyo/people/teruhito-nakagawa.md",
+        "teams/fctokyo/people/masato-morishige.md"
       ],
-      "person_count": null,
+      "person_count": 3,
       "person_range": [
         16,
         18
       ],
-      "people": [],
+      "people": [
+        {
+          "name": "15 大森 理生",
+          "role": "主要交代／先発競争",
+          "path": "teams/fctokyo/people/rio-omori.md"
+        },
+        {
+          "name": "39 仲川 輝人",
+          "role": "主要交代／先発競争",
+          "path": "teams/fctokyo/people/teruhito-nakagawa.md"
+        },
+        {
+          "name": "3 森重 真人",
+          "role": "守備交代／先発競争",
+          "path": "teams/fctokyo/people/masato-morishige.md"
+        }
+      ],
       "optional": false
     },
     {
       "id": "FCT-07",
-      "title": "FC東京：候補表の19〜21人目（3人以内）",
+      "title": "FC東京｜44 鈴木 楓・1 田中 颯・38 田中 希和（3人）",
       "group": "fctokyo",
       "depends_on": [
         "FCT-PREP"
@@ -576,19 +689,37 @@
       "prompt_path": "prompts/FCT-07.md",
       "status_path": "../../status/FCT-07-done.md",
       "writes": [
-        "teams/fctokyo/people/（候補表19〜21人目の固定slug）"
+        "teams/fctokyo/people/kaede-suzuki.md",
+        "teams/fctokyo/people/hayate-tanaka.md",
+        "teams/fctokyo/people/kio-tanaka.md"
       ],
-      "person_count": null,
+      "person_count": 3,
       "person_range": [
         19,
         21
       ],
-      "people": [],
-      "optional": true
+      "people": [
+        {
+          "name": "44 鈴木 楓",
+          "role": "守備交代／先発競争",
+          "path": "teams/fctokyo/people/kaede-suzuki.md"
+        },
+        {
+          "name": "1 田中 颯",
+          "role": "控えGK／先発競争",
+          "path": "teams/fctokyo/people/hayate-tanaka.md"
+        },
+        {
+          "name": "38 田中 希和",
+          "role": "その他交代候補",
+          "path": "teams/fctokyo/people/kio-tanaka.md"
+        }
+      ],
+      "optional": false
     },
     {
       "id": "FCT-08",
-      "title": "FC東京：候補表の22〜24人目（3人以内）",
+      "title": "FC東京｜58 後藤 亘・18 橋本 拳人・19 本間 至恩（3人）",
       "group": "fctokyo",
       "depends_on": [
         "FCT-PREP"
@@ -596,19 +727,37 @@
       "prompt_path": "prompts/FCT-08.md",
       "status_path": "../../status/FCT-08-done.md",
       "writes": [
-        "teams/fctokyo/people/（候補表22〜24人目の固定slug）"
+        "teams/fctokyo/people/wataru-goto.md",
+        "teams/fctokyo/people/kento-hashimoto.md",
+        "teams/fctokyo/people/shion-homma.md"
       ],
-      "person_count": null,
+      "person_count": 3,
       "person_range": [
         22,
         24
       ],
-      "people": [],
-      "optional": true
+      "people": [
+        {
+          "name": "58 後藤 亘",
+          "role": "控えGK候補",
+          "path": "teams/fctokyo/people/wataru-goto.md"
+        },
+        {
+          "name": "18 橋本 拳人",
+          "role": "先発競争／招集不確実",
+          "path": "teams/fctokyo/people/kento-hashimoto.md"
+        },
+        {
+          "name": "19 本間 至恩",
+          "role": "負傷／当日招集低見込み",
+          "path": "teams/fctokyo/people/shion-homma.md"
+        }
+      ],
+      "optional": false
     },
     {
       "id": "FCT-09",
-      "title": "FC東京：候補表の25〜27人目（3人以内）",
+      "title": "FC東京｜2 室屋 成（1人）",
       "group": "fctokyo",
       "depends_on": [
         "FCT-PREP"
@@ -616,15 +765,21 @@
       "prompt_path": "prompts/FCT-09.md",
       "status_path": "../../status/FCT-09-done.md",
       "writes": [
-        "teams/fctokyo/people/（候補表25〜27人目の固定slug）"
+        "teams/fctokyo/people/sei-muroya.md"
       ],
-      "person_count": null,
+      "person_count": 1,
       "person_range": [
         25,
-        27
+        25
       ],
-      "people": [],
-      "optional": true
+      "people": [
+        {
+          "name": "2 室屋 成",
+          "role": "負傷／当日招集低見込み",
+          "path": "teams/fctokyo/people/sei-muroya.md"
+        }
+      ],
+      "optional": false
     },
     {
       "id": "KSW-01",
@@ -1873,16 +2028,34 @@
       "prompt_path": "prompts/FCT-PREP.md",
       "status_path": "../../status/FCT-PREP-done.md",
       "writes": [
-        "teams/fctokyo/の候補・先発予想・直近起用・割当表",
-        "docs/prompt-pack/のFC東京指示・担当データ・まとめ・HTML"
+        "teams/fctokyo/recent-matches.md",
+        "teams/fctokyo/roster.md",
+        "teams/fctokyo/lineup.md",
+        "teams/fctokyo/assignments.md",
+        "docs/prompt-pack/（FCT-01〜09の指示・担当データ・HTML）"
       ],
-      "optional": false
+      "optional": false,
+      "verified_complete": true,
+      "completion_evidence": {
+        "status_path": "status/FCT-PREP-done.md",
+        "status_sha": "14f974d74174ef04156de8d82990661667b74f0a",
+        "output_paths": [
+          "teams/fctokyo/recent-matches.md",
+          "teams/fctokyo/roster.md",
+          "teams/fctokyo/lineup.md",
+          "teams/fctokyo/assignments.md",
+          "docs/prompt-pack/player-assignments-3.json",
+          "docs/prompt-pack/players-3.md",
+          "docs/prompt-pack/index.html"
+        ],
+        "prs": []
+      }
     }
   ],
   "snapshot": {
-    "checked_at": "2026-10-21T13:44:07+09:00",
-    "commit": "d2c40761cf0c2c906f7a410723e03abac2c280b4",
-    "verified_task_count": 29,
+    "checked_at": "2026-10-21T13:50:00+09:00",
+    "commit": "65962ea9e0ad51d7faa5ac4fa94175e1fb6466e1",
+    "verified_task_count": 30,
     "verified_ids": [
       "01R-A",
       "01R-B",
@@ -1912,11 +2085,14 @@
       "18",
       "19",
       "20",
-      "23"
+      "23",
+      "FCT-PREP"
     ],
     "discovery_candidate_count": 344,
     "written_fixed_article_count": 52,
-    "kashiwa_player_count": 25
+    "kashiwa_player_count": 25,
+    "fctokyo_player_count": 25,
+    "fctokyo_task_count": 9
   },
   "editorial_scope": {
     "user_personal_anecdotes": false,

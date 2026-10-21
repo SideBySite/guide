@@ -1,0 +1,39 @@
+# FC東京｜2026/10/21 柏戦の予想先発（未発表扱い）
+
+**予想作成：2026-10-21 13:50 JST**。試合：19:00味の素スタジアム、2026/27明治安田J1第11節。[FC東京公式](https://www.fctokyo.co.jp/match/schedule/info/20261021/)・[Jリーグ公式](https://www.jleague.jp/match/j1/2026/102108/)。この時点で**正式先発発表時刻／公式11人を確認していない**。公開後の発表メンバーは別欄へ発表時刻と出典を記録し、この予想を上書きしない。
+
+## 配置の目安（4-4-2風／選手位置は推定）
+
+```text
+            #26 長倉        #9 マルセロ ヒアン
+ #33 俵積田      #20 永野     #8 高        #7 安斎
+ #6 バングーナガンデ  #4 稲村  #24 ショルツ  #22 石原
+                       #81 キム スンギュ
+```
+
+公式のメンバー表はGK/DF/MF/FWの区分で、**配置図や左右順ではない**。#20永野は登録DFだが直近リーグでは中盤に入る役割だと戦略記事・起用記録から解釈した。攻撃と守備で位置関係は変わる。10/17の勝利は相手が前半に退場した試合で、その後の展開は柏戦の保証ではない。
+
+| 予想先発 | 位置・見どころ | 競争相手・留意 | 根拠 |
+|---|---|---|---|
+| #81 キム スンギュ | ゴールキーパー。最後方から声をかけ、ボールをつなぐ | #1田中颯（10/14先発） | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発、[10/10](https://www.fctokyo.co.jp/match/schedule/result/20261010/)も先発 |
+| #22 石原 広教 | 右サイドバック（右の守備から攻撃を助ける） | #44鈴木楓、#3森重（守備編成次第） | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発、[10/10](https://www.fctokyo.co.jp/match/schedule/result/20261010/)も先発 |
+| #24 アレクサンダー ショルツ | 中央の守備。セットプレー（止まった球からの再開）の攻撃にも参加 | #3森重、#15大森（CBの組合せ） | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発、[10/10](https://www.fctokyo.co.jp/match/schedule/result/20261010/)も先発 |
+| #4 稲村 隼翔 | 中央の守備。相手FWとの距離を整える | #3森重、#15大森 | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発、[10/10](https://www.fctokyo.co.jp/match/schedule/result/20261010/)も先発 |
+| #6 バングーナガンデ 佳史扶 | 左サイドバック。前進と守備への戻りを両立 | #15大森、#44鈴木（左後方の入替） | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発、[10/10](https://www.fctokyo.co.jp/match/schedule/result/20261010/)も先発 |
+| #20 永野 修都 | 登録はDF。直近は中盤中央のボールの受け手 | #27常盤、#18橋本拳人 | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発、[10/10](https://www.fctokyo.co.jp/match/schedule/result/20261010/)も先発 |
+| #8 高 宇洋 | 中盤中央。味方を助ける位置と守備の備え | #27常盤、#18橋本拳人 | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発 |
+| #7 安斎 颯馬 | 右側の中盤から前へ走る。10/14は途中出場 | #71山田、#10佐藤 | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発、[10/10](https://www.fctokyo.co.jp/match/schedule/result/20261010/)も先発 |
+| #33 俵積田 晃太 | 左側で幅を取り、対面の守備者に向かう | #10佐藤、#71山田 | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発、[10/10](https://www.fctokyo.co.jp/match/schedule/result/20261010/)も先発 |
+| #26 長倉 幹樹 | 前線で走る方向を変え、味方の通り道を作る | #99ダニ、#39仲川 | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発、[10/10](https://www.fctokyo.co.jp/match/schedule/result/20261010/)も先発 |
+| #9 マルセロ ヒアン | 最前線で背後への走りとボールの収め役 | #99ダニ、#39仲川 | [10/17](https://www.fctokyo.co.jp/match/schedule/result/20261017/)で先発、[10/10](https://www.fctokyo.co.jp/match/schedule/result/20261010/)も先発 |
+
+## 主な交代と不確実性
+
+- 前線は#10佐藤恵允、#99ダニ・ゴメス、#39仲川輝人の投入で追い方・走る場所が変わるかを見る。
+- 外側は#71山田楓喜、中央は#27常盤亨太、後方は#15大森理生、#3森重真人、#44鈴木楓が競争する。GKは#1田中颯、#58後藤亘が控え候補だ。
+- #2室屋成、#19本間至恩には負傷公表がある。登録だけで復帰を決めつけない。停止、追加負傷、登録可否の最終確認は未完了。
+- 2026年春の百年構想リーグ結果を2026/27 J1第11節の成績へ足していない。直近4戦の別大会は[起用表](recent-matches.md)参照。
+
+## 当日正式発表（予想とは別の記録）
+
+**未確認（13:50 JST）**。発表時は発表日時・JST・出典URL・実際の先発と控えをここへ別記。10/21試合後の結果は本予想の根拠にしない。
