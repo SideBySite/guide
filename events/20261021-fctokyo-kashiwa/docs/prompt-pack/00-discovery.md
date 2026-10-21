@@ -1,13 +1,8 @@
-# 00：問いの発掘と編集
-
-# 今回の編集範囲：ユーザー本人の逸話は扱わない
-今回のガイドでは、ユーザー本人・製作者本人の観戦体験、私生活、個人的な思い出を調査・質問・執筆・転載しない。旧野球ガイドの「製作者のエピソード」やcontent/extra/maker.mdを今回へ引き継がず、掲載リンクや導線も作らない。
-選手・監督・クラブ・競技の歴史に関する、出典で確認できる逸話は引き続き対象。ユーザーの観察の好みは編集方針として活用してよいが、本人の物語として本文にしない。本人の逸話を提供してもらう待ち合わせは作らない。
-
+# 問いの編集と追加指示
 
 ## 00-A：初観戦の時間の流れから、疑問を掘る
 
-GitHub保存済み。再送不要。
+GitHub保存済み・再送不要。
 
 ```text
 # 今回の編集範囲：ユーザー本人の逸話は扱わない
@@ -66,7 +61,7 @@ candidate_id、question、level_hint（L1/L2）、parent_question_or_existing_id
 
 ## 00-B：ルール・判定・再開から、疑問を掘る
 
-GitHub保存済み。再送不要。
+GitHub保存済み・再送不要。
 
 ```text
 # 今回の編集範囲：ユーザー本人の逸話は扱わない
@@ -125,7 +120,7 @@ candidate_id、question、level_hint（L1/L2）、parent_question_or_existing_id
 
 ## 00-C：戦略の種類と相性から、疑問を掘る
 
-GitHub保存済み。再送不要。
+GitHub保存済み・再送不要。
 
 ```text
 # 今回の編集範囲：ユーザー本人の逸話は扱わない
@@ -184,7 +179,7 @@ candidate_id、question、level_hint（L1/L2）、parent_question_or_existing_id
 
 ## 00-D：ボールのない場所と、各ポジションから掘る
 
-GitHub保存済み。再送不要。
+GitHub保存済み・再送不要。
 
 ```text
 # 今回の編集範囲：ユーザー本人の逸話は扱わない
@@ -243,7 +238,7 @@ candidate_id、question、level_hint（L1/L2）、parent_question_or_existing_id
 
 ## 00-E：両チーム・選手・監督の物語から掘る
 
-GitHub保存済み。再送不要。
+GitHub保存済み・再送不要。
 
 ```text
 # 今回の編集範囲：ユーザー本人の逸話は扱わない
@@ -302,7 +297,7 @@ candidate_id、question、level_hint（L1/L2）、parent_question_or_existing_id
 
 ## 00-F：大会と、今何がかかるかから掘る
 
-GitHub保存済み。再送不要。
+GitHub保存済み・再送不要。
 
 ```text
 # 今回の編集範囲：ユーザー本人の逸話は扱わない
@@ -361,7 +356,7 @@ candidate_id、question、level_hint（L1/L2）、parent_question_or_existing_id
 
 ## 00-G：味スタの会場・応援・現地文化から掘る
 
-GitHub保存済み。再送不要。
+GitHub保存済み・再送不要。
 
 ```text
 # 今回の編集範囲：ユーザー本人の逸話は扱わない
@@ -420,7 +415,7 @@ candidate_id、question、level_hint（L1/L2）、parent_question_or_existing_id
 
 ## 00-H：初心者の盲点と、次に湧く疑問を掘る
 
-GitHub保存済み。再送不要。
+GitHub保存済み・再送不要。
 
 ```text
 # 今回の編集範囲：ユーザー本人の逸話は扱わない
@@ -479,7 +474,7 @@ candidate_id、question、level_hint（L1/L2）、parent_question_or_existing_id
 
 ## 00-I：全候補を編集し、十分な疑問ツリーにする
 
-先に必要：00-A・00-B・00-C・00-D・00-E・00-F・00-G・00-H
+GitHub保存済み・再送不要。
 
 ```text
 # 今回の編集範囲：ユーザー本人の逸話は扱わない
@@ -533,11 +528,17 @@ coverage.md：カテゴリ／場面／役割別の数と抜け、64問から増�
 並行不可：この担当の原稿を同時に直す後工程。作業中の原稿を読み終えたものとして扱わない。
 編集できる対象：discovery/00-I/、status/00-I-done.md。これ以外は読み取りだけ。
 
+# 柏・日立台向けの追加分
+local-question-tree.jsonの固定18問とcontent/local/index.mdを読み、重複する候補はrelatedや対応表で接続する。LOCAL担当のID・割当・本文を変更せず、EXへ二重に割り当てない。追加指示の記事執筆はFC東京の準備の再実行を条件にしない。
+
+# 柏・日立台向けの追加分
+local-question-tree.jsonの固定18問とcontent/local/index.mdを読み、重複する候補はrelatedや対応表で接続する。LOCAL担当のID・割当・本文を変更せず、EXへ二重に割り当てない。追加指示の記事執筆はFC東京の準備の再実行を条件にしない。
+
 ```
 
 ## 00-J：採用した問いを、追加の小さな実行指示へ分ける
 
-先に必要：00-I・FCT-PREP
+先に必要：00-I
 
 ```text
 # 今回の編集範囲：ユーザー本人の逸話は扱わない
@@ -567,7 +568,7 @@ foundation-v2/の完成は独立した記事・人物調査の開始条件では
 
 # 読むもの
 discovery/00-I/の全成果、foundation-v2/の完成済み資料（あれば。01R-Fを待たない）、既存docs/question-tree.md・execution-plan.md、teams/のroster/assignments/人物と全status、docs/prompt-pack/manifest.json・prompts/の原文。
-02/03には初版と改訂版がある。番号だけで判断せず実際に何を完了したかを確認する。既にあるID・人物slug・担当割り・根拠・詳細カードを生かし、進行中の担当をやり直させない。00-Iの採用ツリーとFCT-PREPの確定候補表が必須。01R-Fや人物カードの完成は待たない。開始条件を満たした後にこの依頼を実行する。
+02/03には初版と改訂版がある。番号だけで判断せず実際に何を完了したかを確認する。既にあるID・人物slug・担当割り・根拠・詳細カードを生かし、進行中の担当をやり直させない。記事の追加指示には00-Iの採用ツリーが必須。FC東京の候補表と固定割当はteams/fctokyo/に共有。記事の追加指示は独立して生成する。01R-Fや人物カードの完成は待たない。開始条件を満たした後にこの依頼を実行する。
 
 # 1：土台と問いの採用
 - 土台の採用記録は01R-Fの担当。ここではdocs/current-foundation.mdやfoundation-v2/specを編集せず、追加記事の割当だけを行う。
@@ -601,13 +602,19 @@ rootのdocs/prompt-pack/README.mdにはruntime/への入口だけを追記し、
 
 
 # この担当の待ち合わせと編集範囲
-必須の先行：00-I・FCT-PREP。参考資料の存在と、必須の先行担当を混同しない。
+必須の先行：00-I。参考資料の存在と、必須の先行担当を混同しない。
 並行可：この担当の必須の先行がそろい、同じ原稿を編集しない担当。
 並行不可：この担当の原稿を同時に直す後工程。作業中の原稿を読み終えたものとして扱わない。
 編集できる対象：docs/question-tree.md、docs/execution-plan.md、docs/prompt-pack/runtime/、docs/prompt-pack/manifest.json、docs/prompt-pack/index.html、docs/prompt-pack/README.md、status/00-J-done.md。これ以外は読み取りだけ。
 
-# FC東京準備との共有ファイルの競合を防ぐ
-FCT-PREPの保存後に実行する。双方がprompt-pack/manifest.jsonとindex.htmlを更新するため、同時に編集しない。確定した人物対象をEX-Pの割当に使い、人物本文の完成は待たない。
+# FC東京の実行報告を維持する
+FC東京の準備は2回実行済み。実ファイルの候補表・固定割当を引き継ぎ、FCT-PREPを再送しない。記事の追加指示は独立して生成する。人物確認担当も固定slugで最大3人ずつにする。
+
+# 柏・日立台向けの追加分
+local-question-tree.jsonの固定18問とcontent/local/index.mdを読み、重複する候補はrelatedや対応表で接続する。LOCAL担当のID・割当・本文を変更せず、EXへ二重に割り当てない。追加指示の記事執筆はFC東京の準備の再実行を条件にしない。
+
+# 柏・日立台向けの追加分
+local-question-tree.jsonの固定18問とcontent/local/index.mdを読み、重複する候補はrelatedや対応表で接続する。LOCAL担当のID・割当・本文を変更せず、EXへ二重に割り当てない。追加指示の記事執筆はFC東京の準備の再実行を条件にしない。
 
 ```
 
