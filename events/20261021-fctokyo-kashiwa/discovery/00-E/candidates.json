@@ -492,5 +492,510 @@
       "https://www.fctokyo.co.jp/club/profile/",
       "https://www.fctokyo.co.jp/club/philosophy/"
     ]
+  },
+  {
+    "candidate_id": "E-21",
+    "question": "FC東京のキム スンギュは、前に柏のゴールを守っていたの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "FC東京のGK#81が先発紹介・練習で登場するとき",
+    "answer_scope": [
+      "キム スンギュが柏に在籍した2020〜2022年",
+      "2025年からFC東京でプレーする経歴",
+      "古巣との再会の意味"
+    ],
+    "today_watch": "キム#81が出るなら柏の攻撃を守るGKとして注目。旧チームの選手との会話は観察し、内心は推測しない",
+    "priority": "star",
+    "novice_value": "両クラブが一人の選手の人生でつながるとわかる",
+    "distinct_from": "5-03の対戦作戦やE-05のクラブ間戦績ではなく、本人の所属をまたぐ道",
+    "fact_check": [
+      "2026/27当日出場と両時期の公式所属を試合前に確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/player/801425/",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27",
+      "https://www.reysol.co.jp/team/players/"
+    ]
+  },
+  {
+    "candidate_id": "E-22",
+    "question": "前に同じチームだった人たちが、今日は敵になるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-21",
+    "category_hint": 6,
+    "trigger": "整列前や試合終了後、相手選手と挨拶する姿を見たとき",
+    "answer_scope": [
+      "移籍により旧チームの選手と対戦する仕組み",
+      "キム スンギュと柏在籍期の重なりがある人の探し方",
+      "挨拶は対立や親密さの証拠にならないこと"
+    ],
+    "today_watch": "入場時や試合後の交流が実際にあれば観察し、誰の旧同僚だったか出場記録で照合する",
+    "priority": "normal",
+    "novice_value": "選手を対立する二色だけで捉えなくなる",
+    "distinct_from": "E-21はキム個人の経歴。こちらは旧同僚との試合当日の可視的な関係",
+    "fact_check": [
+      "旧同僚が今日両軍に登録されるか・現在の関係性は要確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/player/801425/",
+      "https://www.reysol.co.jp/team/players/",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27"
+    ]
+  },
+  {
+    "candidate_id": "E-23",
+    "question": "柏のキャプテンは、試合中どんな仕事をしているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "柏#4古賀太陽が腕章を巻いているのを見るとき",
+    "answer_scope": [
+      "2026/27の公式主将は古賀太陽",
+      "同じ方向へ向かいたいという本人コメント",
+      "審判や仲間とのコミュニケーションとプレーの両方"
+    ],
+    "today_watch": "古賀#4が出たら、守備のとき誰の近くへ寄り、誰と話すかを確かめる",
+    "priority": "star",
+    "novice_value": "腕章を見つけるだけで人間関係の観察が始まる",
+    "distinct_from": "E-12は幼少期から主将までの歩み。E-23は今日の現場での仕事",
+    "fact_check": [
+      "腕章を今日着ける人は先発・現地で確認。審判とのやりとりの決まりは競技規則で確認"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/news/topteam/202627-8.html",
+      "https://www.reysol.co.jp/team/players/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "E-24",
+    "question": "キャプテンを助ける副キャプテンもいるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-23",
+    "category_hint": 6,
+    "trigger": "古賀の近くで戸嶋#28やGKが声をかけているように見えるとき",
+    "answer_scope": [
+      "柏の副主将として戸嶋祥郎と小島亨介が公式発表",
+      "本人が語る主将の負担を減らす考えとスタッフとの橋渡し",
+      "出場と副主将就任は別"
+    ],
+    "today_watch": "二人が当日いるなら、古賀以外から始まる声かけも探す",
+    "priority": "star",
+    "novice_value": "目立つ主将だけでなく支える人へ自然に目が向く",
+    "distinct_from": "E-23の主将の責任ではなく、副主将という支援の仕組みと本人の言葉",
+    "fact_check": [
+      "2人とも当日ベンチにいるとは限らない。交代時の指揮権は断定しない"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/news/topteam/202627-8.html",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.reysol.co.jp/team/players/"
+    ]
+  },
+  {
+    "candidate_id": "E-25",
+    "question": "選手は遠くの仲間に、声を使わず合図できるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "離れた選手が指をさしたり手を上げたりするとき",
+    "answer_scope": [
+      "指さし・腕の動き・視線など目で見える合図",
+      "同じ位置を確認する必要がある場面",
+      "合図の具体的意味は外から断定しない"
+    ],
+    "today_watch": "柏古賀#4とFC東京の最終ラインをそれぞれ一度追い、遠くへのジェスチャーを比べる",
+    "priority": "normal",
+    "novice_value": "会話が聞こえなくても人の関わりを観察できる",
+    "distinct_from": "6-01-aの『ボール以外』全般から、遠距離の合図という一つの動作に絞る",
+    "fact_check": [
+      "具体的なサイン内容は選手・監督の説明がなければ推測扱い"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/news/topteam/202627-8.html",
+      "https://www.fctokyo.co.jp/fan/fanzone/detail/342859/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "E-26",
+    "question": "ゴールが決まった瞬間、遠くにいた選手は何をするの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "得点してみんなが一か所へ集まるとき",
+    "answer_scope": [
+      "ゴール直後のリスタートまでにする位置直し",
+      "GKや後方の選手の反応の違い",
+      "喜びと準備が同時にあること"
+    ],
+    "today_watch": "得点があれば、輪の外にいるGK・守備者を10秒だけ見る。無得点なら観察未実施でよい",
+    "priority": "normal",
+    "novice_value": "映像が映さない場所にも試合の続きがあると気づける",
+    "distinct_from": "6-02は脇役探し一般、E-26は得点直後という限定した実際の場面",
+    "fact_check": [
+      "特定選手の得点時の反応は事前断定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27",
+      "https://www.reysol.co.jp/team/players/"
+    ]
+  },
+  {
+    "candidate_id": "E-27",
+    "question": "ボールに触らないで走るだけでも、味方を助けられるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "外側を走る選手へボールが出ず中央へパスが入ったとき",
+    "answer_scope": [
+      "相手を引きつけて別の選手に空間ができる仕組み",
+      "右と左で対称ではない動き",
+      "複数人が関わる攻撃の見方"
+    ],
+    "today_watch": "柏の遠藤#5・久保#24、東京の俵積田#33が出れば、走ったのにパスを受けない瞬間を探す",
+    "priority": "star",
+    "novice_value": "得点・アシストに残らない働きの入口になる",
+    "distinct_from": "4-02-aは中央・サイドの戦術図。ここは走った本人と受けた仲間の関係を追う",
+    "fact_check": [
+      "各選手の当日位置と出場は未確定。意図は映像か本人発言なしに断定しない"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/team/players/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27",
+      "https://www.fctokyo.co.jp/fan/fanzone/detail/342859/"
+    ]
+  },
+  {
+    "candidate_id": "E-28",
+    "question": "ボールと反対側で手を上げる人は、何を待っているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-27",
+    "category_hint": 6,
+    "trigger": "ボールが右にあるのに左の選手が手を挙げるとき",
+    "answer_scope": [
+      "ボールが移るのを待つ位置",
+      "味方に選択肢を見せるしぐさ",
+      "声が届かない距離での連携"
+    ],
+    "today_watch": "画面に映らない反対側の遠藤#5や俵積田#33がいれば、手と走路と次のパスをつなげて追う",
+    "priority": "normal",
+    "novice_value": "遠い場所を見る『理由』が具体的になる",
+    "distinct_from": "E-27はパスを受けない走り、ここは遠方の手の合図とパスの選択肢",
+    "fact_check": [
+      "手を挙げた意味を特定の選手の内心として断定しない"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/team/players/",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "E-29",
+    "question": "味方が攻めているとき、いちばん後ろの人は休んでいるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "東京や柏が相手ゴール前で長く攻めるとき",
+    "answer_scope": [
+      "攻撃中に後ろを残しておく理由",
+      "相手が奪った場合への備え",
+      "GKとの距離・残る人数を観察する方法"
+    ],
+    "today_watch": "攻めている側の後方で、古賀#4や東京のCB候補がどこまで上がるか見ておく",
+    "priority": "star",
+    "novice_value": "ボールから最も遠い人の仕事が見える",
+    "distinct_from": "6-03-aは準備一般、4-01-bは守備陣形。ここは攻撃中の最後尾の一人を追う",
+    "fact_check": [
+      "両軍の先発と最終ライン役は当日発表で確認"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/team/players/",
+      "https://www.fctokyo.co.jp/fan/fanzone/detail/342859/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "E-30",
+    "question": "ゴールキーパーと後ろの選手は、何を話しているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-29",
+    "category_hint": 6,
+    "trigger": "守備でGKが指をさし、近くのDFが振り向くとき",
+    "answer_scope": [
+      "GKの視界と後方の配置確認",
+      "後方の選手に情報を伝える必要",
+      "外から聞こえる声と聞こえない内容の区別"
+    ],
+    "today_watch": "東京キム#81、柏の出場GKと古賀#4がそろえば、相手CKの前と通常時の声かけを比べる",
+    "priority": "normal",
+    "novice_value": "GKの仕事がセーブだけでないとわかる",
+    "distinct_from": "E-29は攻撃中の最後尾の位置、こちらはGKと守備者の情報共有",
+    "fact_check": [
+      "柏GKは若原・永井・小島の誰かを公式メンバーで確認。会話内容は創作しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/player/801425/",
+      "https://www.reysol.co.jp/team/players/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "E-31",
+    "question": "ボールを取られた味方を、最初に助けに行くのは誰？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "攻撃が途中で途切れ、相手の選手が前を向いた瞬間",
+    "answer_scope": [
+      "ボールを失った直後の二人目・三人目の動き",
+      "追いかける人と戻って道を塞ぐ人の違い",
+      "誰が助けたか観察する手順"
+    ],
+    "today_watch": "東京の高宇洋#8や柏の小西#21が出るなら、失った仲間の斜め後ろをどう埋めるかを見る",
+    "priority": "star",
+    "novice_value": "チームの助け合いを一瞬の位置の変化として発見できる",
+    "distinct_from": "4-01-bは前から奪う戦術。E-31はミスした一人を周りがどう支えるかの観察",
+    "fact_check": [
+      "紹介選手の試合出場・役割は当日照合。支援の意図は状況からの解釈とする"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27",
+      "https://www.reysol.co.jp/team/players/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php"
+    ]
+  },
+  {
+    "candidate_id": "E-32",
+    "question": "パスを失敗した選手に、仲間はどんな反応をするの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-31",
+    "category_hint": 6,
+    "trigger": "パスミス直後、近い二人が顔を見合わせたとき",
+    "answer_scope": [
+      "手をたたく・近づく・声をかける等観察できる行動",
+      "励ましと指示を外見だけで同一視しない",
+      "次のプレーに戻る過程"
+    ],
+    "today_watch": "ミスがあれば、その直後の最も近い味方の行動を10秒ほど見る",
+    "priority": "normal",
+    "novice_value": "失敗の非難でなく試合を続ける人間関係に気づける",
+    "distinct_from": "E-31は守備の穴埋め、こちらはミス直後の対人コミュニケーション",
+    "fact_check": [
+      "具体的な声の内容・感情は本人発言なしに断定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/fan/fanzone/detail/342859/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "E-33",
+    "question": "柏の瀬川祐輔は、途中から出てもそんなに点を取るの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "後半、交代を知らせるボードに柏#20が出たとき",
+    "answer_scope": [
+      "第10節終了時点でJ1全10戦途中出場・8得点と紹介される記録",
+      "交代要員の価値",
+      "出た時間帯とゴール前の動き"
+    ],
+    "today_watch": "瀬川#20が投入されたら、その前後の柏の前方の人数と瀬川が最初に向かった場所を比べる",
+    "priority": "star",
+    "novice_value": "『先発11人だけが主役』という誤解が解ける",
+    "distinct_from": "6-03-bは控えと交代一般。E-33は実際に途中出場で結果を残した選手の問い",
+    "fact_check": [
+      "8得点は10/21試合前のJリーグプレビュー時点と明記。今日の出場は未発表"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.reysol.co.jp/team/players/"
+    ]
+  },
+  {
+    "candidate_id": "E-34",
+    "question": "交代する前の選手は、どんな準備をしているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-33",
+    "category_hint": 6,
+    "trigger": "ベンチの外で選手が走ったり服を脱ぎ替えたりするとき",
+    "answer_scope": [
+      "交代前の身体を温める動き",
+      "呼ばれた選手とスタッフの動線",
+      "交代後最初の仕事を観察する方法"
+    ],
+    "today_watch": "柏瀬川#20や東京の控え候補が動き始めたら、入場するまでの準備を追う",
+    "priority": "normal",
+    "novice_value": "途中出場の瞬間より前から役目が始まると分かる",
+    "distinct_from": "6-03-bは控え全般、E-34は入場直前の可視的な準備に限定",
+    "fact_check": [
+      "当日のウォームアップエリア・出場者は現地規制と公式情報で照合"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27"
+    ]
+  },
+  {
+    "candidate_id": "E-35",
+    "question": "同じゴールを狙う選手が何人もいるのは、なぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-33",
+    "category_hint": 6,
+    "trigger": "柏の藤尾#15・細谷#9・垣田#18が紹介・交代されたとき",
+    "answer_scope": [
+      "前線の選手で異なる受け方・空中戦・背後への動き",
+      "直近で先発と途中出場が入れ替わる事実",
+      "固定の序列ではないこと"
+    ],
+    "today_watch": "柏が前の選手を替えたら、その選手がボールの前と後ろのどこへ立つか比べる",
+    "priority": "normal",
+    "novice_value": "同じポジションにも役割の種類があるとわかる",
+    "distinct_from": "E-33は一人の途中得点、E-35は似た役職の複数人がどう分担するか",
+    "fact_check": [
+      "具体的な適性は当日プレーや公開インタビューで確認し、推測は明記"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/team/players/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.reysol.co.jp/game/results/202627/1014.php",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "E-36",
+    "question": "けがで選手が抜けると、ほかの選手は何が変わるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "選手名簿に知っている名前がなく、別の人がその位置で出たとき",
+    "answer_scope": [
+      "柏の馬場晴也・熊坂光希についてクラブが負傷を発表",
+      "代役と位置の分担",
+      "負傷の詳しい回復を外から予想しない"
+    ],
+    "today_watch": "柏の後方や中盤の名前が10/17と異なれば、誰がどの位置を担うか見る",
+    "priority": "normal",
+    "novice_value": "欠場選手をただの『穴』ではなく周りの共同作業として見る",
+    "distinct_from": "3-02は勝敗への影響、E-36は人が一人抜けたときの代役同士のつながり",
+    "fact_check": [
+      "今夜の欠場確定・復帰可否は発表を確認。負傷と起用変更の因果を断定しない"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/news/topteam/post-1131.html",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.reysol.co.jp/team/players/"
+    ]
+  },
+  {
+    "candidate_id": "E-37",
+    "question": "ゴールキーパーが途中で替わったら、守る仲間も困るの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-36",
+    "category_hint": 6,
+    "trigger": "ゴールキーパーがベンチから出る・交代する場面を見たとき",
+    "answer_scope": [
+      "10/17柏GK若原が13分で交代し永井が入った事実",
+      "GK交代後の後方での声かけと配球",
+      "10/21に同じことが起こるとは言わない"
+    ],
+    "today_watch": "もしGKの交代があれば、直後の味方DFとの距離と最初のパスを確認する",
+    "priority": "normal",
+    "novice_value": "GKの交代もチーム全体に波及するという見方ができる",
+    "distinct_from": "E-36は負傷離脱で事前に変わる編成、E-37は試合中のGK交代に限定",
+    "fact_check": [
+      "10/17の交代理由はJリーグ一次資料で確認。医療判断・今日の先発は不明"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.reysol.co.jp/team/players/"
+    ]
+  },
+  {
+    "candidate_id": "E-38",
+    "question": "若い選手とベテランは、どうやって同じチームになるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "選手紹介で年齢の違う選手が隣に並んだとき",
+    "answer_scope": [
+      "クラブの育成出身と移籍加入者の混在",
+      "経験差がある中で同じ局面を分担",
+      "公表コメントがあれば支え合いの具体例"
+    ],
+    "today_watch": "東京の長友#5と俵積田#33、柏の古賀#4と若手候補が出れば距離感と声かけを見る",
+    "priority": "normal",
+    "novice_value": "選手名鑑の年齢が共同作業を見る手掛かりになる",
+    "distinct_from": "E-11は育成経路、E-38は世代の違う現役選手同士の関係",
+    "fact_check": [
+      "今日の組み合わせと会話内容は未確定。師弟関係は本人資料なしに断定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27",
+      "https://reysol.co.jp/academy/about.php",
+      "https://www.reysol.co.jp/team/players/",
+      "https://www.fctokyo.co.jp/club/hometown/"
+    ]
+  },
+  {
+    "candidate_id": "E-39",
+    "question": "一度クラブを離れて帰ってきた選手は、何が違うの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-38",
+    "category_hint": 6,
+    "trigger": "FC東京#5長友佑都の名を聞いて、長い現役生活を思うとき",
+    "answer_scope": [
+      "長友佑都が海外を経て2021年にFC東京復帰",
+      "昔のクラブ仲間と現在の世代の変化",
+      "戻った選手の経験をどう読み取るか"
+    ],
+    "today_watch": "長友#5が出れば、若い選手への声かけや戻りの位置を見て、経歴と実際の動きを分けて考える",
+    "priority": "normal",
+    "novice_value": "『古巣復帰』が単なる契約のニュース以上に感じられる",
+    "distinct_from": "E-38は年齢差全般、E-39は海外を経た帰還という一人の時間の厚み",
+    "fact_check": [
+      "長友の最新所属はFC東京名簿で確認。具体的な助言は本人談なしに創作しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/club/philosophy/",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27",
+      "https://www.fctokyo.co.jp/club/hometown/"
+    ]
+  },
+  {
+    "candidate_id": "E-40",
+    "question": "選手の試合以外の素顔は、どこで知れるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "個性的なルーティンや笑顔を見て『普段はどんな人？』と思ったとき",
+    "answer_scope": [
+      "クラブ公式インタビュー・チームニュースを人物の言葉の入口にする",
+      "プロフィールと具体的な出来事を分ける",
+      "誰が・いつ・何をしたか揃う逸話だけ紹介する"
+    ],
+    "today_watch": "試合前の練習で気になった一人を選び、公式インタビューで語ったことと目の前の振る舞いを混ぜずに読む",
+    "priority": "normal",
+    "novice_value": "成績一覧からでは見えない人物への関心を健全に深められる",
+    "distinct_from": "6-02の『華以外の選手』は観察の提案。E-40は事実に裏付けられた人物の話へ進む導線",
+    "fact_check": [
+      "逸話が見つからない選手は捏造しない。記事への採用時は発言日時と文脈を検証"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/fan/fanzone/detail/342859/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27",
+      "https://www.reysol.co.jp/team/players/"
+    ]
   }
 ]
