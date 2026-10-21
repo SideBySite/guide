@@ -1,0 +1,278 @@
+[
+  {
+    "candidate_id": "H01",
+    "question": "いま、どっちのゴールを目指しているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "席に着いて、両端にゴールが見えた直後",
+    "answer_scope": [
+      "攻める向きはチームごとに逆で、前半と後半で入れ替わる",
+      "キックオフとゴールキーパーの位置で向きを見つける"
+    ],
+    "today_watch": "19:00の開始直後、FC東京と柏がそれぞれどちらのゴールへ進むかを一度確認。後半開始後に同じ場所を見直す",
+    "priority": "star",
+    "novice_value": "方向が分かると、どこへ走ると得点に近づくのか見える",
+    "distinct_from": "1-02-bは攻める方向の制度。これは席からの実際の見分け方",
+    "fact_check": [
+      "当日の前半の具体的な攻撃方向は開始後に確定"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.theifab.com/laws/latest/determining-the-outcome-of-a-match/"
+    ]
+  },
+  {
+    "candidate_id": "H02",
+    "question": "サッカーでいう「前」と「後ろ」は誰から見た向き？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "H01",
+    "category_hint": 1,
+    "trigger": "攻撃中、選手が自分の席から見て後ろへ走る",
+    "answer_scope": [
+      "前後は観客の正面・背後ではなく、各チームの攻撃する方向を基準にする",
+      "同じ位置でも攻守やハーフの切替えで表現が変わる"
+    ],
+    "today_watch": "FC東京が攻めるときと柏が攻めるとき、それぞれの『前にいる選手』をゴール側で見つける",
+    "priority": "normal",
+    "novice_value": "観客視点と選手視点の食い違いをほどく",
+    "distinct_from": "H01はゴールの向き、H02は説明中の前後の基準",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H03",
+    "question": "「右サイド」って、私の右側のこと？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "H02",
+    "category_hint": 1,
+    "trigger": "実況や周囲の人が『右から来る』と言い、視線が迷う",
+    "answer_scope": [
+      "右・左は通常、そのチームが攻める方向を向いたときの左右で表す",
+      "観客席・中継画面の右とは一致しないことがある"
+    ],
+    "today_watch": "前半のFC東京の右側にいる人と柏の右側にいる人を、左右の端で一人ずつ探す",
+    "priority": "star",
+    "novice_value": "解説の左右をそのまま現地の場所へ変換できる",
+    "distinct_from": "4-02-aは中央と端の役割。こちらは左右という言葉の座標系",
+    "fact_check": [
+      "記事では『右サイド』がチーム基準で語られている文脈か確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H04",
+    "question": "同じチームの選手を、遠くからどう見分けるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "選手が小さく見え、審判や別色の服の人も混ざる",
+    "answer_scope": [
+      "ユニフォームの色と背番号、ゴールキーパーの服装",
+      "主審・副審・控えの識別と、色だけで断定しない手順"
+    ],
+    "today_watch": "選手入場後に両チームのシャツ色、両ゴールのGK、審判を確認し、最初の5分に同じ色の動きを追う",
+    "priority": "star",
+    "novice_value": "誰が味方か分からない状態では、パスも守備も読み取れない",
+    "distinct_from": "1-01-aは人数と役割。H04は現地で遠目に人物を識別する実践",
+    "fact_check": [
+      "当日の両チーム・GK・審判の着用色は公式発表／現地で確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "H05",
+    "question": "ボールに触っていない人も、プレーしているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 1,
+    "trigger": "パスを回す選手以外が歩いたり止まったりする",
+    "answer_scope": [
+      "ボールがないときも、味方の進路や相手の行き先に影響する",
+      "攻撃の受け手・相手を引きつける動き・危険な場所の見張りを区別する"
+    ],
+    "today_watch": "FC東京がパスをつなぐ間、受け取らない味方一人の立ち位置を数十秒追う。柏の攻撃でも同じことをする",
+    "priority": "star",
+    "novice_value": "『仕事をしていない人』という見間違いを減らす",
+    "distinct_from": "6-03-aは準備と位置取りの紹介。H05はそもそも非保持者も参加者なのかという最初の疑問",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H06",
+    "question": "まだ笛が鳴っていないのに、攻めるチームが替わった？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "1-02",
+    "category_hint": 1,
+    "trigger": "パスが途中で奪われて、選手が一斉に反対へ走る",
+    "answer_scope": [
+      "攻守は前後半で交代するのではなく、ボールの支配が移るたびに変わる",
+      "奪われた直後の最初の数秒は、守備の準備が間に合うかを見る"
+    ],
+    "today_watch": "FC東京から柏、柏からFC東京へボールが移った瞬間、近くの三人がどちらに走るかを見る",
+    "priority": "star",
+    "novice_value": "交代制のスポーツを想像していた読者の誤解を解く",
+    "distinct_from": "1-02-bはハーフでの向きの交代。H06はプレー中の攻守の切り替わり",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H07",
+    "question": "線の上にボールが残っていたら、まだ外じゃないの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "タッチライン際で選手が追い、観客には外に見える",
+    "answer_scope": [
+      "ボール全体が線を越えるまでプレーが続く",
+      "空中で越える場合も同じで、見た目の一部だけでは決めない"
+    ],
+    "today_watch": "タッチライン際の球際で、副審と追う選手の反応を比べる。遠い位置は断定しない",
+    "priority": "star",
+    "novice_value": "初観戦では『触れたら外』と誤解しやすい",
+    "distinct_from": "1-03は出た後の再開方法。H07は出たかどうかの境界そのもの",
+    "fact_check": [],
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-ball-in-and-out-of-play/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H08",
+    "question": "選手が倒れたのに、どうして試合が続くの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "2-02",
+    "category_hint": 2,
+    "trigger": "接触して倒れても審判の笛がない",
+    "answer_scope": [
+      "接触や転倒が必ず反則とは限らない",
+      "反則を認めても攻める側が得をするなら続行する『アドバンテージ』がある",
+      "選手のけがによる停止は別に扱う"
+    ],
+    "today_watch": "接触後もボールが動いたら、審判の腕とボールを持つ側を一度見る。倒れた理由は映像なしに決めつけない",
+    "priority": "star",
+    "novice_value": "笛がないことを見逃しや不公平だと即断しない",
+    "distinct_from": "2-02は何が反則か。H08は倒れた直後になぜ続行するかの観察",
+    "fact_check": [
+      "当日の判定意図は審判発表・映像なしに断定しない"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-referee/",
+      "https://www.theifab.com/laws/latest/fouls-and-misconduct/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "H09",
+    "question": "審判が手を伸ばしているのは何の合図？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 2,
+    "trigger": "プレー中や停止直後に主審が腕を上げる",
+    "answer_scope": [
+      "続行を示す動作と、間接フリーキックなどの判定表示を見分ける",
+      "旗を持つ副審の役目も区別する"
+    ],
+    "today_watch": "FKや接触が起きたら、まず主審の手の向きとその後の再開方法を見比べる",
+    "priority": "normal",
+    "novice_value": "知らない合図を一つ読めるだけで、見失った場面に戻れる",
+    "distinct_from": "2-03-aはカードの意味。H09は腕の動きとプレー継続・再開との関係",
+    "fact_check": [
+      "2026/27 IFABの審判シグナル図で表示動作を確認"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-referee/",
+      "https://www.theifab.com/laws/latest/free-kicks/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "H10",
+    "question": "副審の旗が、少し遅れて上がることもあるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "2-01",
+    "category_hint": 2,
+    "trigger": "ゴール前の走り込み後、プレーが進んでから旗が上がる",
+    "answer_scope": [
+      "オフサイドは立ち位置だけで即反則とは限らず、プレーへの関与も見る",
+      "判定を遅らせる場面があり得るが、すべての旗の遅れをVAR由来としない"
+    ],
+    "today_watch": "ゴール前の縦パス時、ボールが蹴られた瞬間と、受け手が触った瞬間を分けて見る",
+    "priority": "normal",
+    "novice_value": "『旗が遅い＝間違い』と誤解するのを防ぐ",
+    "distinct_from": "2-01-a/bは成立要件。H10は現地で旗が上がる時間差が生じる理由",
+    "fact_check": [
+      "当該試合でVAR・副審の遅延運用がどう適用されるか、最新のJリーグ審判情報を確認"
+    ],
+    "sources": [
+      "https://www.theifab.com/laws/latest/offside/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "H11",
+    "question": "ゴールの歓声の後に、得点が消えることもあるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "2-03-c",
+    "category_hint": 2,
+    "trigger": "入ったように見えて喜んだ直後、選手が再開せず待つ",
+    "answer_scope": [
+      "得点成立前の反則・オフサイドなどで認められない場合がある",
+      "主審の最終判定と、必要に応じた映像確認を区別する",
+      "ビジョン表示だけで結論を先取りしない"
+    ],
+    "today_watch": "シュート後は、得点表示だけでなく主審の指示とセンターから再開するかを確認する",
+    "priority": "star",
+    "novice_value": "感情が動く瞬間でも、何が確定したかが分かる",
+    "distinct_from": "2-03-cはVARの仕組み。H11は観客が一度喜んだ後の『得点確定』の読み方",
+    "fact_check": [
+      "本試合のVAR運用・会場ビジョンの表示仕様を公式情報で確認"
+    ],
+    "sources": [
+      "https://www.theifab.com/laws/latest/determining-the-outcome-of-a-match/",
+      "https://www.theifab.com/laws/latest/offside/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "H12",
+    "question": "笛が鳴った後、どこから試合をやり直すの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "2-02-b",
+    "category_hint": 2,
+    "trigger": "笛の後にボールが最初の場所とは違う所に置かれる",
+    "answer_scope": [
+      "外に出た・反則・オフサイド・得点後では再開する場所と方法が違う",
+      "審判や選手がボールを置き直す動きをヒントにする"
+    ],
+    "today_watch": "FC東京側と柏側の最初のフリーキックで、止まった場面と蹴り直す位置をセットで見る",
+    "priority": "normal",
+    "novice_value": "次に誰が触るかを予想でき、停止時間を退屈にしない",
+    "distinct_from": "2-02-bはFKとPKの分類。H12は『どこから』を主題にした見方",
+    "fact_check": [
+      "IFAB 2026/27の各再開条項と例外を執筆時再照合"
+    ],
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-ball-in-and-out-of-play/",
+      "https://www.theifab.com/laws/latest/free-kicks/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  }
+]
