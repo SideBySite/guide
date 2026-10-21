@@ -1,3 +1,23 @@
+---
+id: fctokyo-rio-omori
+title: 大森 理生（FC東京・背番号15）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/296002/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/332316/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/293354/
+  - https://www.jfa.jp/national_team/u18_2020/copadelatlantico_2020/member.html
+  - https://www.jleague.jp/player/1625428/
+  - https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27
+  - https://www.fctokyo.co.jp/news/details/337023/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+checked_at: 2026-10-21T16:58:14.012+09:00
+---
+
 ## 大森 理生（#15、DF・中央／左側の守備、右利き、24歳）
 
 ### 特徴（強み、ユニークポイント）
