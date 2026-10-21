@@ -1,8 +1,8 @@
 {
   "snapshot": {
-    "checked_at": "2026-10-21T13:39:16+09:00",
-    "commit": "7ca8934fa7e5a0c4cd409206a27caecabe34c52f",
-    "verified_task_count": 28,
+    "checked_at": "2026-10-21T13:44:07+09:00",
+    "commit": "d2c40761cf0c2c906f7a410723e03abac2c280b4",
+    "verified_task_count": 29,
     "verified_ids": [
       "01R-A",
       "01R-B",
@@ -31,10 +31,11 @@
       "17",
       "18",
       "19",
-      "20"
+      "20",
+      "23"
     ],
     "discovery_candidate_count": 344,
-    "written_fixed_article_count": 44,
+    "written_fixed_article_count": 52,
     "kashiwa_player_count": 25
   },
   "completed": [
@@ -474,6 +475,25 @@
       ],
       "prs": [
         165
+      ]
+    },
+    {
+      "id": "23",
+      "title": "味スタでの過ごしかた",
+      "status_path": "status/23-done.md",
+      "status_sha": "134c37704dfe64f93c67e1912ddc14f0b9c731c2",
+      "output_paths": [
+        "content/7/7-01.md",
+        "content/7/7-01-a.md",
+        "content/7/7-01-b.md",
+        "content/7/7-01-c.md",
+        "content/7/7-02.md",
+        "content/7/7-02-a.md",
+        "content/7/7-02-b.md",
+        "content/7/7-03.md"
+      ],
+      "prs": [
+        180
       ]
     }
   ]

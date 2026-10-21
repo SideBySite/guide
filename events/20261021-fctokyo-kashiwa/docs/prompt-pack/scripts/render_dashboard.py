@@ -42,5 +42,6 @@ function draw(){
 async function copyPrompt(id){const t=jobs.get(id);if(!ready(t))return;const a=document.getElementById('task-'+id).querySelector('textarea');try{await navigator.clipboard.writeText(t.prompt);document.getElementById('result-'+id).textContent='コピーしました。送付したら「別チャットで作業中」に記録してください。'}catch{document.getElementById('task-'+id).querySelector('details').open=true;a.focus();a.select();let ok=false;try{ok=document.execCommand('copy')}catch{}document.getElementById('result-'+id).textContent=ok?'コピーしました。送付後に作業中と記録してください。':'全文を選択しました。コピー操作をしてください。'}}
 draw();
 </script></body></html>'''
+page=page.replace('44 / 64問',str(m['snapshot']['written_fixed_article_count'])+' / 64問').replace('確認した28担当','確認した'+str(m['snapshot']['verified_task_count'])+'担当')
 (P/'index.html').write_text(page.replace('__DATA__',payload))
 print('Rendered',len(m['tasks']),'tasks,',sum(bool(t.get('verified_complete')) for t in m['tasks']),'verified')
