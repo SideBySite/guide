@@ -1,3 +1,24 @@
+---
+id: fctokyo-teruhito-nakagawa
+title: 仲川 輝人（FC東京・背番号39）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/297728/
+  - https://www.jleague.jp/player/1400647/
+  - https://www.jleague.jp/news/article/16127/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/291005/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/330559/
+  - https://ja.wikipedia.org/wiki/%E4%BB%B2%E5%B7%9D%E8%BC%9D%E4%BA%BA
+  - https://en.wikipedia.org/wiki/Teruhito_Nakagawa
+  - https://www.bellmare.co.jp/2026_emp_3_fctokyo
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+checked_at: 2026-10-21T16:58:29.458+09:00
+---
+
 ## 仲川 輝人（#39、FW・前線の交代／先発競争、右利き、34歳）
 
 ### 特徴（強み、ユニークポイント）
