@@ -574,5 +574,120 @@
       "https://www.jleague.jp/match/j1/2026/102108/",
       "https://www.jfa.jp/laws/soccer/2026_27/"
     ]
+  },
+  {
+    "candidate_id": "D-26",
+    "question": "ボールを取られた瞬間、どこを見ると分かりやすい？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "味方のパスが奪われ、周りの選手がいっせいに向きを変えた直後",
+    "answer_scope": [
+      "切り替えは失った人だけでなく周りの反応",
+      "すぐ寄る人・戻る人・道を塞ぐ人を分けて見る",
+      "全員が同じ方向に走るわけではない"
+    ],
+    "today_watch": "前半にFC東京と柏が一回ずつボールを失った瞬間、近くの三人の最初の二歩を見る",
+    "priority": "star",
+    "novice_value": "最大の見どころがボールを失った直後に始まると気づける",
+    "distinct_from": "既存4-01-b『前から奪う・下がって守る』は守り方の選択、ここは直後数秒の個人の動き",
+    "fact_check": "特定のプレス指示を断定しない。どちらが直後に奪い返すかは予告しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-27",
+    "question": "取られた人がすぐ追うときと、追わないときがあるのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-26",
+    "category_hint": 6,
+    "trigger": "ボールを失った本人が相手へ向かう場合と、離れて戻る場合を続けて見たとき",
+    "answer_scope": [
+      "失った位置・相手との距離・味方の人数で選べる行動が変わる",
+      "追うか戻るかだけで評価しない",
+      "直後の味方のカバーと合わせて読む"
+    ],
+    "today_watch": "どちらかが二回ボールを失った場面で、本人の一歩目だけ比較",
+    "priority": "normal",
+    "novice_value": "『すぐ追わない＝さぼる』の誤解を減らせる",
+    "distinct_from": "D-26全体観察から『ボールを失った本人の一歩目』へ狭める",
+    "fact_check": "追わない理由は未確認。疲労・指示等は立証なしに触れない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-28",
+    "question": "ボールを失ったとき、近くの人が相手の前に立つのは何で？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-26",
+    "category_hint": 6,
+    "trigger": "一人が奪われ、隣の味方がボールより少し先の通り道へ動いたとき",
+    "answer_scope": [
+      "奪い返す以外にパスの道を狭める守備もある",
+      "ボール保持者と次の受け手を見比べる",
+      "相手が別方向を選んだか観察"
+    ],
+    "today_watch": "失った直後、ボールを追った人の隣にいる人を見て、次のパスがどこへ出たか追う",
+    "priority": "normal",
+    "novice_value": "守備が『走って奪うだけ』ではないと知る",
+    "distinct_from": "D-27が本人の追い方、これは周囲の一人がパス経路に入る動き",
+    "fact_check": "本当にパスを制限できたかは相手の選択だけでは証明できない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-29",
+    "question": "ボールを取られた直後、全力で後ろへ走る人は何を見てる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-26",
+    "category_hint": 6,
+    "trigger": "失った場面で一人が相手ではなく自分のゴール方向へ走り出したとき",
+    "answer_scope": [
+      "背後に残る相手や空間を意識しうる",
+      "追う人と戻る人の距離",
+      "戻りながら体や顔の向きを変えることがある"
+    ],
+    "today_watch": "攻撃が途切れたら一度だけ自陣へ戻る人を追い、振り返るタイミングを見る",
+    "priority": "normal",
+    "novice_value": "ボールから離れる動きの意味を考えられる",
+    "distinct_from": "D-28の近くでパス道を塞ぐ動きと違い『長い後退』に注目",
+    "fact_check": "視線の対象や指示は未確認。戻る動きが出るかは試合次第",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-30",
+    "question": "奪い返したのに、すぐ前へ行かず止まるのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-26",
+    "category_hint": 6,
+    "trigger": "ボールを取り返した選手が横や後ろへ短く渡し、前進しなかったとき",
+    "answer_scope": [
+      "相手が戻る前に進む選択と落ち着かせる選択",
+      "近くの味方の数と前方の空間",
+      "前を向ける人の位置が変わる"
+    ],
+    "today_watch": "FC東京と柏のそれぞれの最初の奪い返しで、最初のパスの方向と遠くの味方の動きを見る",
+    "priority": "normal",
+    "novice_value": "『速く攻めない＝消極的』とは限らないと知る",
+    "distinct_from": "既存4-01-a『持って進める・奪って速く』の作戦対比ではなく奪取後の一動作",
+    "fact_check": "遅くした真意は未確認。戦術的評価は実際の場面と分ける",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
   }
 ]
