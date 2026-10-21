@@ -1,3 +1,26 @@
+---
+id: fctokyo-shuto-nagano
+title: 永野 修都（FC東京・背番号20）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/337911/
+  - https://www.jleague.jp/player/1642030/
+  - https://www.fctokyo.co.jp/en/fan/fanzone/detail/292555/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/337311/
+  - https://myfc.co.jp/news/20260627/1188015/
+  - https://myfc.co.jp/news/20260602/1187072/
+  - https://www.jleague.jp/j2/monthly_awards/2026special/02/young-player-east-b/
+  - https://www.jfa.jp/national_team/u17_2023/u17_worldcup2023/member.html
+  - https://www.jfa.jp/national_team/u23_2026/afc_u23_asiancup_2026/final/match_page/m32.html
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://ja.wikipedia.org/wiki/永野修都
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+checked_at: 2026-10-21T16:58:19.797+09:00
+---
+
 ## 永野 修都（#20、登録DF／中盤中央でも起用、右利き、20歳）
 
 > **確認基準**：2026年10月21日15時台 JST、キックオフ前。FC東京の公式登録は**DF**、直近リーグでの中盤中央という説明は試合記録と予想配置を照合した**解釈**だ。先発は発表済みではなく予想なのだ。
