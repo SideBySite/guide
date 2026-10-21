@@ -1,3 +1,28 @@
+---
+id: ksw-taiyo-koga
+title: 古賀太陽（柏レイソル・背番号4）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/04.php
+  - https://www.reysol.co.jp/news/topteam/u-18-2022.html
+  - https://www.reysol.co.jp/news/topteam/u-18-2017.html
+  - https://www.reysol.co.jp/news/topteam/post-60.html
+  - https://www.reysol.co.jp/fan/contents/interview/317.php
+  - https://www.reysol.co.jp/news/topteam/202627-8.html
+  - https://www.jleague.jp/player/1603080/
+  - https://tokatsu-mainichi.com/reysolcolum_shimasenka2025/
+  - https://www.reysol.co.jp/news/event/103-g-5.html
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://ja.wikipedia.org/wiki/古賀太陽
+checked_at: 2026-10-21T16:56:51.749+09:00
+---
+
 ## 古賀太陽（#4、DF〈ディフェンダー＝守備が主な選手〉・中央後方／主将、右利き、27歳）
 
 > **事前ガイド**：2026年10月21日13時台（日本時間）の調査。試合は19:00、味の素スタジアムでの**2026/27明治安田J1リーグ第11節、FC東京対柏**。先発は事前予想で、発表済みの情報ではない。
