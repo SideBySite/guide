@@ -1,3 +1,27 @@
+---
+id: fctokyo-masato-morishige
+title: 森重 真人（FC東京・背番号3）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/294921/
+  - https://www.jleague.jp/player/600085/
+  - https://www.jfa.jp/samuraiblue_2014/member/morishige_masato.html
+  - https://www.joc.or.jp/games/olympic/beijing/sports/football/team/morishigemasato.html
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/290441/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/332316/
+  - https://www.jleague.jp/news/article/16127/
+  - https://www.fctokyo.co.jp/news/details/318894/
+  - https://www.fctokyo.co.jp/news/details/337023/
+  - https://ja.wikipedia.org/wiki/%E6%A3%AE%E9%87%8D%E7%9C%9F%E4%BA%BA
+  - https://en.wikipedia.org/wiki/Masato_Morishige
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+checked_at: 2026-10-21T16:58:07.659+09:00
+---
+
 ## 森重 真人（#3、DF・中央の守備／先発競争、右利き、39歳）
 
 ### 特徴（強み、ユニークポイント）
