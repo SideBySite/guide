@@ -625,5 +625,397 @@
       "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
       "https://www.reysol.co.jp/game/results/202627/1021i.php"
     ]
+  },
+  {
+    "candidate_id": "00-A-28",
+    "question": "いま何対何なのか、座席ではどこを見ればいいの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "得点場面を見逃したら、画面に数字が並ぶ",
+    "answer_scope": [
+      "大型画面の得点とチーム名の読み方",
+      "見えない席では公式試合情報も参照できる"
+    ],
+    "today_watch": "味スタの画面でFC東京と柏の得点を一度読む",
+    "priority": "star",
+    "novice_value": "途中から見始めても状況をつかめる",
+    "distinct_from": "1-01-bは勝敗の規則、こちらは得点の探し方",
+    "fact_check": [
+      "会場の画面位置と見え方は席により異なる"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-29",
+    "question": "表示の左右は、どっちがFC東京なの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-28",
+    "category_hint": 6,
+    "trigger": "得点表示は見えるがチームを取り違えそう",
+    "answer_scope": [
+      "ホーム・アウェーの呼び方",
+      "左右を決め打ちせずチーム名・徽章を照合"
+    ],
+    "today_watch": "画面のFC東京・柏の文字と得点欄を対応させる",
+    "priority": "normal",
+    "novice_value": "点数を逆に読まずに済む",
+    "distinct_from": "00-A-28は点数の発見、こちらは左右の対応",
+    "fact_check": [
+      "味スタの左右表示は当日確認。左が常にホームとは断定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-30",
+    "question": "時計の数字は、何を数えているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-28",
+    "category_hint": 6,
+    "trigger": "画面に45:00など分と秒が見える",
+    "answer_scope": [
+      "前後半各45分の経過を数える仕組み",
+      "表示と主審の終了判断は別"
+    ],
+    "today_watch": "45分を過ぎた時の数字とプレーの継続を見比べる",
+    "priority": "normal",
+    "novice_value": "表示を単純な残り時間と勘違いしない",
+    "distinct_from": "1-02-aは時間規則、こちらは数字の見え方",
+    "fact_check": [
+      "時計の表示形式は当日現地確認"
+    ],
+    "sources": [
+      "https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-7---the-duration-of-the-match",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-31",
+    "question": "遠くの選手は、どうやって見分ければいいの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "座席から顔も名前も見えず人が小さい",
+    "answer_scope": [
+      "ユニフォーム色・背番号・GKの服の手がかり",
+      "公式メンバー表と照合する方法"
+    ],
+    "today_watch": "まず一人の背番号を探し5分追ってみる",
+    "priority": "star",
+    "novice_value": "ルールを知らなくても観察する人を決められる",
+    "distinct_from": "6-02の注目選手選びではなく識別の方法",
+    "fact_check": [
+      "座席によって番号が見えないこともある"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-32",
+    "question": "ゴールキーパーだけ違う色の服なのはなぜ？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "ゴール近くの一人だけ別の色を着る",
+    "answer_scope": [
+      "GKは両チームや審判と区別できる色が必要",
+      "GKの手を使える範囲と役割"
+    ],
+    "today_watch": "両方のGKを見つけボールが遠いときの位置を見る",
+    "priority": "star",
+    "novice_value": "11人の中の特別な役割がすぐわかる",
+    "distinct_from": "1-01-aの人数や位置とは別に服装の規則を説明",
+    "fact_check": [
+      "当日どの色のGK服かは未確認"
+    ],
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://theifab.com/laws/latest/the-players/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-33",
+    "question": "違う服の人が脇にもいるけど、みんな審判なの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-32",
+    "category_hint": 6,
+    "trigger": "ピッチやベンチ周辺に別色の人が複数いる",
+    "answer_scope": [
+      "主審・副審・第4審判の仕事",
+      "控え・医療・運営係と場所や道具で区別"
+    ],
+    "today_watch": "旗を持つ人・板を持つ人・ベンチにいる人を見比べる",
+    "priority": "normal",
+    "novice_value": "服の色だけで役割を決めつけない",
+    "distinct_from": "00-A-32はGKの服、こちらは周辺の人の職種",
+    "fact_check": [
+      "当日の審判・係員の服の色は未確認"
+    ],
+    "sources": [
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/laws/latest/guidelines/body-language-communication-and-whistle/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-34",
+    "question": "白い線は、全部同じ意味なの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "空いたピッチに四角・円・弧が見える",
+    "answer_scope": [
+      "長辺のタッチライン・短辺のゴールライン・中央線",
+      "ゴール前の区域の基本的区別"
+    ],
+    "today_watch": "試合前に中央線とゴール前の四角を探す",
+    "priority": "star",
+    "novice_value": "どこで何が起きているか整理できる",
+    "distinct_from": "1-03は線を出た球の処理、こちらは線の地図",
+    "fact_check": [
+      "視野によって見えない線もある"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-field-of-play/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-35",
+    "question": "ゴール前の大きな四角と小さな四角は何が違うの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-34",
+    "category_hint": 6,
+    "trigger": "ゴールの前に二つの四角が重なる",
+    "answer_scope": [
+      "大きいペナルティーエリアとGKの手の扱い",
+      "小さいゴールエリアとゴールキックの場所"
+    ],
+    "today_watch": "GKが手で扱った場所とゴールキックの開始場所を見る",
+    "priority": "normal",
+    "novice_value": "似た四角の用途の違いがわかる",
+    "distinct_from": "00-A-34は線全体、こちらはゴール前の二つの区域",
+    "fact_check": [
+      "当日例になるプレーは起こるとは限らない"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-field-of-play/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-36",
+    "question": "四角の外にある弧は、何のため？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-34",
+    "category_hint": 6,
+    "trigger": "ペナルティーエリアの外に半円が見える",
+    "answer_scope": [
+      "PKの地点から9.15m離れる目印",
+      "PK以外では特別な禁止区域ではない"
+    ],
+    "today_watch": "試合前に弧を見つけ、もしPKなら立ち位置を見る",
+    "priority": "normal",
+    "novice_value": "謎の曲線が距離の目印とわかる",
+    "distinct_from": "00-A-35は四角、こちらは弧と距離",
+    "fact_check": [
+      "PKが今夜あるとは仮定しない"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-field-of-play/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-37",
+    "question": "四隅の小さな旗は、何のために立っているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-34",
+    "category_hint": 6,
+    "trigger": "遠くの四隅に旗が見える",
+    "answer_scope": [
+      "角を示す旗とコーナーエリア",
+      "ボールが出た後に蹴り直す地点の手がかり"
+    ],
+    "today_watch": "近い角の旗とボールの置き場所を見比べる",
+    "priority": "normal",
+    "novice_value": "旗を単なる飾りだと思わない",
+    "distinct_from": "1-03-bはCK、こちらは旗と地面の線",
+    "fact_check": [
+      "風と旗の動きからプレーへの影響を断定しない"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-field-of-play/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-38",
+    "question": "ベンチ前の線の内側で、立っている人は誰？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "ベンチ前で人が立ち身振りをする",
+    "answer_scope": [
+      "テクニカルエリアの線と監督・スタッフの役割",
+      "指示する人と座る人の区別"
+    ],
+    "today_watch": "両チームのベンチ前の立ち位置と動作を見る",
+    "priority": "normal",
+    "novice_value": "ボール外の人間関係を見る入口になる",
+    "distinct_from": "6-03-bのベンチ一般でなく区切られた場所の意味",
+    "fact_check": [
+      "実際の声や作戦の内容は推測で断定しない"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-field-of-play/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-39",
+    "question": "ベンチ脇で色付きのベストを着て動く人は誰？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-38",
+    "category_hint": 6,
+    "trigger": "タッチライン脇で違う色のビブスを着た人を見る",
+    "answer_scope": [
+      "控えが練習時に識別用の衣服を着る場合",
+      "運営係とは違う役割"
+    ],
+    "today_watch": "番号のついた選手が準備運動しているかを見る",
+    "priority": "normal",
+    "novice_value": "ピッチ外にも出場に備える人がいるとわかる",
+    "distinct_from": "00-A-23は交代前の準備運動、こちらは服装での見分け",
+    "fact_check": [
+      "今夜のビブス色・着用や場所は未確認"
+    ],
+    "sources": [
+      "https://theifab.com/laws/latest/the-players/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-40",
+    "question": "外に出たボールを、すぐ渡してくれるのは誰？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "ボールが外に出ると選手以外がボールを渡す",
+    "answer_scope": [
+      "ボールパーソン等による試合運営サポート",
+      "投げる・蹴る正式な再開は選手が行う"
+    ],
+    "today_watch": "ボールを拾う人と次にプレーする選手を分けて見る",
+    "priority": "normal",
+    "novice_value": "支える人の仕事が見えてくる",
+    "distinct_from": "1-03は再開規則、こちらはボールを供給する役割",
+    "fact_check": [
+      "会場のボール供給方式や配置は当日確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-41",
+    "question": "ゴールが入っていないのに、急に拍手が大きくなるのはなぜ？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "ゴール前の攻防で観客が急に拍手する",
+    "answer_scope": [
+      "シュートを防ぐ・ボールを奪う・戻って助ける等の場面",
+      "観客の反応は席と応援側で異なる"
+    ],
+    "today_watch": "両チームのゴール前でシュートを防いだ人を見る",
+    "priority": "star",
+    "novice_value": "得点以外にも盛り上がりを見つけられる",
+    "distinct_from": "6-03の静かな時間でなく無得点の歓声の瞬間",
+    "fact_check": [
+      "拍手の理由は毎回同じとは限らない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-42",
+    "question": "パスを出した人が、そのまま走り続けるのはなぜ？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "パス後の選手がボールを追わず別の場所へ動く",
+    "answer_scope": [
+      "次に受ける場所や味方の通り道を作る可能性",
+      "見た動作と意図の断定を分ける"
+    ],
+    "today_watch": "一度パスした人だけを次の5秒追う",
+    "priority": "normal",
+    "novice_value": "ボールを持たない人もプレーしていると気づく",
+    "distinct_from": "6-03-aの静かな位置取りと異なるパス直後の連続行動",
+    "fact_check": [
+      "選手ごとの意図は本人発言なしに断定しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-43",
+    "question": "パスが来る前に、何度も後ろを振り向くのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "6-03-a",
+    "category_hint": 6,
+    "trigger": "ボールから離れた人が首を左右へ動かす",
+    "answer_scope": [
+      "味方・相手・空き場所を確認する動きの可能性",
+      "次のプレーに備える観察"
+    ],
+    "today_watch": "FC東京か柏の中盤の一人が受ける前の首の向きを見る",
+    "priority": "normal",
+    "novice_value": "触る前にも準備があると知れる",
+    "distinct_from": "6-03-aの位置取り全般から首の動きだけ深掘り",
+    "fact_check": [
+      "何を見て何を考えたかは推測に留める"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "00-A-44",
+    "question": "ボールの遠くで、手を上げたり指を差したりするのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "00-A-42",
+    "category_hint": 6,
+    "trigger": "ボールから離れた選手が身振りをする",
+    "answer_scope": [
+      "受けたい場所や注意を示す等の複数の可能性",
+      "声が聞こえなくても動作は観察できる"
+    ],
+    "today_watch": "指を差した方向へその後誰が動くかを見てみる",
+    "priority": "normal",
+    "novice_value": "選手同士の関わりを結果でなく過程で見られる",
+    "distinct_from": "00-A-42は走る動作、こちらは非言語の合図",
+    "fact_check": [
+      "具体的な発話と意図は未確認として扱う"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
   }
 ]
