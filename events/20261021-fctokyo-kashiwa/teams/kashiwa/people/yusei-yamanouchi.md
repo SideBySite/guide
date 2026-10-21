@@ -1,3 +1,24 @@
+---
+id: ksw-yusei-yamanouchi
+title: 山之内佑成（柏レイソル・背番号32）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/32.php
+  - https://www.jleague.jp/player/1637309/
+  - https://www.reysol.co.jp/news/topteam/post-911.html
+  - https://www.toyo.ac.jp/link-toyo/sport/yamanouchi_yusei
+  - https://www.toyo.ac.jp/news/20250807-17931.html
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://ja.wikipedia.org/wiki/山之内佑成
+  - https://de.wikipedia.org/wiki/Yūsei_Yamanouchi
+  - https://www.jleague.jp/match/j1/2026/102108/
+checked_at: 2026-10-21T16:57:09.738+09:00
+---
+
 ## 山之内佑成（#32、DF・右後方の守備、右利き、23歳）
 
 > **観戦の入口**：出場したら、右側で相手を止めるだけでなく、味方が前へ出た後の空いた場所を守る動きに注目するとよい。今日の先発・ベンチ入りは**未発表として扱う**（2026年10月21日、試合前）。
