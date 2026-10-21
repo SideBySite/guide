@@ -15,6 +15,10 @@ related: [5-01, 5-01-a, 5-01-b, 5-01-c]
 sources:
   - https://www.fctokyo.co.jp/news/details/336054/
   - https://www.fctokyo.co.jp/news/details/316882/
+  - https://www.albirex.co.jp/news/63401/
+  - https://www.albirex.co.jp/news/63525/
+  - https://www.albirex.co.jp/30th/chronology/
+  - https://www.nikkansports.com/soccer/news/202501100001133.html
   - https://www.f-marinos.com/maribito/matsuhashi_rikizo/
   - https://www.fctokyo.co.jp/fan/fanzone/detail/292571/
   - https://www.fctokyo.co.jp/fan/fanzone/detail/342178/
@@ -50,9 +54,11 @@ sources:
 
 この育成現場では**喜田拓也**や**天野純**ら、後に横浜F・マリノスの主力となる選手を指導した。2017年は同クラブのトップチームでヘッドコーチ（監督を支える中心的な指導者）を務める。2018～2020年にもトップのコーチを続けた。
 
-2021年にはアルビレックス新潟のコーチとなり、**2022年**に監督へ昇格した。その年に新潟をJ2（国内2部リーグ）優勝とJ1（国内1部リーグ）昇格へ導いた。2024年まで新潟を率いた後、2025年からFC東京の監督を務める。
+2021年にはアルビレックス新潟のコーチとなり、**2022年**に監督へ昇格した。開幕から4試合勝てなかったが、そこからホーム10連勝を重ねた。同年10月にJ2（国内2部リーグ）優勝とJ1（国内1部リーグ）昇格を達成し、J2優勝監督賞も受けた。
 
-> **確認済み**：年次は[FC東京公式の指導歴](https://www.fctokyo.co.jp/news/details/336054/)、横浜時代の育成タイトルと実名は[横浜公式取材](https://www.f-marinos.com/maribito/matsuhashi_rikizo/)を参照。2022年の新潟の優勝はリーグの実績であり、今夜の2026/27 J1順位と混ぜない。
+2024年には新潟を初のルヴァンカップ（Jリーグのカップ大会）決勝に導いた。名古屋と延長まで戦い、3–3からPK戦（交互に蹴って勝敗を決める方法）で敗れ、あと一歩で優勝を逃した。2025年からFC東京の監督を務める。
+
+> **確認済み**：年次は[FC東京公式の指導歴](https://www.fctokyo.co.jp/news/details/336054/)、横浜時代の育成タイトルと実名は[横浜公式取材](https://www.f-marinos.com/maribito/matsuhashi_rikizo/)を参照。2022年の新潟の優勝と[2024年の決勝](https://www.albirex.co.jp/30th/chronology/)は新潟公式、[J2優勝発表](https://www.albirex.co.jp/news/63401/)と[優勝監督賞](https://www.albirex.co.jp/news/63525/)にも確認できる。今夜の2026/27 J1順位と混ぜない。
 
 ## おもしろエピソード
 
@@ -68,9 +74,9 @@ sources:
 
 横浜時代は「リキさん」と呼ばれ、育成年代の選手との対話を重ねた。2025年のFC東京での取材でも、選手の判断力や技術を生かして勝つことを重視すると語っている。**2026年10月20日**の柏戦前には、勝ちも負けもチーム全員で引き受けるべきだと話した。
 
-サッカー以外では、走ることや読書、そばへの関心を取り上げた過去の取材がある。現在の私生活の習慣や家族構成の詳細は、**公開情報が見つかりませんでした**。うわさや想像で人物像を埋めないのだ。
+サッカー以外では、走ることや読書、そばへの関心を取り上げた過去の取材がある。2025年1月の就任会見では、調布市・深大寺のそばに母親から聞いた話を結びつけて語った。現在の私生活の習慣や家族構成の詳細は、**公開情報が見つかりませんでした**。うわさや想像で人物像を埋めないのだ。
 
-> 出典：[FC東京・2025年1月インタビュー](https://www.fctokyo.co.jp/fan/fanzone/detail/292571/)、[柏戦前の本人発言（2026年10月20日）](https://www.fctokyo.co.jp/fan/fanzone/detail/342859/)。
+> 出典：[FC東京・2025年1月インタビュー](https://www.fctokyo.co.jp/fan/fanzone/detail/292571/)、[2025年1月10日・日刊スポーツの会見取材](https://www.nikkansports.com/soccer/news/202501100001133.html)、[柏戦前の本人発言（2026年10月20日）](https://www.fctokyo.co.jp/fan/fanzone/detail/342859/)。
 
 ## 直近1年にあったこと
 
