@@ -445,5 +445,290 @@
       "https://www.ajinomotostadium.com/do/do01/top.php",
       "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
     ]
+  },
+  {
+    "candidate_id": "G-21",
+    "question": "歌を知らなくても、応援していいの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 7,
+    "trigger": "周囲から大きな歌声と手拍子が聞こえたとき。",
+    "answer_scope": [
+      "歌う・手拍子・拍手・静かに見るなど参加の濃さを選べる",
+      "周囲への配慮と座席エリアごとのルール",
+      "『応援しなければいけない』義務はない"
+    ],
+    "today_watch": "FC東京が攻める場面で、声を出す人と拍手する人の両方を観察し、無理ない形で参加する。",
+    "priority": "star",
+    "novice_value": "初めてでも場の一員になりやすい。",
+    "distinct_from": "既存7-02は参加全体、ここは『歌えない不安』と選べる関わり方を解く。",
+    "fact_check": "場内の応援形式はその場で確認。周囲の迷惑になる行為を推奨しない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "G-22",
+    "question": "ずっと立っている人がいるけど、座って見てもいい？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-21",
+    "category_hint": 7,
+    "trigger": "ゴール裏に立っている観客を見たとき。",
+    "answer_scope": [
+      "ホーム自由席下層・ビジター席下層は立ち見可能エリアで立つ義務ではない",
+      "ほかのエリアは立ち続けての観戦不可",
+      "見えにくければ席種や係員へ相談"
+    ],
+    "today_watch": "座って見たい場合は券面のエリアを確認し、立ち見エリアと座るエリアを見比べる。",
+    "priority": "star",
+    "novice_value": "静かに観戦したい人の居場所を守る。",
+    "distinct_from": "G-21の声や手拍子の自由とは違い、立見エリアという明確なルール。",
+    "fact_check": "10/21の席割・立見運用変更の有無を当日確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/news/details/342829/",
+      "https://www.fctokyo.co.jp/news/details/342462/"
+    ]
+  },
+  {
+    "candidate_id": "G-23",
+    "question": "あの太鼓は、どこから聞こえるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-21",
+    "category_hint": 7,
+    "trigger": "低いリズムが続いて聞こえたとき。",
+    "answer_scope": [
+      "鳴り物の使用がホーム自由席下層・ビジター席下層に限られる",
+      "歌声とリズムの関係",
+      "音は広いスタンドを越えて伝わる"
+    ],
+    "today_watch": "FC東京側と柏側の応援が交互に聞こえる場面で、音の来る方向を探す。",
+    "priority": "normal",
+    "novice_value": "見えない応援を耳で観察できる。",
+    "distinct_from": "G-22は立つ席のマナー、こちらは音の発生源とその決まり。",
+    "fact_check": "実際に太鼓が鳴る時間・人数・応援は未確定。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/"
+    ]
+  },
+  {
+    "candidate_id": "G-24",
+    "question": "歌い始めるタイミングは、誰が決めているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-21",
+    "category_hint": 7,
+    "trigger": "歌が急に切り替わったとき。",
+    "answer_scope": [
+      "応援を先導する人・集団がいること",
+      "合図・太鼓・試合状況と歌の変化",
+      "選手個人への歌とチームへの歌の区別"
+    ],
+    "today_watch": "歌の切り替わりの前に、観客がどの方向を見ているかを観察する。",
+    "priority": "normal",
+    "novice_value": "応援も誰かが場をつくる協働だと分かる。",
+    "distinct_from": "G-23は音の場所、ここは歌い始める意思決定と合図。",
+    "fact_check": "FC東京と柏の実際の先導方法・リーダーの個人名は裏取りなしで特定しない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "G-25",
+    "question": "選手が入る前に、みんなで歌う曲があるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-21",
+    "category_hint": 7,
+    "trigger": "選手入場前に観客が立ち上がったり歌い出したら。",
+    "answer_scope": [
+      "入場前の応援歌と選手を迎える雰囲気",
+      "音響による曲と観客が歌う曲の違い",
+      "歌詞を知らなくても参加できる"
+    ],
+    "today_watch": "18:58予定の入場直前に、歌が始まるか・タオルを掲げる人がいるかを見る。",
+    "priority": "normal",
+    "novice_value": "試合開始直前の『何か始まる』感覚を理解する。",
+    "distinct_from": "G-24は試合の流れでの歌の切り替え、ここは選手入場の儀礼。",
+    "fact_check": "『You'll Never Walk Alone』等の当日実施・曲順・音源の扱いは要確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "G-26",
+    "question": "大きな旗や横断幕は、誰が準備しているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-21",
+    "category_hint": 7,
+    "trigger": "ゴール裏に大きな布や旗が現れたとき。",
+    "answer_scope": [
+      "サポーターによる掲出・準備",
+      "バナーは指定場所に限る",
+      "大旗はホーム・ビジター各下層の対象エリアだけで使える"
+    ],
+    "today_watch": "開門後や入場前に旗の位置がどう変わるか、客席から見える範囲だけ観察する。",
+    "priority": "normal",
+    "novice_value": "派手な風景の裏にある準備と安全の約束が分かる。",
+    "distinct_from": "G-23は鳴り物、ここは布・旗を掲げる作業と場所の決まり。",
+    "fact_check": "今日の実際の幕・大旗の種類、掲出時間、事前準備は現地確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/news/details/342462/"
+    ]
+  },
+  {
+    "candidate_id": "G-27",
+    "question": "FC東京の人と柏の人は、なんで別の場所に座るの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 7,
+    "trigger": "青赤の集団と黄色の集団が離れて見えるとき。",
+    "answer_scope": [
+      "ホームFC東京・ビジター柏の区分",
+      "安全と応援のしやすさのためエリアが分かれる",
+      "一部メイン席に混在エリアがある"
+    ],
+    "today_watch": "両方のゴール裏の服の色を探し、ピッチを挟んでどちらから歌が来るかを見る。",
+    "priority": "star",
+    "novice_value": "敵味方の視覚的な見分けと席のルールが分かる。",
+    "distinct_from": "3-02は順位や対戦の意味、こちらは観客席側のホーム・アウェー文化。",
+    "fact_check": "席割は今日のチケット販売概要に従う。色だけで個々の支持クラブを断定しない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/342829/",
+      "https://www.fctokyo.co.jp/stadium/manners/"
+    ]
+  },
+  {
+    "candidate_id": "G-28",
+    "question": "柏のユニフォームを着て見られる席はどこ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-27",
+    "category_hint": 7,
+    "trigger": "黄色い服の人がメインスタンドにもいるのを見たとき。",
+    "answer_scope": [
+      "ビジター指定席、メインSS指定席南側とメインS指定席南側など当日許可された区画",
+      "メインSSSは南北ともホーム応援席",
+      "券種とグッズ着用可否は別々に確認する"
+    ],
+    "today_watch": "券面の席種を公式席割図と照らし、ビジターグッズ可のエリア表示を探す。",
+    "priority": "star",
+    "novice_value": "不用意な服装違反や気まずさを防ぐ。",
+    "distinct_from": "G-27はなぜ分かれているか、ここは具体的な着用可能区画。",
+    "fact_check": "車椅子ビジター・車椅子ミックス席も対象。販売・開放状況を10/21告知で再確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/342829/",
+      "https://www.fctokyo.co.jp/stadium/manners/"
+    ]
+  },
+  {
+    "candidate_id": "G-29",
+    "question": "反対側の応援が聞こえたら、どこを見るといい？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-27",
+    "category_hint": 7,
+    "trigger": "柏側から歌が聞こえ、近くの観客も反応したとき。",
+    "answer_scope": [
+      "応援する席の位置と音が届く方向",
+      "両サポーターが別のタイミングで声を出すこと",
+      "場面により静かになる・強まる違いを聴く"
+    ],
+    "today_watch": "柏側の声が大きくなったとき、ピッチの柏の選手がどこにいるか合わせて見る。",
+    "priority": "normal",
+    "novice_value": "相手側にも試合を一緒に作る人がいると気づける。",
+    "distinct_from": "G-27の配置説明と違い、音の変化を使った試合の見方。",
+    "fact_check": "いつもどちらかが歌うといった固定化は避け、当日観察として扱う。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "G-30",
+    "question": "東京ドロンパって、どこで会えるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 7,
+    "trigger": "スタジアム案内にマスコットの絵や名前を見つけたとき。",
+    "answer_scope": [
+      "FC東京のマスコット『東京ドロンパ』の存在",
+      "イベント時刻と場所は出没告知を確認する",
+      "会えない場合もあるので写真や場内映像も入口にする"
+    ],
+    "today_watch": "当日のゲームインフォメーションから『東京ドロンパ出没情報』を開き、場所を確かめて探す。",
+    "priority": "normal",
+    "novice_value": "選手以外のクラブの顔を知れる。",
+    "distinct_from": "G-31の場内放送と異なり、歩いて探す対象。",
+    "fact_check": "10/21個別の出没ページ本文・登場時刻・撮影可否は未確認。確約しない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "G-31",
+    "question": "場内放送や音楽って、何を知らせているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-21",
+    "category_hint": 7,
+    "trigger": "大きな音楽やアナウンスで周りが反応したとき。",
+    "answer_scope": [
+      "選手紹介・交代・得点・安全案内・イベント告知の区別",
+      "聞き取れなければ大型画面も見る",
+      "音楽が流れたら必ずプレー再開ではない"
+    ],
+    "today_watch": "入場前の選手名紹介と試合中のアナウンスを一つずつ聞き比べる。",
+    "priority": "normal",
+    "novice_value": "スタジアムの音を情報として理解できる。",
+    "distinct_from": "G-20は画面、ここは音から情報を拾う方法。",
+    "fact_check": "曲名・流れる順番・アナウンス言語は実施確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "G-32",
+    "question": "今日はハーフタイムにも何か見られるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 7,
+    "trigger": "試合前に会場のフェス案内を見たとき、または前半終了時。",
+    "answer_scope": [
+      "10/21のアイドルフェスとピッチレベル周回企画",
+      "試合前のUtaGe!ライブとハーフタイム『バズーカタイム』を区別",
+      "観戦券・場所・時間の条件"
+    ],
+    "today_watch": "18:40〜18:50頃のライブ予定と、前半終了後の場内周回予定を席から探す。",
+    "priority": "star",
+    "novice_value": "今日しかない現地の楽しみを逃しにくくする。",
+    "distinct_from": "G-09は屋外ライブの券と入口、ここはスタジアム内の試合前・休憩中の内容。",
+    "fact_check": "雨天・進行で変更や中止あり。プレゼント受取や座席移動を確約しない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/340436/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "G-33",
+    "question": "ライブのとき、前の席まで行って見てもいい？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-32",
+    "category_hint": 7,
+    "trigger": "18:45前後にステージ方向へ移動したくなったとき。",
+    "answer_scope": [
+      "場内ライブ・ハーフタイム企画中の前列への移動禁止",
+      "他人の視界や通路をふさがない",
+      "自席から見るための工夫"
+    ],
+    "today_watch": "UtaGe!出演予定の18:40〜18:50頃、座席からメインスタンド側ピッチレベルを眺める。",
+    "priority": "star",
+    "novice_value": "当日特有の混雑・観覧マナーを守れる。",
+    "distinct_from": "G-32は何があるか、ここは鑑賞時の具体的な行動制限。",
+    "fact_check": "雨天実施場所・ステージ位置の変更は当日案内確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/340436/"
+    ]
   }
 ]
