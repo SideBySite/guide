@@ -1,3 +1,27 @@
+---
+id: ksw-keita-endo
+title: 遠藤渓太（柏レイソル・背番号5）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/05.php
+  - https://www.soccerdigestweb.com/news/detail/id=59338?mobileapp=1
+  - https://www.reysol.co.jp/news/topteam/post-1091.html
+  - https://www.fctokyo.co.jp/news/details/337018/
+  - https://www.jleague.jp/match/j1/2026/042906/review/
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.jleague.jp/player/1600177/
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.soccerdigestweb.com/movie/detail4/id=59352
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://www.jfa.jp/national_team/u19_2016/afc_u19_championship_2016/news/00011380/
+  - https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E6%B8%93%E5%A4%AA
+  - https://en.wikipedia.org/wiki/Keita_End%C5%8D
+checked_at: 2026-10-21T16:56:16.788+09:00
+---
+
 ## 遠藤渓太（#5、MF・左側から攻める役割、右利き、28歳）
 
 ### 特徴（強み、ユニークポイント）
