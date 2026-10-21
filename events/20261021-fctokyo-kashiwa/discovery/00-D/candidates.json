@@ -689,5 +689,120 @@
       "https://www.jleague.jp/match/j1/2026/102108/",
       "https://www.jfa.jp/laws/soccer/2026_27/"
     ]
+  },
+  {
+    "candidate_id": "D-31",
+    "question": "声が聞こえない席でも、選手同士のやりとりは見える？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "中盤で選手が手を振る・指す・相手の肩を叩くのが遠くに見えたとき",
+    "answer_scope": [
+      "指差し・視線・体の向きは合図の手掛かり",
+      "声の内容は観客には分からない",
+      "動作から読み取れる事実と解釈を区別する"
+    ],
+    "today_watch": "前半と後半に一度ずつ、ボールが止まった近辺で選手二人の身振りだけを見る",
+    "priority": "star",
+    "novice_value": "実況がなくても連携を見つけられる",
+    "distinct_from": "既存6-03-aの位置取りと異なり手振り・会話の『見えた範囲』を扱う",
+    "fact_check": "実際の発言や宛先は本人証言がない限り未確認。口の動きのみで発言を創作しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-32",
+    "question": "守る人が味方のほうを指さすのは、何を伝えている？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-31",
+    "category_hint": 6,
+    "trigger": "後方の選手がボールではない場所を指しているのを見たとき",
+    "answer_scope": [
+      "指差した先に相手・味方・空間の何があるか確認",
+      "指す前後に味方の立つ位置が変わるか",
+      "指差しの意味は一通りとは限らない"
+    ],
+    "today_watch": "センター付近の守る人が手を出したら、指の先にいる味方の次の一歩を見る",
+    "priority": "normal",
+    "novice_value": "手の動きから複数選手のつながりを見つけられる",
+    "distinct_from": "D-05はGKのゴール前での声らしき動き、これはDFの指差しに限定",
+    "fact_check": "身振りの意味は未確認。『マークを任せた』と断言しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-33",
+    "question": "手を上げているのに、その人へパスが来ないのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-31",
+    "category_hint": 6,
+    "trigger": "味方が持っている間、遠くの選手が片手を上げたがパスが別方向へ出たとき",
+    "answer_scope": [
+      "パスを求める合図にも位置知らせにも見える",
+      "ボール保持者には別の相手や進路が見える可能性",
+      "手を上げた人の次の移動を追う"
+    ],
+    "today_watch": "サイドで挙手する選手がいたら、実際のパス先とその人の次の動きを別々に確認",
+    "priority": "normal",
+    "novice_value": "合図がすぐ結果につながらない場面も楽しめる",
+    "distinct_from": "D-32のDFの指差しとは異なる『受け手候補の挙手』",
+    "fact_check": "挙手の意味とパスを選ばなかった理由は未確認",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-34",
+    "question": "試合中に味方二人が近寄って話すのはどんなとき？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-31",
+    "category_hint": 6,
+    "trigger": "ボールが外へ出た後や得点・失点後、二人が近くで短く話す場面",
+    "answer_scope": [
+      "停止時は配置を整え直す余地がある",
+      "ボールを再開する前後の距離を比較",
+      "何を話したかは客席から推測しない"
+    ],
+    "today_watch": "スローイン前や失点後に二人が近づいたら、再開時の立つ場所だけ追う",
+    "priority": "normal",
+    "novice_value": "プレーが止まった時間も観察する入口になる",
+    "distinct_from": "既存1-03『外に出たボールはどうなる？』は再開規則、こちらは選手間の会話と位置の変化",
+    "fact_check": "会話内容や失点時の責任は断定しない。近寄る場面の有無は不明",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/",
+      "https://www.theifab.com/laws/latest/the-players/"
+    ]
+  },
+  {
+    "candidate_id": "D-35",
+    "question": "味方同士の間が急に狭くなると、何が起きる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-31",
+    "category_hint": 6,
+    "trigger": "同じ側の二人が近づいたり、少し離れて三角形の形が変わるとき",
+    "answer_scope": [
+      "近いと短いパスや助け合いが生まれやすい",
+      "近すぎると相手も一度に寄れる場合",
+      "誰が遠くを受け持つかで見方が変わる"
+    ],
+    "today_watch": "サイドの選手二人の間隔を、ボールを持つ前と受けた後で見比べる",
+    "priority": "normal",
+    "novice_value": "選手の距離を目印に立体的に試合を見られる",
+    "distinct_from": "D-09の守備時のカバーではなく攻守にまたがる『味方二人の距離の変化』",
+    "fact_check": "距離の正解を固定値で示さない。狙いと効果は個別場面次第",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
   }
 ]
