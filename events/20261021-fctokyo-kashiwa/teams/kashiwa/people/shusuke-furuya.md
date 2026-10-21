@@ -1,3 +1,30 @@
+---
+id: ksw-shusuke-furuya
+title: 古谷柊介（柏レイソル・背番号30）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/30.php
+  - https://www.reysol.co.jp/news/topteam/post-1058.html
+  - https://www.jleague.jp/news/article/33489/
+  - https://www.jleague.jp/club/kashiwa/player/detail/1641583/
+  - https://jfa.jp/news/00036090/
+  - https://www.jfa.jp/youth_development/news/00036582/
+  - https://www.tiu.ac.jp/sports/news/detail/fb_20260805_01.html
+  - https://k-nittai.ed.jp/post_club/20630.html
+  - https://www.jfa.jp/match/alljapan_highschool_2022/match_page/m13.html
+  - https://www.jfa.jp/match/alljapan_highschool_2022/match_page/m27.html
+  - https://www.jfa.jp/match/emperorscup_2025/match_page/m5.html
+  - https://www.jfa.jp/national_team/u21_2026/asiangames_2026_men/final/match_page/m29.html
+  - https://www.joc.or.jp/games/asia/2026/sports/football/team/furuyashusuke.html
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.jleague.jp/match/j1/2026/102108/
+checked_at: 2026-10-21T16:56:47.906+09:00
+---
+
 ## 古谷柊介（#30、MF・前方にも出る中盤、右利き、21歳）
 
 > **観戦の入口**：**2027年の柏加入が内定した東京国際大学の学生**で、2026年は**特別指定選手**（大学所属のままJリーグに出場できる選手）なのだ。正式なプロ契約済みの選手と混同しない。今日の先発・控えは発表前には断定できない。
