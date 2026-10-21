@@ -1,3 +1,25 @@
+---
+id: fctokyo-shion-homma
+title: 本間 至恩（FC東京・背番号19）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/337914/
+  - https://www.fctokyo.co.jp/news/details/337091/
+  - https://www.fctokyo.co.jp/news/details/341522/
+  - https://www.jleague.jp/player/1610939/
+  - https://www.youtube.com/watch?v=3LyHwNWPAoA
+  - https://www.nikkansports.com/soccer/news/201809150001044.html
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/340732/
+  - https://www.cerezo.jp/news/2026-0630-1000/
+  - https://www.cerezo.jp/news/2026-0105-1400/
+  - https://www.jleague.jp/news/article/28210/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+checked_at: 2026-10-21T16:58:16.699+09:00
+---
+
 ## 本間 至恩（#19、MF・攻撃的な中盤、右足、26歳）
 
 > **試合前ガイド**：2026年10月21日（水）19:00、FC東京×柏レイソル。**9月21日に左太もも裏の肉離れが公式発表**されている。==今夜の招集は低見込みという予想で、復帰時期や欠場確定を示すものではない==。
