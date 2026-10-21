@@ -1,3 +1,27 @@
+---
+id: fctokyo-marcelo-ryan
+title: マルセロ ヒアン（FC東京・背番号9）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27
+  - https://www.jleague.jp/player/1639139/
+  - https://www.fctokyo.co.jp/team/players/2025/298241/
+  - https://go.jleague.jp/rs/150-RZA-531/images/2025FCTOKYO_guide.pdf?version=0
+  - https://www.transfermarkt.jp/marcelo-ryan/profil/spieler/724702
+  - https://www.sagan-tosu.net/news/p/27461/
+  - https://www.sagan-tosu.net/news/p/36878/
+  - https://www.fctokyo.co.jp/news/details/318909/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/330341/
+  - https://www.jleague.jp/match/j1/2024/042804/summary/
+  - https://www.sagan-tosu.net/match/schedule/past/2024/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://en.wikipedia.org/wiki/Marcelo_Ryan
+checked_at: 2026-10-21T16:57:53.268+09:00
+---
+
 ## マルセロ ヒアン（#9、FW・中央の得点役、右利き、24歳）
 
 > **2026年10月21日19:00、FC東京―柏レイソル**の事前名鑑。背番号と所属は2026/27公式情報を使用。公式先発・控えは本稿の確認時点では未確認で、「先発有力」は**13:50 JSTの予想**なのだ。
