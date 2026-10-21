@@ -544,5 +544,420 @@
       "https://www.jleague.jp/match/j1/2026/102108/",
       "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
     ]
+  },
+  {
+    "candidate_id": "H25",
+    "question": "同じ並び方に見えるのに、なぜ動きが違うの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "スタートの選手配置を見て『同じ形』と思ったあと",
+    "answer_scope": [
+      "配置を表す数字は出発点で、走り方や人の距離を固定するものではない",
+      "攻撃中・守備中では形が変わり、同じ数字でも役割が異なり得る"
+    ],
+    "today_watch": "キックオフ直後にFC東京と柏の立ち位置を一度比べ、各チームがボールを持ったときの広がりも比べる",
+    "priority": "star",
+    "novice_value": "布陣の数字だけで試合が分かったつもりになる盲点を埋める",
+    "distinct_from": "4-03-aは配置の数字の読み方。H25は同じ数字でも現実の動きが異なる理由",
+    "fact_check": [
+      "当日の先発と布陣の数字は公式ラインナップ後に確認。事前に固定しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php"
+    ]
+  },
+  {
+    "candidate_id": "H26",
+    "question": "一人を守るのに、二人必要そうなのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "5-03-a",
+    "category_hint": 5,
+    "trigger": "タッチライン近くでボールを持つ人の前に守備者が二人寄る",
+    "answer_scope": [
+      "一対一で抜かれないための支援、パスの行き先を塞ぐ役割",
+      "二人が寄れば別の場所が空くという交換条件"
+    ],
+    "today_watch": "FC東京か柏がサイドで攻めたら、ボール保持者の前の守備者と、その斜め後ろに来る援護役を見る",
+    "priority": "normal",
+    "novice_value": "『一人対一人』だけでは見えない協力の守備が分かる",
+    "distinct_from": "5-03-aは中央・サイドの相性。H26はサイドに集まる二人の守備の分担",
+    "fact_check": [
+      "二人で守る意図は配置からの観察仮説。個別の指示を断定しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H27",
+    "question": "ボールを奪った直後は、どっちの何を見ればいい？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "5-03-b",
+    "category_hint": 5,
+    "trigger": "柏が奪い返した瞬間に、FC東京の選手が反転して走る",
+    "answer_scope": [
+      "奪った側の最初のパスの向き、味方の走り出し",
+      "失った側の最初の戻り方、危険な場所にいる人"
+    ],
+    "today_watch": "FC東京が奪った場面と柏が奪った場面を一度ずつ選び、最初の5秒の二組の動きを見比べる",
+    "priority": "star",
+    "novice_value": "『攻撃か守備か』だけでなく、切替えに関わる両者の仕事を見られる",
+    "distinct_from": "H06は攻守交代の事実。H27は両クラブの切替えの速さと助け合いを比べる観察法",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php"
+    ]
+  },
+  {
+    "candidate_id": "H28",
+    "question": "急に片方が攻めっぱなしになったのは何が変わった？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "5-03",
+    "category_hint": 5,
+    "trigger": "さっきまで互角だったのに、片側のゴール前に人が集まり続ける",
+    "answer_scope": [
+      "ボールの回収位置、押し上げる人数、相手が外へ出せるかの変化",
+      "得点や交代以外にも、一連のプレーで流れが変わることがある"
+    ],
+    "today_watch": "一方が数分攻め続けたら、反対側GKの立ち位置と、守るチームがどこで最初にボールを奪えるかを比べる",
+    "priority": "normal",
+    "novice_value": "曖昧な『流れ』をピッチ上の観察項目に分解できる",
+    "distinct_from": "5-03は事前の噛み合わせ。H28は試合中に変化した理由を追う",
+    "fact_check": [
+      "試合中の戦術変更は監督発言なしに確定扱いしない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H29",
+    "question": "交代で入った人がボールに触る前に、何が変わるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "5-03-c",
+    "category_hint": 5,
+    "trigger": "交代の掲示後、新しい選手が走り出す",
+    "answer_scope": [
+      "新しい選手が立つ幅と深さ、周囲の味方がずれる位置",
+      "交代の効果を得点だけでなく役割で見る"
+    ],
+    "today_watch": "後半に交代があれば、その選手の最初の30秒はボールではなく立ち位置と味方との距離を見る",
+    "priority": "star",
+    "novice_value": "交代を『疲れたから』だけの出来事として見なくなる",
+    "distinct_from": "5-03-cは交代で変わる戦術全体。H29は交代選手の最初の非保持動作",
+    "fact_check": [
+      "本試合で交代が生じるか、誰が出るかは未確定"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H30",
+    "question": "監督が指をさしたら、何が変わったか見つけられる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "5-03-c",
+    "category_hint": 5,
+    "trigger": "ベンチ前で指示するような手ぶりが見えたとき",
+    "answer_scope": [
+      "指差しの内容は遠目には分からない",
+      "直後の選手の並びや位置変化を見比べるが、因果関係は断定しない"
+    ],
+    "today_watch": "両ベンチが見える席なら、FC東京・柏の監督の身振り後に最寄りの二人の位置を確認。見えない席では無理に探さない",
+    "priority": "normal",
+    "novice_value": "指示の中身を想像で埋めずに、チームの変化を観察できる",
+    "distinct_from": "H29は交代からの変化。H30はベンチの身振りと選手の反応を照合する方法",
+    "fact_check": [
+      "監督の発言内容・意図は取材等で確認できなければ断定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "H31",
+    "question": "ボールばかり見ちゃう。いつ、どこへ目を移せばいい？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "試合開始後ずっとボールを追い、周囲を見る余裕がなくなる",
+    "answer_scope": [
+      "プレー中はボール、ゴール前の準備時間は受け手、逆側にいる人へ視線を移す",
+      "5秒など短く区切る観察と、重要場面ではボールへ戻る方法"
+    ],
+    "today_watch": "最初の10分に一度だけ、柏が後方でパスを持ったらFC東京の守備者一人へ目を移し、ボールが前進したら戻す",
+    "priority": "star",
+    "novice_value": "『全部見なければ』という負担なしに現地ならではの観戦を始められる",
+    "distinct_from": "6-01-aはボール以外を見てもよいか。H31は視線を移す具体的なタイミング",
+    "fact_check": [],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/first_time_guide/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "H32",
+    "question": "一人だけ追ってみるなら、どう選べばいい？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "H31",
+    "category_hint": 6,
+    "trigger": "全員を見ようとして迷い、誰か一人を見たくなる",
+    "answer_scope": [
+      "背番号より先に役割で選ぶ方法：後ろで組み立てる人、守備の先頭、GKなど",
+      "選んだ人を数十秒追って、ボールに触らない時間を楽しむ"
+    ],
+    "today_watch": "前半はFC東京側のGKから一人、後半は柏側の中盤から一人を選ぶ。出場選手の名前は発表後に確認する",
+    "priority": "normal",
+    "novice_value": "名鑑の暗記なしに、一人の仕事を発見できる",
+    "distinct_from": "6-02-a/bはチーム別の具体的選手紹介。H32は初心者が役割から観察対象を選ぶ手順",
+    "fact_check": [
+      "当日の出場選手・背番号は公式ラインナップで確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H33",
+    "question": "すごい守備なのに、拍手が少ないこともあるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "派手なシュートだけが歓声を集めるように感じる",
+    "answer_scope": [
+      "相手のパス道を消す、前進を遅らせる、味方の穴を埋める守備の評価",
+      "歓声の大きさとプレーの重要さは必ずしも一致しない"
+    ],
+    "today_watch": "FC東京が攻めるとき柏の最終ラインの一人を見て、ボールに触らず攻撃を止めた場面を探す。逆も試す",
+    "priority": "star",
+    "novice_value": "見逃しがちな働きを自分の発見として味わえる",
+    "distinct_from": "6-02は華以外の選手。H33は観客の反応とプレーの価値を分ける問い",
+    "fact_check": [
+      "個々のプレーが『好守備』かは結果だけで断定せず、動きの根拠を書く"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H34",
+    "question": "シュートを止めた人の前に、助けた人はいるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "H33",
+    "category_hint": 6,
+    "trigger": "GKのセーブに歓声が上がった直後",
+    "answer_scope": [
+      "最後に防いだ人だけでなく、シュートの角度を狭めた守備者やパスコースを切った人をさかのぼる",
+      "何人もの動きの連なりとして好守備を見直す"
+    ],
+    "today_watch": "シュートを受けた側のGKを見る前に、打った選手の横を走っていた守備者を思い出してみる",
+    "priority": "normal",
+    "novice_value": "結果の主役以外への視線を一場面で試せる",
+    "distinct_from": "H33は静かな守備一般。H34はシュート前から一連の守備をさかのぼる方法",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H35",
+    "question": "誰かがミスした直後、味方は何をしているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "パスが通らず、選手が顔を上げたり近寄ったりする",
+    "answer_scope": [
+      "近くの味方が位置を補う、声をかける、次のパスを受け直すなど行動の種類",
+      "慰めた・怒ったと心の中を決めつけない"
+    ],
+    "today_watch": "FC東京か柏にパスミスがあったら、失った選手だけでなく最寄りの二人の反応を5秒見る",
+    "priority": "star",
+    "novice_value": "ミスを一人の責任で終わらせず、仲間とのつながりを見られる",
+    "distinct_from": "6-03-aは通常の準備。H35はミス後の対人的・位置的な助け合い",
+    "fact_check": [
+      "声の内容や感情は音声・本人発言なしに断定しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H36",
+    "question": "選手同士の合図って、声だけなの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "H35",
+    "category_hint": 6,
+    "trigger": "手を上げる・指差す・顔を向ける選手が目に入る",
+    "answer_scope": [
+      "指や手、体の向き、目線も合図の手掛かりになり得る",
+      "同じ動作でも意味は場面で異なり、定型の秘密サインを創作しない"
+    ],
+    "today_watch": "柏が攻めるとき、ボールのない選手の指差しや手の上げ方と、次に動いた味方の位置を見比べる",
+    "priority": "normal",
+    "novice_value": "スタンドから会話を聞けなくても人間関係を観察できる",
+    "distinct_from": "H35はミス後の反応。H36はプレー中の非言語コミュニケーション",
+    "fact_check": [
+      "具体的な合図の意味は本人取材がなければ『考えられる』にとどめる"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H37",
+    "question": "ボールが向こう側にある間、手前の選手は何してる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "H31",
+    "category_hint": 6,
+    "trigger": "ピッチの反対端で試合が動き、目の前に一人が立っている",
+    "answer_scope": [
+      "遠くにいる味方・相手との距離を調整し、次の展開に備える動き",
+      "攻撃側の幅と守備側のカバーでは着目点が違う"
+    ],
+    "today_watch": "自分の席に近いサイドの選手を30秒だけ追い、ボールが逆側から戻ったときの準備が効いたかを見る",
+    "priority": "normal",
+    "novice_value": "席の場所そのものを観察の楽しみに変えられる",
+    "distinct_from": "H21は攻撃で逆側に残る選手の意味。H37は観客に近い一人の攻守両面を定点観察する",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H38",
+    "question": "何が起きたか見逃しても、次から楽しめる？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "周りだけ歓声が上がり、自分は直前のプレーを見ていない",
+    "answer_scope": [
+      "スコアと再開位置、選手の並びから今の状況に戻る",
+      "全場面を理解するより次の一つの観察を持つ",
+      "リプレーは現地で必ず見られるわけではない"
+    ],
+    "today_watch": "歓声のあとに再開を待つ間、まずスコアを確認し、次はゴール前の一人だけを見る",
+    "priority": "star",
+    "novice_value": "初心者が置いていかれたと思わず観戦を続けられる",
+    "distinct_from": "6-01は最初の10分の見方。H38は途中で見失った後の復帰方法",
+    "fact_check": [
+      "会場での映像リプレー有無・表示タイミングは未確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "H39",
+    "question": "ピッチから遠い席にも、見やすいものがあるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 7,
+    "trigger": "上段やゴール裏から全体が小さく見える",
+    "answer_scope": [
+      "細かな足技は見えにくくても、人の並び・広がりや空き場所は見つけやすい",
+      "近い席は表情や声、遠い席は全体像など距離ごとの楽しみ方"
+    ],
+    "today_watch": "座席からボールの反対側まで見渡せる範囲を確かめ、FC東京と柏の選手が二列・三列に分かれる様子を見る",
+    "priority": "star",
+    "novice_value": "『遠い席は外れ』という思い込みを減らす",
+    "distinct_from": "7-01-aは入場と座席導線。H39は席から得られる視野の違い",
+    "fact_check": [
+      "自席の具体的な見え方は席種・位置で変わるので一般化しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/first_time_guide/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.ajinomotostadium.com/schedule/2026/1021_16099.php"
+    ]
+  },
+  {
+    "candidate_id": "H40",
+    "question": "応援の歌を知らなくても、ただ見ていていい？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-02",
+    "category_hint": 7,
+    "trigger": "周囲が立ち上がり歌い、参加していないことが気になる",
+    "answer_scope": [
+      "声を出す以外にも静かに眺める楽しみ方がある",
+      "席種・エリアごとの立ち見・ユニフォームの決まり、周囲への配慮は別に確認"
+    ],
+    "today_watch": "今日はFC東京の応援席と柏の応援席を音で感じ、あなたは自分の席のルールに合わせた距離感で楽しむ",
+    "priority": "star",
+    "novice_value": "応援の作法を知らない大人の心理的な入り口を作る",
+    "distinct_from": "7-02-aはマナーとエリアの規則。H40は参加の義務があるように感じる不安",
+    "fact_check": [
+      "10/21特別観戦マナー・座席種別の詳細を読んで断定を避ける"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/342462/",
+      "https://www.fctokyo.co.jp/news/details/342829/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "H41",
+    "question": "片側だけ大きな歓声が上がるのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-02",
+    "category_hint": 7,
+    "trigger": "同じプレーを見て、FC東京側と柏側で違う反応が起きる",
+    "answer_scope": [
+      "それぞれ応援するチームが違い、攻撃成功・守備成功の喜びも逆になる",
+      "観客席の角度で見える接触や線際の印象が違うこともある"
+    ],
+    "today_watch": "柏のチャンスとFC東京のチャンスで、応援席の声の出るタイミングを一度ずつ比べる",
+    "priority": "normal",
+    "novice_value": "歓声そのものを試合のもう一つの景色として味わえる",
+    "distinct_from": "H40は自分が応援するかどうか。H41は観客の反応が左右で異なる理由",
+    "fact_check": [
+      "当日の席割り・ビジターエリアは10/21案内で確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/342462/",
+      "https://www.fctokyo.co.jp/news/details/342829/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "H42",
+    "question": "試合が終わったのに、まだ拍手しているのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-03",
+    "category_hint": 7,
+    "trigger": "終了の笛のあと、選手がピッチに残り観客もすぐ帰らない",
+    "answer_scope": [
+      "終了直後の選手同士のあいさつや、スタンドへ向かう場面がある",
+      "必ず同じ順序・演出が行われると決めつけず、帰路の判断は自由"
+    ],
+    "today_watch": "終了後に余裕があれば、FC東京と柏の選手が互いに向かうか、各応援席へ向かうかを見守る",
+    "priority": "normal",
+    "novice_value": "最後の笛以降も試合の人間関係を見る余地がある",
+    "distinct_from": "7-03は帰り方の実用案内。H42は終了後に人々が残る理由と観察",
+    "fact_check": [
+      "当日の終了後挨拶・演出は公式プログラムに明示がなければ断定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/first_time_guide/",
+      "https://www.ajinomotostadium.com/schedule/2026/1021_16099.php"
+    ]
   }
 ]
