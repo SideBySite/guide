@@ -1,0 +1,1034 @@
+[
+  {
+    "candidate_id": "F-01",
+    "question": "今日のFC東京×柏は、どの大会の試合なの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "3-01",
+    "category_hint": 3,
+    "trigger": "場内表示に「明治安田J1 第11節」と出たとき",
+    "answer_scope": [
+      "2026/27明治安田J1リーグ第11節である",
+      "19時、味の素スタジアム、FC東京ホーム",
+      "リーグ戦とカップ戦を識別する表示"
+    ],
+    "today_watch": "場内の大会名とスコアの表示を照合し、まず『この試合はJ1の勝点を動かす』と捉える",
+    "priority": "star",
+    "novice_value": "別大会の成績を混ぜず今見ている競争を特定するため",
+    "distinct_from": "既存3-01は目的の全体像。これは当日の大会名・第11節の識別に限定",
+    "fact_check": [
+      "試合開始前の表示文言は現地で確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php"
+    ]
+  },
+  {
+    "candidate_id": "F-02",
+    "question": "「第11節」って柏との11回目の対戦？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-01",
+    "category_hint": 3,
+    "trigger": "キックオフ前のスクリーンで『第11節』を見たとき",
+    "answer_scope": [
+      "節は今季リーグの日程上の区切り",
+      "同じ相手との対戦回数ではない",
+      "FC東京と柏はともに10試合消化して今日11試合目"
+    ],
+    "today_watch": "第11節表示と、両クラブの消化試合数10を比べる",
+    "priority": "star",
+    "novice_value": "初めて触れる『節』の誤読をその場で解ける",
+    "distinct_from": "F-03は同じ相手に何回会うか。これは節番号の意味だけを扱う",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-03",
+    "question": "同じ柏と、今季は何回対戦するの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "両チーム紹介で過去の対戦成績が流れたとき",
+    "answer_scope": [
+      "J1は20クラブでホーム＆アウェーの2回戦総当たり",
+      "柏とのJ1対戦は原則それぞれの本拠地で1回ずつ",
+      "カップや以前の季節の対戦は別枠"
+    ],
+    "today_watch": "今日FC東京がホームで迎えることを確認し、今季の再戦があるか日程表で探す",
+    "priority": "star",
+    "novice_value": "一度きりの決勝ではなく長いリーグ戦だと気づける",
+    "distinct_from": "既存3-01の大会目的とは別に、同じ相手との再戦という生活感のある数え方",
+    "fact_check": [
+      "再戦日時は公式日程を参照。未確認の日付は書かない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/corporate/about_competitions/season/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "F-04",
+    "question": "20チームなのに、どうして38試合あるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-03",
+    "category_hint": 3,
+    "trigger": "『全38試合』と『20クラブ』の数字を見比べたとき",
+    "answer_scope": [
+      "自分以外は19クラブ",
+      "19クラブ×ホーム・アウェー各1＝38試合",
+      "今季J1は全38節・380試合"
+    ],
+    "today_watch": "試合前の10試合消化を数え、今日を入れて28試合が残っていると確かめる",
+    "priority": "normal",
+    "novice_value": "長さを数字の丸暗記でなく仕組みから理解する",
+    "distinct_from": "F-02は節の意味。こちらは総試合数の算数",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/corporate/about_competitions/season/",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-05",
+    "question": "春にも柏と戦ったのに、今日また戦うのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-03",
+    "category_hint": 3,
+    "trigger": "FC東京の『直近対戦』に2026年2月・4月が載っていたとき",
+    "answer_scope": [
+      "2026年前半の百年構想リーグと8月開幕の2026/27 J1は別大会",
+      "過去の直接対戦は参考情報",
+      "この試合の勝点には春の勝敗を持ち込まない"
+    ],
+    "today_watch": "対戦歴の春の日付を見て、今季の第11節とは違う大会だと読み分ける",
+    "priority": "star",
+    "novice_value": "今年の対戦成績という言葉が起こす最大の混乱を避ける",
+    "distinct_from": "F-39は春の大会の勝点制度そのもの。これは『相手との対戦履歴』の見方に限定",
+    "fact_check": [
+      "春の対戦欄がどの大会に属したか大会別に確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/news/article/31576/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-06",
+    "question": "J1、J2、J3って、同じリーグなの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "3-01-a",
+    "category_hint": 3,
+    "trigger": "順位表やチーム紹介に『J1』『J2』が並んだとき",
+    "answer_scope": [
+      "プロリーグは上からJ1・J2・J3の3層",
+      "2026/27は各20クラブ",
+      "下位区分のクラブもカップ戦では対戦しうる"
+    ],
+    "today_watch": "今日の対戦両者は最上位J1と確認。別大会でJ2・J3の名前が出たら所属を探す",
+    "priority": "star",
+    "novice_value": "『J2なら別競技？』という疑問を防ぎ、日本のクラブ全体像をつかむ",
+    "distinct_from": "既存3-01-aは区分名を紹介する入口。本候補は『3層が一つの制度として接続している』点",
+    "fact_check": [
+      "J3とJFLの細かい条件はこの問いでは扱わない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/corporate/about_competitions/season/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/outline/leaguecup/"
+    ]
+  },
+  {
+    "candidate_id": "F-07",
+    "question": "J1からJ2に落ちることもあるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "順位表の下に降格を示す色がついているのを見たとき",
+    "answer_scope": [
+      "2026/27はJ1年間下位3クラブが原則J2へ降格",
+      "J2側の昇格資格・クラブライセンスで例外あり",
+      "現在の順位はまだ最終結果ではない"
+    ],
+    "today_watch": "今夜の上位対決とは別に、順位表の18～20位に色がある理由を確かめる",
+    "priority": "star",
+    "novice_value": "上位だけでなく下位チームにも同じ90分の切実さがあると理解できる",
+    "distinct_from": "F-10は現時点の順位からの確定誤解。こちらは降格制度そのもの",
+    "fact_check": [
+      "例外規定を省略して『必ず3チーム』と断言しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-08",
+    "question": "J2で勝ち続けたら、J1へ上がれるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-07",
+    "category_hint": 3,
+    "trigger": "降格の説明を読んだ後で『代わりにどこが入る？』と思ったとき",
+    "answer_scope": [
+      "J2上位2クラブは原則自動昇格",
+      "さらに3～6位の昇格プレーオフ勝者が原則昇格",
+      "J1クラブライセンス要件と例外"
+    ],
+    "today_watch": "来季J1の顔ぶれが今季と同じとは限らないと順位表の下部から想像する",
+    "priority": "normal",
+    "novice_value": "順位を競う理由が1位だけではないと分かる",
+    "distinct_from": "F-09は3～6位の一発勝負の仕組み。これは昇格全体の入口",
+    "fact_check": [
+      "ライセンス欠格時の例外を注記する"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/outline/j2/"
+    ]
+  },
+  {
+    "candidate_id": "F-09",
+    "question": "J2の6位でもJ1に上がれることがあるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-08",
+    "category_hint": 3,
+    "trigger": "『昇格プレーオフ』の文字を読んだとき",
+    "answer_scope": [
+      "原則J2の3～6位がJ1昇格プレーオフに参加",
+      "勝ち抜いた1クラブが昇格",
+      "リーグの上位2クラブの直接昇格とは別"
+    ],
+    "today_watch": "リーグの3位と6位が同じ『プレーオフ出場圏』なのかを画面で見比べる",
+    "priority": "normal",
+    "novice_value": "3位と6位の争いにも意味があると理解できる",
+    "distinct_from": "F-08は昇格枠数、こちらは3～6位に残る別ルート",
+    "fact_check": [
+      "プレーオフ対戦方式・開催日を記事化時に公式要項で照合"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j2/",
+      "https://www.jleague.jp/corporate/about_competitions/season/"
+    ]
+  },
+  {
+    "candidate_id": "F-10",
+    "question": "FC東京は今3位なら、来季のJ1はもう確定？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-07",
+    "category_hint": 3,
+    "trigger": "FC東京3位の数字を見て安心したり『確定？』と思ったとき",
+    "answer_scope": [
+      "順位は第10節終了時点の途中経過",
+      "38試合終了後に年間順位が確定",
+      "残る試合次第でいくらでも動く"
+    ],
+    "today_watch": "試合後の暫定順位を『結果の確定』と混同せず、残り試合数を見る",
+    "priority": "normal",
+    "novice_value": "途中の上位と年間残留・タイトル確定を分けられる",
+    "distinct_from": "F-07は制度、F-26は優勝争いの望み。これは『今3位で残留確定か』への答え",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-11",
+    "question": "今季のJ1優勝は、いつ分かるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "3-01",
+    "category_hint": 3,
+    "trigger": "試合開始前に『優勝争い』とアナウンスされたとき",
+    "answer_scope": [
+      "2026/27 J1は2027年6月6日までの予定",
+      "年間順位の1位が優勝",
+      "試合数が残っていても勝点差次第で早期決定することはあるが、今日の確定ではない"
+    ],
+    "today_watch": "今日の第11節を、年間38節の途中であることと照らして楽しむ",
+    "priority": "normal",
+    "novice_value": "今夜の勝敗の重みを大きくしすぎず正確につかめる",
+    "distinct_from": "F-29は優勝した後のこと、こちらは『いつ決まるか』",
+    "fact_check": [
+      "優勝確定の具体的な節は今の時点で予言しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/corporate/about_competitions/season/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "F-12",
+    "question": "「2026/27」って、なぜ年が二つ書いてあるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "場内やチケットに2026/27と印字されているのを見たとき",
+    "answer_scope": [
+      "今季は2026年8月開始・2027年6月終了",
+      "以前の年単位シーズンから秋春制に移行",
+      "『2026年の試合』と『2026/27シーズン』は違う"
+    ],
+    "today_watch": "2026年10月の今夜と2027年の最終節が同じ年間順位に入ると理解する",
+    "priority": "star",
+    "novice_value": "会場で最初に出会う数字の疑問で大会移行を説明できる",
+    "distinct_from": "F-39は移行前の特別大会、F-40は冬休み。これは名称の読み方",
+    "fact_check": [
+      "冬季中断の日程が変更された場合は最新公式を確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/corporate/about_competitions/season/",
+      "https://www.jleague.jp/news/article/26796/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-13",
+    "question": "勝ったら勝点3、負けたら0って何の数字？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "3-02-c",
+    "category_hint": 3,
+    "trigger": "得点表示と別に『勝点23』が示されたとき",
+    "answer_scope": [
+      "ゴールの得点と年間順位用の勝点を区別",
+      "勝3・分1・負0を加算",
+      "FC東京7勝2分＝23、柏7勝0分＝21（10/18時点）"
+    ],
+    "today_watch": "もしどちらかが勝ったら、場内スコアと別に勝点が3増えると暗算する",
+    "priority": "star",
+    "novice_value": "初観戦で試合がリーグ順位に結びつく最短の入口",
+    "distinct_from": "既存3-02-cは結果全体。ここは勝点計算という道具だけ",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-14",
+    "question": "引き分けなら、両方に何が残るの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-13",
+    "category_hint": 3,
+    "trigger": "終盤に同点のままで選手が落ち着いているように見えたとき",
+    "answer_scope": [
+      "J1は90分同点なら引き分け",
+      "両者が勝点1を得る",
+      "勝てば3だが負けると0、点の取り合いと時間の関係"
+    ],
+    "today_watch": "残り10分の両チームの人数のかけ方を観察し、狙いを断定せず考える",
+    "priority": "star",
+    "novice_value": "『勝者が必ず出るはず』という初観戦の誤解を解消",
+    "distinct_from": "1-01-bは試合が引き分けになる説明。こちらはシーズンの勝点1の価値",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "F-15",
+    "question": "3点差で勝ったら、勝点も多くもらえるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-13",
+    "category_hint": 3,
+    "trigger": "どちらかが大差でリードしたとき",
+    "answer_scope": [
+      "何点差でも勝利の勝点は3",
+      "点差は得失点差に反映",
+      "勝点が並んだときの順位を変える可能性"
+    ],
+    "today_watch": "2点目以降が入っても勝点は変わらず得失点差が増える、と確かめる",
+    "priority": "star",
+    "novice_value": "ゴール数と勝点を混同せず、大量得点の別の意味を見つける",
+    "distinct_from": "F-16は得失点差の定義。この問いは『勝点の倍率』への疑問",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-16",
+    "question": "『得失点差』って、ゴールの数と何が違うの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "順位表に得点・失点・得失点差の3列を見つけたとき",
+    "answer_scope": [
+      "得失点差は得点の合計－失点の合計",
+      "10/18 FC東京は21－8＝+13、柏は22－17＝+5",
+      "勝点同数ならまず得失点差で比較"
+    ],
+    "today_watch": "ハーフタイムに今日の得点と失点を足した仮の差を考えてみる",
+    "priority": "star",
+    "novice_value": "点を取るだけでなく守ることの順位上の意味がわかる",
+    "distinct_from": "F-15は大差勝利と勝点の関係。こちらは順位表の3列の見分け方",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-17",
+    "question": "失点を一つ防ぐだけでも、順位に関係するの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-16",
+    "category_hint": 3,
+    "trigger": "得点機会がない時間に守備陣が体を寄せていたとき",
+    "answer_scope": [
+      "失点を防ぐと得失点差の悪化を1防げる",
+      "僅差の順位で得失点差が比較材料になる",
+      "守る選手や後方のカバーの価値を具体化"
+    ],
+    "today_watch": "ボールのない場所で相手をマークする選手や戻る選手に目を向ける",
+    "priority": "star",
+    "novice_value": "得点以外の静かな仕事をシーズンの数字へつなぐ",
+    "distinct_from": "F-16は計算法、こちらは一つの守備行動の観察",
+    "fact_check": [
+      "一回の守備が直接年間順位を決めたとは断定しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-18",
+    "question": "FC東京は勝点23なのに、どうして3位なの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-16",
+    "category_hint": 3,
+    "trigger": "広島・町田・FC東京が同じ勝点23と分かったとき",
+    "answer_scope": [
+      "10/18時点で3クラブは勝点23",
+      "広島+19、町田+15、FC東京+13の得失点差順",
+      "現時点の並びと年間最終順位は区別"
+    ],
+    "today_watch": "前後半の得失点差が変わるたび、同勝点の上位2クラブを思い出す",
+    "priority": "star",
+    "novice_value": "実際の3位という数字に納得でき、今日の1ゴールへの目が変わる",
+    "distinct_from": "既存3-02-aはFC東京の現在地紹介。これは勝点同数時の並びの理由だけ",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-19",
+    "question": "勝点も得失点差も同じなら、何で順位を決めるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-16",
+    "category_hint": 3,
+    "trigger": "順位表の数字を突き合わせても差がないとき",
+    "answer_scope": [
+      "総得点が次の比較項目",
+      "その次は当該チーム間の勝点・得失点差・総得点",
+      "必要な場合のみ抽選という最終規定"
+    ],
+    "today_watch": "今夜の得点が、同勝点・同得失点差のときの総得点にもなると見る",
+    "priority": "normal",
+    "novice_value": "順位表の細かな列に意味があることを知る",
+    "distinct_from": "F-18は今日の勝点23の具体例。ここは公式の次順位規定",
+    "fact_check": [
+      "シーズン途中の暫定順位と年間順位決定の扱いは別記"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-20",
+    "question": "FC東京が今日勝てば、1位になるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "3-02-c",
+    "category_hint": 3,
+    "trigger": "FC東京が先制・リードして周囲が『首位！』と話すとき",
+    "answer_scope": [
+      "FC東京は23→26、柏は21のまま",
+      "広島・町田は試合前23で同日の結果次第",
+      "勝っても単独首位は確約されない"
+    ],
+    "today_watch": "FC東京の得点後、ほかの会場結果と得失点差を照らす",
+    "priority": "star",
+    "novice_value": "勝つことと首位が決まることを分けて見られる",
+    "distinct_from": "既存3-02-cの三分岐から、FC東京勝利時の首位条件だけを深掘り",
+    "fact_check": [
+      "他会場の速報が未確認なら順位を断定しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-21",
+    "question": "柏が今日勝ったら、FC東京より上になる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "3-02-c",
+    "category_hint": 3,
+    "trigger": "柏が得点して逆転・リードしたとき",
+    "answer_scope": [
+      "柏21→24、FC東京23のまま",
+      "両者の勝点の並びは逆転",
+      "ただしリーグ全体での柏の順位はほかのクラブの結果に依存"
+    ],
+    "today_watch": "柏が勝つ場面で両クラブの勝点を頭の中で逆に並べる",
+    "priority": "star",
+    "novice_value": "5位対3位の直接対決に何がかかるか具体的につかむ",
+    "distinct_from": "F-20はFC東京勝利時の首位可否、こちらは両者が逆転する算数",
+    "fact_check": [
+      "両者以外も含む当夜の正式順位は確定後のみ"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "F-22",
+    "question": "引き分けで終わったら、3位と5位の差はどうなる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "3-02-c",
+    "category_hint": 3,
+    "trigger": "後半の終わりに同点で時間が過ぎたとき",
+    "answer_scope": [
+      "FC東京23→24、柏21→22",
+      "両者の勝点差2はそのまま",
+      "双方の他クラブとの差は動く可能性がある"
+    ],
+    "today_watch": "終了の笛の後、2クラブの勝点が1ずつ増えることを確認",
+    "priority": "star",
+    "novice_value": "得点が入らない結末もリーグの動きとして見られる",
+    "distinct_from": "F-14は引き分けの一般的価値。これは今日の24対22の具体計算",
+    "fact_check": [
+      "当日の順位の固定は他会場結果を待つ"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-23",
+    "question": "ほかのスタジアムの試合も、ここの順位に関係ある？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "ハーフタイムや試合後に他会場の速報が出たとき",
+    "answer_scope": [
+      "J1の年間順位は20クラブの勝点を比較",
+      "同日にも広島・町田・神戸などが試合",
+      "自分のチームが勝っても競争相手の結果で表示順位は変わる"
+    ],
+    "today_watch": "味スタの試合と別会場の経過を分けて見て、順位表の動きを考える",
+    "priority": "star",
+    "novice_value": "目の前の試合の外にもう一つの景色があると気づける",
+    "distinct_from": "F-20はFC東京勝利の一条件。こちらは他会場を見る習慣全般",
+    "fact_check": [
+      "他カードの開始時刻やスコアは確認日時を付す"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "F-24",
+    "question": "順位表で試合数が違うチームは、どう比べればいい？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-23",
+    "category_hint": 3,
+    "trigger": "今後の順位表で勝点は多いが試合数が少ないチームを見たとき",
+    "answer_scope": [
+      "公式順位は実際に積み上げた勝点で並ぶ",
+      "未消化試合は仮の勝点3として加えない",
+      "今夜の試合前は全20クラブ10試合消化で試合数差はない"
+    ],
+    "today_watch": "もし21日の途中で11試合と10試合が混ざれば『差は仮のもの』と読む",
+    "priority": "normal",
+    "novice_value": "日程による見かけ上の順位変動に惑わされない",
+    "distinct_from": "F-23は他会場結果、これは消化試合数という別の比較軸",
+    "fact_check": [
+      "第10節終了時点の全クラブ10試合を基準。以降は最新表で更新"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-25",
+    "question": "まだ試合中なのに、順位が動いて見えるのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-23",
+    "category_hint": 3,
+    "trigger": "速報サイトで順位の矢印が入れ替わったとき",
+    "answer_scope": [
+      "速報の順位は現在スコアを前提とした暫定計算がありうる",
+      "Jリーグの公式最終順位は試合終了・公式記録後",
+      "同時刻の他会場も影響"
+    ],
+    "today_watch": "前半と試合後で速報順位を比較し『確定ではない』と読む",
+    "priority": "normal",
+    "novice_value": "実況の緊張感は楽しみつつ確定情報と区別できる",
+    "distinct_from": "F-24は試合数差、こちらはリアルタイム表示の暫定性",
+    "fact_check": [
+      "表示サービスごとのライブ順位仕様を記事化時に確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-26",
+    "question": "今日負けたら、もう優勝できないの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "3-02-c",
+    "category_hint": 3,
+    "trigger": "失点後に周りが悔しがる場面で",
+    "answer_scope": [
+      "今日が11試合目で終了後も27試合予定",
+      "この1試合は重いが、優勝が今日だけで確定・消滅するわけではない",
+      "次戦以降の勝点を取り続ける競争"
+    ],
+    "today_watch": "失点直後の守備の立て直しを見て、目標が一夜で終わると思わない",
+    "priority": "star",
+    "novice_value": "一回の負けを過大視せず今の試合を落ち着いて見られる",
+    "distinct_from": "F-10は残留確定かどうか。こちらは優勝争いからの脱落可否",
+    "fact_check": [
+      "今季順位の数学的確定は日々の最新表で別途計算"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-27",
+    "question": "今5位の柏は、来年アジアの大会に出られるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "柏が5位と紹介され『5位でも海外？』と思ったとき",
+    "answer_scope": [
+      "2027/28 ACL EliteのJ1上位3位は本戦枠、4・5位は予選枠が基本",
+      "2026/27年間最終順位で判断",
+      "前年度アジア大会優勝や資格重複による調整あり"
+    ],
+    "today_watch": "5位の柏を『現時点の予選圏の目安』として、年間確定とは区別する",
+    "priority": "star",
+    "novice_value": "なぜ5位のクラブにも強い動機があるか分かる",
+    "distinct_from": "既存3-01-bはアジア大会の存在。これは2027/28の順位別出場条件",
+    "fact_check": [
+      "ACL枠はJFA／Jリーグの追加変更がないか掲載前に再確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/standings/2026-27/",
+      "https://www.jleague.jp/corporate/pressrelease/article/16051"
+    ]
+  },
+  {
+    "candidate_id": "F-28",
+    "question": "3位と5位では、アジアへの行き方が違うの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-27",
+    "category_hint": 3,
+    "trigger": "順位表にアジア大会出場の色分けがあったとき",
+    "answer_scope": [
+      "2027/28に向けJ1年間上位3位はACL Eliteリーグステージから",
+      "4・5位は予選（インダイレクト）へ",
+      "予選敗退時の扱いと資格重複例外も区別"
+    ],
+    "today_watch": "FC東京3位と柏5位の『今の位置』が違う種類の色で示されるか確かめる",
+    "priority": "star",
+    "novice_value": "同じ『上位』にも異なる目標があると見える",
+    "distinct_from": "F-27は柏が行けるかどうか。これは本戦直行と予選の仕組み",
+    "fact_check": [
+      "例外や予選敗退時のACL Two移行は最新AFC/Jリーグ要項で確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/corporate/pressrelease/article/16051",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-29",
+    "question": "J1で優勝すると、カップももらえるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "3-01",
+    "category_hint": 3,
+    "trigger": "リーグの『優勝』という言葉が出たとき",
+    "answer_scope": [
+      "38試合の年間1位がJ1王者",
+      "Jリーグ杯（優勝銀皿）などの表彰と賞金",
+      "『ルヴァンカップの優勝』とは別の大会・別の杯"
+    ],
+    "today_watch": "試合前の紹介で過去のJ1優勝とカップ優勝が別に並ぶのを確認",
+    "priority": "normal",
+    "novice_value": "賞の名前で別大会を混同しないため",
+    "distinct_from": "F-30は競争方式の違い、こちらはJ1王者への表彰という結末",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-30",
+    "question": "リーグとカップ戦って、どちらが本当の優勝なの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "過去のクラブの『優勝回数』が大会ごとに違ったとき",
+    "answer_scope": [
+      "リーグは全38試合の総合成績で年間優勝",
+      "天皇杯・ルヴァンは原則勝ち抜きでそれぞれ別の優勝",
+      "どれか一つだけが『本当』ではない"
+    ],
+    "today_watch": "今日はリーグ戦。カップ戦での得点や勝敗は今夜のリーグ順位に足さない",
+    "priority": "star",
+    "novice_value": "サッカーに優勝が何種類もある理由を自然に理解できる",
+    "distinct_from": "既存3-01-bは大会名を挙げる説明。これは王者の決まり方の比較",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jfa.jp/match/emperorscup_2026/about.html",
+      "https://www.jleague.jp/outline/leaguecup/"
+    ]
+  },
+  {
+    "candidate_id": "F-31",
+    "question": "天皇杯には、J1じゃないチームも出るの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-30",
+    "category_hint": 3,
+    "trigger": "『天皇杯』のニュースに大学や地域のクラブ名が出てきたとき",
+    "answer_scope": [
+      "第106回天皇杯はJ1・J2各20、都道府県代表47、アマチュアシード1の計88",
+      "一発勝負の勝ち抜き",
+      "今夜のJ1とは別の大会"
+    ],
+    "today_watch": "今日のFC東京・柏の背後に、地域代表も参加できる大会があると知る",
+    "priority": "normal",
+    "novice_value": "地域のサッカーとのつながりを身近に感じられる",
+    "distinct_from": "F-32はルヴァンへのJ2・J3参加。こちらはJリーグ外も含む開放性",
+    "fact_check": [
+      "出場区分は第106回大会に限定。別年度へ流用しない"
+    ],
+    "sources": [
+      "https://www.jfa.jp/match/emperorscup_2026/about.html"
+    ]
+  },
+  {
+    "candidate_id": "F-32",
+    "question": "ルヴァンカップでは、J2やJ3のチームとも戦うの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-30",
+    "category_hint": 3,
+    "trigger": "FC東京の10/14の試合と今夜が別名だったとき",
+    "answer_scope": [
+      "2026/27ルヴァンはJ1・J2・J3の60クラブが参加",
+      "ノックアウト方式、ACL組など一部は後のラウンドから",
+      "J1順位への勝点加算はない"
+    ],
+    "today_watch": "10/14のFC東京の予定と21日の対柏を大会名で見分ける",
+    "priority": "normal",
+    "novice_value": "同じクラブが違う顔ぶれと対戦する理由を理解できる",
+    "distinct_from": "F-31は天皇杯のアマチュア参加、こちらはJリーグ3層の対戦",
+    "fact_check": [
+      "FC東京の10/14の対戦相手は最新公式記録と照合"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/leaguecup/",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=ftokyo&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "F-33",
+    "question": "カップ戦で同点なら、今日みたいに引き分け？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-30",
+    "category_hint": 3,
+    "trigger": "引き分けの話を聞いて過去のPK戦が気になったとき",
+    "answer_scope": [
+      "今夜のJ1は90分同点なら引き分け",
+      "ルヴァン1stラウンドなど決着が要る方式は延長・PK戦あり",
+      "大会・ラウンドごとの違いを整理"
+    ],
+    "today_watch": "今日同点で90分が終わってもPK戦には進まないと確認する",
+    "priority": "star",
+    "novice_value": "『サッカーは最後に必ずPK戦？』という誤解を解く",
+    "distinct_from": "既存1-01-bは今日の勝敗。こちらは別大会との対比に絞る",
+    "fact_check": [
+      "ルヴァンのホーム&アウェー準々決勝等は個別規則が異なるため一律化しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/outline/leaguecup/"
+    ]
+  },
+  {
+    "candidate_id": "F-34",
+    "question": "カップ戦で勝った点数は、J1の勝点に足されるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-30",
+    "category_hint": 3,
+    "trigger": "先週のFC東京や柏の勝利数を合計したくなったとき",
+    "answer_scope": [
+      "大会ごとに順位・勝敗記録が別管理",
+      "J1の勝点はJ1の結果だけで計算",
+      "柏のACL勝利・FC東京のルヴァン勝利もJ1勝点には入らない"
+    ],
+    "today_watch": "スコア紹介に『J1』『ルヴァン』『ACL』のラベルがあるか見る",
+    "priority": "star",
+    "novice_value": "複数大会が混じる10月の成績表示を正しく読める",
+    "distinct_from": "F-05は春の対戦履歴、こちらは同時期の別大会スコアの非加算",
+    "fact_check": [],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/outline/leaguecup/",
+      "https://www.reysol.co.jp/afc202627/index.php",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=ftokyo&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=kashiwa&enddate=2026-10-31&period=custom&startdate=2026-10-01"
+    ]
+  },
+  {
+    "candidate_id": "F-35",
+    "question": "柏は、外国のクラブとも試合しているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "柏の最近の対戦相手にタイや韓国のクラブ名が出たとき",
+    "answer_scope": [
+      "柏は2026/27 ACL Elite出場クラブ",
+      "9/16は全北現代、10/14はポートFCと対戦済み",
+      "10/27はタイのラーチャブリーとの対戦予定",
+      "今日のFC東京戦は国内J1"
+    ],
+    "today_watch": "柏のベンチ入り選手が国内外の試合を短期間で行う日程を思い浮かべる",
+    "priority": "star",
+    "novice_value": "遠征も含むクラブの暮らしが試合観察につながる",
+    "distinct_from": "既存3-01-bは一般的なアジア大会。これは今季柏の実際の日程",
+    "fact_check": [
+      "10/27は未来の予定。結果を先取りしない"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/afc202627/index.php",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=kashiwa&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php"
+    ]
+  },
+  {
+    "candidate_id": "F-36",
+    "question": "柏は10月14日にも戦ったのに、今日も試合なの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-35",
+    "category_hint": 3,
+    "trigger": "試合紹介の直近記録を見て日付が近いと気づいたとき",
+    "answer_scope": [
+      "10/14はACL EliteポートFC戦",
+      "10/17はJ1名古屋戦",
+      "10/21はJ1 FC東京戦",
+      "大会の横断で連戦になる"
+    ],
+    "today_watch": "準備運動や交代時に顔ぶれがどう変わるかを見てみる。疲労や起用理由は決めつけない",
+    "priority": "star",
+    "novice_value": "得点以外の『準備・回復』という入口になる",
+    "distinct_from": "F-41は今夜以降の中2日を含む日程。これは10/14から今日までの履歴",
+    "fact_check": [
+      "選手個人の出場分数や疲労は未確認。公式出場記録を使う"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/afc202627/index.php",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=kashiwa&enddate=2026-10-31&period=custom&startdate=2026-10-01"
+    ]
+  },
+  {
+    "candidate_id": "F-37",
+    "question": "柏が今出ているACLと、来季の出場枠は別なの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-35",
+    "category_hint": 3,
+    "trigger": "『今ACLに出てる』と『J1上位でACLに行く』が同時に語られたとき",
+    "answer_scope": [
+      "2026/27 ACLへの柏の出場は過去の大会結果で確保した資格",
+      "今日のJ1の順位は原則2027/28 ACL枠へ結びつく",
+      "『出場中の大会』と『次回への切符』を区別"
+    ],
+    "today_watch": "今夜の勝敗で柏の今季ACLの勝点が変わるわけではないと理解する",
+    "priority": "star",
+    "novice_value": "似た名前・異なる年号の二つの大会を取り違えない",
+    "distinct_from": "F-27は来季の順位条件、こちらは今年出場中であることとの時間差",
+    "fact_check": [
+      "柏の2026/27参加資格について公式記述を基準にする"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/afc202627/index.php",
+      "https://www.jleague.jp/corporate/pressrelease/article/16051",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-38",
+    "question": "日本代表と、FC東京や柏って何が違うの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "日本代表の経験がある選手の紹介を見たとき",
+    "answer_scope": [
+      "FC東京・柏は日々所属するクラブ",
+      "日本代表は国の代表として選ばれた選手が集まるチーム",
+      "代表の勝敗はJ1順位に直接足されない"
+    ],
+    "today_watch": "選手紹介の『代表歴』と今夜のクラブの所属・ユニフォームを見分ける",
+    "priority": "normal",
+    "novice_value": "有名な日本代表のイメージから国内リーグへ入れる",
+    "distinct_from": "F-35はクラブの国際大会。こちらは国代表とクラブの主体の違い",
+    "fact_check": [
+      "今日の選出選手名は公式メンバー発表なしに書かない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-39",
+    "question": "今年の春の『百年構想リーグ』の勝点は、今も残っているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-12",
+    "category_hint": 3,
+    "trigger": "2026年春のニュースに『百年構想』という名前を見たとき",
+    "answer_scope": [
+      "2026年前半の特別大会と2026/27 J1は別大会",
+      "特別大会は当時の方式（90分同点でPK戦など）で行われた",
+      "今夜の勝点23・21は8月以降のJ1のみ"
+    ],
+    "today_watch": "春の対戦結果を今夜の順位表の勝点に加えない",
+    "priority": "star",
+    "novice_value": "移行年固有のいちばん大きな誤解を避けられる",
+    "distinct_from": "F-05は春の相手との再戦。こちらは春大会の勝点とルールの切り分け",
+    "fact_check": [
+      "特別大会の大会方式・降格なしなどは公式で再照合"
+    ],
+    "sources": [
+      "https://www.jleague.jp/news/article/31576/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-40",
+    "question": "秋に始まったリーグは、冬の間もずっと続くの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-12",
+    "category_hint": 3,
+    "trigger": "10月の観戦後『次はいつまで試合がある？』と思ったとき",
+    "answer_scope": [
+      "2026/27は夏開幕から翌年6月まで",
+      "冬季中断（ウインターブレーク）が設けられる",
+      "予定と実際の個別クラブ日程は分けて扱う"
+    ],
+    "today_watch": "今日から年末・来春に続くシーズンの長さを考える",
+    "priority": "normal",
+    "novice_value": "秋春制の季節感を、生活リズムとして理解する",
+    "distinct_from": "F-12は2つの年号の意味、こちらは寒い時期の中断と再開",
+    "fact_check": [
+      "中断開始日・再開日は発表後の最新Jリーグ日程で確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/news/article/26796/",
+      "https://www.jleague.jp/corporate/about_competitions/season/"
+    ]
+  },
+  {
+    "candidate_id": "F-41",
+    "question": "柏は今日の3日後にも試合。休む時間は足りるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "柏の10/24鹿島戦・10/27タイ遠征の日程を見たとき",
+    "answer_scope": [
+      "10/21 FC東京→10/24鹿島は中2日",
+      "さらに10/27ラーチャブリーとのACL戦予定",
+      "短い間隔と遠征がある事実、各選手の疲労は別問題"
+    ],
+    "today_watch": "試合前のウォームアップ、終盤の走り方、交代後の配置を観察する",
+    "priority": "star",
+    "novice_value": "チームの準備と無球の支えを日程から見直せる",
+    "distinct_from": "F-36はここまでの連戦履歴。こちらは今夜を起点に続く日程",
+    "fact_check": [
+      "選手のコンディションや先発予測は本人・クラブ根拠なしに断定しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=kashiwa&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.reysol.co.jp/afc202627/index.php",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php"
+    ]
+  },
+  {
+    "candidate_id": "F-42",
+    "question": "試合が続くと、なぜ前の試合と選手が違うの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-41",
+    "category_hint": 3,
+    "trigger": "メンバー表が以前見た顔ぶれと違うとき",
+    "answer_scope": [
+      "複数大会の参加や中2日の日程で起用の選択肢がある",
+      "選手交代と先発変更は違う",
+      "休養・戦術・けがなど理由は公式の説明がない限り候補"
+    ],
+    "today_watch": "先発表と試合前のウォームアップ、控えの入場を見比べる",
+    "priority": "star",
+    "novice_value": "主役以外の選手、ベンチ、準備を見る入口になる",
+    "distinct_from": "既存6-03-bは試合中のベンチの動き。こちらは連戦で先発が変わる可能性",
+    "fact_check": [
+      "当日メンバー発表前に『誰が休養で欠場』と書かない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=kashiwa&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=ftokyo&enddate=2026-10-31&period=custom&startdate=2026-10-01"
+    ]
+  },
+  {
+    "candidate_id": "F-43",
+    "question": "FC東京と柏、今週の忙しさは同じなの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-41",
+    "category_hint": 3,
+    "trigger": "両チームの直近試合を並べたとき",
+    "answer_scope": [
+      "FC東京は10/14ルヴァン→10/17 J1→10/21 J1→10/25 J1",
+      "柏は10/14 ACL→10/17 J1→10/21 J1→10/24 J1→10/27 ACL",
+      "大会と遠征の違いを整理"
+    ],
+    "today_watch": "同じ90分でも両ベンチの交代タイミングが違うか観察し、理由は断定しない",
+    "priority": "normal",
+    "novice_value": "日程が同じように詰まっても準備が同一ではないと気づく",
+    "distinct_from": "F-41は柏の次戦への短い間隔。こちらは両チームを並べて比べる",
+    "fact_check": [
+      "直前の移動・練習や選手の健康状態は未確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=ftokyo&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=kashiwa&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.jleague.jp/outline/leaguecup/",
+      "https://www.reysol.co.jp/afc202627/index.php"
+    ]
+  }
+]
