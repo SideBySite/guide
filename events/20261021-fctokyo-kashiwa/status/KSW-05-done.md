@@ -8,7 +8,7 @@
 
 ## 保存した成果・コミット
 1. **teams/kashiwa/people/yuki-kakita.md** — 垣田裕暉。最初の保存・コミット **3699c463a44eb9e4cbceb5a69f9ebd3216fb45c2**。調査後の確認・出典補強 **df8682c2058285114747c94d050e34110ea9c7ff**、文章推敲 **da33423f0d7f18d6304483ff164ac4377d98880c**。
-2. **teams/kashiwa/people/yusuke-segawa.md** — 瀬川祐輔。保存・コミット **f5e446f85d9bc4e5edeeb231b1053de44fa8f278**。
+2. **teams/kashiwa/people/yusuke-segawa.md** — 瀬川祐輔。保存・コミット **f5e446f85d9bc4e5edeeb231b1053de44fa8f278**。9月度J1月間MVPの一次資料確認・追記 **89adc3b8b7e8391dff331e6f06ad637326b03928**。
 3. **teams/kashiwa/people/kenshin-yuba.md** — 弓場堅真。最初の保存・コミット **5393d46d9d5b8d29f58c582a1d6ddcda53f86996**、育成年代の裏付け・装飾調整 **e58a1de9ef0348de47e500b1e78b973b2c133e6c**。
 
 3人それぞれに指定の見出し、全項目、サッカー内外のエピソード、直近5試合（大会ごと）、出場予想の根拠、個別の出典URL、今日のボール外の観察ポイントを記した。3人を一つの記事には統合していない。Wikimedia Commonsの作者とライセンスまで確認できる本人写真は採用せず、画像なし。
@@ -18,7 +18,7 @@
 - 3人の2026/27所属・番号・年齢・利き足・身体：柏公式 https://www.reysol.co.jp/team/players/202627/18.php ／ https://www.reysol.co.jp/team/players/202627/20.php ／ https://www.reysol.co.jp/team/players/202627/44.php
 - 直近の出場・位置・交代・得点：柏試合速報 https://www.reysol.co.jp/game/results/202627/1017.php ／ https://www.reysol.co.jp/game/results/202627/1014.php ／ https://www.reysol.co.jp/game/results/202627/1009.php ／ https://www.reysol.co.jp/game/results/202627/1003.php ／ https://www.reysol.co.jp/game/results/202627/0920.php
 - 垣田：2015年鹿島U-18のFC東京U-18戦の決勝点は https://www.antlers.co.jp/ja-world/blogs/academy-reports/48161 、決勝出場は https://www.jfa.jp/match/prince_takamado_trophy_u18_2015/championship_2015/schedule_result/ 、2025年ルヴァン杯得点王は https://www.jleague.jp/leaguecup/stats/player/2025/score/search-list/ 。徳島離任時の阿波踊りの話は https://soccermagazine.jp/j1/17507485 。
-- 瀬川：大学時代の経緯・就職内定の話は本人取材 https://www.bellmare.co.jp/275593 と専門媒体 https://www.soccerdigestweb.com/movie/detail2/id%3D72180 。2016年のデビュー戦2得点1アシストは https://www.soccerdigestweb.com/movie/detail5/id%3D14341 でも確認。今季10試合すべて途中出場・8得点は10月21日のJリーグ試合前記事 https://www.jleague.jp/match/j1/2026/102108/ 。
+- 瀬川：大学時代の経緯・就職内定の話は本人取材 https://www.bellmare.co.jp/275593 と専門媒体 https://www.soccerdigestweb.com/movie/detail2/id%3D72180 。2016年のデビュー戦2得点1アシストは https://www.soccerdigestweb.com/movie/detail5/id%3D14341 でも確認。今季10試合すべて途中出場・8得点は10月21日のJリーグ試合前記事 https://www.jleague.jp/match/j1/2026/102108/ 。**9月度J1月間MVP（2026-10-08発表、初受賞）**は https://www.jleague.jp/j1/monthly_awards/2026-27/09/mvp/ 。
 - 弓場：2018年浜松開誠館の岡島との寮・席の逸話は https://www.nikkansports.com/soccer/news/201811170000316.html 、同校初の県優勝2対1は https://www.nikkansports.com/soccer/news/201811170000902.html 、いとこ・ゲーム・ギターの話は本人Q&A https://www.fcimabari.com/player/top/202514yuba 。2026年10月3日の2得点は柏公式記録、10月14日ACLのゴール起点も柏公式で確認。
 
 ## 逸話の選定・見送りの理由
