@@ -1,7 +1,7 @@
 ---
-id: fctokyo-player-hayate-tanaka
-title: 田中 颯｜FC東京 #1
-category: fctokyo-people
+id: fctokyo-hayate-tanaka
+title: 田中 颯（FC東京・背番号1）
+category: people
 sources:
   - https://www.fctokyo.co.jp/team/players/2026/329391/
   - https://www.fctokyo.co.jp/news/details/318905/
