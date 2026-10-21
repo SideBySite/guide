@@ -1,7 +1,7 @@
 ---
 id: fctokyo-sei-muroya
-title: 室屋成はどんな選手？ けがで欠場見込みでも知りたい守備と経歴
-category: 5
+title: 室屋 成（FC東京・背番号2）
+category: people
 type: person
 team: fctokyo
 slug: sei-muroya
