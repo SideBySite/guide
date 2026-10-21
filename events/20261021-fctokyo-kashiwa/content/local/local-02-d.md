@@ -10,7 +10,9 @@ sources:
   - https://www.reysol.co.jp/past-pages/fan/contents/ontheway/21-fujita.php
   - https://www.reysol.co.jp/fan/contents/interview/336.php
   - https://www.fctokyo.co.jp/news/details/342462/
-checked_at: 2026-10-21T15:22:39+09:00
+  - https://www.reysol.co.jp/fan/contents/interview/336.php
+  - https://www.reysol.co.jp/fan/contents/vitoria/
+checked_at: 2026-10-21T16:24:31+09:00
 ---
 
 ## ひとことで
@@ -23,7 +25,9 @@ checked_at: 2026-10-21T15:22:39+09:00
 
 ## おもしろエピソード
 
-**2007年11月**、けがから公式戦に復帰したDF（守備の選手）の**近藤直也**に、サポーターが新しいチャントを贈った。試合前の練習で3回繰り返され、本人は最後には照れた笑顔を見せたという。[当時のクラブ広報日記](https://blog.reysol.co.jp/koho/2007/11/)に残る。==応援歌が選手を迎える言葉になった==場面だ。
+**2007年11月**、けがから公式戦に戻ったDF（守備の選手）**近藤直也**を、サポーターが新しいチャントで迎えた。試合前の練習中に**3回**歌い、本人は照れて笑った。[当時のクラブ広報](https://blog.reysol.co.jp/koho/2007/11/)によると、歌は夏ごろには完成していたのに、復帰までお披露目を待っていた。==歌の初披露が、選手を迎える場面になった==のだ。
+
+**2018年1月30日**、当時の得点役**クリスティアーノ**は[クラブの本人取材](https://www.reysol.co.jp/fan/contents/interview/336.php)で、自分のチャントが聞こえると鳥肌が立つと語った。==客席からの歌は、ピッチの選手にも届いていた==。[当時の発行号一覧](https://www.reysol.co.jp/fan/contents/vitoria/)で取材掲載日が確かめられる。今の選手に同じ感想を決めつけるわけではない。
 
 のちの[クラブによる藤田優人の取材](https://www.reysol.co.jp/past-pages/fan/contents/ontheway/21-fujita.php)にも、選手ごとの歌が日立台で歌われた記録がある。
 
