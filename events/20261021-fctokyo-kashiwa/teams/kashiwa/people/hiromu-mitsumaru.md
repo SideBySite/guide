@@ -1,3 +1,26 @@
+---
+id: ksw-hiromu-mitsumaru
+title: 三丸拡（柏レイソル・背番号2）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/02.php
+  - https://www.jleague.jp/player/1600210/
+  - https://www.jfa.jp/national_team/u23_2016/member/mitsumaru_hiromu.html
+  - https://www.sagan-tosu.net/news/p/832/
+  - https://www.reysol.co.jp/past-pages/game/results/2021/1016.php
+  - https://www.jleague.jp/match/j1/2021/101606/review/
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://ja.wikipedia.org/wiki/三丸拡
+  - https://en.wikipedia.org/wiki/Hiromu_Mitsumaru
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://www.jleague.jp/match/j1/2026/102108/
+checked_at: 2026-10-21T16:56:13.500+09:00
+---
+
 ## 三丸拡（#2、DF＝守る選手・左後方、左利き、33歳）
 
 ### 特徴（強み、ユニークポイント）
