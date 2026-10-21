@@ -1,3 +1,27 @@
+---
+id: ksw-ryosuke-kojima
+title: 小島亨介（柏レイソル・背番号25）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/25.php
+  - https://www.jleague.jp/player/1300961/
+  - https://www.waseda.jp/inst/weekly/attention/2017/07/18/31025/
+  - https://www.albirex.co.jp/news/63525/
+  - https://www.albirex.co.jp/team/player/2024/1/
+  - https://www.reysol.co.jp/game/results/202627/0829.php
+  - https://www.reysol.co.jp/game/results/202627/0911.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://ja.wikipedia.org/wiki/小島亨介
+  - https://en.wikipedia.org/wiki/Ryosuke_Kojima
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+checked_at: 2026-10-21T16:56:31.246+09:00
+---
+
 ## 小島亨介（#25、GK＝ゴールを守る選手、左利き、29歳）
 
 ### 特徴（強み、ユニークポイント）
