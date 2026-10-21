@@ -1,3 +1,23 @@
+---
+id: fctokyo-wataru-goto
+title: 後藤 亘（FC東京・背番号58）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/2026/298251/
+  - https://www.jleague.jp/player/1642031/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/292547/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/329389/
+  - https://www.fctokyo.co.jp/news/details/316014/
+  - https://www.jfa.jp/national_team/u17_2023/news/00032410/
+  - https://www.jfa.jp/national_team/u17_2023/afc_u17_asiancup_2023/member.html
+  - https://www.fctokyo.co.jp/school/report/318690/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+checked_at: 2026-10-21T16:58:32.302+09:00
+---
+
 ## 後藤 亘（#58、GK・控え候補、右足、20歳）
 
 > **試合前ガイド**：2026年10月21日19:00、味の素スタジアムのFC東京×柏レイソル。==先発・控えは予想であり、当日発表ではない==。情報の基準は同日13:50 JSTのFCT-PREPと、15時台の公式資料確認なのだ。
