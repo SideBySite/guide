@@ -1,3 +1,28 @@
+---
+id: fctokyo-kota-tawaratsumida
+title: 俵積田 晃太（FC東京・背番号33）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/2026/297697/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/291220/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/293362/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/330548/
+  - https://www.fctokyo.co.jp/news/details/315323/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/292903/
+  - https://www.jfa.jp/samuraiblue/news/00035288/
+  - https://www.jleague.jp/player/1636792/?mode=pc
+  - https://www.fctokyo.co.jp/news/details/342306/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://ja.wikipedia.org/wiki/俵積田晃太
+  - https://en.wikipedia.org/wiki/K%C5%8Dta_Tawaratsumida
+checked_at: 2026-10-21T16:57:48.279+09:00
+---
+
 ## 俵積田 晃太（#33、MF・左側のドリブルと仕掛け、右利き、22歳）
 
 > **2026年10月21日・FC東京×柏レイソルの試合前名鑑**。左側の起用と先発は予想であり、公式発表ではない。MFはミッドフィールダー（中盤で攻守を助ける選手）で、球を持って相手を抜くことも仕事なのだ。
