@@ -1,3 +1,30 @@
+---
+id: ksw-daiki-sugioka
+title: 杉岡大暉（柏レイソル・背番号26）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/26.php
+  - https://www.bellmare.co.jp/154953
+  - https://www.city.funabashi.lg.jp/shisei/kouhou/001/p047221.html
+  - https://www.ichifuna-fc.com/about-us
+  - https://www.jfa.jp/match/alljapan_highschool_2016/match_page/m27.html
+  - https://www.soccer-king.jp/news/youthstudent/20161121/518227.html
+  - https://www.jleague.jp/news/article/13161/
+  - https://www.jfa.jp/national_team/news/00021685/
+  - https://www.bbm-japan.com/article/detail/6300
+  - https://tokatsu-mainichi.com/reysolcolum_shimasenka2025/
+  - https://www.reysol.co.jp/news/topteam/post-968.html
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://www.reysol.co.jp/game/results/202627/1021i.php
+  - https://ja.wikipedia.org/wiki/杉岡大暉
+checked_at: 2026-10-21T16:56:07.478+09:00
+---
+
 ## 杉岡大暉（#26、DF〈ディフェンダー＝主に守る選手〉・左後方、左利き、28歳）
 
 > **事前ガイド**：2026年10月21日13時台（日本時間）の調査。今日19:00、味の素スタジアムの**FC東京対柏レイソル**は**2026/27明治安田J1リーグ第11節**。先発・配置は公式発表前の予想だ。
