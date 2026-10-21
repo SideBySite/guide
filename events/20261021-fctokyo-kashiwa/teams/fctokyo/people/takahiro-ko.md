@@ -1,3 +1,24 @@
+---
+id: fctokyo-takahiro-ko
+title: 高 宇洋（FC東京・背番号8）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/2026/298011/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/291691/
+  - https://www.fctokyo.co.jp/news/details/331857/
+  - https://www.fctokyo.co.jp/news/details/330246/
+  - https://www.jleague.jp/player/1600022/
+  - https://www.jleague.jp/news/article/23812/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://ja.wikipedia.org/wiki/高宇洋
+checked_at: 2026-10-21T16:58:26.352+09:00
+---
+
 ## 高 宇洋（#8、MF・中盤中央の守備とパス、右利き、28歳）
 
 > **2026年10月21日・FC東京×柏レイソルの試合前名鑑**。本稿の先発・配置は予想であり、当日の公式発表ではない。公式記録は10月17日まで。MFはミッドフィールダー（守備と攻撃をつなぐ中盤の選手）なのだ。
