@@ -897,5 +897,93 @@
       "https://www.jleague.jp/match/j1/2026/102108/",
       "https://www.jleague.jp/outline/j1/"
     ]
+  },
+  {
+    "candidate_id": "D-40",
+    "question": "試合前の練習は、何を見ていると面白い？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "公式予定の18:20ごろ、ピッチ内に選手が出て練習を始めるとき",
+    "answer_scope": [
+      "アップは試合より短い動きを繰り返す",
+      "全員が同じメニューとは限らない",
+      "反復・声・組み合わせを観察対象にできる"
+    ],
+    "today_watch": "18:20開始予定のピッチ内ウォームアップで、二人一組の動きとGKの準備を探す",
+    "priority": "star",
+    "novice_value": "試合の前から観戦体験が始まると分かる",
+    "distinct_from": "既存6-03-aの試合中の準備とは別に『試合前18:20ごろ』へ限定",
+    "fact_check": "開始・内容は当日変更の可能性。誰がどんな練習をするか未発表",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/news/details/342462/"
+    ]
+  },
+  {
+    "candidate_id": "D-41",
+    "question": "試合前、キーパーだけ違う練習をしているのはどうして？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-40",
+    "category_hint": 6,
+    "trigger": "ピッチ内アップでGKらしい選手が飛ぶ・止める・蹴る練習をしているとき",
+    "answer_scope": [
+      "手も使うGKには専門的な準備がある",
+      "シュートを打つ練習相手や補助スタッフに目を向ける",
+      "他の選手のアップとの動きの違い"
+    ],
+    "today_watch": "試合前のGKアップが見えたら、ボールを打つ人と受け止める人を交互に見る",
+    "priority": "normal",
+    "novice_value": "地味な練習の中にも役割差を見つけられる",
+    "distinct_from": "D-04の試合中のシュート前の構えとは違い練習の組み立てを対象にする",
+    "fact_check": "実際の練習内容・補助者は未確定。練習の理由を断定しない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-42",
+    "question": "試合前に、同じ短いパスを何度も繰り返すのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-40",
+    "category_hint": 6,
+    "trigger": "アップ中に数人が同じ距離でパスを往復し続けたとき",
+    "answer_scope": [
+      "足元の感覚と味方との距離を確かめる準備という見方",
+      "受ける前の身振りや向き",
+      "試合では相手がいる点と違う"
+    ],
+    "today_watch": "アップで短いパスの輪が見えたら、出す人より次に受ける人の体の向きに注目",
+    "priority": "normal",
+    "novice_value": "単調に見える反復が試合の動きとつながる",
+    "distinct_from": "D-15は試合中の出した後の動き、この問いは試合前の反復",
+    "fact_check": "当日のメニューとその目的は未確認。実際に短いパス練習をするか未確定",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jfa.jp/laws/soccer/2026_27/"
+    ]
+  },
+  {
+    "candidate_id": "D-43",
+    "question": "選手が集まって輪になったあと、何が変わる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-40",
+    "category_hint": 6,
+    "trigger": "アップ終盤やキックオフ前、数人が集まったあとそれぞれの位置へ散ったとき",
+    "answer_scope": [
+      "円陣や集合を『声が聞こえない場面』として観察",
+      "散った先の配置と開始直後の位置",
+      "集合の言葉・気持ちは見た目だけでは分からない"
+    ],
+    "today_watch": "選手入場18:58予定の前後に集合があれば、輪の中の声より散った後の配置を見る",
+    "priority": "normal",
+    "novice_value": "試合開始前の人間関係へ自然な入口を作れる",
+    "distinct_from": "D-34は試合停止中の二人の会話、こちらは開始前の集合→分散",
+    "fact_check": "円陣の有無・発言内容・時刻は未確認。公式時刻は変更されうる",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
   }
 ]
