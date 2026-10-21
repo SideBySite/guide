@@ -6,6 +6,7 @@ sources:
   - https://www.fctokyo.co.jp/match/schedule/info/20261021/
   - https://www.reysol.co.jp/game/results/202627/1021i.php
   - https://www.jleague.jp/match/j1/2026/102108/
+  - https://www.jleague.jp/outline/j1/
   - https://www.ajinomotostadium.com/schedule/2026/1021_16099.php
   - https://www.fctokyo.co.jp/news/details/342829/
 checked_at: 2026-10-21T12:49:55+09:00
@@ -54,5 +55,6 @@ FC東京の当日案内では、**18:20ごろ**にピッチ内での準備運動
 - [FC東京：試合情報](https://www.fctokyo.co.jp/match/schedule/info/20261021/)（対戦、ホーム、時刻、注目選手、当日の予定）
 - [柏レイソル：アウェー試合情報](https://www.reysol.co.jp/game/results/202627/1021i.php)（大会名、第11節、会場、時刻）
 - [Jリーグ：当該試合](https://www.jleague.jp/match/j1/2026/102108/)（リーグ公式の照合）
+- [Jリーグ：J1大会概要](https://www.jleague.jp/outline/j1/)（勝点、90分、引き分け、大会方式）
 - [味の素スタジアム：10月21日](https://www.ajinomotostadium.com/schedule/2026/1021_16099.php)（会場と開始時刻）
 - [FC東京：10月20日公開の当日券・入場案内](https://www.fctokyo.co.jp/news/details/342829/)（席種・入場案内は当日更新に注意）
