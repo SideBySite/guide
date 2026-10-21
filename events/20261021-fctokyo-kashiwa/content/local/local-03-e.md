@@ -13,7 +13,10 @@ sources:
   - https://www.reysol.co.jp/fan/contents/photo/2011-12.php
   - https://www.reysol.co.jp/team/staff/
   - https://www.reysol.co.jp/academy/about.php
-checked_at: 2026-10-21T15:23:19+09:00
+  - https://www.reysol.co.jp/fan/contents/ontheway/12-otani.php
+  - https://www.reysol.co.jp/news/topteam/post-801.html
+  - https://www.nikkansports.com/olympic/paris2024/soccer/news/202407260000946.html
+checked_at: 2026-10-21T16:25:44+09:00
 ---
 
 ## ひとことで
@@ -26,7 +29,11 @@ checked_at: 2026-10-21T15:23:19+09:00
 
 ## おもしろエピソード
 
-**2011年12月4日**の柏駅西口。優勝報告会で大谷主将は優勝シャーレ（王者の記念品）を両手に持って入場した。[当時のクラブ写真記録](https://www.reysol.co.jp/fan/contents/photo/2011-12.php)に残る。==駅前で王者を知らせた人が、今は選手を支えている==というつながりだ。
+**2011年**、現役の**大谷秀和**は、将来はアカデミー（若手の育成組織）で子どもにサッカーを教えることにも関心があると話していた。[当時のクラブ取材](https://www.reysol.co.jp/fan/contents/ontheway/12-otani.php)に残る。まだ進路を決めた発言ではなく、==優勝する前から次の世代を考えていた==という記録だ。
+
+**2022年11月5日**、日立台の湘南戦後に行われた引退セレモニー。大谷は用意された演出に驚きつつ、20年間の感謝を伝えた。最後には、かつて柏で得点を重ねた**工藤壮人**の名前を挙げ、その存在を忘れないでほしいと呼びかけた。[クラブが掲載した当日の言葉](https://www.reysol.co.jp/news/topteam/post-801.html)による。
+
+翌**2023年**、大谷が就いたのは育成ではなく、トップチームのコーチだった。[当時の就任発表](https://www.reysol.co.jp/news/topteam/post-821.html)で確認できる。**2024年**には五輪で細谷真大が味方の得点を助けた動きを、取材に対して解説した。[当時の記者取材](https://www.nikkansports.com/olympic/paris2024/soccer/news/202407260000946.html)にある。==優勝を伝えた主将が、今は後輩のプレーを読み解く側にいる==のだ。
 
 ## 今日の試合で見るなら
 
