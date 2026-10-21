@@ -10,7 +10,10 @@ sources:
   - https://reysol.co.jp/club/partner/
   - https://www.reysol.co.jp/game/stadium/h-map.php
   - https://www.reysol.co.jp/game/results/202627/1021i.php
-checked_at: 2026-10-21T15:22:39+09:00
+  - https://blog.reysol.co.jp/news/2010/006560.html
+  - https://www.reysol.co.jp/past-pages/fan/contents/ontheway/15-kirihata.php
+  - https://www.reysol.co.jp/news/sponsor/-2025.html
+checked_at: 2026-10-21T16:24:31+09:00
 ---
 
 ## ひとことで
@@ -23,9 +26,11 @@ checked_at: 2026-10-21T15:22:39+09:00
 
 ## おもしろエピソード
 
-[**2026年8月7日**の公式発表](https://www.reysol.co.jp/news/sponsor/-202627-3.html)で、珍來はパッパラー河合監修の夏季限定カレーらーめんを案内した。同時に、柏日立台店近くのスタジアム北門を「**珍來GATE**」と呼ぶ支援も続けると発表。==店の名前が、サッカー場の入口にも現れた==のだ。
+**2010年10月28日**、スポンサーの**株式会社珍來**が日立台の競技場そばに柏日立台店を開いた。[開店前のクラブ告知](https://blog.reysol.co.jp/news/2010/006560.html)によれば、店員はレプリカユニフォームを着て迎える計画だった。==ラーメン店にも、試合の日の黄色が入った==のだ。
 
-その発表には、日立台での**ホームゲーム当日限定**の餃子キャンペーンもある。ただし夏の限定メニューを10月21日にも売っているとは確認できない。
+[クラブの桐畑和繁（当時のGK＝ゴールを守る選手）紹介](https://www.reysol.co.jp/past-pages/fan/contents/ontheway/15-kirihata.php)では、店側が開店初日から**桐畑選手**らが来店したと振り返っている。==店が選手を迎え、その話がクラブの取材に残った==。商品の宣伝だけではない、街とチームの具体的な接点だ。
+
+**2025年2月**には、珍來の新たな支援として競技場の**北門**に「**珍來GATE**」という呼び名が付いた。[当時の公式発表](https://www.reysol.co.jp/news/sponsor/-2025.html)で開始時期が確認できる。2026年8月には[夏季限定カレーらーめん](https://www.reysol.co.jp/news/sponsor/-202627-3.html)も発表されたが、10月21日の販売は未確認だ。餃子の優待も日立台の**ホームゲーム当日限定**で、味スタでは使えない。
 
 ## 今日の試合で見るなら
 
