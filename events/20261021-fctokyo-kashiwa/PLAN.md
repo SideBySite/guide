@@ -34,3 +34,9 @@
 `README.md`、`docs/question-tree.md`、`docs/content-template.md`、`docs/handoff.md`、`scripts/build_site.py`、`scripts/site_template.html`、`.github/workflows/deploy-pages.yml`を確認。旧ガイドは「トップの疑問ボタン（L1）→本文→『さらに気になる？』（L2）」で、短い答え・詳説・関連リンクを辿る構成。**引き継ぐのは閲覧導線のみ**。野球の制度・選手・サイト用ハードコード・2026/9/28当日情報は転記しない。05は新しいイベントの読者に合った疑問ツリーをイベント内で整える。
 
 参考：両クラブの対象試合ページ https://www.fctokyo.co.jp/match/schedule/info/20261021/ 、https://www.reysol.co.jp/game/results/202627/1021i.php （ともに2026-10-21 11:37 JST確認）。
+
+
+
+# 今回の編集範囲：ユーザー本人の逸話は扱わない
+今回のガイドでは、ユーザー本人・製作者本人の観戦体験、私生活、個人的な思い出を調査・質問・執筆・転載しない。旧野球ガイドの「製作者のエピソード」やcontent/extra/maker.mdを今回へ引き継がず、掲載リンクや導線も作らない。
+選手・監督・クラブ・競技の歴史に関する、出典で確認できる逸話は引き続き対象。ユーザーの観察の好みは編集方針として活用してよいが、本人の物語として本文にしない。本人の逸話を提供してもらう待ち合わせは作らない。
