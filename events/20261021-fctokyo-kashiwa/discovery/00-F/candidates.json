@@ -881,5 +881,154 @@
       "https://www.jleague.jp/corporate/pressrelease/article/16051",
       "https://www.jleague.jp/j1/standings/2026-27/"
     ]
+  },
+  {
+    "candidate_id": "F-38",
+    "question": "日本代表と、FC東京や柏って何が違うの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "日本代表の経験がある選手の紹介を見たとき",
+    "answer_scope": [
+      "FC東京・柏は日々所属するクラブ",
+      "日本代表は国の代表として選ばれた選手が集まるチーム",
+      "代表の勝敗はJ1順位に直接足されない"
+    ],
+    "today_watch": "選手紹介の『代表歴』と今夜のクラブの所属・ユニフォームを見分ける",
+    "priority": "normal",
+    "novice_value": "有名な日本代表のイメージから国内リーグへ入れる",
+    "distinct_from": "F-35はクラブの国際大会。こちらは国代表とクラブの主体の違い",
+    "fact_check": [
+      "今日の選出選手名は公式メンバー発表なしに書かない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
+  },
+  {
+    "candidate_id": "F-39",
+    "question": "今年の春の『百年構想リーグ』の勝点は、今も残っているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-12",
+    "category_hint": 3,
+    "trigger": "2026年春のニュースに『百年構想』という名前を見たとき",
+    "answer_scope": [
+      "2026年前半の特別大会と2026/27 J1は別大会",
+      "特別大会は当時の方式（90分同点でPK戦など）で行われた",
+      "今夜の勝点23・21は8月以降のJ1のみ"
+    ],
+    "today_watch": "春の対戦結果を今夜の順位表の勝点に加えない",
+    "priority": "star",
+    "novice_value": "移行年固有のいちばん大きな誤解を避けられる",
+    "distinct_from": "F-05は春の相手との再戦。こちらは春大会の勝点とルールの切り分け",
+    "fact_check": [
+      "特別大会の大会方式・降格なしなどは公式で再照合"
+    ],
+    "sources": [
+      "https://www.jleague.jp/news/article/31576/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/standings/2026-27/"
+    ]
+  },
+  {
+    "candidate_id": "F-40",
+    "question": "秋に始まったリーグは、冬の間もずっと続くの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-12",
+    "category_hint": 3,
+    "trigger": "10月の観戦後『次はいつまで試合がある？』と思ったとき",
+    "answer_scope": [
+      "2026/27は夏開幕から翌年6月まで",
+      "冬季中断（ウインターブレーク）が設けられる",
+      "予定と実際の個別クラブ日程は分けて扱う"
+    ],
+    "today_watch": "今日から年末・来春に続くシーズンの長さを考える",
+    "priority": "normal",
+    "novice_value": "秋春制の季節感を、生活リズムとして理解する",
+    "distinct_from": "F-12は2つの年号の意味、こちらは寒い時期の中断と再開",
+    "fact_check": [
+      "中断開始日・再開日は発表後の最新Jリーグ日程で確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/news/article/26796/",
+      "https://www.jleague.jp/corporate/about_competitions/season/"
+    ]
+  },
+  {
+    "candidate_id": "F-41",
+    "question": "柏は今日の3日後にも試合。休む時間は足りるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 3,
+    "trigger": "柏の10/24鹿島戦・10/27タイ遠征の日程を見たとき",
+    "answer_scope": [
+      "10/21 FC東京→10/24鹿島は中2日",
+      "さらに10/27ラーチャブリーとのACL戦予定",
+      "短い間隔と遠征がある事実、各選手の疲労は別問題"
+    ],
+    "today_watch": "試合前のウォームアップ、終盤の走り方、交代後の配置を観察する",
+    "priority": "star",
+    "novice_value": "チームの準備と無球の支えを日程から見直せる",
+    "distinct_from": "F-36はここまでの連戦履歴。こちらは今夜を起点に続く日程",
+    "fact_check": [
+      "選手のコンディションや先発予測は本人・クラブ根拠なしに断定しない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=kashiwa&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.reysol.co.jp/afc202627/index.php",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php"
+    ]
+  },
+  {
+    "candidate_id": "F-42",
+    "question": "試合が続くと、なぜ前の試合と選手が違うの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-41",
+    "category_hint": 3,
+    "trigger": "メンバー表が以前見た顔ぶれと違うとき",
+    "answer_scope": [
+      "複数大会の参加や中2日の日程で起用の選択肢がある",
+      "選手交代と先発変更は違う",
+      "休養・戦術・けがなど理由は公式の説明がない限り候補"
+    ],
+    "today_watch": "先発表と試合前のウォームアップ、控えの入場を見比べる",
+    "priority": "star",
+    "novice_value": "主役以外の選手、ベンチ、準備を見る入口になる",
+    "distinct_from": "既存6-03-bは試合中のベンチの動き。こちらは連戦で先発が変わる可能性",
+    "fact_check": [
+      "当日メンバー発表前に『誰が休養で欠場』と書かない"
+    ],
+    "sources": [
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=kashiwa&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=ftokyo&enddate=2026-10-31&period=custom&startdate=2026-10-01"
+    ]
+  },
+  {
+    "candidate_id": "F-43",
+    "question": "FC東京と柏、今週の忙しさは同じなの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "F-41",
+    "category_hint": 3,
+    "trigger": "両チームの直近試合を並べたとき",
+    "answer_scope": [
+      "FC東京は10/14ルヴァン→10/17 J1→10/21 J1→10/25 J1",
+      "柏は10/14 ACL→10/17 J1→10/21 J1→10/24 J1→10/27 ACL",
+      "大会と遠征の違いを整理"
+    ],
+    "today_watch": "同じ90分でも両ベンチの交代タイミングが違うか観察し、理由は断定しない",
+    "priority": "normal",
+    "novice_value": "日程が同じように詰まっても準備が同一ではないと気づく",
+    "distinct_from": "F-41は柏の次戦への短い間隔。こちらは両チームを並べて比べる",
+    "fact_check": [
+      "直前の移動・練習や選手の健康状態は未確認"
+    ],
+    "sources": [
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=ftokyo&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.jleague.jp/j1/tv/stream/search-list/?club=kashiwa&enddate=2026-10-31&period=custom&startdate=2026-10-01",
+      "https://www.jleague.jp/outline/leaguecup/",
+      "https://www.reysol.co.jp/afc202627/index.php"
+    ]
   }
 ]
