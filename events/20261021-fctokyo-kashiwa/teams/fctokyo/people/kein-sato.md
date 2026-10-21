@@ -1,3 +1,30 @@
+---
+id: fctokyo-kein-sato
+title: 佐藤 恵允（FC東京・背番号10）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27
+  - https://www.fctokyo.co.jp/team/players/number/
+  - https://www.jleague.jp/player/1635332/
+  - https://www.fctokyo.co.jp/team/players/2026/298266/
+  - https://www.jfa.jp/national_team/u23_2024/member/sato_kein.html
+  - https://www.meiji.ac.jp/koho/press/2023/mkmht000000gx5n5.html
+  - https://www.meiji.ac.jp/koho/news/2023/mkmht000000h7ogm.html
+  - https://www.joc.or.jp/games/olympic/paris/sports/football/team/satokein.html
+  - https://www.fctokyo.co.jp/news/16876
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/292675/
+  - https://www.jleague.jp/match/j1/2025/022605/review/
+  - https://www.jleague.jp/match/j1/2025/022605/summary/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/330616/
+  - https://sports.yahoo.co.jp/official/detail/2026080400001-spnaviow
+  - https://www.fctokyo.co.jp/news/details/336435/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+checked_at: 2026-10-21T16:57:42.682+09:00
+---
+
 ## 佐藤 恵允（#10、FW・左右の前線と交代からの攻守、右利き、25歳）
 
 > **2026年10月21日19:00、FC東京―柏レイソル**の試合前カード。2026/27の背番号は**10**。当日の公式先発・控えは本稿の基準時点では未確認。「主要交代・先発競争」は**13:50 JST時点の予想**なのだ。
