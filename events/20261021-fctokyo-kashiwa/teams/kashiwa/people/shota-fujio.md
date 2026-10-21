@@ -1,7 +1,7 @@
 ---
-id: shota-fujio
-title: 藤尾翔太の一歩を追うと、ゴール前で何が見える？
-category: kashiwa
+id: ksw-shota-fujio
+title: 藤尾翔太（柏レイソル・背番号15）
+category: people
 sources:
   - https://www.reysol.co.jp/team/players/202627/15.php
   - https://www.reysol.co.jp/news/topteam/post-1117.html
