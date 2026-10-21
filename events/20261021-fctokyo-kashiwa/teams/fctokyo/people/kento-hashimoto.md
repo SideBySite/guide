@@ -1,3 +1,23 @@
+---
+id: fctokyo-kento-hashimoto
+title: 橋本 拳人（FC東京・背番号18）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/2026/295113/
+  - https://www.jleague.jp/player/1000641/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/330070/
+  - https://www.fctokyo.co.jp/news/details/310987/
+  - https://www.fctokyo.co.jp/news/details/311008/
+  - https://www.fctokyo.co.jp/news/details/311027/
+  - https://www.fctokyo.co.jp/academy/u18/match/282286/
+  - https://jfa.jp/national_team/news/00023750/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+checked_at: 2026-10-21T16:57:45.365+09:00
+---
+
 ## 橋本 拳人（#18、MF・中央の先発競争、右足、33歳）
 
 > **試合前ガイド**：2026年10月21日（水）19:00のFC東京×柏レイソル。==直近4公式戦に招集されておらず、今夜の先発・控えは未確定==。この名鑑の当日配置は予想なのだ。
