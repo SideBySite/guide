@@ -220,5 +220,227 @@
       "https://www.jleague.jp/match/j1/2026/102108/",
       "https://www.fctokyo.co.jp/fan/fanzone/detail/336734/"
     ]
+  },
+  {
+    "candidate_id": "C-11",
+    "question": "二人で一緒に追いかけると、なぜ奪いやすいの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": "4-01-b",
+    "category_hint": 4,
+    "trigger": "相手が後方でパスを回すとき、FWが二人そろって前へ出た場面",
+    "answer_scope": [
+      "- 一人は持ち手へ圧力をかける",
+      "- もう一人は次のパス先や横の出口を狭める",
+      "- 裏の広い空間を使われる危険"
+    ],
+    "today_watch": "FC東京の前線二人が柏の後方三人に向かうなら、追う順番と残されるパス先を数える",
+    "priority": "star",
+    "novice_value": "ボールを追う一人ではなく周りの連携が見える",
+    "distinct_from": "4-01-bは前後の守備戦略。こちらは二人の役割分担に狙いを限定",
+    "fact_check": "両者がこの人数で対面するかは先発・配置確定後に確認",
+    "sources": [
+      "https://www.football-lab.jp/fctk/formation",
+      "https://www.football-lab.jp/kasw/formation",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "C-12",
+    "question": "ゴールキーパーにまで追いかけて、後ろは大丈夫？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "C-11",
+    "category_hint": 4,
+    "trigger": "相手GKが足で持ったときに最前線の選手が走り込む場面",
+    "answer_scope": [
+      "- GKのパス判断を急がせる利点",
+      "- 味方の守備ラインが上がらないと間が広がる",
+      "- 遠くへ逃がされる弱点"
+    ],
+    "today_watch": "柏のGKが足で持ったとき、FC東京の前線と中盤が一緒に上がるか見る",
+    "priority": "normal",
+    "novice_value": "派手なプレスの陰で空く背後も想像できる",
+    "distinct_from": "C-11の二人で追う協力ではなく、GKを追う深さと代償",
+    "fact_check": "どちらがGKまで追うかは観察次第。バックパスの反則詳細は扱わない",
+    "sources": [
+      "https://www.fctokyo.co.jp/fan/fanzone/detail/336734/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "C-13",
+    "question": "最初の人だけ走って、後ろがついてこないとどうなる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "C-11",
+    "category_hint": 4,
+    "trigger": "一人が急に飛び出す一方、後方の仲間は足を止めているとき",
+    "answer_scope": [
+      "- 走る人と支える人の距離が広がる",
+      "- 間に相手の受け手が立てる",
+      "- 連動して前進するか待つかが大切"
+    ],
+    "today_watch": "FC東京が前へ追う時、柏の小泉佳穂らが前線と中盤の間に顔を出すか確かめる",
+    "priority": "normal",
+    "novice_value": "一人の頑張りだけでは守れない理由を発見できる",
+    "distinct_from": "C-11は二人の横の連携。ここは前後の距離に注目",
+    "fact_check": "小泉の出場は未発表。出場しない場合は中盤と前線の間に立つ選手を見る",
+    "sources": [
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.fctokyo.co.jp/fan/fanzone/detail/336734/"
+    ]
+  },
+  {
+    "candidate_id": "C-14",
+    "question": "ボールを追わずに、パスの通り道に立つのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "C-11",
+    "category_hint": 4,
+    "trigger": "相手が持っているのに守備選手が横へずれて走らないとき",
+    "answer_scope": [
+      "- 相手の足元だけでなく次の出し先を遮る",
+      "- 体の向きで片側に出させる",
+      "- 相手は別の出口を探す"
+    ],
+    "today_watch": "柏の古賀太陽が持つ時、FC東京の前の選手が誰へのパスを隠すか見る",
+    "priority": "star",
+    "novice_value": "ボールを奪わない動きにも守備の仕事があるとわかる",
+    "distinct_from": "C-12はGKへの前進、C-13は前後の距離。これはパスの線を消す角度",
+    "fact_check": "古賀の出場と担当者の位置は当日確認",
+    "sources": [
+      "https://www.football-lab.jp/kasw/formation",
+      "https://www.reysol.co.jp/game/results/202627/1017.php"
+    ]
+  },
+  {
+    "candidate_id": "C-15",
+    "question": "みんなでゴールの近くへ下がるのは、逃げているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": "4-01-b",
+    "category_hint": 4,
+    "trigger": "相手にずっと持たれ、守備側が自分のゴール近くで並んだとき",
+    "answer_scope": [
+      "- ゴール近くの危険な場所を先に守る",
+      "- 相手に外側を使わせる選択",
+      "- 前へ奪いに出る機会は少なくなりやすい"
+    ],
+    "today_watch": "どちらかが押し込まれた時、ボールを追う人よりゴールとボールの間に並ぶ人数を見る",
+    "priority": "star",
+    "novice_value": "消極的に見える守りにも狙いと失うものがある",
+    "distinct_from": "C-11の前から奪う逆の選択であり、守る場所を決める判断",
+    "fact_check": "試合で必ず引いて守るチームを決めつけない",
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/fan/fanzone/detail/336734/"
+    ]
+  },
+  {
+    "candidate_id": "C-16",
+    "question": "全員が下がっているのに、なぜ真ん中から攻めにくいの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "C-15",
+    "category_hint": 4,
+    "trigger": "守備側が自陣に人数を揃え、攻撃側のパスが横へ回る場面",
+    "answer_scope": [
+      "- 中央はゴールへの近道なので密集して守る",
+      "- 外側のパスは許しても中央への侵入を制限",
+      "- 相手に遠めのクロスを選ばせることも"
+    ],
+    "today_watch": "柏が深く守る時間があれば、FC東京のボールが中央から外へ押し出されるかを見る",
+    "priority": "normal",
+    "novice_value": "シュートを止める前に、道をなくす守備が見えてくる",
+    "distinct_from": "C-15は下がる選択の得失。これは中央を狭めるしくみ",
+    "fact_check": "実際の守備ブロックの位置は試合で観察。どちらのチームにも適用可能",
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.football-lab.jp/kasw/formation"
+    ]
+  },
+  {
+    "candidate_id": "C-17",
+    "question": "前から奪いに行くと、背中側はどう守るの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "C-11",
+    "category_hint": 4,
+    "trigger": "守備ラインがセンターライン近くまで上がり、相手が長いパスを狙うとき",
+    "answer_scope": [
+      "- 押し上げると自陣の背後が広がる",
+      "- 後方選手が走って追う、GKが処理する可能性",
+      "- 相手の走り出しとパスのタイミングが弱点になる"
+    ],
+    "today_watch": "FC東京が前線で奪いに行くなら、柏の藤尾翔太らが残ったスペースへ走るかを見る",
+    "priority": "star",
+    "novice_value": "攻めているように見える守備が危険も背負うと知れる",
+    "distinct_from": "C-12はGKへの追走の得失。こちらは最終ライン後方という場所を観察",
+    "fact_check": "オフサイドの判定自体は2-01へ。先発は未確定",
+    "sources": [
+      "https://www.theifab.com/laws/latest/offside/",
+      "https://www.reysol.co.jp/game/results/202627/1017.php",
+      "https://www.fctokyo.co.jp/fan/fanzone/detail/336734/"
+    ]
+  },
+  {
+    "candidate_id": "C-18",
+    "question": "守っていた人が急に前へ飛び出すのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "C-15",
+    "category_hint": 4,
+    "trigger": "自陣で並んでいたDFやMFが相手のパスに合わせて一歩前へ出るとき",
+    "answer_scope": [
+      "- 受け手が前を向く前に近づく",
+      "- 前へ出た人の後ろに空きができる",
+      "- 仲間がその空きを埋める必要"
+    ],
+    "today_watch": "柏の中盤がFC東京の縦パスを読んで飛び出した時、後ろの古賀太陽らがどう動くか見る",
+    "priority": "normal",
+    "novice_value": "止まって並ぶ守りと動いて奪う守りの接点を知れる",
+    "distinct_from": "C-15は集団が下がる理由。こちらはパス直前の個人の飛び出し",
+    "fact_check": "対象となる中盤・DFの出場と動きは当日確認",
+    "sources": [
+      "https://www.football-lab.jp/kasw/formation",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "C-19",
+    "question": "一人が抜かれた直後、別の人が横から出てくるのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "C-15",
+    "category_hint": 4,
+    "trigger": "ドリブルで一人がかわされても、横の守備選手が前へ出たとき",
+    "answer_scope": [
+      "- 最初の守備者が負けても仲間が次の障害になる",
+      "- 助ける人の元いた場所が空く",
+      "- さらにもう一人が位置をずらす連鎖"
+    ],
+    "today_watch": "FC東京のサイドで一対一が生じたら、柏の外側と中央の守備者が交互にどこを埋めるか見る",
+    "priority": "normal",
+    "novice_value": "個人の失敗とチームの失点を直結させずに済む",
+    "distinct_from": "C-18は前へ飛び出して奪う動き。こちらは突破された後のカバー",
+    "fact_check": "その位置取りが定常的かは試合で確認する",
+    "sources": [
+      "https://www.football-lab.jp/kasw/formation",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "C-20",
+    "question": "守る人数が多い場所を、わざと攻めることもあるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "4-01",
+    "category_hint": 4,
+    "trigger": "ボールの周りに相手も味方も集まっているのに、さらにパスを入れたとき",
+    "answer_scope": [
+      "- 局所で人数が多くても動きで一人を自由にできる",
+      "- 相手を寄せた後に別の場所を使える",
+      "- 奪われれば近くから反撃を受ける"
+    ],
+    "today_watch": "柏が右サイドに人数を寄せる場面があれば、FC東京も人数を増やすか逆へ逃がすか比べる",
+    "priority": "normal",
+    "novice_value": "人数の単純な足し算だけで作戦を判断しない",
+    "distinct_from": "C-15/C-16は守り方。これはあえて密集へ入る攻めの選択肢",
+    "fact_check": "意図は断定不能。局所の人数は実際の配置を数える",
+    "sources": [
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.football-lab.jp/kasw/formation"
+    ]
   }
 ]
