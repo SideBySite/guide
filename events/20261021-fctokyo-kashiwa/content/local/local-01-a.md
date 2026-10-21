@@ -13,7 +13,10 @@ sources:
   - https://www.reysol.co.jp/club/town/
   - https://www.reysol.co.jp/past-pages/club/history/chronology/1995.php
   - https://www.fctokyo.co.jp/match/schedule/info/20261021/
-checked_at: 2026-10-21T15:23:00+09:00
+  - https://www.reysol.co.jp/fan/contents/photo/2011-12.php
+  - https://www.reysol.co.jp/news/topteam/124j1.html
+  - https://www.reysol.co.jp/club/history/chronology/1115.php
+checked_at: 2026-10-21T16:23:56+09:00
 ---
 
 ## ひとことで
@@ -28,7 +31,11 @@ checked_at: 2026-10-21T15:23:00+09:00
 
 ## おもしろエピソード
 
-クラブは**1993年**、昇格を目指して元ブラジル代表の**カレカ**を迎えた。その年は昇格できず、翌1994年の最終戦でようやく昇格を決めた。[クラブの歴史記事](https://www.reysol.co.jp/past-pages/club/history/chronology/1995.php)が伝える、すぐには実らなかった挑戦なのだ。
+**1993年**、クラブは元ブラジル代表の**カレカ**を迎えた。しかし、その年はJリーグ入りを決められず、翌1994年の最終戦で昇格をつかんだ。[当時を振り返る公式年表](https://www.reysol.co.jp/past-pages/club/history/chronology/1995.php)に残る、街のクラブになるまでの助走だ。
+
+それから**2011年12月4日**。前日にJ1（国内最高位のリーグ）初優勝を決めたレイソルのため、柏市は**柏駅西口ロータリー**に報告会の舞台を設けた。市立柏高校吹奏楽部が演奏し、主将の**大谷秀和**が優勝の皿（シャーレ）を手に入場した。[当時のクラブ写真記録](https://www.reysol.co.jp/fan/contents/photo/2011-12.php)には、約**8000人**が集まったとある。
+
+当時の柏市長**秋山浩保**が会場を盛り上げると、選手の**中島崇典**が踊りながら舞台に登場し、笑いを誘った。==普段は車の通る駅前が、クラブを祝う会場に変わった==のだ。主催は**柏市**、後援は柏商工会議所と柏市商店会連合会。[前日の開催告知](https://www.reysol.co.jp/news/topteam/124j1.html)にも記されている。
 
 ## 今日の試合で見るなら
 

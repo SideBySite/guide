@@ -15,7 +15,8 @@ sources:
   - https://www.reysol.co.jp/game/rules/home.php
   - https://www.reysol.co.jp/news/sponsor/-202627-3.html
   - https://www.fctokyo.co.jp/match/schedule/info/20261021/
-checked_at: 2026-10-21T15:23:00+09:00
+  - https://www.reysol.co.jp/news/event/45fm-6.html
+checked_at: 2026-10-21T16:23:56+09:00
 ---
 
 ## ひとことで
@@ -30,9 +31,11 @@ checked_at: 2026-10-21T15:23:00+09:00
 
 ## おもしろエピソード
 
-問題への対応は注意だけではない。[クラブの2026年4月の記録](https://www.reysol.co.jp/sustainability/activities/community-contribution/post-17.html)には、ファンやサポーターが試合の日に**レイソルロード周辺のごみ拾い**を行った様子が残る。==観戦に来る人が、普段の街の道を手入れする側にも回ったのだ。==
+**2026年4月5日**、柏レイソルは横浜F・マリノスとのホーム戦後、**柏市環境部**の協力でごみ拾いを企画した。試合終了約15分後に集まり、貸し出しのトングと袋で日立台公園や周辺の道を清掃する内容だ。[試合前の募集案内](https://www.reysol.co.jp/news/event/45fm-6.html)に集合場所まで記されている。
 
-地元の[珍來による支援](https://www.reysol.co.jp/news/sponsor/-202627-3.html)も、街の店がクラブと関わる具体例だ。ただし日立台ホーム戦の特典を、味スタの試合で使えるとは言えない。
+実際にクラブが公表した[4月7日の活動記録](https://www.reysol.co.jp/sustainability/activities/community-contribution/post-17.html)には、その日のサポーターらが道路を清掃する様子が載る。==声を出して応援した人が、試合のあとには街の道を整える側にもなる。== これは宣伝文句だけではなく、実施が確認できる場面なのだ。
+
+地元の店にも別の形の参加がある。**珍來**は**8月8日**、柏日立台店と柏東口店から**パッパラー河合**監修の限定ラーメンを先行発売した。[クラブの2026年8月7日の告知](https://www.reysol.co.jp/news/sponsor/-202627-3.html)で確認できる。夏の限定品や日立台ホーム戦の餃子特典を、10月21日の味スタで利用できるとは限らない。
 
 ## 今日の試合で見るなら
 
