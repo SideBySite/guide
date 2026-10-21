@@ -1,7 +1,7 @@
 ---
-id: fctokyo-player-kaede-suzuki
-title: 鈴木 楓｜FC東京 #44
-category: fctokyo-people
+id: fctokyo-kaede-suzuki
+title: 鈴木 楓（FC東京・背番号44）
+category: people
 sources:
   - https://www.fctokyo.co.jp/team/players/2026/329576/
   - https://www.fctokyo.co.jp/news/details/318502/
