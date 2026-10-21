@@ -1,7 +1,7 @@
 ---
 id: fctokyo-seung-gyu-kim
-title: FC東京 #81 キム スンギュ詳細名鑑
-category: 5
+title: キム スンギュ（FC東京・背番号81）
+category: people
 type: person
 team: fctokyo
 slug: seung-gyu-kim
@@ -9,6 +9,18 @@ name: キム スンギュ
 checked_at: 2026-10-21T15:20:00+09:00
 needs_check: true
 related: [5-01, 5-01-b, 6-02-a]
+sources:
+  - https://www.fctokyo.co.jp/team/players/2026/298376/
+  - https://www.fctokyo.co.jp/news/details/317825/
+  - https://www.fctokyo.co.jp/en/fan/fanzone/detail/292991/
+  - https://www.fctokyo.co.jp/news/details/341212/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/342859/
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://www.jleague.jp/match/j1/2026/102108/
 ---
 
 ## キム スンギュ（#81、GK・ゴールキーパー、右利き、36歳）
