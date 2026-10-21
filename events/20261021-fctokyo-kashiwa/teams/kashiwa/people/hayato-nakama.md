@@ -1,3 +1,25 @@
+---
+id: ksw-hayato-nakama
+title: 仲間隼斗（柏レイソル・背番号19）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/19.php
+  - https://www.jleague.jp/player/1100131/
+  - https://www.jleague.jp/match/j1/2026/081401/lineup/
+  - https://www.reysol.co.jp/game/results/2025/1012.php
+  - https://www.nikkansports.com/soccer/news/202501090000942.html
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://ja.wikipedia.org/wiki/仲間隼斗
+  - https://en.wikipedia.org/wiki/Hayato_Nakama
+  - https://es.wikipedia.org/wiki/Hayato_Nakama
+  - https://www.jleague.jp/match/j1/2026/102108/
+checked_at: 2026-10-21T16:56:10.610+09:00
+---
+
 ## 仲間隼斗（#19、MF・前線寄りの中盤、右利き、34歳）
 
 > **観戦の入口**：途中出場なら、仲間が入る前と後で味方のパスの出口がどう変わるか比べよう。2026年10月21日19:00、味の素スタジアムのFC東京戦に向けた**試合前のカード**で、先発は予想にすぎない。
