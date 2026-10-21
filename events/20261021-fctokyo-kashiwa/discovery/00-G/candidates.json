@@ -730,5 +730,275 @@
     "sources": [
       "https://www.fctokyo.co.jp/news/details/340436/"
     ]
+  },
+  {
+    "candidate_id": "G-34",
+    "question": "スタジアムでご飯を買うなら、どこへ行けばいい？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 7,
+    "trigger": "スタンドに着く前や、お腹が空いたとき。",
+    "answer_scope": [
+      "場外の青赤パークと場内コンコースの売店",
+      "M9付近の東京ドロンパキッチンなど当日出店情報",
+      "売り切れ・営業時間の違い"
+    ],
+    "today_watch": "座席につく前に、コンコースの売店と場外の出店の場所を一つずつ確認する。",
+    "priority": "star",
+    "novice_value": "休憩時間を食事だけで失わずに済む。",
+    "distinct_from": "既存7-01-bは持ち込み含む総論、ここは買える場所と時間。",
+    "fact_check": "10/21の出店・売り切れ・営業終了・アレルギーは当日案内確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/340668/",
+      "https://www.fctokyo.co.jp/news/details/342796/",
+      "https://www.ajinomotostadium.com/schedule/2026/1021_16099.php"
+    ]
+  },
+  {
+    "candidate_id": "G-35",
+    "question": "外の屋台と、中の売店は何が違うの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-34",
+    "category_hint": 7,
+    "trigger": "青赤パークの飲食店とコンコースの列を見比べたとき。",
+    "answer_scope": [
+      "場外の青赤パークは入場前から利用可能",
+      "場内店は試合券で入場後に行ける",
+      "再入場を使う場合の時間制限"
+    ],
+    "today_watch": "青赤パーク15:00〜19:00予定と、開門後のコンコース売店の営業時間を比べる。",
+    "priority": "normal",
+    "novice_value": "場外と場内を同じと考えず動ける。",
+    "distinct_from": "G-34の買える場所一覧ではなく、エリアと時間の違いを比較する。",
+    "fact_check": "販売時間と再入場実施ゲートは当日変更の可能性。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/340668/",
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/news/details/342462/"
+    ]
+  },
+  {
+    "candidate_id": "G-36",
+    "question": "現金だけ持って行っても、ご飯は買える？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-34",
+    "category_hint": 7,
+    "trigger": "会計で現金・電子マネーの表示を見たとき。",
+    "answer_scope": [
+      "青赤パークと東京ドロンパキッチンは現金不可と公式案内",
+      "コンコース店は利用できる決済の種類を確認",
+      "事前に対応決済手段を用意"
+    ],
+    "today_watch": "広場に向かう前に対応決済の掲示を探し、買う店を決める。",
+    "priority": "star",
+    "novice_value": "支払いで立ち往生しないため。",
+    "distinct_from": "G-35の場所・営業時間と異なり、決済可否が答え。",
+    "fact_check": "店ごとの決済可否と障害時対応を当日確認。全売店が同条件とは書かない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/340668/",
+      "https://www.fctokyo.co.jp/news/details/342796/"
+    ]
+  },
+  {
+    "candidate_id": "G-37",
+    "question": "飲み物やお弁当は、持って入っていいの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-01-b",
+    "category_hint": 7,
+    "trigger": "入場の荷物検査で飲み物を持っているとき。",
+    "answer_scope": [
+      "飲食物の持ち込みは基本可",
+      "ペットボトルは持ち込めるが缶・ビンは原則不可で移し替え対応",
+      "ほかの危険物の持込制限"
+    ],
+    "today_watch": "ゲートに向かう前に容器と手荷物を確認し、スタッフの案内に従う。",
+    "priority": "star",
+    "novice_value": "初観戦の持ち込み不安を解消する。",
+    "distinct_from": "G-34は現地購入、こちらは自分で持って行く物の制限。",
+    "fact_check": "飲食物・容器の規則は当日個別変更告知を再確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/news/details/342462/"
+    ]
+  },
+  {
+    "candidate_id": "G-38",
+    "question": "一度入ったあと、外へ出ても戻れる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-01-a",
+    "category_hint": 7,
+    "trigger": "入場後に青赤パークの看板を見て、外の屋台へ行きたくなったとき。",
+    "answer_scope": [
+      "通常案内はメイン4・バック1・バック3からハーフタイムまで再入場可能",
+      "出るときチケット提示と再入場カード、戻るときカード提示",
+      "今日の特別ゲート配置が優先"
+    ],
+    "today_watch": "実際に移動する前に、係員に自分のゲート・再入場の最終時刻を確認する。",
+    "priority": "star",
+    "novice_value": "食事や休憩で戻れなくなる失敗を防ぐ。",
+    "distinct_from": "G-35はエリアの違い、ここは一時退場時の手続きそのもの。",
+    "fact_check": "10/21の再入場ゲート・時刻変更を特別マナーと現地案内で確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/news/details/342462/",
+      "https://www.fctokyo.co.jp/news/details/340668/"
+    ]
+  },
+  {
+    "candidate_id": "G-39",
+    "question": "トイレに行くなら、いつがよさそう？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-01",
+    "category_hint": 7,
+    "trigger": "試合を見失いたくないのに、席を離れたくなったとき。",
+    "answer_scope": [
+      "コンコースのトイレ位置は施設案内で確認",
+      "ハーフタイム前後は混むことがあるが当日の実測はない",
+      "入場後早めに場所を確認し、無理せず行く"
+    ],
+    "today_watch": "自分の席と最寄りのトイレへの通路を開演前に見ておく。",
+    "priority": "star",
+    "novice_value": "安心して集中して見られる。",
+    "distinct_from": "7-01全体の過ごし方から、離席と施設の位置だけ切り分ける。",
+    "fact_check": "席位置未指定、最寄りトイレや混雑時間を断定しない。利用制限は現地確認。",
+    "sources": [
+      "https://www.ajinomotostadium.com/overview/stadium.php",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "G-40",
+    "question": "雨が降ったら、傘をさして見ていいの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-01-c",
+    "category_hint": 7,
+    "trigger": "雨が降りそうで客席の雨具が気になったとき。",
+    "answer_scope": [
+      "スタンド席では傘の使用不可と会場FAQ",
+      "レインコートなどで他人の視界を塞がない",
+      "雨でも試合は原則行われるが中止は公式確認"
+    ],
+    "today_watch": "雨予報なら席に着く前にカッパを用意し、屋根と風の向きを見る。",
+    "priority": "star",
+    "novice_value": "屋外観戦での基本マナーと備え。",
+    "distinct_from": "G-41は濡れにくい座席、ここは傘の可否・携帯する雨具。",
+    "fact_check": "10/21の気象と中止・変更は当日確認。",
+    "sources": [
+      "https://www.ajinomotostadium.com/qa/overview/",
+      "https://faq.fctokyo.co.jp/support/solutions/articles/158000409752-%E9%9B%A8%E3%81%AB%E6%BF%A1%E3%82%8C%E3%81%AA%E3%81%84%E5%B8%AD%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B-",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "G-41",
+    "question": "屋根があるのに、濡れる席があるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-40",
+    "category_hint": 7,
+    "trigger": "スタンド上方に屋根があるのを見上げたとき。",
+    "answer_scope": [
+      "味スタは全席完全屋根ではなく、前方と横風で濡れる可能性",
+      "クラブFAQは下層21列目以降が濡れにくいと案内",
+      "施設FAQは下層15列目以降概ねと案内しており数値が一致しない"
+    ],
+    "today_watch": "自分の席の列・屋根の端・風を確かめ、数字だけを過信しない。",
+    "priority": "normal",
+    "novice_value": "同じ『屋根付き』でも見え方と快適さが違うと気づく。",
+    "distinct_from": "G-40は傘のルール、ここは位置・風向きでの雨の入り方。",
+    "fact_check": "公式2ページの目安が異なる。記事化時は両者を突き合わせ、絶対に濡れない席と断定しない。",
+    "sources": [
+      "https://faq.fctokyo.co.jp/support/solutions/articles/158000409752-%E9%9B%A8%E3%81%AB%E6%BF%A1%E3%82%8C%E3%81%AA%E3%81%84%E5%B8%AD%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B-",
+      "https://www.ajinomotostadium.com/qa/overview/"
+    ]
+  },
+  {
+    "candidate_id": "G-42",
+    "question": "撮った写真や動画は、SNSに載せてもいいの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-02-b",
+    "category_hint": 7,
+    "trigger": "選手入場や応援の写真をスマホで撮りたくなったとき。",
+    "answer_scope": [
+      "Jリーグ2026年8月改定の撮影・投稿ガイドライン",
+      "自分で撮った写真と動画の扱いは別で試合中ピッチ動画・大型ビジョンの試合映像は投稿対象外",
+      "周りの人の顔・迷惑撮影・ライブ配信に注意"
+    ],
+    "today_watch": "試合中はピッチ全体の写真を撮る場合と、動画を公開する場合を区別して判断する。",
+    "priority": "star",
+    "novice_value": "撮る自由と公開の制限を取り違えない。",
+    "distinct_from": "7-02-bの撮影可否の一般論に対し、改定ガイドラインに沿う投稿判断。",
+    "fact_check": "公開の可否は2026-08-21改定本文で最終確認。スタンド催事動画は別途主催者規則にも従う。",
+    "sources": [
+      "https://www.jleague.jp/guidelines/",
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      null
+    ]
+  },
+  {
+    "candidate_id": "G-43",
+    "question": "試合が終わったら、電車はすぐ乗れるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-03",
+    "category_hint": 7,
+    "trigger": "帰る時間を気にし始めたとき。",
+    "answer_scope": [
+      "飛田給駅へ戻る導線と人の集中",
+      "今日は試合後に京王線特急・急行の臨時停車予定あり",
+      "今日は直行シャトルバスなし、計画の変更ありうる"
+    ],
+    "today_watch": "終盤に公式の臨時停車案内を見て、試合後に飛田給駅へ歩く道を思い出す。",
+    "priority": "star",
+    "novice_value": "ナイター帰りの時間の不安を減らす。",
+    "distinct_from": "既存7-03『帰りはどうする？』の総論と違い、今日の鉄道臨時便と混雑判断。",
+    "fact_check": "臨時停車の時刻・運行変更、駅の入場制限、実際の試合終了時間は当日確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/342758/",
+      "https://www.ajinomotostadium.com/schedule/2026/1021_16099.php"
+    ]
+  },
+  {
+    "candidate_id": "G-44",
+    "question": "大きな荷物は、席まで持って行ける？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-01",
+    "category_hint": 7,
+    "trigger": "通路や足元にバッグを置こうとしたとき。",
+    "answer_scope": [
+      "通路・避難導線・隣席を妨げない置き方",
+      "手荷物検査と持込禁止物",
+      "大型荷物の預かりやロッカーの有無は未確認で案内所へ"
+    ],
+    "today_watch": "着席後、荷物が足元に納まるかを確かめ、通路をふさがないよう調整する。",
+    "priority": "normal",
+    "novice_value": "安全に落ち着いて観戦できる。",
+    "distinct_from": "G-37は飲食の持ち込み、こちらはサイズ・置き場所・預け先。",
+    "fact_check": "ロッカー・クローク・サイズ上限・忘れ物受付は当日案内で確認。設備を作らない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.ajinomotostadium.com/overview/stadium.php"
+    ]
+  },
+  {
+    "candidate_id": "G-45",
+    "question": "試合が終わっても、少し席に残ると何か見られる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "7-03",
+    "category_hint": 7,
+    "trigger": "終了の笛で周りが立ち上がったとき。",
+    "answer_scope": [
+      "試合後の選手挨拶やスタンドへの反応がある場合",
+      "スタッフの撤収作業や応援の余韻",
+      "帰りの時間や施設退場案内と両立"
+    ],
+    "today_watch": "終了後の両チームの選手がどちらへ向かうかを一度眺め、退場誘導があれば従う。",
+    "priority": "normal",
+    "novice_value": "結果だけで帰らず、選手と観客の関係も見られる。",
+    "distinct_from": "G-43は帰りの交通、こちらは試合後に見る場面の価値。",
+    "fact_check": "両チームの場内挨拶・特別演出・実施時刻は未確認。必ずあるとは書かない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/stadium/manners/",
+      "https://www.fctokyo.co.jp/news/details/342758/"
+    ]
   }
 ]
