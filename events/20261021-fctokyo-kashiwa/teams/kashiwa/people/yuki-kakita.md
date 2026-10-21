@@ -1,3 +1,28 @@
+---
+id: ksw-yuki-kakita
+title: 垣田裕暉（柏レイソル・背番号18）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/18.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.jleague.jp/player/1600141/
+  - https://www.jfa.jp/match/prince_takamado_trophy_u18_2015/championship_2015/schedule_result/
+  - https://www.jfa.jp/news/00006084/
+  - https://www.antlers.co.jp/ja-world/blogs/academy-reports/48161
+  - https://soccermagazine.jp/j1/17507485
+  - https://www.chiba-tv.com/program/detail/1007/108827
+  - https://www.jleague.jp/match/j2/2020/112917/review/
+  - https://www.jleague.jp/leaguecup/stats/player/2025/score/search-list/
+  - https://www.reysol.co.jp/news/topteam/post-991.html
+  - https://ja.wikipedia.org/wiki/垣田裕暉
+  - https://en.wikipedia.org/wiki/Yuki_Kakita
+checked_at: 2026-10-21T16:57:06.493+09:00
+---
+
 ## 垣田裕暉（#18、FW・最前線の競り合いとこぼれ球、右利き、29歳）
 
 > 調査基準：**2026年10月21日、19:00のキックオフ前（日本時間）**。所属・背番号・経歴はクラブ公式、出場・得点は試合公式記録で確認した。出場見込みや動き方は**予想・観察の提案**であり、当日の発表ではない。
