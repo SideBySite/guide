@@ -1,21 +1,216 @@
 <!doctype html>
-<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#173c30"><meta name="description" content="FC東京×柏レイソル。初観戦のルール、戦略、選手と街を読みながら楽しむガイド。制作中の原稿を順次反映しています。"><title>FC東京×柏レイソル｜はじめての観戦ガイド</title>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>FC東京×柏 観戦ガイド</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Roboto+Mono:wght@500;700&display=swap">
 <style>
-:root{--ink:#173c30;--paper:#f7f5ee;--muted:#62756b;--line:#d9dfd5;--yellow:#ffdc46;--blue:#1745a4;--red:#d53442}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:system-ui,-apple-system,"Noto Sans JP",sans-serif}a{color:inherit;text-underline-offset:4px}button,input{font:inherit}button,a,input{touch-action:manipulation}button{cursor:pointer}header{border-bottom:1px solid var(--line);padding:18px 6%;display:flex;justify-content:space-between;gap:16px;align-items:center;background:#fffdf8}header strong{font-size:14px;letter-spacing:.06em}header span{font-size:12px}main{max-width:1120px;margin:auto;padding:0 28px 90px}.hero{padding:46px 0 28px}.eyebrow{font-size:12px;font-weight:800;letter-spacing:.15em}h1{font-size:clamp(30px,5vw,58px);line-height:1.35;letter-spacing:-.045em;margin:15px 0}h1 em{font-style:normal;color:#538066}.lead{max-width:640px;line-height:1.9;color:var(--muted)}.score{background:var(--ink);border-radius:18px;color:white;padding:22px 28px;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;text-align:center;gap:14px;margin:18px 0}.team{font-size:clamp(17px,3vw,26px);font-weight:800}.team small{display:block;font-size:11px;font-weight:400;letter-spacing:.1em;margin-bottom:8px}.team:first-child{border-left:5px solid var(--red)}.team:last-child{border-right:5px solid var(--yellow)}.kickoff{font-size:25px;font-weight:750}.kickoff small{display:block;font-size:11px;line-height:1.8;font-weight:400;color:#cbded1}.notice{font-size:12px;line-height:1.9;color:var(--muted)}.updated{border-top:1px solid var(--line);padding-top:14px;font-size:12px;color:var(--muted)}nav{display:flex;gap:8px;flex-wrap:wrap;margin:20px 0}nav a,.chip{display:inline-block;padding:10px 16px;border:1px solid var(--line);border-radius:100px;text-decoration:none;font-size:13px;background:#fffdf8}nav a:hover,.chip:hover{background:var(--yellow)}.search{margin:30px 0;position:relative}.search input{width:100%;padding:18px 22px;border:1px solid #a7b8a9;background:white;border-radius:10px;color:var(--ink);font-size:16px}.section-title{font-size:25px;letter-spacing:-.03em;margin:35px 0 17px}.section-title small{font-size:12px;color:var(--muted);font-weight:400;margin-left:10px}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.card{padding:19px 20px;background:#fffdf8;border:1px solid var(--line);border-radius:10px;text-decoration:none;min-height:80px;display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:1.7;gap:12px}.card:after{content:'↗';color:#7a9180}.card:hover{border-color:var(--ink);background:#f0f4e9}.start-grid .card{background:var(--yellow);border-color:transparent;font-weight:700}.pitch-wrap{display:grid;grid-template-columns:1fr 1fr;gap:22px}.pitch{position:relative;background:repeating-linear-gradient(0deg,#235d46 0,#235d46 42px,#29664d 42px,#29664d 84px);border:1px solid #67967d;border-radius:12px;padding:16px 10px;display:grid;gap:20px;min-height:340px;color:white}.pitch:before{content:'';position:absolute;inset:10px;border:1px solid #ffffff60;pointer-events:none}.pitch:after{content:'';position:absolute;left:calc(50% - 32px);top:calc(50% - 32px);width:64px;height:64px;border:1px solid #ffffff60;border-radius:50%;pointer-events:none}.row{display:flex;justify-content:space-around;gap:2px;z-index:1}.player{border:0;background:none;color:white;text-decoration:none;text-align:center;width:24%;font-size:10px;line-height:1.6;display:flex;flex-direction:column;align-items:center}.shirt{display:flex;width:29px;height:30px;border-radius:8px 8px 5px 5px;align-items:center;justify-content:center;font-weight:800;font-size:13px;margin-bottom:5px;background:var(--yellow);color:#273522}.tokyo .shirt{background:var(--blue);border-bottom:5px solid var(--red);color:white}.pitch-note{font-size:12px;line-height:1.8;color:var(--muted)}#reader[hidden],#home[hidden]{display:none}#reader{max-width:760px;margin:28px auto}.back{border:1px solid var(--line);background:white;padding:10px 18px;border-radius:8px}.reader-title{font-size:clamp(25px,4vw,38px);line-height:1.6;margin-top:24px}article{line-height:1.95;overflow-wrap:anywhere;font-size:16px}article h2,article h3{font-size:21px;line-height:1.65;margin-top:36px;border-left:4px solid #d9bc37;padding-left:14px}article h4{font-size:18px}article mark{background:linear-gradient(transparent 35%,#ffe88d 35%);color:inherit}article blockquote{margin:20px 0;border-left:3px solid #a7bbab;padding:10px 20px;background:#ecf0e7}article pre{overflow:auto;background:#eef1e9;padding:15px;font-size:12px}article code{font-size:.85em;background:#e9ede5;padding:2px 4px}.table-scroll{overflow-x:auto}table{border-collapse:collapse;min-width:480px;width:100%;font-size:13px}td,th{padding:12px;border:1px solid var(--line);text-align:left;vertical-align:top}th{background:#e7edde}.sources{margin-top:40px;padding:20px 0;border-top:1px solid var(--line);font-size:12px;color:var(--muted)}.list-item{padding-left:15px}footer{border-top:1px solid var(--line);margin-top:42px;padding:20px 0;color:var(--muted);font-size:12px;line-height:1.9}.no-results{padding:30px;color:var(--muted)}@media(max-width:700px){main{padding:0 18px 65px}header{padding:15px 18px}header span{display:none}.hero{padding-top:30px}.score{padding:19px 12px;gap:8px}.grid{grid-template-columns:1fr 1fr}.card{padding:15px;font-size:13px}.pitch-wrap{grid-template-columns:1fr}.pitch{min-height:350px}.section-title{font-size:22px}}@media(max-width:380px){.grid{grid-template-columns:1fr}.team{font-size:15px}.kickoff{font-size:22px}}
-</style></head><body><header><strong>はじめての観戦ガイド</strong><span>2026.10.21 / TOKYO × KASHIWA</span><a href="#" aria-label="目次へ">目次へ ↗</a></header><main><div id="home"><section class="hero"><div class="eyebrow">ボールのないところも、おもしろい。</div><h1>はじめてのサッカー。<br><em>今日は、どこを見よう。</em></h1><p class="lead">ルールを少し。選手をひとり。いつもの街の話も。<br>気になったところから読めば、ピッチの見え方が変わってくる。</p><div class="score"><div class="team"><small>HOME</small>FC東京</div><div class="kickoff">19:00<small>キックオフ予定<br>スコア・試合時間は未掲載</small></div><div class="team"><small>AWAY</small>柏レイソル</div></div><p class="notice">10月21日（水）味の素スタジアム · 2026/27 明治安田J1リーグ 第11節<br>先発は掲載原稿の時点では予想。公式発表後に更新します。スコアと時計の自動速報ではありません。</p><p class="updated" id="updated"></p></section><section><h2 class="section-title">まず、ここから</h2><div class="grid start-grid" id="start"></div></section><nav aria-label="分野への移動" id="nav"></nav><div class="search"><label for="query" class="eyebrow">いまの疑問を探す</label><input id="query" type="search" placeholder="オフサイド、交代、細谷、日立台…" autocomplete="off"></div><div id="catalog"></div><section id="lineups"><h2 class="section-title">ピッチで見つける<small>予想配置・正式発表前</small></h2><p class="pitch-note">攻める方向は図の上。位置は目安で、プレー中は動きます。名前を押すと各チームの予想と根拠を読めます。</p><div class="pitch-wrap"><div><h3>FC東京 <small>4-4-2の目安</small></h3><div class="pitch tokyo" id="tokyo-pitch"></div></div><div><h3>柏レイソル <small>3-4-2-1の目安</small></h3><div class="pitch" id="kashiwa-pitch"></div></div></div></section><footer>制作途中の公開版です。公開済みの読み物を掲載し、本文が追加されるたびに順次反映します。選手の出場と配置は、予想と公式発表を区別してご覧ください。<br>各記事の末尾から原稿・根拠・確認時点を確認できます。</footer></div><div id="reader" hidden><button class="back" id="back">← 目次へ</button><div class="eyebrow" id="reader-group" style="margin-top:25px"></div><h1 class="reader-title" id="reader-title"></h1><article id="article"></article><h2 class="section-title">次に気になる？</h2><div class="grid" id="related"></div></div></main>
+:root{
+  --bg:#ffffff; --surface:#f4f6f6; --ink:#08131a; --sub:#5d6a70; --line:#e2e7e9; --accent:#18917e; --accent-ink:#ffffff;
+  --board:#0f1d19; --board-line:#26372f; --board-ink:#e9efe9; --led:#ffd449; --ball:#3fd26a; --strike:#ffd449; --out:#ff5a4f; --lamp-off:#2c3b35;
+  --radius:10px; color-scheme:light;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.9 "Noto Sans JP",-apple-system,BlinkMacSystemFont,"Hiragino Sans",sans-serif;letter-spacing:.02em}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+header .in{max-width:680px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:12px}
+header a{color:var(--ink);text-decoration:none;font-weight:700;font-size:.95rem}
+header .meta{margin-left:auto;color:var(--sub);font-size:.78rem}
+main{max-width:680px;margin:0 auto;padding:20px 16px 64px}
+h1{font-size:1.5rem;line-height:1.5;margin:.2em 0 .5em;text-wrap:balance}
+h2{font-size:1.2rem;line-height:1.5;margin:0;text-wrap:balance}
+h3{font-size:1.02rem;margin:1.4em 0 .3em}
+p{margin:0 0 1.1em}
+a{color:var(--accent)}
+.lead{color:var(--sub);font-size:.88rem;line-height:1.7}
+.eyebrow{font-size:.75rem;color:var(--sub);letter-spacing:.08em;margin:0 0 4px}
+.back{display:inline-block;margin-bottom:14px;font-size:.88rem;color:var(--sub);text-decoration:none}
+.stack{display:flex;flex-direction:column;gap:14px}
+.section-title{font-size:.8rem;font-weight:700;color:var(--sub);letter-spacing:.08em;margin:30px 0 10px}
+
+/* ガイド切り替え（TOP上部） */
+.guides{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:18px}
+.guide{display:flex;flex-direction:column;justify-content:space-between;min-height:84px;padding:12px 14px;border:1px solid var(--line);border-radius:var(--radius);text-decoration:none;color:var(--ink);background:var(--bg)}
+.guide b{font-size:.98rem;line-height:1.45}
+.guide span{font-size:.75rem;color:var(--sub)}
+.guide:hover,.q:hover{border-color:var(--accent)}
+.guide.wide{grid-column:1/-1;min-height:0;flex-direction:row;align-items:center;gap:10px}
+.guide.wide span{margin-left:auto}
+
+/* 質問ボタン（横2列） */
+.qs{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.q{display:flex;flex-direction:column;justify-content:center;gap:2px;min-height:64px;padding:10px 12px;border:1px solid var(--line);border-radius:var(--radius);background:var(--bg);color:var(--ink);text-decoration:none;font-size:.9rem;line-height:1.5;font-weight:700}
+.q small{font-weight:400;font-size:.72rem;color:var(--sub)}
+.q.off{background:var(--surface);color:var(--sub);font-weight:400}
+.q .mark{color:var(--accent);font-size:.72rem;font-weight:700}
+
+/* 速報ボード */
+.board{background:var(--board);color:var(--board-ink);border-radius:14px;padding:14px;display:flex;flex-direction:column;gap:12px;font-variant-numeric:tabular-nums}
+.board .top{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.board .inning{font-family:"Roboto Mono",ui-monospace,monospace;color:var(--led);font-weight:700;font-size:1.05rem}
+.board .status{font-size:.78rem;opacity:.8}
+.board .upd{margin-left:auto;font-size:.72rem;opacity:.7}
+.board a{color:var(--led)}
+.ls{overflow-x:auto}
+.ls table{border-collapse:collapse;width:100%;font-family:"Roboto Mono",ui-monospace,monospace}
+.ls th,.ls td{border-bottom:1px solid var(--board-line);padding:5px 1px;text-align:center;font-size:.9rem}
+.ls th{font-weight:500;opacity:.65;font-size:.75rem}
+.ls td.team{font-size:.8rem;text-align:left;font-family:"Noto Sans JP",sans-serif;font-weight:700;white-space:nowrap;padding-right:8px}
+.ls td.r{color:var(--led);font-weight:700}
+.ls td.sum{border-left:1px solid var(--board-line)}
+.sit{display:grid;grid-template-columns:auto 1fr;gap:14px;align-items:center}
+.lamps{display:grid;grid-template-columns:auto auto;gap:4px 8px;align-items:center;font-family:"Roboto Mono",ui-monospace,monospace;font-weight:700;font-size:.85rem}
+.lamps button{all:unset;display:flex;gap:6px;cursor:pointer;padding:2px 0}
+.lamps button:focus-visible,.bases button:focus-visible{outline:2px solid var(--led);outline-offset:2px}
+.lamp{width:15px;height:15px;border-radius:50%;background:var(--lamp-off)}
+.lamp.b{background:var(--ball)}.lamp.s{background:var(--strike)}.lamp.o{background:var(--out)}
+.bases{position:relative;width:96px;height:78px;justify-self:end}
+.bases button{all:unset;position:absolute;width:26px;height:26px;transform:rotate(45deg);border:2px solid var(--board-ink);opacity:.55;cursor:pointer}
+.bases button.on{background:var(--led);border-color:var(--led);opacity:1}
+.bases .b1{right:6px;top:30px}.bases .b2{left:35px;top:4px}.bases .b3{left:6px;top:30px}
+.who{font-size:.82rem;line-height:1.6;opacity:.9;grid-column:1/-1}
+.hint{font-size:.72rem;opacity:.65}
+
+/* スタメン */
+.lineup{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.team-col{border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+.team-col h4{margin:0;padding:8px 10px;font-size:.85rem;background:var(--surface);display:flex;justify-content:space-between}
+.team-col h4 small{font-weight:400;color:var(--sub)}
+.team-col ol{list-style:none;margin:0;padding:0}
+.team-col li{display:grid;grid-template-columns:1.3em 1.6em 1fr;gap:4px;padding:6px 10px;border-top:1px solid var(--line);font-size:.86rem;line-height:1.5;font-variant-numeric:tabular-nums}
+.team-col li .n{color:var(--sub)}
+.team-col li .pos{color:var(--sub);font-size:.78rem}
+.team-col li a{color:var(--ink);text-decoration:none;font-weight:700}
+.team-col li.p{background:var(--surface)}
+.team-col li.sub{padding-top:3px;padding-bottom:3px;border-top-style:dashed}
+.team-col li.sub a{font-weight:400}
+.team-col .sub-note{display:block;font-size:.72rem;color:var(--sub);font-weight:400;line-height:1.3}
+
+/* 記事 */
+.article{overflow-wrap:anywhere}
+.article h2{margin:2.2em 0 .6em}
+.aside{margin:1em 0;padding:10px 14px;background:var(--surface);border-left:3px solid var(--accent);border-radius:0 var(--radius) var(--radius) 0;font-size:.92rem;line-height:1.8}
+.aside p{margin:.3em 0}
+.sec-rel{margin:12px 0 4px;font-size:.75rem;font-weight:700;color:var(--sub);letter-spacing:.06em}
+.sec-head{display:flex;align-items:flex-start;gap:10px;margin:2.2em 0 .7em}
+.sec-head h2{margin:0;flex:1}
+.gpt{font:inherit;font-size:.74rem;line-height:1;border:1px solid var(--line);background:var(--bg);color:var(--sub);border-radius:999px;padding:7px 10px;cursor:pointer;white-space:nowrap;display:inline-flex;align-items:center;gap:5px}
+.gpt svg{width:12px;height:12px}
+.gpt:hover{color:var(--accent);border-color:var(--accent)}
+.gpt.done{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.gpt:focus-visible,.q:focus-visible,.guide:focus-visible,.btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.note{background:var(--surface);border-radius:var(--radius);padding:12px 14px;font-size:.86rem;line-height:1.7;margin:0 0 16px}
+table{border-collapse:collapse;width:100%;font-size:.88rem}
+.article table th,.article table td,.plain th,.plain td{border-bottom:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+.scroll{overflow-x:auto}
+ul,ol{padding-left:1.3em;margin:0 0 1.1em}
+li{margin:.2em 0}
+.src{font-size:.78rem;color:var(--sub);word-break:break-all;line-height:1.7}
+mark{background:linear-gradient(transparent 55%,#fff176 55%);color:inherit;padding:0 1px}
+strong{font-weight:700}
+figure{margin:20px 0}figure img{display:block;width:100%;max-height:360px;object-fit:cover;border-radius:8px;background:var(--surface)}
+figcaption{font-size:.78rem;color:var(--sub);line-height:1.6;margin-top:6px}figcaption span{font-size:.72rem}
+hr{border:0;border-top:1px solid var(--line);margin:32px 0}
+textarea{width:100%;min-height:140px;font:13px/1.5 ui-monospace,monospace;background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px}
+.btn{font:inherit;font-size:.9rem;border:0;border-radius:999px;padding:9px 18px;background:var(--accent);color:var(--accent-ink);cursor:pointer;margin:4px 6px 4px 0}
+.btn.sub{background:var(--surface);color:var(--ink)}
+@media (max-width:380px){.lineup{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+.pl-head{display:flex;gap:14px;align-items:flex-end;margin:4px 0 12px}
+.pl-photo{margin:0;flex:0 0 auto;width:150px}.pl-photo img{width:150px;height:190px;object-fit:cover;object-position:top;border-radius:12px;display:block;background:var(--line)}
+.pl-photo figcaption{font-size:.7rem;margin-top:4px}.pl-photo figcaption a{color:var(--sub)}
+.pl-num{font-size:3rem;font-weight:800;line-height:1}.pl-num small{display:block;font-size:.75rem;font-weight:600;opacity:.6}
+.num{display:inline-block;min-width:1.9em;font-size:.72em;font-weight:700;text-align:center;border:1px solid currentColor;border-radius:6px;padding:0 3px;margin-right:6px;opacity:.75}
+</style>
+<style>
+/* サッカーの先発一覧と配置図。既存ガイドの文字・余白・枠を継承する。 */
+.team-col li{grid-template-columns:2.1em minmax(0,1fr)}
+.team-col li .num{vertical-align:baseline}
+.team-col li a{overflow-wrap:anywhere}
+.lineup-help{margin-top:8px}
+.football-score{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:14px;padding:8px 0 12px;border-bottom:1px solid var(--board-line);text-align:center}
+.football-score b{display:block;font-size:1rem}
+.football-score .side{font:500 .68rem/1.6 "Roboto Mono",ui-monospace,monospace;opacity:.65}
+.score-number{font:700 1.5rem/1.5 "Roboto Mono",ui-monospace,monospace;color:var(--led);white-space:nowrap}
+.formations{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.formation-col{border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+.formation-col h4{margin:0;padding:8px 10px;font-size:.85rem;background:var(--surface);display:flex;justify-content:space-between;gap:6px}
+.formation-col h4 small{font-size:.72rem;font-weight:400;color:var(--sub);white-space:nowrap}
+.pitch{position:relative;display:flex;flex-direction:column;justify-content:space-between;gap:17px;background:var(--board);color:var(--board-ink);padding:12px 8px 20px;min-height:360px}
+.pitch-lines{position:absolute;inset:36px 10px 12px;border:1px solid #e9efe954;pointer-events:none}
+.pitch-lines:before{content:'';position:absolute;left:0;right:0;top:50%;border-top:1px solid #e9efe954}
+.pitch-lines:after{content:'';position:absolute;width:58px;height:58px;border:1px solid #e9efe954;border-radius:50%;top:calc(50% - 29px);left:calc(50% - 29px)}
+.pitch-lines span:before,.pitch-lines span:after{content:'';position:absolute;left:25%;width:50%;height:13%;border:1px solid #e9efe954}
+.pitch-lines span:before{top:-1px}.pitch-lines span:after{bottom:-1px}
+.attack-direction{font-size:.68rem;text-align:center;opacity:.7;z-index:1}
+.pitch-row{display:flex;justify-content:space-around;gap:3px;z-index:1}
+.pitch-player{display:flex;flex-direction:column;align-items:center;gap:3px;min-width:0;flex:1;max-width:80px;text-decoration:none;font-size:.65rem;line-height:1.5;color:var(--board-ink);font-weight:700}
+.pitch-player .shirt{display:grid;place-items:center;width:27px;height:27px;border-radius:7px;background:#ffd449;color:var(--board);font:700 .8rem/1 "Roboto Mono",ui-monospace,monospace}
+.fctokyo .shirt{background:#224f94;color:white;border-bottom:4px solid #d33740}
+.pitch-player:focus-visible{outline:2px solid var(--led);outline-offset:3px;border-radius:4px}
+.pitch-player:hover{text-decoration:underline}.pitch-player span:last-child{text-align:center;overflow-wrap:anywhere}
+.formation-note{font-size:.72rem;line-height:1.65;padding:8px 10px;margin:0}
+.search{margin-top:26px}.search label{display:block}.search input{width:100%;font:inherit;font-size:.9rem;padding:10px 12px;background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:var(--radius)}
+.search input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+#search-results .qs{margin-top:8px}
+.article h3{font-size:1.2rem;line-height:1.5;margin:2.2em 0 .6em}
+.article h4{font-size:1.02rem;margin:1.4em 0 .3em}
+.article blockquote{margin:1em 0;padding:10px 14px;background:var(--surface);border-left:3px solid var(--accent);border-radius:0 var(--radius) var(--radius) 0;font-size:.92rem;line-height:1.8}
+.article .table-scroll{overflow-x:auto}
+.article .sources{font-size:.78rem;color:var(--sub);word-break:break-all;line-height:1.7;border-top:1px solid var(--line);margin-top:32px;padding-top:18px}
+.article pre{overflow-x:auto;font:12px/1.7 ui-monospace,monospace;background:var(--surface);padding:12px;border-radius:8px}
+.article .list-item{margin-bottom:.4em}
+@media(max-width:540px){.formations{grid-template-columns:1fr}.pitch{min-height:355px}.pitch-player{font-size:.74rem}.team-col h4{padding:8px;font-size:.8rem}.team-col li{padding:6px 8px;font-size:.8rem;grid-template-columns:1.8em minmax(0,1fr);gap:3px}.team-col li .pos{font-size:.68rem}.football-score{gap:8px}}
+</style>
+</head>
+<body>
+<header><div class="in"><a href="#/">FC東京×柏 観戦ガイド</a><span class="meta">10/21 19:00</span></div></header>
+<main id="app"></main>
 <script>
-const DATA=/*__DATA__*/null;
-const home=document.querySelector('#home'),reader=document.querySelector('#reader'),catalog=document.querySelector('#catalog');
-const byId=new Map(DATA.articles.map(a=>[a.id,a]));
-function card(item){const a=document.createElement('a');a.className='card';a.href='#'+item.id;a.textContent=item.title;return a}
-document.querySelector('#updated').textContent='更新版を制作中 · '+DATA.updated+' 生成 · 読み物 '+DATA.articles.length+'本（原稿の情報時点は記事ごとに記載）';
-for(const [n,list] of Object.entries(DATA.groups)){if(!list.length)continue;const a=document.createElement('a');a.href='#section-'+n;a.textContent=n;document.querySelector('#nav').append(a)}
-const startPaths=['foundation-v2/facts/match.md','content/1/1-01.md','content/4/4-01.md','content/5/5-01.md','teams/kashiwa/lineup.md','teams/fctokyo/lineup.md'];
-for(const p of startPaths){const a=DATA.articles.find(a=>a.source===p);if(a)document.querySelector('#start').append(card(a))}
-function render(q=''){catalog.replaceChildren();let count=0;for(const [group,list] of Object.entries(DATA.groups)){const filtered=list.filter(x=>{const a=byId.get(x.id);return !q||(a.title+' '+a.text).toLocaleLowerCase().includes(q.toLocaleLowerCase())});if(!filtered.length)continue;count+=filtered.length;const s=document.createElement('section');s.id='section-'+group;const h=document.createElement('h2');h.className='section-title';h.textContent=group;const small=document.createElement('small');small.textContent=filtered.length+'本';h.append(small);const grid=document.createElement('div');grid.className='grid';for(const x of filtered)grid.append(card(x));s.append(h,grid);catalog.append(s)}if(!count){const p=document.createElement('p');p.className='no-results';p.textContent='見つかりませんでした。別の言葉でも探してみてください。';catalog.append(p)}}
-document.querySelector('#query').addEventListener('input',e=>render(e.target.value.trim()));render();
-const pitches={tokyo:[[[26,'長倉'],[9,'ヒアン']],[[33,'俵積田'],[20,'永野'],[8,'高'],[7,'安斎']],[[6,'佳史扶'],[4,'稲村'],[24,'ショルツ'],[22,'石原']],[[81,'キム']]],kashiwa:[[[15,'藤尾']],[[8,'小泉'],[87,'山内']],[[5,'遠藤'],[21,'小西'],[39,'中川'],[24,'久保']],[[26,'杉岡'],[4,'古賀'],[28,'戸嶋']],[[29,'永井']]]};
-for(const [team,rows] of Object.entries(pitches)){const source='teams/'+(team==='tokyo'?'fctokyo':'kashiwa')+'/lineup.md';const article=DATA.articles.find(a=>a.source===source);for(const players of rows){const row=document.createElement('div');row.className='row';for(const [number,name] of players){const a=document.createElement('a');a.className='player';a.href='#'+article.id;const shirt=document.createElement('span');shirt.className='shirt';shirt.textContent=number;a.append(shirt,document.createTextNode(name));row.append(a)}document.querySelector('#'+team+'-pitch').append(row)}}
-function route(){const id=decodeURIComponent(location.hash.slice(1));const a=byId.get(id);home.hidden=!!a;reader.hidden=!a;if(a){document.querySelector('#reader-group').textContent=a.group;document.querySelector('#reader-title').textContent=a.title;document.querySelector('#article').innerHTML=a.html;document.querySelector('#related').replaceChildren(...DATA.groups[a.group].filter(x=>x.id!==id).slice(0,6).map(card));document.title=a.title+'｜観戦ガイド';window.scrollTo(0,0)}else{document.title='FC東京×柏レイソル｜はじめての観戦ガイド';if(id)requestAnimationFrame(()=>document.getElementById(id)?.scrollIntoView());else window.scrollTo(0,0)}}
-document.querySelector('#back').onclick=()=>{location.hash=''};window.addEventListener('hashchange',route);route();
+const D = /*__DATA__*/null;
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const articles=new Map(D.articles.map(a=>[a.id,a]));
+const byPath=new Map(D.articles.map(a=>[a.source,a]));
+const groups={
+ basics:{title:'サッカー初心者ガイド',desc:'ルールとしくみ',categories:['はじめの5分','基本ルール','判定と交代','大会と順位']},
+ game:{title:'FC東京対柏を楽しむガイド',desc:'今日の見どころ',categories:['戦略と観察','FC東京','柏レイソル']},
+ stadium:{title:'味の素スタジアムガイド',desc:'会場と行き帰り',categories:['会場と行き帰り']},
+ local:{title:'柏・日立台から読むガイド',desc:'いつもの街とクラブのつながり',categories:['柏・日立台']}
+};
+const articleLink=(a,sub='')=>`<a class="q" href="#${esc(a.id)}">${esc(a.title)}${sub?`<small>${esc(sub)}</small>`:''}</a>`;
+function guideLink(key,wide=false){const g=groups[key];return `<a class="guide${wide?' wide':''}" href="#/g/${key}"><b>${esc(g.title)}</b><span>${esc(g.desc)}</span></a>`}
+function playerArticle(t,p){return byPath.get(`teams/${t.key}/people/${p.slug}.md`)}
+function playerLink(t,p,short=false){const a=playerArticle(t,p);return `<a href="${a?'#'+a.id:'#'+byPath.get(t.source_path).id}" aria-label="${esc(t.name+' #'+p.number+' '+p.name+'の選手カード')}">${short?'':`<span class="num">${esc(p.number)}</span>`}${esc(short?p.short:p.name)}</a>`}
+function teamStatus(t){return t.status==='announced'?'発表済み':'予想'}
+function lineupCols(){return `<div class="lineup">${D.lineups.teams.map(t=>`<section class="team-col"><h4>${esc(t.name)}<small>${teamStatus(t)}</small></h4><ol aria-label="${esc(t.name)}の先発11人">${t.starting.map(p=>`<li><span class="pos">${esc(p.position)}</span><span>${playerLink(t,p)}</span></li>`).join('')}</ol></section>`).join('')}</div>`}
+function formationCols(){return `<div class="formations">${D.lineups.teams.map(t=>`<section class="formation-col"><h4>${esc(t.name)}<small>${esc(t.formation)}・${t.formation_status==='announced'?'発表配置':'推定配置'}</small></h4><div class="pitch ${esc(t.key)}" role="group" aria-label="${esc(t.name+' '+t.formation+'の推定フォーメーション')}"><div class="attack-direction">攻める方向 ↑</div><div class="pitch-lines" aria-hidden="true"><span></span></div>${t.formation_rows.map(row=>`<div class="pitch-row">${row.map(number=>{const p=t.starting.find(p=>p.number===number);return `<a class="pitch-player" href="#${playerArticle(t,p).id}" aria-label="${esc(t.name+' #'+number+' '+p.name+'の選手カード')}"><span class="shirt">${number}</span><span>${esc(p.short)}</span></a>`}).join('')}</div>`).join('')}</div><p class="formation-note">${teamStatus(t)}先発と配置の根拠：<a href="#${byPath.get(t.source_path).id}">${esc(t.name)}の予想を読む</a></p></section>`).join('')}</div>`}
+function lineupBlock(){return `<section aria-labelledby="lineup-heading"><h2 class="section-title" id="lineup-heading">スタメン</h2>${lineupCols()}<p class="lead lineup-help">名前を押すと選手カードが開きます。<a href="#/lineup">控え候補・監督も見る</a><br>GK＝ゴールキーパー、DF＝守備、MF＝中盤、FW＝前線。表の位置は予想する役割です。</p><h2 class="section-title">フォーメーション</h2>${formationCols()}<p class="lead">図は両チームとも上に向かって攻めるときの位置の目安です。実際は攻撃と守備で形が変わり、前後半で攻める向きも入れ替わります。</p><p class="src">先発確認：${D.lineups.teams.map(t=>esc(t.name+' '+t.checked_at)).join(' ／ ')}。${D.lineups.teams.every(t=>t.status==='announced')?'公式先発を反映。':'掲載資料では公式先発未確認。'}先発発表と配置の推定は別に表示します。</p></section>`}
+function board(){return `<div class="board"><div class="top"><span class="inning">19:00 キックオフ</span><span class="status">10/21（水）味の素スタジアム</span></div><div class="football-score"><div><span class="side">HOME</span><b>FC東京</b></div><span class="score-number" aria-label="スコア未掲載">— : —</span><div><span class="side">AWAY</span><b>柏レイソル</b></div></div><div class="who">2026/27 明治安田J1リーグ 第11節<div class="hint">スコア・経過時間は未掲載。自動速報ではありません。<br><a href="#${byPath.get('foundation-v2/facts/match.md').id}">今日の試合について</a> ／ <a href="#/lineup">スタメン・配置・選手カード</a></div></div></div>`}
+function footer(){return `<hr><p class="src">制作途中の公開版。原稿が追加されるたびに更新します。<br>${esc(D.updated)} 生成／読み物 ${D.articles.length}本。情報の確認時点と根拠は記事ごとに記載しています。</p>`}
+function searchBox(){return `<div class="search"><label for="query" class="eyebrow">いまの疑問を探す</label><input id="query" type="search" placeholder="オフサイド、交代、細谷、日立台…" autocomplete="off"></div><div id="search-results" aria-live="polite"></div>`}
+function bindSearch(){const input=$('#query');if(!input)return;input.addEventListener('input',()=>{const q=input.value.trim().toLocaleLowerCase();const found=q?D.articles.filter(a=>(a.title+' '+a.text).toLocaleLowerCase().includes(q)):[];$('#search-results').innerHTML=q?`<p class="lead">${found.length}件</p><div class="qs">${found.map(a=>articleLink(a,a.group)).join('')}</div>`:''})}
+function home(){
+ const starterPaths=['content/1/1-01.md','content/1/1-02.md','content/1/1-03.md','content/2/2-01.md','content/2/2-02.md','content/2/2-03.md','content/3/3-01.md','content/4/4-01.md','content/4/4-02.md','content/4/4-03.md','content/5/5-03.md','content/6/6-01.md'];
+ $('#app').innerHTML=`<div class="guides">${guideLink('basics')}${guideLink('game')}</div><p class="eyebrow">今日の試合</p>${board()}${lineupBlock()}<p class="section-title">この画面の見方がわからないとき</p><div class="qs">${starterPaths.map(p=>byPath.get(p)).filter(Boolean).map(a=>articleLink(a)).join('')}</div><p class="section-title">スタジアムのこと</p><div class="guides">${guideLink('stadium',true)}</div><p class="section-title">柏・日立台のこと</p><div class="guides">${guideLink('local',true)}</div>${searchBox()}${footer()}`;
+ bindSearch();
+}
+function guide(key){const g=groups[key];if(!g)return home();$('#app').innerHTML=`<a class="back" href="#/">← トップ</a><h1>${esc(g.title)}</h1><p class="lead">${esc(g.desc)}</p>${key==='game'?'<div class="qs"><a class="q" href="#/lineup">スタメンとフォーメーション<small>両チームの選手・監督カード</small></a><a class="q" href="#'+byPath.get('foundation-v2/facts/match.md').id+'">今日の試合データ<small>大会・会場・開始時刻</small></a></div>':''}${g.categories.map(name=>`<p class="section-title">${esc(name)}</p><div class="qs">${(D.groups[name]||[]).map(a=>articleLink(a)).join('')}</div>`).join('')}${searchBox()}${footer()}`;bindSearch()}
+function lineup(){let h=`<a class="back" href="#/">← トップ</a><h1>スタメンと選手カード</h1><p class="lead">先発一覧と配置図は、掲載資料の時点では予想です。出場の可否は各選手の原稿と公式発表で確認してください。</p>${lineupBlock()}`;
+ for(const t of D.lineups.teams){const all=D.articles.filter(a=>a.source.startsWith(`teams/${t.key}/people/`));h+=`<p class="section-title">${esc(t.name)}｜選手・監督</p><div class="qs">${all.map(a=>articleLink(a)).join('')}</div>`}$('#app').innerHTML=h+footer()}
+const COPY_ICON='<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><rect x="5" y="5" width="9" height="9" rx="1.5"/><path d="M11 5V3.5A1.5 1.5 0 0 0 9.5 2h-6A1.5 1.5 0 0 0 2 3.5v6A1.5 1.5 0 0 0 3.5 11H5"/></svg>';
+function article(id){const a=articles.get(id);if(!a)return home();const key=Object.keys(groups).find(k=>groups[k].categories.includes(a.group));const isPlayer=a.source.includes('/people/');const back=isPlayer?'#/lineup':key?'#/g/'+key:'#/';const backText=isPlayer?'スタメンと選手カード':key?groups[key].title:'トップ';
+ $('#app').innerHTML=`<a class="back" href="${back}">← ${esc(backText)}</a><p class="eyebrow">${esc(a.group)}</p><h1>${esc(a.title)}</h1><p><button class="gpt" id="ask-article">${COPY_ICON}${isPlayer?'この選手をGPTで深掘り':'この記事を詳しく聞く'}</button></p><div class="article">${a.html}</div><p class="section-title">さらに気になる？</p><div class="qs">${(D.groups[a.group]||[]).filter(x=>x.id!==id).slice(0,8).map(x=>articleLink(x)).join('')}</div>`;
+ document.title=a.title+'｜FC東京×柏 観戦ガイド';
+ $('#ask-article').onclick=async()=>{const text=`2026年10月21日19:00、味の素スタジアムのFC東京対柏レイソルを初めて観戦します。次の原稿を読みました。\n\n${a.title}\n${a.text}\n\nこの内容を、15歳くらいの人にもわかる言葉で、数字・選手名・場面・理由を具体的に補って説明してください。専門用語は言い換え、結論を先に。最新の事実は公式資料を確認し出典と日時を残してください。予想と公式発表を区別し、最後に「今日の試合で見るなら」を入れてください。ユーザー本人の逸話・体験は扱いません。`;let ok=false;try{await navigator.clipboard.writeText(text);ok=true}catch{const ta=document.createElement('textarea');ta.value=text;document.body.append(ta);ta.select();try{ok=document.execCommand('copy')}catch{}ta.remove()}$('#ask-article').textContent=ok?'コピーしました。ChatGPTに貼ってください':'コピーできませんでした';if(ok)$('#ask-article').classList.add('done')};
+}
+function route(){const hash=decodeURIComponent(location.hash.slice(1));document.title='FC東京×柏 観戦ガイド';if(hash==='/lineup')lineup();else if(hash.startsWith('/g/'))guide(hash.slice(3));else if(articles.has(hash))article(hash);else home();window.scrollTo(0,0)}
+window.addEventListener('hashchange',route);route();
 </script></body></html>
+
+
+

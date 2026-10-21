@@ -123,10 +123,22 @@ def main():
         footer+='</div>'
         articles.append({'id':aid,'title':title,'group':group,'text':re.sub(r'[*#=|`]', '', body),'html':markdown(body,source)+footer,'source':source})
         groups[group].append({'id':aid,'title':title})
-    payload={'articles':articles,'groups':groups,'updated':datetime.now(timezone(timedelta(hours=9))).strftime('%Y年%m月%d日 %H:%M（日本時間）')}
+    lineups=json.loads((EVENT/'teams/lineups-display.json').read_text())
+    for team in lineups['teams']:
+        starting=team['starting']
+        numbers=[p['number'] for p in starting]
+        placed=[n for row in team['formation_rows'] for n in row]
+        if len(starting)!=11 or len(set(numbers))!=11 or sorted(numbers)!=sorted(placed):
+            raise ValueError('先発一覧と配置図の11人が一致しない: '+team['key'])
+        for person in starting:
+            path=f"teams/{team['key']}/people/{person['slug']}.md"
+            if path not in ids:
+                raise ValueError('選手カードの保存先を確認できない: '+path)
+    payload={'articles':articles,'groups':groups,'lineups':lineups,'updated':datetime.now(timezone(timedelta(hours=9))).strftime('%Y年%m月%d日 %H:%M（日本時間）')}
     template=(ROOT/'scripts/football_template.html').read_text()
     result=template.replace('/*__DATA__*/null',json.dumps(payload,ensure_ascii=False).replace('</','<\\/'))
     target=EVENT/'site/index.html';target.parent.mkdir(parents=True,exist_ok=True);target.write_text(result)
     print(json.dumps({'articles':len(articles),'groups':{k:len(v) for k,v in groups.items()},'output':str(target)},ensure_ascii=False))
 
 if __name__=='__main__':main()
+
