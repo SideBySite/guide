@@ -1,0 +1,496 @@
+[
+  {
+    "candidate_id": "E-01",
+    "question": "FC東京って、東京のどこから生まれたチームなの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "青赤の選手が入場し、FC東京の名前を見るとき",
+    "answer_scope": [
+      "1935年の東京ガスサッカー部の始まり",
+      "1998年の運営会社設立と改称",
+      "東京都をホームタウンとする考え方"
+    ],
+    "today_watch": "ピッチ入場時、青赤のクラブ名とスタンドの地名・都内の旗を見比べる",
+    "priority": "star",
+    "novice_value": "『東京』という巨大な地名に具体的な来歴を与える",
+    "distinct_from": "5-01は今の戦術、7-01は会場利用。ここはクラブ成立史と街のつながり",
+    "fact_check": [
+      "スタンド内の地名掲示の有無と当日の掲出を要現地確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/club/profile/",
+      "https://www.fctokyo.co.jp/club/philosophy/",
+      "https://www.fctokyo.co.jp/club/hometown/"
+    ]
+  },
+  {
+    "candidate_id": "E-02",
+    "question": "東京ガスのサッカー部が、どうしてFC東京になったの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-01",
+    "category_hint": 5,
+    "trigger": "会場アナウンスで企業名ではなく『FC東京』と呼ばれるとき",
+    "answer_scope": [
+      "旧チーム名と1998年の改称",
+      "都民に広く開かれたクラブへの転換",
+      "1999年J2参入"
+    ],
+    "today_watch": "企業名のないクラブ名を、街のさまざまな応援席と結びつけて読む",
+    "priority": "normal",
+    "novice_value": "会社チームと現在の地域クラブの違いがわかる",
+    "distinct_from": "E-01の出自年表よりも、名を変えた理由と市民クラブ化に絞る",
+    "fact_check": [
+      "名称変更の意図はクラブ公式の記述でのみ説明"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/club/philosophy/",
+      "https://www.fctokyo.co.jp/club/profile/"
+    ]
+  },
+  {
+    "candidate_id": "E-03",
+    "question": "柏レイソルの『レイソル』は、どういう意味なの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "黄色いユニフォームと柏のエンブレムを見るとき",
+    "answer_scope": [
+      "REY＝王、SOL＝太陽を組み合わせた名",
+      "黄色のクラブカラー",
+      "柏市と日立製作所サッカー部の結びつき"
+    ],
+    "today_watch": "黄色い選手が出てきたとき、名前と色の由来を思い出す",
+    "priority": "star",
+    "novice_value": "初見の相手を『黄色いチーム』以上の存在として覚えられる",
+    "distinct_from": "5-02の戦い方とは異なり、クラブ名と地域の由来",
+    "fact_check": [
+      "ユニフォームの当日の着用色は公式出場写真・告知で確認"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/club/clubinfo/",
+      "https://www.reysol.co.jp/past-pages/club/history/chronology/1995.php",
+      "https://www.reysol.co.jp/game/results/202627/1021i.php"
+    ]
+  },
+  {
+    "candidate_id": "E-04",
+    "question": "柏のチーム、昔は東京の小平にいたの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-03",
+    "category_hint": 5,
+    "trigger": "東京と柏の対戦カードを見て、地理的な近さを感じたとき",
+    "answer_scope": [
+      "前身の日立チームの拠点移動",
+      "1986年の小平から柏への移転",
+      "1991年に柏市がホームタウンとなった歩み"
+    ],
+    "today_watch": "『東京対千葉』の単純な線引きではない歴史を見ながら対戦を眺める",
+    "priority": "star",
+    "novice_value": "地域の移り変わりに意外な接点を見つけられる",
+    "distinct_from": "E-03の名称・色ではなく、練習拠点が動いた地域史",
+    "fact_check": [
+      "小平時代の施設名・移転年は一次資料と再照合"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/club/clubinfo/",
+      "https://www.reysol.co.jp/past-pages/club/history/chronology/1995.php",
+      "https://www.fctokyo.co.jp/club/profile/"
+    ]
+  },
+  {
+    "candidate_id": "E-05",
+    "question": "FC東京と柏は、昔から何度も対戦しているの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "選手紹介で対戦名を見て、両クラブの距離を考えるとき",
+    "answer_scope": [
+      "両クラブのJリーグ加入時期の違い",
+      "直近の公式対戦記録とホーム・アウェー",
+      "『東京ダービー』とは別のカード"
+    ],
+    "today_watch": "今日の笛前に直近の対戦結果と前回の会場を一つだけ確認する",
+    "priority": "normal",
+    "novice_value": "相手との関係を過度な『宿敵』演出抜きで知る",
+    "distinct_from": "3-02は順位・勝点、5-03は噛み合う作戦。こちらは対戦の積み重ね",
+    "fact_check": [
+      "初対戦年と通算対戦数はJリーグ公式対戦データで集計を要する"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.fctokyo.co.jp/club/profile/",
+      "https://www.reysol.co.jp/past-pages/club/history/chronology/1995.php"
+    ]
+  },
+  {
+    "candidate_id": "E-06",
+    "question": "今年、FC東京と柏はもう2回戦ったの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-05",
+    "category_hint": 5,
+    "trigger": "『今季初対戦？』という会話を耳にしたとき",
+    "answer_scope": [
+      "2026年2月28日と4月29日の特別大会での対戦",
+      "10月21日は2026/27 J1という別大会",
+      "同じ暦年と同じシーズンは違う"
+    ],
+    "today_watch": "今夜の記録紹介で『今年』と『2026/27』を区別して聞く",
+    "priority": "star",
+    "novice_value": "今年の対戦史を取り違えずに読める",
+    "distinct_from": "3-01-cの大会制度全体ではなく、このカードの具体的な再会",
+    "fact_check": [
+      "2/28・4/29の実際のスコアと会場を公式結果で照合"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/match/schedule/info/20260429/",
+      "https://www.jleague.jp/match/j1/2026/102108/"
+    ]
+  },
+  {
+    "candidate_id": "E-07",
+    "question": "柏はJ2から上がって、すぐJ1で優勝したの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "柏の過去の優勝が紹介されるとき",
+    "answer_scope": [
+      "2010年J2優勝",
+      "2011年J1昇格初年度優勝",
+      "当時の監督と若手・ベテランが担った役割"
+    ],
+    "today_watch": "目の前の柏の若手とベテランの支え合いを、昔の成功例と結びつけて見る",
+    "priority": "star",
+    "novice_value": "単なるタイトル数ではなくチームを作るドラマが伝わる",
+    "distinct_from": "3-02-bは現在地。ここは2010→2011の昇格直後の物語",
+    "fact_check": [
+      "当時の個人逸話は誰が何をしたかまで確認してから採用"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/club/history/chronology/1115.php",
+      "https://www.reysol.co.jp/club/clubinfo/"
+    ]
+  },
+  {
+    "candidate_id": "E-08",
+    "question": "FC東京が初めて優勝を味わったのは、どんな試合？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "クラブの優勝歴やカップの写真を見るとき",
+    "answer_scope": [
+      "2004年ナビスコカップの初タイトル",
+      "浦和との決勝と延長・PK決着",
+      "守りきった選手の役割"
+    ],
+    "today_watch": "今日、得点者だけでなく後ろで耐える人にも目を向ける",
+    "priority": "normal",
+    "novice_value": "FC東京の過去をプレーの観察に結びつけられる",
+    "distinct_from": "E-07の柏の昇格劇ではなく、FC東京初タイトルの試合場面",
+    "fact_check": [
+      "当日の退場者と時刻をJリーグ公式の歴史記事で裏付け"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/club/profile/",
+      "https://www.fctokyo.co.jp/club/philosophy/"
+    ]
+  },
+  {
+    "candidate_id": "E-09",
+    "question": "一人少なくなっても、FC東京は決勝に勝ったの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-08",
+    "category_hint": 5,
+    "trigger": "退場や人数差を話題にする場面で",
+    "answer_scope": [
+      "2004年カップ決勝の退場と人数差",
+      "延長の末にPK戦で優勝した記録",
+      "人数が足りない側を支えた人の仕事"
+    ],
+    "today_watch": "もし今夜人数差が生じたら、残る選手がどこを埋めるか見る。生じなければ歴史の例として読む",
+    "priority": "normal",
+    "novice_value": "華やかな決勝点以外の集団的な仕事へ入口を作る",
+    "distinct_from": "2-03-aはカードの決まり、E-08は初優勝の全貌。ここは少人数を補う役割",
+    "fact_check": [
+      "2004年決勝の人数差の時間帯を公式記録で要確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/club/profile/",
+      "https://www.fctokyo.co.jp/club/philosophy/"
+    ]
+  },
+  {
+    "candidate_id": "E-10",
+    "question": "試合がない日も、選手と街の人は会うの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "応援席で地域の活動紹介を見るとき",
+    "answer_scope": [
+      "FC東京の学校・地域連携",
+      "柏のアカデミーと普及活動",
+      "試合の外でクラブが地域にいる方法"
+    ],
+    "today_watch": "会場の地域紹介・配布物・募金活動があれば、誰が運営しているか見る",
+    "priority": "normal",
+    "novice_value": "クラブが試合結果だけで成り立たないことに気づける",
+    "distinct_from": "7-01は当日の過ごし方。ここはクラブと住民の日常的なつながり",
+    "fact_check": [
+      "今夜の地域イベント実施は当日告知で確認し、未告知なら断定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/club/hometown/",
+      "https://www.reysol.co.jp/club/clubinfo/",
+      "https://reysol.co.jp/academy/about.php"
+    ]
+  },
+  {
+    "candidate_id": "E-11",
+    "question": "地元の子どもが、プロの同じユニフォームを着ることはあるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "若く見える選手を選手紹介で見かけるとき",
+    "answer_scope": [
+      "U-12/U-15/U-18など育成年代の流れ",
+      "選抜とスクールの違い",
+      "トップチーム昇格の実例"
+    ],
+    "today_watch": "若い選手が出れば、背番号と育成歴を人物カードで照合する",
+    "priority": "star",
+    "novice_value": "プロ選手がどこから育つのかを身近な道筋として知れる",
+    "distinct_from": "6-02は現在の脇役探し。ここは子ども時代からトップへの育成経路",
+    "fact_check": [
+      "当日出場選手の育成歴は公式人物紹介で逐一照合"
+    ],
+    "sources": [
+      "https://reysol.co.jp/academy/about.php",
+      "https://reysol.co.jp/qa.php",
+      "https://www.fctokyo.co.jp/academy/u18/match/284200/",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27"
+    ]
+  },
+  {
+    "candidate_id": "E-12",
+    "question": "柏で小さいころから育った選手が、今のキャプテンなの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-11",
+    "category_hint": 5,
+    "trigger": "柏の選手が腕章を巻いて入場するとき",
+    "answer_scope": [
+      "古賀太陽のアカデミー在籍",
+      "2026/27のキャプテン指名",
+      "チームをまとめたいと本人が語った内容"
+    ],
+    "today_watch": "古賀#4が先発なら、守備列の中で周囲との距離や指示を観察する",
+    "priority": "star",
+    "novice_value": "地元育ちの人物を『主将』という仕事と一緒に覚えられる",
+    "distinct_from": "E-11は育成制度全体、E-12は一人の進路と主将の役割",
+    "fact_check": [
+      "古賀の今夜の出場、腕章装着者は公式先発や現地で確認"
+    ],
+    "sources": [
+      "https://reysol.co.jp/academy/about.php",
+      "https://www.reysol.co.jp/news/topteam/202627-8.html",
+      "https://www.reysol.co.jp/team/players/"
+    ]
+  },
+  {
+    "candidate_id": "E-13",
+    "question": "FC東京の子どもチームから来た選手を、今日見つけられる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-11",
+    "category_hint": 5,
+    "trigger": "FC東京の若手が選手紹介されたとき",
+    "answer_scope": [
+      "過去のU-18公式記録にある俵積田晃太",
+      "現トップ所属と育成年代の照合",
+      "トップと育成の距離"
+    ],
+    "today_watch": "俵積田#33が出場するなら、以前の育成年代の記録と今の位置を重ねる",
+    "priority": "normal",
+    "novice_value": "地元の成長を年表ではなく同じ選手の変化で見る",
+    "distinct_from": "E-12の柏の主将とは別に、FC東京の育成年代から今日の選手をたどる",
+    "fact_check": [
+      "俵積田の当日登録・先発の断定はしない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/academy/u18/match/284200/",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27",
+      "https://www.fctokyo.co.jp/team/players/number/"
+    ]
+  },
+  {
+    "candidate_id": "E-14",
+    "question": "両チームの監督は、選手だった人なの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "試合前に監督の名前と姿がビジョンに映るとき",
+    "answer_scope": [
+      "松橋力蔵の選手歴から育成指導・新潟監督へ",
+      "リカルド ロドリゲスの各国での指導歴",
+      "選手出身か否かを個別に説明"
+    ],
+    "today_watch": "両ベンチの監督がピッチに目を向ける場面を一度だけ観察する",
+    "priority": "normal",
+    "novice_value": "監督にも異なる職業人生があると分かる",
+    "distinct_from": "5-01/5-02は戦術の傾向。こちらは人としての監督の歩み",
+    "fact_check": [
+      "リカルドのプロ選手歴の有無は公式経歴以上には断定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/316882/",
+      "https://www.fctokyo.co.jp/team/players/202627/298271/",
+      "https://reysol.co.jp/team/staff/s01.php"
+    ]
+  },
+  {
+    "candidate_id": "E-15",
+    "question": "松橋監督は、子どもたちを教えていた時期が長いの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-14",
+    "category_hint": 5,
+    "trigger": "東京のベンチで松橋力蔵監督を見るとき",
+    "answer_scope": [
+      "横浜F・マリノスの育成年代での指導",
+      "新潟監督から2025年東京へ",
+      "『教えて育てる』経験と現在のチームへのつながり"
+    ],
+    "today_watch": "選手交代の直前直後、監督が誰に何を伝えているように見えるか見る（内容は推測しない）",
+    "priority": "star",
+    "novice_value": "監督の経歴が、今の選手との関わりを観察する手掛かりになる",
+    "distinct_from": "E-14の両監督比較より松橋個人の育成キャリアに絞る",
+    "fact_check": [
+      "指示内容や育成経験が直接今の戦術を生んだとの因果は本人発言が必要"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/news/details/316882/",
+      "https://www.fctokyo.co.jp/team/players/202627/298271/",
+      "https://www.fctokyo.co.jp/fan/fanzone/detail/342859/"
+    ]
+  },
+  {
+    "candidate_id": "E-16",
+    "question": "柏のリカルド監督は、どんな国で仕事をしてきたの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-14",
+    "category_hint": 5,
+    "trigger": "柏の監督がベンチから立ち上がるとき",
+    "answer_scope": [
+      "スペイン・サウジアラビア・タイ・日本・中国での指導職",
+      "徳島と浦和での仕事",
+      "2025年柏就任"
+    ],
+    "today_watch": "柏の選手が監督のサインを受けたあと、どこへ移動するか注目する",
+    "priority": "normal",
+    "novice_value": "一人の監督を海外と日本を横断する人物として見られる",
+    "distinct_from": "E-15は育成指導者の道、E-16は国をまたいだ指導経験",
+    "fact_check": [
+      "渡航や就任の個人的動機は未確認なので書かない"
+    ],
+    "sources": [
+      "https://reysol.co.jp/team/staff/s01.php",
+      "https://www.reysol.co.jp/team/staff/"
+    ]
+  },
+  {
+    "candidate_id": "E-17",
+    "question": "柏には、監督の前のチームから来た選手もいるの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "柏の小泉佳穂・大久保智明などが紹介されるとき",
+    "answer_scope": [
+      "小泉佳穂と大久保智明の移籍歴",
+      "リカルド監督の浦和時代との接点",
+      "過去の共通経験がある選手と新しい仲間の関係"
+    ],
+    "today_watch": "該当選手が出たら、監督の声の後で誰が近くの仲間へ合図をつなぐか見る",
+    "priority": "star",
+    "novice_value": "移籍を数字ではなく人間関係の再会として読める",
+    "distinct_from": "5-02は柏の戦い方。こちらは監督と選手の以前の接点と今の関わり",
+    "fact_check": [
+      "各選手の浦和時代の同時在籍年度と10/21登録をクラブ公式で再確認"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://reysol.co.jp/team/staff/s01.php",
+      "https://www.reysol.co.jp/team/players/"
+    ]
+  },
+  {
+    "candidate_id": "E-18",
+    "question": "ベンチにいるコーチも、昔は選手だったの？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 5,
+    "trigger": "監督以外にもベンチで立つ人がいるとき",
+    "answer_scope": [
+      "柏の大谷秀和・栗澤僚一・染谷悠太らのスタッフ登録",
+      "引退後の指導者への転身",
+      "監督と各コーチの立場の違い"
+    ],
+    "today_watch": "選手交代時、監督以外のスタッフが誰と話しているか観察する",
+    "priority": "normal",
+    "novice_value": "背広やスタッフ服の人にも見る入口ができる",
+    "distinct_from": "6-03-bのベンチ入り選手とは違い、かつての選手が教える側に回る話",
+    "fact_check": [
+      "誰が当日ベンチに入るか、肩書別の具体的指示内容は公式で確認"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/team/staff/",
+      "https://www.reysol.co.jp/club/clubinfo/"
+    ]
+  },
+  {
+    "candidate_id": "E-19",
+    "question": "監督の隣のコーチは、試合中に何を見ているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-18",
+    "category_hint": 5,
+    "trigger": "相手が攻め込んだときに複数スタッフが立つとき",
+    "answer_scope": [
+      "ヘッドコーチと各専門スタッフの役割名",
+      "監督を補う情報や交代準備の一般的な仕組み",
+      "外から見える行動と会話内容の区別"
+    ],
+    "today_watch": "ピッチの一点を見ているスタッフと交代準備へ向かうスタッフの動きを比べる",
+    "priority": "normal",
+    "novice_value": "視界の外にある共同作業を意識できる",
+    "distinct_from": "E-18はコーチの人生と来歴、こちらは試合中の分担",
+    "fact_check": [
+      "具体的な無線・通信方式や発言内容はクラブ取材なしに断定しない"
+    ],
+    "sources": [
+      "https://www.reysol.co.jp/team/staff/",
+      "https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27"
+    ]
+  },
+  {
+    "candidate_id": "E-20",
+    "question": "『キング・オブ・トーキョー』って、昔の誰のこと？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "E-01",
+    "category_hint": 5,
+    "trigger": "FC東京の応援に歴代選手の名や肖像が出てきたとき",
+    "answer_scope": [
+      "クラブが『キング・オブ・トーキョー』と記すアマラオ",
+      "在籍期と2003年の別れ",
+      "その呼び名がクラブ史に残る理由"
+    ],
+    "today_watch": "当日の選手紹介や横断幕に過去選手の名前があれば、現役とは区別して見る",
+    "priority": "normal",
+    "novice_value": "過去の愛称からファンが選手を記憶する仕組みがわかる",
+    "distinct_from": "E-01の創設史ではなく、象徴的な一人と愛称の文脈",
+    "fact_check": [
+      "今夜の横断幕・記念演出の実施は確認するまで断定しない"
+    ],
+    "sources": [
+      "https://www.fctokyo.co.jp/club/profile/",
+      "https://www.fctokyo.co.jp/club/philosophy/"
+    ]
+  }
+]
