@@ -1,0 +1,756 @@
+{
+  "version": 4,
+  "event": "20261021-fctokyo-kashiwa",
+  "timezone": "Asia/Tokyo",
+  "source_repository": "SideBySite/guide",
+  "initial_foundation": {
+    "id": "01",
+    "state": "completed",
+    "pr": 148,
+    "redo": [
+      "01R-A",
+      "01R-B",
+      "01R-C",
+      "01R-D",
+      "01R-E",
+      "01R-F"
+    ],
+    "policy": "Keep initial files; recreate foundation from scratch in foundation-v2/."
+  },
+  "active_locked": [
+    "02",
+    "03"
+  ],
+  "baseline_question_count": 64,
+  "question_target": {
+    "min": 200,
+    "max": 280,
+    "quality_over_quota": true,
+    "people_counted_separately": true
+  },
+  "tasks": [
+    {
+      "id": "00-A",
+      "title": "初観戦の時間の流れから、疑問を掘る",
+      "group": "discovery",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/00-A.md",
+      "status_path": "../../status/00-A-done.md"
+    },
+    {
+      "id": "00-B",
+      "title": "ルール・判定・再開から、疑問を掘る",
+      "group": "discovery",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/00-B.md",
+      "status_path": "../../status/00-B-done.md"
+    },
+    {
+      "id": "00-C",
+      "title": "戦略の種類と相性から、疑問を掘る",
+      "group": "discovery",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/00-C.md",
+      "status_path": "../../status/00-C-done.md"
+    },
+    {
+      "id": "00-D",
+      "title": "ボールのない場所と、各ポジションから掘る",
+      "group": "discovery",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/00-D.md",
+      "status_path": "../../status/00-D-done.md"
+    },
+    {
+      "id": "00-E",
+      "title": "両チーム・選手・監督の物語から掘る",
+      "group": "discovery",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/00-E.md",
+      "status_path": "../../status/00-E-done.md"
+    },
+    {
+      "id": "00-F",
+      "title": "大会と、今何がかかるかから掘る",
+      "group": "discovery",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/00-F.md",
+      "status_path": "../../status/00-F-done.md"
+    },
+    {
+      "id": "00-G",
+      "title": "味スタの会場・応援・現地文化から掘る",
+      "group": "discovery",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/00-G.md",
+      "status_path": "../../status/00-G-done.md"
+    },
+    {
+      "id": "00-H",
+      "title": "初心者の盲点と、次に湧く疑問を掘る",
+      "group": "discovery",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/00-H.md",
+      "status_path": "../../status/00-H-done.md"
+    },
+    {
+      "id": "00-I",
+      "title": "全候補を編集し、十分な疑問ツリーにする",
+      "group": "discovery",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "00-A",
+        "00-B",
+        "00-C",
+        "00-D",
+        "00-E",
+        "00-F",
+        "00-G",
+        "00-H"
+      ],
+      "prompt_path": "prompts/00-I.md",
+      "status_path": "../../status/00-I-done.md"
+    },
+    {
+      "id": "00-J",
+      "title": "採用した問いを、追加の小さな実行指示へ分ける",
+      "group": "discovery",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "00-I",
+        "01R-F",
+        "02",
+        "03"
+      ],
+      "prompt_path": "prompts/00-J.md",
+      "status_path": "../../status/00-J-done.md"
+    },
+    {
+      "id": "01R-A",
+      "title": "制作の前提と試合の基本情報を、最初から作る",
+      "group": "rebuild",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/01R-A.md",
+      "status_path": "../../status/01R-A-done.md"
+    },
+    {
+      "id": "01R-B",
+      "title": "大会・順位・両チームにかかるものを作り直す",
+      "group": "rebuild",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/01R-B.md",
+      "status_path": "../../status/01R-B-done.md"
+    },
+    {
+      "id": "01R-C",
+      "title": "初心者ルールの土台①を作り直す",
+      "group": "rebuild",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/01R-C.md",
+      "status_path": "../../status/01R-C-done.md"
+    },
+    {
+      "id": "01R-D",
+      "title": "初心者ルールの土台②を作り直す",
+      "group": "rebuild",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/01R-D.md",
+      "status_path": "../../status/01R-D-done.md"
+    },
+    {
+      "id": "01R-E",
+      "title": "味スタでの過ごし方を作り直す",
+      "group": "rebuild",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/01R-E.md",
+      "status_path": "../../status/01R-E-done.md"
+    },
+    {
+      "id": "01R-F",
+      "title": "新しい土台の統合と、文体・粒度の仕様を固定する",
+      "group": "rebuild",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "01R-A",
+        "01R-B",
+        "01R-C",
+        "01R-D",
+        "01R-E"
+      ],
+      "prompt_path": "prompts/01R-F.md",
+      "status_path": "../../status/01R-F-done.md"
+    },
+    {
+      "id": "02",
+      "title": "01を受け取って、過去版の型と分担を固定する",
+      "group": "active",
+      "state": "in_progress_keep",
+      "locked": true,
+      "optional": false,
+      "depends_on": [
+        "01"
+      ],
+      "prompt_path": "prompts/02.md",
+      "status_path": "../../status/02-done.md"
+    },
+    {
+      "id": "03",
+      "title": "FC東京：出場候補と、5人ずつの担当割り",
+      "group": "active",
+      "state": "in_progress_keep",
+      "locked": true,
+      "optional": false,
+      "depends_on": [
+        "02"
+      ],
+      "prompt_path": "prompts/03.md",
+      "status_path": "../../status/03-done.md"
+    },
+    {
+      "id": "04",
+      "title": "柏レイソル：出場候補と、5人ずつの担当割り",
+      "group": "execution",
+      "state": "completed_keep",
+      "locked": true,
+      "optional": false,
+      "depends_on": [
+        "02",
+        "03"
+      ],
+      "prompt_path": "prompts/04.md",
+      "status_path": "../../status/04-done.md",
+      "completed_pr": 149
+    },
+    {
+      "id": "05",
+      "title": "FC東京の詳細選手カード A（最大5人）",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "03"
+      ],
+      "prompt_path": "prompts/05.md",
+      "status_path": "../../status/05-done.md"
+    },
+    {
+      "id": "06",
+      "title": "FC東京の詳細選手カード B（最大5人）",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "03"
+      ],
+      "prompt_path": "prompts/06.md",
+      "status_path": "../../status/06-done.md"
+    },
+    {
+      "id": "07",
+      "title": "FC東京の詳細選手カード C（最大5人）",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "03"
+      ],
+      "prompt_path": "prompts/07.md",
+      "status_path": "../../status/07-done.md"
+    },
+    {
+      "id": "08",
+      "title": "FC東京の詳細選手カード D（最大5人）",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "03"
+      ],
+      "prompt_path": "prompts/08.md",
+      "status_path": "../../status/08-done.md"
+    },
+    {
+      "id": "09",
+      "title": "FC東京の詳細選手カード E（最大5人）",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": true,
+      "depends_on": [
+        "03"
+      ],
+      "prompt_path": "prompts/09.md",
+      "status_path": "../../status/09-done.md"
+    },
+    {
+      "id": "10",
+      "title": "柏レイソルの詳細選手カード A（最大5人）",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "04"
+      ],
+      "prompt_path": "prompts/10.md",
+      "status_path": "../../status/10-done.md"
+    },
+    {
+      "id": "11",
+      "title": "柏レイソルの詳細選手カード B（最大5人）",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "04"
+      ],
+      "prompt_path": "prompts/11.md",
+      "status_path": "../../status/11-done.md"
+    },
+    {
+      "id": "12",
+      "title": "柏レイソルの詳細選手カード C（最大5人）",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "04"
+      ],
+      "prompt_path": "prompts/12.md",
+      "status_path": "../../status/12-done.md"
+    },
+    {
+      "id": "13",
+      "title": "柏レイソルの詳細選手カード D（最大5人）",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "04"
+      ],
+      "prompt_path": "prompts/13.md",
+      "status_path": "../../status/13-done.md"
+    },
+    {
+      "id": "14",
+      "title": "柏レイソルの詳細選手カード E（最大5人）",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": true,
+      "depends_on": [
+        "04"
+      ],
+      "prompt_path": "prompts/14.md",
+      "status_path": "../../status/14-done.md"
+    },
+    {
+      "id": "15",
+      "title": "FC東京：監督の詳細カードと戦略の記事",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "03"
+      ],
+      "prompt_path": "prompts/15.md",
+      "status_path": "../../status/15-done.md"
+    },
+    {
+      "id": "16",
+      "title": "柏レイソル：監督の詳細カードと戦略の記事",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "04"
+      ],
+      "prompt_path": "prompts/16.md",
+      "status_path": "../../status/16-done.md"
+    },
+    {
+      "id": "17",
+      "title": "初心者ルール：試合の流れと再開",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "02"
+      ],
+      "prompt_path": "prompts/17.md",
+      "status_path": "../../status/17-done.md"
+    },
+    {
+      "id": "18",
+      "title": "初心者ルール：オフサイド・判定・交代・VAR",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "02"
+      ],
+      "prompt_path": "prompts/18.md",
+      "status_path": "../../status/18-done.md"
+    },
+    {
+      "id": "19",
+      "title": "大会の関係と、今日両チームにかかるもの",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "02"
+      ],
+      "prompt_path": "prompts/19.md",
+      "status_path": "../../status/19-done.md"
+    },
+    {
+      "id": "20",
+      "title": "戦略の基礎：作戦の種類と、効く理由",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "02"
+      ],
+      "prompt_path": "prompts/20.md",
+      "status_path": "../../status/20-done.md"
+    },
+    {
+      "id": "21",
+      "title": "今日の戦略の対比：どこで噛み合う？",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "15",
+        "16",
+        "20",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "prompt_path": "prompts/21.md",
+      "status_path": "../../status/21-done.md"
+    },
+    {
+      "id": "22",
+      "title": "現地の観察と、主役以外も楽しい注目選手",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "21"
+      ],
+      "prompt_path": "prompts/22.md",
+      "status_path": "../../status/22-done.md"
+    },
+    {
+      "id": "23",
+      "title": "味スタでの過ごしかた",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "02"
+      ],
+      "prompt_path": "prompts/23.md",
+      "status_path": "../../status/23-done.md"
+    },
+    {
+      "id": "24",
+      "title": "エピソード探し：ルールと大会",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "17",
+        "18",
+        "19"
+      ],
+      "prompt_path": "prompts/24.md",
+      "status_path": "../../status/24-done.md"
+    },
+    {
+      "id": "25",
+      "title": "エピソード探し：戦略・観察・会場",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "15",
+        "16",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "prompt_path": "prompts/25.md",
+      "status_path": "../../status/25-done.md"
+    },
+    {
+      "id": "26",
+      "title": "推敲と装飾①：試合の流れ・オフサイド",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "24"
+      ],
+      "prompt_path": "prompts/26.md",
+      "status_path": "../../status/26-done.md"
+    },
+    {
+      "id": "27",
+      "title": "推敲と装飾②：判定・大会・順位争い",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "24"
+      ],
+      "prompt_path": "prompts/27.md",
+      "status_path": "../../status/27-done.md"
+    },
+    {
+      "id": "28",
+      "title": "推敲と装飾③：戦略の基礎・FC東京",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "25"
+      ],
+      "prompt_path": "prompts/28.md",
+      "status_path": "../../status/28-done.md"
+    },
+    {
+      "id": "29",
+      "title": "推敲と装飾④：柏・戦略の対比・観察の入口",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "25"
+      ],
+      "prompt_path": "prompts/29.md",
+      "status_path": "../../status/29-done.md"
+    },
+    {
+      "id": "30",
+      "title": "推敲と装飾⑤：観察の続き・スタジアム",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "25"
+      ],
+      "prompt_path": "prompts/30.md",
+      "status_path": "../../status/30-done.md"
+    },
+    {
+      "id": "31",
+      "title": "すべての原稿を、疑問から読めるスマホサイトへ組み込む",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "00-J",
+        "EX-ALL"
+      ],
+      "prompt_path": "prompts/31.md",
+      "status_path": "../../status/31-done.md"
+    },
+    {
+      "id": "32",
+      "title": "内容確認：ルール・大会・順位・会場",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "31"
+      ],
+      "prompt_path": "prompts/32.md",
+      "status_path": "../../status/32-done.md"
+    },
+    {
+      "id": "33",
+      "title": "FC東京の名鑑・監督・戦略を確認",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "31"
+      ],
+      "prompt_path": "prompts/33.md",
+      "status_path": "../../status/33-done.md"
+    },
+    {
+      "id": "34",
+      "title": "柏レイソルの名鑑・監督・戦略を確認",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "31"
+      ],
+      "prompt_path": "prompts/34.md",
+      "status_path": "../../status/34-done.md"
+    },
+    {
+      "id": "35",
+      "title": "修正を統合し、スマホで確認して公開",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": false,
+      "depends_on": [
+        "32",
+        "33",
+        "34",
+        "00-J"
+      ],
+      "prompt_path": "prompts/35.md",
+      "status_path": "../../status/35-done.md"
+    },
+    {
+      "id": "36",
+      "title": "任意：公開後、公式発表メンバーを反映",
+      "group": "execution",
+      "state": "not_started",
+      "locked": false,
+      "optional": true,
+      "depends_on": [
+        "35"
+      ],
+      "prompt_path": "prompts/36.md",
+      "status_path": "../../status/36-done.md"
+    }
+  ],
+  "external_gates": [
+    {
+      "id": "EX-ALL",
+      "depends_on": [
+        "00-J"
+      ],
+      "meaning": "00-Jがruntime/に生成したrequiredなEX-W/E/D/Q/Pがすべてmainへ反映されたことを実ファイルとstatusで確認"
+    }
+  ],
+  "completed_additional": [
+    {
+      "id": "04",
+      "pr": 149,
+      "meaning": "柏の候補25人とA〜E割当がmainへ反映済み。再実行不要。"
+    }
+  ]
+}
