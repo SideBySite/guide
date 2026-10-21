@@ -1,3 +1,26 @@
+---
+id: ksw-kenshin-yuba
+title: 弓場堅真（柏レイソル・背番号44）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/202627/44.php
+  - https://www.jleague.jp/player/1635506/
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.fcimabari.com/player/top/202514yuba
+  - https://www.fcimabari.com/news/c327igupq
+  - https://www.nikkansports.com/soccer/news/201811170000902.html
+  - https://www.nikkansports.com/soccer/news/201811170000316.html
+  - https://yansaka.com/funny/post_002348.html
+  - https://www.jfa.jp/match/alljapan_highschool_2018/match_page/m20.html
+  - https://www.jleague.jp/news/article/34265/
+  - https://ja.wikipedia.org/wiki/弓場堅真
+checked_at: 2026-10-21T16:56:22.298+09:00
+---
+
 ## 弓場堅真（#44、MF・左足で中盤をつなぎゴールにも入る、左利き、26歳）
 
 > 調査基準：**2026年10月21日19:00より前（日本時間）**。登録は柏2026/27公式、試合は柏・Jリーグ公式、育成年代と私生活は本人・学校時代の取材で確認。今日の起用は予想である。
