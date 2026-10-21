@@ -1,0 +1,41 @@
+{
+  "description": "先発予想は各チームlineup.mdの保存済み原稿に基づく。配置は公式発表とは別の推定。",
+  "teams": [
+    {
+      "key": "fctokyo", "name": "FC東京", "side": "ホーム", "status": "predicted", "formation": "4-4-2", "formation_status": "predicted", "checked_at": "2026-10-21 13:50 JST", "source_path": "teams/fctokyo/lineup.md",
+      "source_url": "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "starting": [
+        {"number":81,"name":"キム スンギュ","short":"キム","position":"GK","slug":"seung-gyu-kim"},
+        {"number":22,"name":"石原 広教","short":"石原","position":"DF","slug":"hirokazu-ishihara"},
+        {"number":24,"name":"アレクサンダー ショルツ","short":"ショルツ","position":"DF","slug":"alexander-scholz"},
+        {"number":4,"name":"稲村 隼翔","short":"稲村","position":"DF","slug":"hayato-inamura"},
+        {"number":6,"name":"バングーナガンデ 佳史扶","short":"佳史扶","position":"DF","slug":"kashif-bangnagande"},
+        {"number":20,"name":"永野 修都","short":"永野","position":"MF","slug":"shuto-nagano"},
+        {"number":8,"name":"高 宇洋","short":"高","position":"MF","slug":"takahiro-ko"},
+        {"number":7,"name":"安斎 颯馬","short":"安斎","position":"MF","slug":"soma-anzai"},
+        {"number":33,"name":"俵積田 晃太","short":"俵積田","position":"MF","slug":"kota-tawaratsumida"},
+        {"number":26,"name":"長倉 幹樹","short":"長倉","position":"FW","slug":"motoki-nagakura"},
+        {"number":9,"name":"マルセロ ヒアン","short":"ヒアン","position":"FW","slug":"marcelo-ryan"}
+      ],
+      "formation_rows": [[26,9],[33,20,8,7],[6,4,24,22],[81]]
+    },
+    {
+      "key": "kashiwa", "name": "柏レイソル", "side": "アウェー", "status": "predicted", "formation": "3-4-2-1", "formation_status": "predicted", "checked_at": "2026-10-21 11:56 JST", "source_path": "teams/kashiwa/lineup.md",
+      "source_url": "https://www.reysol.co.jp/game/results/202627/1021i.php",
+      "starting": [
+        {"number":29,"name":"永井 堅梧","short":"永井","position":"GK","slug":"kengo-nagai"},
+        {"number":28,"name":"戸嶋 祥郎","short":"戸嶋","position":"DF","slug":"sachiro-toshima"},
+        {"number":4,"name":"古賀 太陽","short":"古賀","position":"DF","slug":"taiyo-koga"},
+        {"number":26,"name":"杉岡 大暉","short":"杉岡","position":"DF","slug":"daiki-sugioka"},
+        {"number":24,"name":"久保 藤次郎","short":"久保","position":"MF","slug":"tojiro-kubo"},
+        {"number":21,"name":"小西 雄大","short":"小西","position":"MF","slug":"yudai-konishi"},
+        {"number":39,"name":"中川 敦瑛","short":"中川","position":"MF","slug":"nobuteru-nakagawa"},
+        {"number":5,"name":"遠藤 渓太","short":"遠藤","position":"MF","slug":"keita-endo"},
+        {"number":8,"name":"小泉 佳穂","short":"小泉","position":"MF","slug":"yoshio-koizumi"},
+        {"number":87,"name":"山内 日向汰","short":"山内","position":"MF","slug":"hinata-yamauchi"},
+        {"number":15,"name":"藤尾 翔太","short":"藤尾","position":"FW","slug":"shota-fujio"}
+      ],
+      "formation_rows": [[15],[8,87],[5,21,39,24],[26,4,28],[29]]
+    }
+  ]
+}
