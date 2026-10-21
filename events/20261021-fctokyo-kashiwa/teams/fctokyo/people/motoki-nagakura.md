@@ -1,3 +1,30 @@
+---
+id: fctokyo-motoki-nagakura
+title: 長倉 幹樹（FC東京・背番号26）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/team/players/?sort=number&y=2026_27
+  - https://www.jleague.jp/player/1632774/
+  - https://www.fctokyo.co.jp/team/players/2026/298380/
+  - https://www.albirex.co.jp/team/player/2023/27/
+  - https://www.albirex.co.jp/team/player/2024/27/
+  - https://tokyo-united-fc.jp/news/2743
+  - https://tokyo-united-fc.jp/news/3326
+  - https://tokyo-united-fc.jp/news/3339
+  - https://www.jleague.jp/news/article/28812/
+  - https://data.j-league.or.jp/SFRT09/search?competitionName=%EF%BC%AA%E3%83%AA%E3%83%BC%E3%82%B0YBC%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97&competition_id=11&competition_year=2024%E5%B9%B4&competition_year_id=2024&number=&sectionName=%E6%9C%80%E6%96%B0%E7%AF%80&section_id=0&sub_competition=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89&sub_competition_flag=0&sub_competition_id=597&sub_error_flag=1&yearFlag=false
+  - https://www.jleague.jp/j1/monthly_awards/2025/06/best-goal/
+  - https://www.fctokyo.co.jp/news/details/318060/
+  - https://www.fctokyo.co.jp/news/details/336435/
+  - https://www.jleague.jp/j1/monthly_awards/2026special/05/best-goal-east/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/330624/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+checked_at: 2026-10-21T16:58:10.808+09:00
+---
+
 ## 長倉 幹樹（#26、FW・前線の動き直しと得点、右利き、27歳）
 
 > 2026年10月21日19:00のFC東京―柏レイソルに向けた**試合前の名鑑**。2026/27 J1の正式な先発・控えは、この本文の確認時点では未確認。以下の「先発有力」は**13:50 JST時点の予想**なのだ。
