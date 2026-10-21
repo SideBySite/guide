@@ -5,6 +5,9 @@ on:
     branches: [main]
     paths:
       - "site/**"
+      - "events/20261021-fctokyo-kashiwa/**"
+      - "scripts/build_football_site.py"
+      - "scripts/football_template.html"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
@@ -26,22 +29,24 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Stage existing published site at /guide/site/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Build current football guide
+        run: python3 scripts/build_football_site.py
+      - name: Stage guides
         run: |
           test -s site/index.html
-          mkdir -p _site/site
+          mkdir -p _site/site _site/events/20261021-fctokyo-kashiwa/site
           cp site/index.html _site/site/index.html
+          cp events/20261021-fctokyo-kashiwa/site/index.html _site/events/20261021-fctokyo-kashiwa/site/index.html
           touch _site/.nojekyll
-
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: _site
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

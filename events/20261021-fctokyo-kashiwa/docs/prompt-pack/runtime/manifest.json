@@ -5587,7 +5587,14 @@
         "content/1/1-05-a.md",
         "content/1/1-05-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W02",
@@ -5621,7 +5628,14 @@
         "content/1/1-02-h.md",
         "content/1/1-02-i.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W03",
@@ -5661,7 +5675,14 @@
         "content/2/2-06-c.md",
         "content/2/2-06-d.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W04",
@@ -5699,7 +5720,14 @@
         "content/2/1-01-d.md",
         "content/2/1-01-e.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W05",
@@ -5739,7 +5767,14 @@
         "content/7/7-05-c.md",
         "content/2/2-02-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W06",
@@ -5777,7 +5812,14 @@
         "content/2/2-07-b.md",
         "content/2/2-07-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W07",
@@ -5813,7 +5855,14 @@
         "content/3/2-03-j.md",
         "content/2/2-03-k.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W08",
@@ -5849,7 +5898,14 @@
         "content/4/4-04-a.md",
         "content/4/4-04-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W09",
@@ -5889,7 +5945,14 @@
         "content/4/4-07-a.md",
         "content/4/4-07-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W10",
@@ -5929,7 +5992,14 @@
         "content/4/4-09-a.md",
         "content/4/4-09-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W11",
@@ -5969,7 +6039,14 @@
         "content/5/5-04-a.md",
         "content/5/5-04-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W12",
@@ -6003,7 +6080,14 @@
         "content/6/6-07-a.md",
         "content/6/6-07-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W13",
@@ -6039,7 +6123,14 @@
         "content/6/6-09-b.md",
         "content/6/6-09-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W14",
@@ -6079,7 +6170,14 @@
         "content/5/5-05-a.md",
         "content/5/5-05-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W15",
@@ -6115,7 +6213,14 @@
         "content/5/5-09.md",
         "content/5/5-09-a.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W16",
@@ -6151,7 +6256,14 @@
         "content/5/5-11-b.md",
         "content/5/5-11-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W17",
@@ -6191,7 +6303,14 @@
         "content/3/3-04-a.md",
         "content/3/3-04-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W18",
@@ -6229,7 +6348,14 @@
         "content/3/3-06-a.md",
         "content/3/3-06-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W19",
@@ -6265,7 +6391,14 @@
         "content/3/3-07.md",
         "content/3/3-07-a.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W20",
@@ -6301,7 +6434,14 @@
         "content/3/3-09-a.md",
         "content/3/3-09-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W21",
@@ -6335,7 +6475,14 @@
         "content/7/7-04-b.md",
         "content/7/7-04-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W22",
@@ -6375,7 +6522,14 @@
         "content/7/7-01-l.md",
         "content/7/7-01-m.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W23",
@@ -6413,7 +6567,14 @@
         "content/7/7-06-b.md",
         "content/7/7-07.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W24",
@@ -6451,7 +6612,14 @@
         "content/6/6-01-c.md",
         "content/6/6-01-d.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-W25",
@@ -6477,7 +6645,14 @@
         "content/6/6-02-d.md",
         "content/6/6-03-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-E01",
@@ -6518,7 +6693,14 @@
         "content/4/4-06.md",
         "content/4/4-08.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-E02",
@@ -6558,7 +6740,14 @@
         "content/5/5-05.md",
         "content/5/5-06.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-E03",
@@ -6598,7 +6787,14 @@
         "content/3/3-05.md",
         "content/3/3-07.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-E04",
@@ -6629,7 +6825,14 @@
         "content/7/7-06.md",
         "content/1/1-07.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D01",
@@ -6682,7 +6885,14 @@
         "content/1/1-02-f.md",
         "content/1/1-02-g.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D02",
@@ -6737,7 +6947,14 @@
         "content/2/2-05.md",
         "content/2/2-05-a.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D03",
@@ -6791,7 +7008,14 @@
         "content/2/2-03-d.md",
         "content/2/2-03-e.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D04",
@@ -6845,7 +7069,14 @@
         "content/4/4-05-b.md",
         "content/4/4-01-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D05",
@@ -6898,7 +7129,14 @@
         "content/4/4-09-a.md",
         "content/4/4-09-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D06",
@@ -6951,7 +7189,14 @@
         "content/6/6-06.md",
         "content/6/6-06-a.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D07",
@@ -7005,7 +7250,14 @@
         "content/6/6-09-c.md",
         "content/6/6-10.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D08",
@@ -7059,7 +7311,14 @@
         "content/5/5-09-a.md",
         "content/5/5-10.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D09",
@@ -7113,7 +7372,14 @@
         "content/3/3-03-b.md",
         "content/3/3-01-e.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D10",
@@ -7166,7 +7432,14 @@
         "content/3/3-02-g.md",
         "content/3/3-02-h.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D11",
@@ -7221,7 +7494,14 @@
         "content/3/3-10.md",
         "content/3/3-10-a.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D12",
@@ -7276,7 +7556,14 @@
         "content/7/7-02-e.md",
         "content/7/7-06.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D13",
@@ -7329,7 +7616,14 @@
         "content/1/1-06.md",
         "content/1/1-06-a.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D14",
@@ -7388,7 +7682,14 @@
         "content/6/6-01-d.md",
         "content/7/7-02-g.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-D15",
@@ -7414,7 +7715,14 @@
         "content/7/7-01-l.md",
         "content/7/7-01-m.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q01",
@@ -7454,7 +7762,14 @@
         "content/1/1-03-b.md",
         "content/2/2-01.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-Q02",
@@ -7494,7 +7809,14 @@
         "content/2/2-03-c.md",
         "content/3/3-01.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-Q03",
@@ -7534,7 +7856,14 @@
         "content/4/4-01-a.md",
         "content/4/4-01-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-Q04",
@@ -7574,7 +7903,14 @@
         "content/5/5-01-b.md",
         "content/5/5-01-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-Q05",
@@ -7594,7 +7930,8 @@
       ],
       "person_ids": [],
       "depends_on": [
-        "26"
+        "26",
+        "29"
       ],
       "status_path": "status/EX-Q05-done.md",
       "input_paths": [
@@ -7614,7 +7951,14 @@
         "content/6/6-01.md",
         "content/6/6-01-a.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q06",
@@ -7634,7 +7978,9 @@
       ],
       "person_ids": [],
       "depends_on": [
-        "26"
+        "26",
+        "29",
+        "30"
       ],
       "status_path": "status/EX-Q06-done.md",
       "input_paths": [
@@ -7654,7 +8000,14 @@
         "content/7/7-01-b.md",
         "content/7/7-01-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q07",
@@ -7695,7 +8048,14 @@
         "content/1/1-05-a.md",
         "content/1/1-05-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q08",
@@ -7736,7 +8096,14 @@
         "content/1/1-02-g.md",
         "content/1/1-02-h.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q09",
@@ -7776,7 +8143,14 @@
         "content/2/2-04.md",
         "content/2/2-04-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q10",
@@ -7817,7 +8191,14 @@
         "content/2/1-03-f.md",
         "content/2/2-06.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q11",
@@ -7858,7 +8239,14 @@
         "content/2/2-03-e.md",
         "content/2/2-03-f.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q12",
@@ -7898,7 +8286,14 @@
         "content/4/4-04-a.md",
         "content/4/4-04-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q13",
@@ -7939,7 +8334,14 @@
         "content/4/4-07-a.md",
         "content/4/4-07-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q14",
@@ -7980,7 +8382,14 @@
         "content/4/4-09-b.md",
         "content/4/4-03-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q15",
@@ -8020,7 +8429,14 @@
         "content/6/6-05.md",
         "content/6/6-05-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q16",
@@ -8061,7 +8477,14 @@
         "content/6/6-07-b.md",
         "content/6/6-08.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q17",
@@ -8102,7 +8525,14 @@
         "content/6/6-10.md",
         "content/6/6-10-a.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q18",
@@ -8142,7 +8572,14 @@
         "content/5/5-07.md",
         "content/5/5-07-a.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q19",
@@ -8183,7 +8620,14 @@
         "content/5/5-11-a.md",
         "content/5/5-11-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q20",
@@ -8224,7 +8668,14 @@
         "content/3/3-01-e.md",
         "content/3/3-04.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q21",
@@ -8264,7 +8715,14 @@
         "content/3/3-06-b.md",
         "content/3/3-02-d.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q22",
@@ -8305,7 +8763,14 @@
         "content/3/3-08-a.md",
         "content/3/3-08-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q23",
@@ -8346,7 +8811,14 @@
         "content/3/3-10-a.md",
         "content/3/3-10-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q24",
@@ -8386,7 +8858,14 @@
         "content/7/7-05-b.md",
         "content/7/7-05-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q25",
@@ -8427,7 +8906,14 @@
         "content/7/7-08-a.md",
         "content/7/7-01-f.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q26",
@@ -8468,7 +8954,14 @@
         "content/1/1-06-a.md",
         "content/1/1-06-b.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q27",
@@ -8508,7 +9001,14 @@
         "content/6/6-01-c.md",
         "content/6/6-02-c.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-Q28",
@@ -8543,7 +9043,14 @@
         "content/7/7-01-l.md",
         "content/7/7-01-m.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": false
     },
     {
       "id": "EX-P01",
@@ -8584,7 +9091,14 @@
         "teams/fctokyo/people/hirokazu-ishihara.md",
         "teams/fctokyo/people/alexander-scholz.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P02",
@@ -8625,7 +9139,14 @@
         "teams/fctokyo/people/kashif-bangnagande.md",
         "teams/fctokyo/people/shuto-nagano.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P03",
@@ -8666,7 +9187,14 @@
         "teams/fctokyo/people/soma-anzai.md",
         "teams/fctokyo/people/kota-tawaratsumida.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P04",
@@ -8707,7 +9235,14 @@
         "teams/fctokyo/people/marcelo-ryan.md",
         "teams/fctokyo/people/kein-sato.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P05",
@@ -8748,7 +9283,14 @@
         "teams/fctokyo/people/fuki-yamada.md",
         "teams/fctokyo/people/kyota-tokiwa.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P06",
@@ -8789,7 +9331,14 @@
         "teams/fctokyo/people/teruhito-nakagawa.md",
         "teams/fctokyo/people/masato-morishige.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P07",
@@ -8830,7 +9379,14 @@
         "teams/fctokyo/people/hayate-tanaka.md",
         "teams/fctokyo/people/kio-tanaka.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P08",
@@ -8871,7 +9427,14 @@
         "teams/fctokyo/people/kento-hashimoto.md",
         "teams/fctokyo/people/shion-homma.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P09",
@@ -8913,7 +9476,14 @@
         "teams/kashiwa/people/kengo-nagai.md",
         "teams/kashiwa/people/taiyo-koga.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P10",
@@ -8955,7 +9525,14 @@
         "teams/kashiwa/people/tojiro-kubo.md",
         "teams/kashiwa/people/sachiro-toshima.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P11",
@@ -8997,7 +9574,14 @@
         "teams/kashiwa/people/nobuteru-nakagawa.md",
         "teams/kashiwa/people/yoshio-koizumi.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P12",
@@ -9039,7 +9623,14 @@
         "teams/kashiwa/people/hinata-yamauchi.md",
         "teams/kashiwa/people/shota-fujio.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P13",
@@ -9081,7 +9672,14 @@
         "teams/kashiwa/people/yuki-kakita.md",
         "teams/kashiwa/people/yusuke-segawa.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P14",
@@ -9123,7 +9721,14 @@
         "teams/kashiwa/people/mao-hosoya.md",
         "teams/kashiwa/people/riki-harakawa.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P15",
@@ -9165,7 +9770,14 @@
         "teams/kashiwa/people/hiromu-mitsumaru.md",
         "teams/kashiwa/people/tomoya-inukai.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P16",
@@ -9207,7 +9819,14 @@
         "teams/kashiwa/people/yusei-yamanouchi.md",
         "teams/kashiwa/people/hayato-nakama.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     },
     {
       "id": "EX-P17",
@@ -9242,7 +9861,341 @@
         "teams/kashiwa/people/shusuke-furuya.md",
         "teams/kashiwa/people/masaki-watai.md"
       ],
-      "required": true
+      "required": true,
+      "verified_complete": false,
+      "github_visibility": {
+        "status": "unconfirmed",
+        "checked_at": "2026-10-21T15:44:20+09:00",
+        "message": "GitHubから別チャットの作業状況は確認できない。送付済みの記録を優先し再送しない。"
+      },
+      "ready_in_snapshot": true
     }
-  ]
+  ],
+  "progress_snapshot": {
+    "checked_at": "2026-10-21T15:44:20+09:00",
+    "commit": "a0a66ac040746746761310b3699d634cea3e7471",
+    "verified_task_count": 55,
+    "verified_ids": [
+      "01R-A",
+      "01R-B",
+      "01R-C",
+      "01R-D",
+      "01R-E",
+      "01R-F",
+      "00-A",
+      "00-B",
+      "00-C",
+      "00-D",
+      "00-E",
+      "00-F",
+      "00-G",
+      "00-H",
+      "00-I",
+      "00-J",
+      "FCT-01",
+      "FCT-02",
+      "FCT-03",
+      "FCT-04",
+      "FCT-05",
+      "FCT-06",
+      "FCT-07",
+      "FCT-08",
+      "FCT-09",
+      "KSW-01",
+      "KSW-02",
+      "KSW-03",
+      "KSW-04",
+      "KSW-05",
+      "KSW-06",
+      "KSW-07",
+      "KSW-08",
+      "KSW-09",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24-C",
+      "24-R",
+      "25-O",
+      "25-T",
+      "25-V",
+      "26",
+      "27",
+      "28",
+      "FCT-PREP",
+      "LOCAL-W01",
+      "LOCAL-W02",
+      "LOCAL-W03"
+    ],
+    "discovery_candidate_count": 344,
+    "written_fixed_article_count": 64,
+    "kashiwa_player_count": 25,
+    "observed_activity_count": 0,
+    "reported_complete_unlocated": [],
+    "fctokyo_candidate_count": 25,
+    "adopted_question_count": 277,
+    "ready_ids": [
+      "29",
+      "30",
+      "LOCAL-E01",
+      "LOCAL-E02",
+      "LOCAL-E03",
+      "EX-W01",
+      "EX-W02",
+      "EX-W03",
+      "EX-W04",
+      "EX-W05",
+      "EX-W06",
+      "EX-W07",
+      "EX-W08",
+      "EX-W09",
+      "EX-W10",
+      "EX-W11",
+      "EX-W12",
+      "EX-W13",
+      "EX-W14",
+      "EX-W15",
+      "EX-W16",
+      "EX-W17",
+      "EX-W18",
+      "EX-W19",
+      "EX-W20",
+      "EX-W21",
+      "EX-W22",
+      "EX-W23",
+      "EX-W24",
+      "EX-W25",
+      "EX-Q01",
+      "EX-Q02",
+      "EX-Q03",
+      "EX-Q04",
+      "EX-P01",
+      "EX-P02",
+      "EX-P03",
+      "EX-P04",
+      "EX-P05",
+      "EX-P06",
+      "EX-P07",
+      "EX-P08",
+      "EX-P09",
+      "EX-P10",
+      "EX-P11",
+      "EX-P12",
+      "EX-P13",
+      "EX-P14",
+      "EX-P15",
+      "EX-P16",
+      "EX-P17"
+    ],
+    "ready_count": 51,
+    "github_unconfirmed_ids": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "LOCAL-E01",
+      "LOCAL-Q01",
+      "LOCAL-E02",
+      "LOCAL-Q02",
+      "LOCAL-E03",
+      "LOCAL-Q03",
+      "EX-W01",
+      "EX-W02",
+      "EX-W03",
+      "EX-W04",
+      "EX-W05",
+      "EX-W06",
+      "EX-W07",
+      "EX-W08",
+      "EX-W09",
+      "EX-W10",
+      "EX-W11",
+      "EX-W12",
+      "EX-W13",
+      "EX-W14",
+      "EX-W15",
+      "EX-W16",
+      "EX-W17",
+      "EX-W18",
+      "EX-W19",
+      "EX-W20",
+      "EX-W21",
+      "EX-W22",
+      "EX-W23",
+      "EX-W24",
+      "EX-W25",
+      "EX-E01",
+      "EX-E02",
+      "EX-E03",
+      "EX-E04",
+      "EX-D01",
+      "EX-D02",
+      "EX-D03",
+      "EX-D04",
+      "EX-D05",
+      "EX-D06",
+      "EX-D07",
+      "EX-D08",
+      "EX-D09",
+      "EX-D10",
+      "EX-D11",
+      "EX-D12",
+      "EX-D13",
+      "EX-D14",
+      "EX-D15",
+      "EX-Q01",
+      "EX-Q02",
+      "EX-Q03",
+      "EX-Q04",
+      "EX-Q05",
+      "EX-Q06",
+      "EX-Q07",
+      "EX-Q08",
+      "EX-Q09",
+      "EX-Q10",
+      "EX-Q11",
+      "EX-Q12",
+      "EX-Q13",
+      "EX-Q14",
+      "EX-Q15",
+      "EX-Q16",
+      "EX-Q17",
+      "EX-Q18",
+      "EX-Q19",
+      "EX-Q20",
+      "EX-Q21",
+      "EX-Q22",
+      "EX-Q23",
+      "EX-Q24",
+      "EX-Q25",
+      "EX-Q26",
+      "EX-Q27",
+      "EX-Q28",
+      "EX-P01",
+      "EX-P02",
+      "EX-P03",
+      "EX-P04",
+      "EX-P05",
+      "EX-P06",
+      "EX-P07",
+      "EX-P08",
+      "EX-P09",
+      "EX-P10",
+      "EX-P11",
+      "EX-P12",
+      "EX-P13",
+      "EX-P14",
+      "EX-P15",
+      "EX-P16",
+      "EX-P17"
+    ],
+    "open_related_pr_count": 0,
+    "branch_without_pr_count": 0,
+    "previous_checked_at": "2026-10-21T14:32:51+09:00",
+    "change_summary": {
+      "newly_saved": [
+        "00-J",
+        "FCT-01",
+        "FCT-02",
+        "FCT-03",
+        "FCT-04",
+        "FCT-05",
+        "FCT-06",
+        "FCT-07",
+        "FCT-08",
+        "FCT-09",
+        "25-O",
+        "26",
+        "27",
+        "28",
+        "LOCAL-W01",
+        "LOCAL-W02",
+        "LOCAL-W03"
+      ],
+      "newly_active": [],
+      "ready_added": [
+        "29",
+        "30",
+        "LOCAL-E01",
+        "LOCAL-E02",
+        "LOCAL-E03",
+        "EX-W01",
+        "EX-W02",
+        "EX-W03",
+        "EX-W04",
+        "EX-W05",
+        "EX-W06",
+        "EX-W07",
+        "EX-W08",
+        "EX-W09",
+        "EX-W10",
+        "EX-W11",
+        "EX-W12",
+        "EX-W13",
+        "EX-W14",
+        "EX-W15",
+        "EX-W16",
+        "EX-W17",
+        "EX-W18",
+        "EX-W19",
+        "EX-W20",
+        "EX-W21",
+        "EX-W22",
+        "EX-W23",
+        "EX-W24",
+        "EX-W25",
+        "EX-Q01",
+        "EX-Q02",
+        "EX-Q03",
+        "EX-Q04",
+        "EX-P01",
+        "EX-P02",
+        "EX-P03",
+        "EX-P04",
+        "EX-P05",
+        "EX-P06",
+        "EX-P07",
+        "EX-P08",
+        "EX-P09",
+        "EX-P10",
+        "EX-P11",
+        "EX-P12",
+        "EX-P13",
+        "EX-P14",
+        "EX-P15",
+        "EX-P16",
+        "EX-P17"
+      ],
+      "ready_removed": [
+        "00-J",
+        "FCT-01",
+        "FCT-02",
+        "FCT-03",
+        "FCT-04",
+        "FCT-05",
+        "FCT-06",
+        "FCT-07",
+        "FCT-08",
+        "FCT-09",
+        "25-O",
+        "26",
+        "27",
+        "28",
+        "LOCAL-W01",
+        "LOCAL-W02",
+        "LOCAL-W03"
+      ]
+    },
+    "fctokyo_player_count": 25,
+    "local_article_count": 18
+  }
 }
