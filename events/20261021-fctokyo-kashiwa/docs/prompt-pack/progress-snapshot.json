@@ -1,8 +1,8 @@
 {
   "snapshot": {
-    "checked_at": "2026-10-21T17:04:34+09:00",
-    "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
-    "verified_task_count": 75,
+    "checked_at": "2026-10-21T17:29:06+09:00",
+    "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
+    "verified_task_count": 76,
     "verified_ids": [
       "01R-A",
       "01R-B",
@@ -78,7 +78,8 @@
       "EX-W12",
       "EX-W13",
       "EX-W14",
-      "EX-W15"
+      "EX-W15",
+      "EX-W16"
     ],
     "discovery_candidate_count": 344,
     "written_fixed_article_count": 64,
@@ -91,7 +92,6 @@
       "LOCAL-Q01",
       "LOCAL-Q02",
       "LOCAL-Q03",
-      "EX-W16",
       "EX-W17",
       "EX-W18",
       "EX-W19",
@@ -127,7 +127,7 @@
       "EX-P16",
       "EX-P17"
     ],
-    "ready_count": 38,
+    "ready_count": 37,
     "github_unconfirmed_ids": [
       "31",
       "32",
@@ -138,7 +138,6 @@
       "LOCAL-Q01",
       "LOCAL-Q02",
       "LOCAL-Q03",
-      "EX-W16",
       "EX-W17",
       "EX-W18",
       "EX-W19",
@@ -215,67 +214,21 @@
     ],
     "open_related_pr_count": 0,
     "branch_without_pr_count": 0,
-    "previous_checked_at": "2026-10-21T15:44:20+09:00",
+    "previous_checked_at": "2026-10-21T17:04:34+09:00",
     "change_summary": {
       "newly_saved": [
-        "29",
-        "30",
-        "LOCAL-E01",
-        "LOCAL-E02",
-        "LOCAL-E03",
-        "EX-W01",
-        "EX-W02",
-        "EX-W03",
-        "EX-W04",
-        "EX-W05",
-        "EX-W06",
-        "EX-W07",
-        "EX-W08",
-        "EX-W09",
-        "EX-W10",
-        "EX-W11",
-        "EX-W12",
-        "EX-W13",
-        "EX-W14",
-        "EX-W15"
+        "EX-W16"
       ],
       "newly_active": [],
-      "ready_added": [
-        "LOCAL-Q01",
-        "LOCAL-Q02",
-        "LOCAL-Q03",
-        "EX-E01",
-        "EX-E02",
-        "EX-Q05",
-        "EX-Q06"
-      ],
+      "ready_added": [],
       "ready_removed": [
-        "29",
-        "30",
-        "LOCAL-E01",
-        "LOCAL-E02",
-        "LOCAL-E03",
-        "EX-W01",
-        "EX-W02",
-        "EX-W03",
-        "EX-W04",
-        "EX-W05",
-        "EX-W06",
-        "EX-W07",
-        "EX-W08",
-        "EX-W09",
-        "EX-W10",
-        "EX-W11",
-        "EX-W12",
-        "EX-W13",
-        "EX-W14",
-        "EX-W15"
+        "EX-W16"
       ]
     },
     "fctokyo_player_count": 25,
     "local_article_count": 18,
-    "additional_written_article_count": 132,
-    "published_article_count": 305
+    "additional_written_article_count": 140,
+    "published_article_count": 313
   },
   "completed": [
     {
@@ -289,10 +242,10 @@
         149,
         152
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "fff06aec4746b010e29ec04ca03b37605bf63d41",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/01R-A-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/01R-A-done.md",
       "outputs": [
         {
           "path": "foundation-v2/PLAN.md",
@@ -324,10 +277,10 @@
         149,
         153
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "36ee472c4c92b2fc4730173b4272985e3c3f1627",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/01R-B-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/01R-B-done.md",
       "outputs": [
         {
           "path": "foundation-v2/basics/competitions.md",
@@ -393,10 +346,10 @@
       "prs": [
         157
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "2b5ba4134c124312dfabed169cb5a3630f3dcf12",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/01R-C-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/01R-C-done.md",
       "outputs": [
         {
           "path": "foundation-v2/basics/rules-start.md",
@@ -458,10 +411,10 @@
       "prs": [
         166
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "7ce0a93fdb9859cc32fe17319b84a9af36ad452b",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/01R-D-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/01R-D-done.md",
       "outputs": [
         {
           "path": "foundation-v2/basics/rules-decisions.md",
@@ -523,10 +476,10 @@
       "prs": [
         154
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "32a0d9cd7033353b7e801838a4404a928a32724a",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/01R-E-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/01R-E-done.md",
       "outputs": [
         {
           "path": "foundation-v2/basics/stadium.md",
@@ -583,10 +536,10 @@
         149,
         185
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "300df2047e6ac0c232d814c0f45ba85387375c1c",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/01R-F-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/01R-F-done.md",
       "outputs": [
         {
           "path": "docs/current-foundation.md",
@@ -616,10 +569,10 @@
       "prs": [
         164
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "893e6d3487d3005bf551cb75f921c038288dfdf0",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/00-A-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/00-A-done.md",
       "outputs": [
         {
           "path": "discovery/00-A/candidates.json",
@@ -641,10 +594,10 @@
       "prs": [
         159
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "a667111238dc17529cb0d36521a5a0494018bf5f",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/00-B-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/00-B-done.md",
       "outputs": [
         {
           "path": "discovery/00-B/candidates.json",
@@ -666,10 +619,10 @@
       "prs": [
         158
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "2bbd86e97c13c20076271d2a36fd2cf267cd91c7",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/00-C-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/00-C-done.md",
       "outputs": [
         {
           "path": "discovery/00-C/candidates.json",
@@ -691,10 +644,10 @@
       "prs": [
         155
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "4d5edad148ddfd5438823d38bb3e30a3d3b80b6c",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/00-D-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/00-D-done.md",
       "outputs": [
         {
           "path": "discovery/00-D/candidates.json",
@@ -717,10 +670,10 @@
         149,
         163
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "d514c32a643ebc8a354bcf675713d39b37dc3f5c",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/00-E-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/00-E-done.md",
       "outputs": [
         {
           "path": "discovery/00-E/candidates.json",
@@ -742,10 +695,10 @@
       "prs": [
         156
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "3f6d450a9a93e55d40c244c5bf2ea3e995e697bc",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/00-F-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/00-F-done.md",
       "outputs": [
         {
           "path": "discovery/00-F/candidates.json",
@@ -767,10 +720,10 @@
       "prs": [
         160
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "f04d20e84e25f4582db230e64485fd69a9c4e399",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/00-G-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/00-G-done.md",
       "outputs": [
         {
           "path": "discovery/00-G/candidates.json",
@@ -792,10 +745,10 @@
       "prs": [
         161
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "a61ca3e1a05466aa12c20cf48278f11766ee7d43",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/00-H-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/00-H-done.md",
       "outputs": [
         {
           "path": "discovery/00-H/candidates.json",
@@ -819,10 +772,10 @@
         183,
         191
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "f84096b782ebbf0470171a03b064d4e6b680f2c4",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/00-I-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/00-I-done.md",
       "outputs": [
         {
           "path": "discovery/00-I/decisions.csv",
@@ -849,10 +802,10 @@
         "docs/prompt-pack/README.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "b2288a4ee6c2c14b3039addb269b5c862a07b3ca",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/00-J-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/00-J-done.md",
       "outputs": [
         {
           "path": "docs/question-tree.md",
@@ -887,10 +840,10 @@
       "prs": [
         198
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "7070d0ea0c2156f231bb2f4a8af7147c38152d68",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/FCT-01-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/FCT-01-done.md",
       "outputs": [
         {
           "path": "teams/fctokyo/people/seung-gyu-kim.md",
@@ -917,10 +870,10 @@
       "prs": [
         202
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "579899734ad71a831f7e31e5ba742ed709bc30ae",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/FCT-02.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/FCT-02.md",
       "outputs": [
         {
           "path": "teams/fctokyo/people/hayato-inamura.md",
@@ -928,11 +881,11 @@
         },
         {
           "path": "teams/fctokyo/people/kashif-bangnagande.md",
-          "blob_sha": "af1dac4384164d4469b32f8630bf9e8d795f8f04"
+          "blob_sha": "fd5ba449a3dc625c52c7ab0e27fe88499b2231dc"
         },
         {
           "path": "teams/fctokyo/people/shuto-nagano.md",
-          "blob_sha": "456caa7ff15f3f8be949afd29885b7b8e55ba29a"
+          "blob_sha": "955f0ffebcec734034e7efb01c420d2eaba0ec0a"
         }
       ]
     },
@@ -947,10 +900,10 @@
       "prs": [
         199
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "953d8404102147539afafdcb9322df2613f34114",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/FCT-03-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/FCT-03-done.md",
       "outputs": [
         {
           "path": "teams/fctokyo/people/takahiro-ko.md",
@@ -977,10 +930,10 @@
       "prs": [
         203
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "b77caf49c63cdd84ca286910022a349be184371d",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/FCT-04-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/FCT-04-done.md",
       "outputs": [
         {
           "path": "teams/fctokyo/people/motoki-nagakura.md",
@@ -1005,10 +958,10 @@
         "teams/fctokyo/people/kyota-tokiwa.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "c49e7dafe28f02542f291e28e50e0754a4753efe",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/FCT-05-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/FCT-05-done.md",
       "outputs": [
         {
           "path": "teams/fctokyo/people/dani-gomez.md",
@@ -1033,10 +986,10 @@
         "teams/fctokyo/people/masato-morishige.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "e200f6df8c9d7bd2334a1593d886a508350ffe74",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/FCT-06-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/FCT-06-done.md",
       "outputs": [
         {
           "path": "teams/fctokyo/people/rio-omori.md",
@@ -1061,10 +1014,10 @@
         "teams/fctokyo/people/kio-tanaka.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "4c423a0dcb38440b95dccba7356403541b01a3fb",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/FCT-07-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/FCT-07-done.md",
       "outputs": [
         {
           "path": "teams/fctokyo/people/kaede-suzuki.md",
@@ -1091,10 +1044,10 @@
       "prs": [
         210
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "f533287d4abb483118da20de99c8db291d359c09",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/FCT-08-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/FCT-08-done.md",
       "outputs": [
         {
           "path": "teams/fctokyo/people/wataru-goto.md",
@@ -1117,10 +1070,10 @@
         "teams/fctokyo/people/sei-muroya.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "4e2d9e60201d6a910961fde2be9c2d68e6f29b2b",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/FCT-09-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/FCT-09-done.md",
       "outputs": [
         {
           "path": "teams/fctokyo/people/sei-muroya.md",
@@ -1139,10 +1092,10 @@
       "prs": [
         175
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "4eb61c226cf7edea202495cfafdf3535377b5fdc",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/KSW-01-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/KSW-01-done.md",
       "outputs": [
         {
           "path": "teams/kashiwa/people/kengo-nagai.md",
@@ -1170,10 +1123,10 @@
         149,
         171
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "a7cb7d62b8e5f1c6e9bf1985103990ec64675d7b",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/KSW-02-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/KSW-02-done.md",
       "outputs": [
         {
           "path": "teams/kashiwa/people/tojiro-kubo.md",
@@ -1200,10 +1153,10 @@
       "prs": [
         173
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "ed9518b9336546e22427101cf3795b2471b7d79c",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/KSW-03-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/KSW-03-done.md",
       "outputs": [
         {
           "path": "teams/kashiwa/people/nobuteru-nakagawa.md",
@@ -1231,10 +1184,10 @@
         149,
         179
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "4e8c4888c50f446171b90adca49bc0c481311f2c",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/KSW-04-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/KSW-04-done.md",
       "outputs": [
         {
           "path": "teams/kashiwa/people/hinata-yamauchi.md",
@@ -1261,10 +1214,10 @@
       "prs": [
         172
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "70468011771a39c3374184a0852de822a94ae386",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/KSW-05-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/KSW-05-done.md",
       "outputs": [
         {
           "path": "teams/kashiwa/people/yuki-kakita.md",
@@ -1291,10 +1244,10 @@
       "prs": [
         178
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "a42f893611f3e51d52b0611c75457e11a6c2fd97",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/KSW-06-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/KSW-06-done.md",
       "outputs": [
         {
           "path": "teams/kashiwa/people/mao-hosoya.md",
@@ -1322,10 +1275,10 @@
         149,
         169
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "b723cb8ef11ab30dbca991d2646cf282008b60c3",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/KSW-07-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/KSW-07-done.md",
       "outputs": [
         {
           "path": "teams/kashiwa/people/hiromu-mitsumaru.md",
@@ -1353,10 +1306,10 @@
         149,
         168
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "4c187444358d796511308160620aab99cd7843fd",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/KSW-08-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/KSW-08-done.md",
       "outputs": [
         {
           "path": "teams/kashiwa/people/yusei-yamanouchi.md",
@@ -1382,10 +1335,10 @@
         149,
         167
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "cfa4ea361bfab4cbd750d680d0213837fb366746",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/KSW-09-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/KSW-09-done.md",
       "outputs": [
         {
           "path": "teams/kashiwa/people/masaki-watai.md",
@@ -1406,10 +1359,10 @@
       "prs": [
         176
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "9e1a93eb975381370d45f3efd99a7eb7857b89a5",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/15-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/15-done.md",
       "outputs": [
         {
           "path": "content/5/5-01.md",
@@ -1447,10 +1400,10 @@
         149,
         177
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "87c59dfbee3a4d763d69261b5bab9cc372aae671",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/16-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/16-done.md",
       "outputs": [
         {
           "path": "content/5/5-02.md",
@@ -1491,10 +1444,10 @@
       "prs": [
         162
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "5ebc38fd438da7bd21f949856eb7df52bb4ac769",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/17-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/17-done.md",
       "outputs": [
         {
           "path": "content/1/1-01.md",
@@ -1552,10 +1505,10 @@
       "prs": [
         174
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "5c98fe6c1c895f21fe000b63c90baba68533e29e",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/18-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/18-done.md",
       "outputs": [
         {
           "path": "content/2/2-01.md",
@@ -1615,10 +1568,10 @@
       "prs": [
         170
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "a7dccc2d2b892a600687fb71e3c54db3592c8604",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/19-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/19-done.md",
       "outputs": [
         {
           "path": "content/3/3-01.md",
@@ -1671,10 +1624,10 @@
       "prs": [
         165
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "94bca8643d85f7b9cb2c9338d6393d7f7696bb1e",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/20-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/20-done.md",
       "outputs": [
         {
           "path": "content/4/4-01.md",
@@ -1726,10 +1679,10 @@
       "prs": [
         182
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "a47138acb31945d0daa16f420ac5d7d9e903d8b8",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/21-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/21-done.md",
       "outputs": [
         {
           "path": "content/5/5-03.md",
@@ -1765,10 +1718,10 @@
       "prs": [
         186
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "a41591e3b8d8a208c85bdbdfc6e088fb61a1bcdc",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/22-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/22-done.md",
       "outputs": [
         {
           "path": "content/6/6-01.md",
@@ -1820,10 +1773,10 @@
       "prs": [
         180
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "134c37704dfe64f93c67e1912ddc14f0b9c731c2",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/23-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/23-done.md",
       "outputs": [
         {
           "path": "content/7/7-01.md",
@@ -1868,10 +1821,10 @@
       "prs": [
         184
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "6b452e75eadb6a61ed0b3d55d2fe012f1c5ae47d",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/24-C-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/24-C-done.md",
       "outputs": [
         {
           "path": "content/3/3-01.md",
@@ -1894,10 +1847,10 @@
         174,
         189
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "5756ffe6cecf5804c062267ef6267a259a40ee88",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/24-R-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/24-R-done.md",
       "outputs": [
         {
           "path": "content/1/1-01.md",
@@ -1929,10 +1882,10 @@
         "content/6/6-02.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "b36550d04deebf991a6a9691f37d7e5c7585cda5",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/25-O-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/25-O-done.md",
       "outputs": [
         {
           "path": "content/5/5-03.md",
@@ -1956,10 +1909,10 @@
       "prs": [
         188
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "af98d791f41c8c3da96cc0242dd9ac29220f26e1",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/25-T-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/25-T-done.md",
       "outputs": [
         {
           "path": "content/4/4-01.md",
@@ -1989,10 +1942,10 @@
         180,
         187
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "ea37c9bcdc802dd655704e12c6127d531cf0976c",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/25-V-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/25-V-done.md",
       "outputs": [
         {
           "path": "content/7/7-01.md",
@@ -2022,10 +1975,10 @@
         174,
         189
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "ad080c0150fe0740c4dc4baecdee8fdf6e77454a",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/26-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/26-done.md",
       "outputs": [
         {
           "path": "content/1/1-01.md",
@@ -2098,10 +2051,10 @@
         "content/3/3-02-c.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "99d1f35d4fee6cd4dba0f1ccebdc1a14ac10a7c8",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/27-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/27-done.md",
       "outputs": [
         {
           "path": "content/2/2-02.md",
@@ -2184,10 +2137,10 @@
         "content/5/5-01-c.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "340af61cf828fb5b69ec12cdf1a3f59dbf47cde4",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/28-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/28-done.md",
       "outputs": [
         {
           "path": "content/4/4-01.md",
@@ -2261,10 +2214,10 @@
         "content/6/6-02-a.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "2ab5c5314961b6a26c8b1f1a921d8ec28681933d",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/29-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/29-done.md",
       "outputs": [
         {
           "path": "content/5/5-02.md",
@@ -2334,10 +2287,10 @@
         "content/7/7-03.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "b0caaa33838ea470727c5dcefcc79c4e500c1eb1",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/30-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/30-done.md",
       "outputs": [
         {
           "path": "content/6/6-02-b.md",
@@ -2404,10 +2357,10 @@
         181,
         190
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "14f974d74174ef04156de8d82990661667b74f0a",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/FCT-PREP-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/FCT-PREP-done.md",
       "outputs": [
         {
           "path": "teams/fctokyo/roster.md",
@@ -2439,10 +2392,10 @@
         "content/local/local-01-e.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "1e62930c5885aba55d33673464a712dc4c8abb15",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/LOCAL-W01-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/LOCAL-W01-done.md",
       "outputs": [
         {
           "path": "content/local/local-01.md",
@@ -2482,10 +2435,10 @@
         "content/local/local-01-e.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "a8cd6784142126dae632d0fceab81d10920e760b",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/LOCAL-E01-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/LOCAL-E01-done.md",
       "outputs": [
         {
           "path": "content/local/local-01.md",
@@ -2525,10 +2478,10 @@
         "content/local/local-02-e.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "75f72f8b4850ac227884b694fdf8a27bef184919",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/LOCAL-W02-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/LOCAL-W02-done.md",
       "outputs": [
         {
           "path": "content/local/local-02.md",
@@ -2568,10 +2521,10 @@
         "content/local/local-02-e.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "9bbaf3259acb6a6c887d2a536736d246eb5a1a26",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/LOCAL-E02-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/LOCAL-E02-done.md",
       "outputs": [
         {
           "path": "content/local/local-02.md",
@@ -2611,10 +2564,10 @@
         "content/local/local-03-e.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "90a99028279b187b5c89c4975e76cbed96c67670",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/LOCAL-W03-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/LOCAL-W03-done.md",
       "outputs": [
         {
           "path": "content/local/local-03.md",
@@ -2654,10 +2607,10 @@
         "content/local/local-03-e.md"
       ],
       "prs": [],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "fd9f6ce1a81f9e3aadf6c20663d2ee83496894df",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/LOCAL-E03-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/LOCAL-E03-done.md",
       "outputs": [
         {
           "path": "content/local/local-03.md",
@@ -2702,10 +2655,10 @@
         191,
         218
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "f886c514cebf63259b1cd92e3fdc448a9cbbadf3",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W01-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W01-done.md",
       "outputs": [
         {
           "path": "content/1/1-04.md",
@@ -2757,10 +2710,10 @@
         191,
         217
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "b2ae3106da99e14fdde7145270890aef8b217805",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W02-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W02-done.md",
       "outputs": [
         {
           "path": "content/1/1-02-c.md",
@@ -2811,10 +2764,10 @@
         191,
         222
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "46f11bfe3bb59b23587fab175b7ddaccf076fb16",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W03-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W03-done.md",
       "outputs": [
         {
           "path": "content/1/2-04-a.md",
@@ -2877,10 +2830,10 @@
         194,
         221
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "83c1890abb78017be24def3353d2b239bbcd41cc",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W04-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W04-done.md",
       "outputs": [
         {
           "path": "content/1/7-03-a.md",
@@ -2940,10 +2893,10 @@
         191,
         226
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "705fff29add95591936d17b7d30590ee40931d86",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W05-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W05-done.md",
       "outputs": [
         {
           "path": "content/6/1-03-c.md",
@@ -3005,10 +2958,10 @@
         191,
         227
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "a5e3ab0443fd1bb5d5cd94f4a385fb3061378ae4",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W06-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W06-done.md",
       "outputs": [
         {
           "path": "content/2/2-05.md",
@@ -3066,10 +3019,10 @@
         194,
         219
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "b3ab2beb94aed5a7f60ce7eed359335a566a5ee8",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W07-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W07-done.md",
       "outputs": [
         {
           "path": "content/2/2-03-d.md",
@@ -3122,10 +3075,10 @@
         191,
         223
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "56cdb1923d143b41ff9b7705f60725a278ef1e06",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W08-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W08-done.md",
       "outputs": [
         {
           "path": "content/2/6-05-a.md",
@@ -3181,10 +3134,10 @@
         194,
         224
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "f73c0620b4183c085be73956d8a29d29ec5c27ca",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W09-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W09-done.md",
       "outputs": [
         {
           "path": "content/4/4-05.md",
@@ -3248,10 +3201,10 @@
         191,
         228
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "fb1435eb339fafbf6ae600caa0da5f8570c7e233",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W10-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W10-done.md",
       "outputs": [
         {
           "path": "content/4/4-08.md",
@@ -3314,10 +3267,10 @@
         191,
         230
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "130c8114c7cbaa53a4be1470706b842315d7add3",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W11-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W11-done.md",
       "outputs": [
         {
           "path": "content/4/4-03-c.md",
@@ -3377,10 +3330,10 @@
         191,
         229
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "90ba56f7901ff89fa96f596b07503c564b73bd7d",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W12-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W12-done.md",
       "outputs": [
         {
           "path": "content/6/6-06.md",
@@ -3430,10 +3383,10 @@
         191,
         231
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "e6f9e13ad95b12c953b74da65b9786138fe399a6",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W13-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W13-done.md",
       "outputs": [
         {
           "path": "content/6/6-08.md",
@@ -3488,10 +3441,10 @@
         191,
         233
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "a1a44bf4acff02969cbc3377e946c9dd78a1d685",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W14-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W14-done.md",
       "outputs": [
         {
           "path": "content/6/6-10.md",
@@ -3552,10 +3505,10 @@
         191,
         232
       ],
-      "verified_at": "2026-10-21T17:04:34+09:00",
-      "commit": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
       "status_blob_sha": "90a4ba87515fd12fd05a789dd5c65fa6b95083f0",
-      "status_url": "https://github.com/SideBySite/guide/blob/00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27/events/20261021-fctokyo-kashiwa/status/EX-W15-done.md",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W15-done.md",
       "outputs": [
         {
           "path": "content/5/5-06.md",
@@ -3590,6 +3543,61 @@
           "blob_sha": "7f56beee31a8ad1f3ff3a1316f5b4687abf58d92"
         }
       ]
+    },
+    {
+      "id": "EX-W16",
+      "status_path": "status/EX-W16-done.md",
+      "output_paths": [
+        "content/5/5-10.md",
+        "content/5/5-10-a.md",
+        "content/5/5-10-b.md",
+        "content/5/5-10-c.md",
+        "content/5/5-11.md",
+        "content/5/5-11-a.md",
+        "content/5/5-11-b.md",
+        "content/5/5-11-c.md"
+      ],
+      "prs": [
+        191
+      ],
+      "verified_at": "2026-10-21T17:29:06+09:00",
+      "commit": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
+      "status_blob_sha": "7f7652dd2c4ad385f6a04ce09d422e04bd9f1210",
+      "status_url": "https://github.com/SideBySite/guide/blob/74808ac7798bf06ed6fc7f2ed71207efd413c731/events/20261021-fctokyo-kashiwa/status/EX-W16-done.md",
+      "outputs": [
+        {
+          "path": "content/5/5-10.md",
+          "blob_sha": "016b547c3a3ae589d9f09cdf26999b6edfa997f8"
+        },
+        {
+          "path": "content/5/5-10-a.md",
+          "blob_sha": "933f449b5ec72ce436ebe3738aa5908b5944fee1"
+        },
+        {
+          "path": "content/5/5-10-b.md",
+          "blob_sha": "644826b22aae219e406e5e0ca47d3039c29f7665"
+        },
+        {
+          "path": "content/5/5-10-c.md",
+          "blob_sha": "8e82c21d50f8b74aa59bd7033b86cf0da1f89792"
+        },
+        {
+          "path": "content/5/5-11.md",
+          "blob_sha": "e4e05463626523005d499c947e7811b99657bdeb"
+        },
+        {
+          "path": "content/5/5-11-a.md",
+          "blob_sha": "b4749d7bb5d2b9630015d7badf90f0b42e448570"
+        },
+        {
+          "path": "content/5/5-11-b.md",
+          "blob_sha": "c2b17729ab38fe71af2e6fad5144c93173917d1d"
+        },
+        {
+          "path": "content/5/5-11-c.md",
+          "blob_sha": "45b487a9407c884189e5477e4681c2ef9663ba34"
+        }
+      ]
     }
   ],
   "active": [],
@@ -3603,7 +3611,6 @@
     "LOCAL-Q01",
     "LOCAL-Q02",
     "LOCAL-Q03",
-    "EX-W16",
     "EX-W17",
     "EX-W18",
     "EX-W19",
@@ -3691,7 +3698,7 @@
     }
   ],
   "audit": {
-    "head": "00b3ac354ae1c46733fd9c15ec0d4079e5b3aa27",
+    "head": "74808ac7798bf06ed6fc7f2ed71207efd413c731",
     "branches": [
       {
         "branch": "docs/soccer-progress-v6-no-personal-anecdotes",
