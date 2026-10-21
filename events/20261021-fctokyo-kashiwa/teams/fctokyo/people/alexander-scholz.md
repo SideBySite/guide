@@ -1,7 +1,7 @@
 ---
 id: fctokyo-alexander-scholz
-title: FC東京 #24 アレクサンダー ショルツ詳細名鑑
-category: 5
+title: アレクサンダー ショルツ（FC東京・背番号24）
+category: people
 type: person
 team: fctokyo
 slug: alexander-scholz
@@ -9,6 +9,20 @@ name: アレクサンダー ショルツ
 checked_at: 2026-10-21T15:27:00+09:00
 needs_check: true
 related: [5-01-b, 5-01-c, 6-02-a]
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/298385/
+  - https://www.fctokyo.co.jp/news/details/317870/
+  - https://www.uefa.com/news-media/news/0213-0f8a486278d5-0a9525a947c0-1000--lokeren-beat-zulte-waregem-to-belgian-cup/
+  - https://www.jleague.jp/player/1502901/
+  - https://www.fctokyo.co.jp/news/details/337023/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/342709/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/342859/
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://www.jleague.jp/match/j1/2026/102108/
 ---
 
 ## アレクサンダー ショルツ（#24、DF・センターバック、右利き、33歳）
