@@ -281,15 +281,16 @@
       "id": "04",
       "title": "柏レイソル：出場候補と、5人ずつの担当割り",
       "group": "execution",
-      "state": "not_started",
-      "locked": false,
+      "state": "completed_keep",
+      "locked": true,
       "optional": false,
       "depends_on": [
         "02",
         "03"
       ],
       "prompt_path": "prompts/04.md",
-      "status_path": "../../status/04-done.md"
+      "status_path": "../../status/04-done.md",
+      "completed_pr": 149
     },
     {
       "id": "05",
@@ -743,6 +744,13 @@
         "00-J"
       ],
       "meaning": "00-Jがruntime/に生成したrequiredなEX-W/E/D/Q/Pがすべてmainへ反映されたことを実ファイルとstatusで確認"
+    }
+  ],
+  "completed_additional": [
+    {
+      "id": "04",
+      "pr": 149,
+      "meaning": "柏の候補25人とA〜E割当がmainへ反映済み。再実行不要。"
     }
   ]
 }
