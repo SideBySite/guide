@@ -227,5 +227,223 @@
       "https://www.fctokyo.co.jp/news/details/342829/",
       "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
     ]
+  },
+  {
+    "candidate_id": "G-11",
+    "question": "試合前の練習って、何を見ていると面白い？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 7,
+    "trigger": "18:20頃、ピッチに選手が出てきたとき。",
+    "answer_scope": [
+      "ウォームアップは試合への体と感覚の準備",
+      "パス・シュート・ゴールキーパーの練習の目的の違い",
+      "練習中の声掛けやスタッフとの連携"
+    ],
+    "today_watch": "18:20開始予定の練習で、FC東京と柏の選手が別々の場所で準備する様子を観察する。",
+    "priority": "star",
+    "novice_value": "プレーの知識がなくても動きの違いを見つけられる。",
+    "distinct_from": "6-03『何も起きていない時間』は試合中、ここは試合前の準備を観察。",
+    "fact_check": "練習開始は目安。実際の練習メニュー・参加選手・柏の配置は現場で確認。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/first_time_guide/"
+    ]
+  },
+  {
+    "candidate_id": "G-12",
+    "question": "ゴールキーパーだけ別の練習をするのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-11",
+    "category_hint": 7,
+    "trigger": "ピッチの端で、手を使う選手が見えたとき。",
+    "answer_scope": [
+      "ゴールを守る人は手で扱う・飛ぶ・反応する準備が必要",
+      "フィールドプレーヤーとの練習の違い",
+      "コーチや相手役との関係"
+    ],
+    "today_watch": "両チームのゴールキーパーがシュートを受ける前に何をしているか、距離を置いて見る。",
+    "priority": "normal",
+    "novice_value": "ボールのないところの役割の違いに入りやすい。",
+    "distinct_from": "1-01-aのポジション説明ではなく、試合前の準備の違い。",
+    "fact_check": "当日GK練習が独立して行われるか・場所は未確定。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "G-13",
+    "question": "小さな輪になってパスを回すのは何のため？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-11",
+    "category_hint": 7,
+    "trigger": "アップ中、何人かが輪を作っていたら。",
+    "answer_scope": [
+      "狭い場所でのボール操作、周囲を見る練習",
+      "ボールを奪う人との距離",
+      "見つからなければ別メニューを見る代替案"
+    ],
+    "today_watch": "FC東京か柏が輪を作っていたら、奪われた後に誰が声を出すかを見る。",
+    "priority": "normal",
+    "novice_value": "練習にゲームのような小さなルールがあると分かる。",
+    "distinct_from": "G-12はキーパー、ここは複数選手の連係と視線に着目。",
+    "fact_check": "当日に輪のパス練習を行うか未確認。実施前提にはしない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "G-14",
+    "question": "試合が始まる直前、選手はどんな順番で出てくるの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-11",
+    "category_hint": 7,
+    "trigger": "練習後にいったんピッチから選手が見えなくなったとき。",
+    "answer_scope": [
+      "ウォームアップ終了から入場整列までの流れ",
+      "選手・審判・エスコート等は大会運営によって異なる",
+      "入場後の挨拶とキックオフ準備"
+    ],
+    "today_watch": "18:58予定の選手入場前後で、並び方と選手同士の声掛けを観察する。",
+    "priority": "star",
+    "novice_value": "練習と本番の切り替わりが分かる。",
+    "distinct_from": "G-11は練習、ここは練習終了からキックオフまでの儀式・段取り。",
+    "fact_check": "エスコートキッズ等の演出・細かな実施内容は今日の公式確認が必要。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.fctokyo.co.jp/news/details/340436/"
+    ]
+  },
+  {
+    "candidate_id": "G-15",
+    "question": "この席からだと、何を見ると面白い？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 7,
+    "trigger": "着席してピッチを見渡した瞬間。",
+    "answer_scope": [
+      "券面からスタンドと席位置を確認",
+      "メイン・バック・ゴール裏で見る角度が違う",
+      "左右の広がり、控え席側、ゴール前など視点を選ぶ"
+    ],
+    "today_watch": "自分の席から見える二つのゴールと両チームのベンチの位置をまず探す。",
+    "priority": "star",
+    "novice_value": "どんな席でも『自分の観察ポイント』を持てる。",
+    "distinct_from": "6-01は試合の最初の10分の選手の見方、ここは座席による視界の整理。",
+    "fact_check": "読者の席種・列番未指定。特定の席から見えると断定しない。",
+    "sources": [
+      "https://www.ajinomotostadium.com/overview/stadium.php",
+      "https://www.ajinomotostadium.com/do/do01/top.php",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "G-16",
+    "question": "ゴールの後ろと横の席では、見え方が違うの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-15",
+    "category_hint": 7,
+    "trigger": "別のスタンドの観客を見たとき。",
+    "answer_scope": [
+      "ゴール裏はゴールへ向かう奥行きや応援の迫力",
+      "横の席は左右の広がりと選手間の距離",
+      "良し悪しの優劣でなく観察対象が変わる"
+    ],
+    "today_watch": "選手が左右へ移動したとき、自分の席から横幅と奥行きのどちらが分かりやすいかを確かめる。",
+    "priority": "normal",
+    "novice_value": "席の当たり外れではなく発見の違いを作れる。",
+    "distinct_from": "G-15は自席での最初の見方、こちらは見る方向による情報の違い。",
+    "fact_check": "公式座席図と実際の列・見切れ確認。画像だけで距離感を断定しない。",
+    "sources": [
+      "https://www.ajinomotostadium.com/overview/stadium.php",
+      "https://www.ajinomotostadium.com/do/do01/top.php"
+    ]
+  },
+  {
+    "candidate_id": "G-17",
+    "question": "スタンドと芝の間が広いのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-15",
+    "category_hint": 7,
+    "trigger": "座席から緑のピッチと周囲の広い帯を見たとき。",
+    "answer_scope": [
+      "味スタは天然芝フィールドの周囲に人工芝の広い領域を持つ多目的施設",
+      "プレー区域外の安全・運営スペース",
+      "写真や体感で距離は席により違う"
+    ],
+    "today_watch": "今夜はピッチの白線と、その外にいるスタッフ・撮影担当の位置を見分ける。",
+    "priority": "normal",
+    "novice_value": "サッカー専用スタジアムとの感覚の違いを楽しめる。",
+    "distinct_from": "G-16は角度、ここは会場固有の『線の外』の広さと用途。",
+    "fact_check": "『陸上トラックがある』と誤記しない。今日の配置物は現地確認。",
+    "sources": [
+      "https://www.ajinomotostadium.com/do/do01/top.php",
+      "https://www.ajinomotostadium.com/overview/stadium.php"
+    ]
+  },
+  {
+    "candidate_id": "G-18",
+    "question": "ボールが外へ出たら、誰が戻しているの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-15",
+    "category_hint": 7,
+    "trigger": "ボールがサイドラインを越え、別の人が動いたとき。",
+    "answer_scope": [
+      "選手以外のボールパーソンなど運営スタッフ",
+      "再開用ボールの配置・渡し方は大会運用に従う",
+      "選手自身が取りに行く場合もある"
+    ],
+    "today_watch": "スローインなどの前に、ピッチ外の人がどう準備していたかを一度見る。",
+    "priority": "normal",
+    "novice_value": "試合を支える目立たない人に視線が向く。",
+    "distinct_from": "1-03はボールが外へ出た後のルール、ここは運営する人。",
+    "fact_check": "今日のマルチボール方式・担当者の配置は未確認。具体方式を断定しない。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.ajinomotostadium.com/do/do01/top.php"
+    ]
+  },
+  {
+    "candidate_id": "G-19",
+    "question": "ボールが止まっている間、どこを見たらいい？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-15",
+    "category_hint": 7,
+    "trigger": "反則や交代の合間に、周囲を見渡したとき。",
+    "answer_scope": [
+      "給水や声掛け、配置の指示などが見られる可能性",
+      "監督・スタッフ・ベンチに視点を移す",
+      "試合再開の合図でピッチへ戻る"
+    ],
+    "today_watch": "止まったときに一度だけ、ボールから離れた選手二人の距離と合図を見る。",
+    "priority": "normal",
+    "novice_value": "退屈と思う時間が観察時間になる。",
+    "distinct_from": "6-03-aは試合の準備と位置取りの理解、こちらは座席からの視線の動かし方。",
+    "fact_check": "誰が何を指示するかは聞こえないため、推測と観察を区別する。",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
+  },
+  {
+    "candidate_id": "G-20",
+    "question": "大型画面は、どんなときに見ると便利？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "G-15",
+    "category_hint": 7,
+    "trigger": "ボールと離れた場所の画面が光ったとき。",
+    "answer_scope": [
+      "時計・得点・選手紹介・交代表示など表示されうる基本情報",
+      "スタンドの目線との使い分け",
+      "映像やリプレーの有無は大会演出次第"
+    ],
+    "today_watch": "選手交代のタイミングと場内アナウンスの後に、画面に何が表示されるか確かめる。",
+    "priority": "normal",
+    "novice_value": "知らない選手名や今の時刻の確認先が分かる。",
+    "distinct_from": "1-02の進行ルールや6-03の観察とは別の、スタジアムの情報機器。",
+    "fact_check": "試合中に何が常時表示されるか・映像演出は確約しない。",
+    "sources": [
+      "https://www.ajinomotostadium.com/do/do01/top.php",
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/"
+    ]
   }
 ]
