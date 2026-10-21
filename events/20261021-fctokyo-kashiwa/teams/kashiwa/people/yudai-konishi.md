@@ -1,3 +1,28 @@
+---
+id: ksw-yudai-konishi
+title: 小西雄大（柏レイソル・背番号21）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/
+  - https://www.reysol.co.jp/team/players/2026/21.php
+  - https://www.jleague.jp/player/1601436/
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.jfa.jp/match/prince_takamado_trophy_u18_2016/premier_2016/west/team03.html
+  - https://www.vortis.jp/news/7868/
+  - https://www.topics.or.jp/articles/-/84569
+  - https://www.montedioyamagata.jp/match/p/2023081213/
+  - https://www.jleague.jp/match/j2/2023/061703/review/
+  - https://www.jleague.jp/match/j2/2020/122009/review/
+  - https://data.j-league.or.jp/SFIX07/?staff_id=9184
+  - https://www.reysol.co.jp/news/topteam/post-997.html
+  - https://en.wikipedia.org/wiki/Yudai_Konishi
+checked_at: 2026-10-21T16:57:03.929+09:00
+---
+
 ## 小西雄大（#21、MF＝中央でパスを受け直す役、左利き、28歳）
 
 > **基準**：2026年10月21日（水）19:00、FC東京対柏（味の素スタジアム、2026/27 J1第11節）の試合前向け。2026-10-21 12時台JSTから公式・取材情報を照合。出場見込みは予想であり、先発の発表ではない。
