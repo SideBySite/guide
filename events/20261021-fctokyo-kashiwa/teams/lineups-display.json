@@ -1,41 +1,323 @@
 {
-  "description": "先発予想は各チームlineup.mdの保存済み原稿に基づく。配置は公式発表とは別の推定。",
+  "description": "Jリーグ公式の発表済み先発・控え・掲載配置を反映。配置図は試合中の位置を固定するものではない。",
   "teams": [
     {
-      "key": "fctokyo", "name": "FC東京", "side": "ホーム", "status": "predicted", "formation": "4-4-2", "formation_status": "predicted", "checked_at": "2026-10-21 13:50 JST", "source_path": "teams/fctokyo/lineup.md",
-      "source_url": "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "key": "fctokyo",
+      "name": "FC東京",
+      "side": "ホーム",
+      "status": "announced",
+      "formation": "4-4-2",
+      "formation_status": "announced",
+      "checked_at": "2026-10-21 18:32 JST",
+      "source_path": "teams/fctokyo/lineup.md",
+      "source_url": "https://www.jleague.jp/match/j1/2026/102108/",
       "starting": [
-        {"number":81,"name":"キム スンギュ","short":"キム","position":"GK","slug":"seung-gyu-kim"},
-        {"number":22,"name":"石原 広教","short":"石原","position":"DF","slug":"hirokazu-ishihara"},
-        {"number":24,"name":"アレクサンダー ショルツ","short":"ショルツ","position":"DF","slug":"alexander-scholz"},
-        {"number":4,"name":"稲村 隼翔","short":"稲村","position":"DF","slug":"hayato-inamura"},
-        {"number":6,"name":"バングーナガンデ 佳史扶","short":"佳史扶","position":"DF","slug":"kashif-bangnagande"},
-        {"number":20,"name":"永野 修都","short":"永野","position":"MF","slug":"shuto-nagano"},
-        {"number":8,"name":"高 宇洋","short":"高","position":"MF","slug":"takahiro-ko"},
-        {"number":7,"name":"安斎 颯馬","short":"安斎","position":"MF","slug":"soma-anzai"},
-        {"number":33,"name":"俵積田 晃太","short":"俵積田","position":"MF","slug":"kota-tawaratsumida"},
-        {"number":26,"name":"長倉 幹樹","short":"長倉","position":"FW","slug":"motoki-nagakura"},
-        {"number":9,"name":"マルセロ ヒアン","short":"ヒアン","position":"FW","slug":"marcelo-ryan"}
+        {
+          "number": 81,
+          "name": "キム スンギュ",
+          "short": "キム",
+          "position": "GK",
+          "slug": "seung-gyu-kim"
+        },
+        {
+          "number": 22,
+          "name": "石原 広教",
+          "short": "石原",
+          "position": "DF",
+          "slug": "hirokazu-ishihara"
+        },
+        {
+          "number": 24,
+          "name": "アレクサンダー ショルツ",
+          "short": "ショルツ",
+          "position": "DF",
+          "slug": "alexander-scholz"
+        },
+        {
+          "number": 4,
+          "name": "稲村 隼翔",
+          "short": "稲村",
+          "position": "DF",
+          "slug": "hayato-inamura"
+        },
+        {
+          "number": 6,
+          "name": "バングーナガンデ 佳史扶",
+          "short": "佳史扶",
+          "position": "DF",
+          "slug": "kashif-bangnagande"
+        },
+        {
+          "number": 27,
+          "name": "常盤 亨太",
+          "short": "常盤",
+          "position": "MF",
+          "slug": "kyota-tokiwa"
+        },
+        {
+          "number": 8,
+          "name": "高 宇洋",
+          "short": "高",
+          "position": "MF",
+          "slug": "takahiro-ko"
+        },
+        {
+          "number": 7,
+          "name": "安斎 颯馬",
+          "short": "安斎",
+          "position": "MF",
+          "slug": "soma-anzai"
+        },
+        {
+          "number": 10,
+          "name": "佐藤 恵允",
+          "short": "佐藤",
+          "position": "MF",
+          "slug": "kein-sato"
+        },
+        {
+          "number": 26,
+          "name": "長倉 幹樹",
+          "short": "長倉",
+          "position": "FW",
+          "slug": "motoki-nagakura"
+        },
+        {
+          "number": 9,
+          "name": "マルセロ ヒアン",
+          "short": "ヒアン",
+          "position": "FW",
+          "slug": "marcelo-ryan"
+        }
       ],
-      "formation_rows": [[26,9],[33,20,8,7],[6,4,24,22],[81]]
+      "formation_rows": [
+        [
+          26,
+          9
+        ],
+        [
+          10,
+          8,
+          27,
+          7
+        ],
+        [
+          6,
+          4,
+          24,
+          22
+        ],
+        [
+          81
+        ]
+      ],
+      "bench": [
+        {
+          "number": 1,
+          "name": "田中 颯"
+        },
+        {
+          "number": 3,
+          "name": "森重 真人"
+        },
+        {
+          "number": 15,
+          "name": "大森 理生"
+        },
+        {
+          "number": 20,
+          "name": "永野 修都"
+        },
+        {
+          "number": 44,
+          "name": "鈴木 楓"
+        },
+        {
+          "number": 33,
+          "name": "俵積田 晃太"
+        },
+        {
+          "number": 71,
+          "name": "山田 楓喜"
+        },
+        {
+          "number": 39,
+          "name": "仲川 輝人"
+        },
+        {
+          "number": 99,
+          "name": "ダニ ゴメス"
+        }
+      ]
     },
     {
-      "key": "kashiwa", "name": "柏レイソル", "side": "アウェー", "status": "predicted", "formation": "3-4-2-1", "formation_status": "predicted", "checked_at": "2026-10-21 11:56 JST", "source_path": "teams/kashiwa/lineup.md",
-      "source_url": "https://www.reysol.co.jp/game/results/202627/1021i.php",
+      "key": "kashiwa",
+      "name": "柏レイソル",
+      "side": "アウェー",
+      "status": "announced",
+      "formation": "3-4-2-1",
+      "formation_status": "announced",
+      "checked_at": "2026-10-21 18:32 JST",
+      "source_path": "teams/kashiwa/lineup.md",
+      "source_url": "https://www.jleague.jp/match/j1/2026/102108/",
       "starting": [
-        {"number":29,"name":"永井 堅梧","short":"永井","position":"GK","slug":"kengo-nagai"},
-        {"number":28,"name":"戸嶋 祥郎","short":"戸嶋","position":"DF","slug":"sachiro-toshima"},
-        {"number":4,"name":"古賀 太陽","short":"古賀","position":"DF","slug":"taiyo-koga"},
-        {"number":26,"name":"杉岡 大暉","short":"杉岡","position":"DF","slug":"daiki-sugioka"},
-        {"number":24,"name":"久保 藤次郎","short":"久保","position":"MF","slug":"tojiro-kubo"},
-        {"number":21,"name":"小西 雄大","short":"小西","position":"MF","slug":"yudai-konishi"},
-        {"number":39,"name":"中川 敦瑛","short":"中川","position":"MF","slug":"nobuteru-nakagawa"},
-        {"number":5,"name":"遠藤 渓太","short":"遠藤","position":"MF","slug":"keita-endo"},
-        {"number":8,"name":"小泉 佳穂","short":"小泉","position":"MF","slug":"yoshio-koizumi"},
-        {"number":87,"name":"山内 日向汰","short":"山内","position":"MF","slug":"hinata-yamauchi"},
-        {"number":15,"name":"藤尾 翔太","short":"藤尾","position":"FW","slug":"shota-fujio"}
+        {
+          "number": 29,
+          "name": "永井 堅梧",
+          "short": "永井",
+          "position": "GK",
+          "slug": "kengo-nagai"
+        },
+        {
+          "number": 28,
+          "name": "戸嶋 祥郎",
+          "short": "戸嶋",
+          "position": "DF",
+          "slug": "sachiro-toshima"
+        },
+        {
+          "number": 4,
+          "name": "古賀 太陽",
+          "short": "古賀",
+          "position": "DF",
+          "slug": "taiyo-koga"
+        },
+        {
+          "number": 2,
+          "name": "三丸 拡",
+          "short": "三丸",
+          "position": "DF",
+          "slug": "hiromu-mitsumaru"
+        },
+        {
+          "number": 24,
+          "name": "久保 藤次郎",
+          "short": "久保",
+          "position": "DF",
+          "slug": "tojiro-kubo"
+        },
+        {
+          "number": 21,
+          "name": "小西 雄大",
+          "short": "小西",
+          "position": "MF",
+          "slug": "yudai-konishi"
+        },
+        {
+          "number": 39,
+          "name": "中川 敦瑛",
+          "short": "中川",
+          "position": "MF",
+          "slug": "nobuteru-nakagawa"
+        },
+        {
+          "number": 16,
+          "name": "汰木 康也",
+          "short": "汰木",
+          "position": "MF",
+          "slug": "koya-yuruki"
+        },
+        {
+          "number": 44,
+          "name": "弓場 堅真",
+          "short": "弓場",
+          "position": "MF",
+          "slug": "kenshin-yuba"
+        },
+        {
+          "number": 87,
+          "name": "山内 日向汰",
+          "short": "山内",
+          "position": "FW",
+          "slug": "hinata-yamauchi"
+        },
+        {
+          "number": 15,
+          "name": "藤尾 翔太",
+          "short": "藤尾",
+          "position": "FW",
+          "slug": "shota-fujio"
+        }
       ],
-      "formation_rows": [[15],[8,87],[5,21,39,24],[26,4,28],[29]]
+      "formation_rows": [
+        [
+          15
+        ],
+        [
+          16,
+          87
+        ],
+        [
+          44,
+          39,
+          21,
+          24
+        ],
+        [
+          2,
+          4,
+          28
+        ],
+        [
+          29
+        ]
+      ],
+      "bench": [
+        {
+          "number": 1,
+          "name": "猿田 遥己"
+        },
+        {
+          "number": 26,
+          "name": "杉岡 大暉"
+        },
+        {
+          "number": 42,
+          "name": "原田 亘"
+        },
+        {
+          "number": 5,
+          "name": "遠藤 渓太"
+        },
+        {
+          "number": 8,
+          "name": "小泉 佳穂"
+        },
+        {
+          "number": 20,
+          "name": "瀬川 祐輔"
+        },
+        {
+          "number": 30,
+          "name": "古谷 柊介"
+        },
+        {
+          "number": 40,
+          "name": "原川 力"
+        },
+        {
+          "number": 9,
+          "name": "細谷 真大"
+        }
+      ]
+    }
+  ],
+  "watch_points": [
+    {
+      "title": "柏の左側：弓場と汰木の距離",
+      "text": "公式図では44番・弓場が左の外側、その前の内側に16番・汰木。弓場にボールが渡ったとき、汰木が寄って受けるか、前へ走って道を空けるかを見てみる。後ろの2番・三丸がどこで支えるかまで追うと、3人のつながりが見える。"
+    },
+    {
+      "title": "柏の中央：中川と小西が受ける前",
+      "text": "39番・中川と21番・小西が、相手の陰から一歩ずれてパスを受けられる場所を探すか。ボールを持つ人だけでなく、その横で待つ2人を一度見る。相手に奪われた瞬間、どちらが中央を埋めるかも手がかり。"
+    },
+    {
+      "title": "FC東京の中央：常盤と高の役割分担",
+      "text": "27番・常盤と8番・高が、ともに前へ出るか、片方が後ろに残るか。柏の藤尾や山内へ通る道を、タックルする前に立ち位置で消せるかを見る。奪った直後は、10番・佐藤や7番・安斎が外側から走り出すかにも注目。"
+    },
+    {
+      "title": "FC東京の2トップと柏の古賀",
+      "text": "26番・長倉と9番・ヒアンのうち、一人が手前へ受けに来たとき、もう一人は奥へ走るか。柏の4番・古賀が引きつけられるか、後ろを守るかまで見ると、ボールに触れない駆け引きも楽しめる。"
     }
   ]
 }
