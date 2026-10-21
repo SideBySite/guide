@@ -1,3 +1,28 @@
+---
+id: ksw-tojiro-kubo
+title: 久保藤次郎（柏レイソル・背番号24）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/
+  - https://www.reysol.co.jp/team/players/2026/24.php
+  - https://data.j-league.or.jp/SFIX04/?player_id=44163
+  - https://www.jleague.jp/j1/monthly_awards/2025/06/mvp/
+  - https://www.jleague.jp/player/1634324/
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.chiba-tv.com/program/detail/1007/122336
+  - https://www.daily.co.jp/opinion-d/2025/12/09/0019793954.shtml
+  - https://www.footballchannel.jp/2026/08/12/post976980/
+  - https://nagoya-grampus.jp/team/top/player/2024/25-tojiro-kubo.html
+  - https://www.jleague.jp/match/j1/2025/070503/summary/
+  - https://www.jfa.jp/youth_development/news/00027211/
+  - https://en.wikipedia.org/wiki/Tojiro_Kubo
+checked_at: 2026-10-21T16:56:54.987+09:00
+---
+
 ## 久保藤次郎（#24、MF＝中盤登録・右外側を上下する役、右利き、27歳）
 
 > **基準**：2026年10月21日、19:00開始のFC東京対柏（味の素スタジアム）に向けた試合前調査。2026/27 J1第11節。以下の「先発有力」は予想であり、公式発表ではない。年齢は試合当日。確認：同日12時台JSTを起点。
