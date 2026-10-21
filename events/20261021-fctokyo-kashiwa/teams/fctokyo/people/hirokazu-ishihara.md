@@ -1,7 +1,7 @@
 ---
 id: fctokyo-hirokazu-ishihara
-title: FC東京 #22 石原 広教詳細名鑑
-category: 5
+title: 石原 広教（FC東京・背番号22）
+category: people
 type: person
 team: fctokyo
 slug: hirokazu-ishihara
@@ -9,6 +9,18 @@ name: 石原 広教
 checked_at: 2026-10-21T15:24:00+09:00
 needs_check: true
 related: [5-01-a, 5-01-b, 6-02-a]
+sources:
+  - https://www.fctokyo.co.jp/team/players/202627/337910/
+  - https://www.fctokyo.co.jp/en/fan/fanzone/detail/337253/
+  - https://www.fctokyo.co.jp/news/details/337021/
+  - https://www.jleague.jp/player/1603257/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/342374/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261007/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261010/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261014/
+  - https://www.fctokyo.co.jp/match/schedule/result/20261017/
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/342859/
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
 ---
 
 ## 石原 広教（#22、DF・右サイドバック、右利き、27歳）
