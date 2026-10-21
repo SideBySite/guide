@@ -5,7 +5,7 @@
 - **必須先行 00-I：達成**。`discovery/00-I/proposed-tree.json`、`decisions.csv`、`coverage.md`、`status/00-I-done.md`の実ファイルを`main`で確認。追補PR #191は`main`へマージ済み（PR #183もマージ済み）。`docs/prompt-pack/manifest.json`のEX-W05依存は00-Iのみ。
 - `docs/question-tree.md`（イベント配下）、`docs/prompt-pack/baseline-question-tree.md`、`shared-style.md`、`manifest.json`、既存`content/1/1-03.md`と`1-03-a.md`、両クラブのroster・assignments、確認できた`foundation-v2/basics/stadium.md`を参照。
 - **結果：10件の初稿・逸話判定・推敲・検証を完了**。変更は対象10本文とこのstatusの計11ファイルのみ。固定64問、LOCAL18問、共有ツリー・候補表・割当表・02/03・FCT-PREPは変更も再実行もしない。
-- PR：**作成後に番号・URLをこの行へ記入**（専用ブランチ `ex-w05-articles-20261021`、`main`向け）。
+- PR：**#226 https://github.com/SideBySite/guide/pull/226**（専用ブランチ `ex-w05-articles-20261021`、`main`向け）。
 
 ## 記事ごとの確認
 
