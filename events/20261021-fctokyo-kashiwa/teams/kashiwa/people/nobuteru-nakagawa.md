@@ -1,3 +1,26 @@
+---
+id: ksw-nobuteru-nakagawa
+title: 中川敦瑛（柏レイソル・背番号39）
+category: people
+sources:
+  - https://www.reysol.co.jp/team/players/2026/39.php
+  - https://www.reysol.co.jp/team/players/
+  - https://sports.yahoo.co.jp/official/detail/2026040400049-spnaviow
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.jleague.jp/player/1635453/
+  - https://www.jleague.jp/match/j1/2026/042906/review/
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://www.hosei.ac.jp/info/article-20241204185148/
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.jfa.jp/match/club_youth_u15_2017/final/match_page/m87.html
+  - https://www.jfa.jp/national_team/u15_2017/member/
+  - https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E6%95%A6%E7%91%9B
+checked_at: 2026-10-21T16:56:28.377+09:00
+---
+
 ## 中川敦瑛（#39、MF・中央で攻守をつなぐ役割、右利き、24歳）
 
 ### 特徴（強み、ユニークポイント）
