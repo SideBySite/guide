@@ -1,7 +1,7 @@
 ---
-id: wataru-harada
-title: 原田亘を追うと、守る前の準備が見えてくる
-category: kashiwa
+id: ksw-wataru-harada
+title: 原田亘（柏レイソル・背番号42）
+category: people
 sources:
   - https://www.reysol.co.jp/team/players/202627/42.php
   - https://www.jleague.jp/player/1627436/
