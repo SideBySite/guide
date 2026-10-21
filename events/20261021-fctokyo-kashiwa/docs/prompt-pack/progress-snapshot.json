@@ -1,14 +1,15 @@
 {
   "snapshot": {
-    "checked_at": "2026-10-21T13:44:07+09:00",
-    "commit": "d2c40761cf0c2c906f7a410723e03abac2c280b4",
-    "verified_task_count": 29,
+    "checked_at": "2026-10-21T14:08:19+09:00",
+    "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c",
+    "verified_task_count": 38,
     "verified_ids": [
       "01R-A",
       "01R-B",
       "01R-C",
       "01R-D",
       "01R-E",
+      "01R-F",
       "00-A",
       "00-B",
       "00-C",
@@ -17,6 +18,7 @@
       "00-F",
       "00-G",
       "00-H",
+      "00-I",
       "KSW-01",
       "KSW-02",
       "KSW-03",
@@ -32,16 +34,25 @@
       "18",
       "19",
       "20",
-      "23"
+      "21",
+      "22",
+      "23",
+      "24-C",
+      "24-R",
+      "25-T",
+      "25-V",
+      "FCT-PREP"
     ],
     "discovery_candidate_count": 344,
-    "written_fixed_article_count": 52,
-    "kashiwa_player_count": 25
+    "written_fixed_article_count": 64,
+    "kashiwa_player_count": 25,
+    "observed_activity_count": 0,
+    "reported_complete_unlocated": [],
+    "fctokyo_candidate_count": 25
   },
   "completed": [
     {
       "id": "01R-A",
-      "title": "制作の前提と試合の基本情報を、最初から作る",
       "status_path": "status/01R-A-done.md",
       "status_sha": "fff06aec4746b010e29ec04ca03b37605bf63d41",
       "output_paths": [
@@ -54,7 +65,6 @@
     },
     {
       "id": "01R-B",
-      "title": "大会・順位・両チームにかかるものを作り直す",
       "status_path": "status/01R-B-done.md",
       "status_sha": "36ee472c4c92b2fc4730173b4272985e3c3f1627",
       "output_paths": [
@@ -76,7 +86,6 @@
     },
     {
       "id": "01R-C",
-      "title": "初心者ルールの土台①を作り直す",
       "status_path": "status/01R-C-done.md",
       "status_sha": "2b5ba4134c124312dfabed169cb5a3630f3dcf12",
       "output_paths": [
@@ -97,7 +106,6 @@
     },
     {
       "id": "01R-D",
-      "title": "初心者ルールの土台②を作り直す",
       "status_path": "status/01R-D-done.md",
       "status_sha": "7ce0a93fdb9859cc32fe17319b84a9af36ad452b",
       "output_paths": [
@@ -118,7 +126,6 @@
     },
     {
       "id": "01R-E",
-      "title": "味スタでの過ごし方を作り直す",
       "status_path": "status/01R-E-done.md",
       "status_sha": "32a0d9cd7033353b7e801838a4404a928a32724a",
       "output_paths": [
@@ -138,8 +145,22 @@
       ]
     },
     {
+      "id": "01R-F",
+      "prs": [
+        185
+      ],
+      "status_path": "status/01R-F-done.md",
+      "output_paths": [
+        "docs/current-foundation.md",
+        "foundation-v2/spec/content-template.md",
+        "foundation-v2/spec/player-template.md",
+        "foundation-v2/spec/handoff.md"
+      ],
+      "verified_at": "2026-10-21T14:08:19+09:00",
+      "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c"
+    },
+    {
       "id": "00-A",
-      "title": "初観戦の時間の流れから、疑問を掘る",
       "status_path": "status/00-A-done.md",
       "status_sha": "893e6d3487d3005bf551cb75f921c038288dfdf0",
       "output_paths": [
@@ -152,7 +173,6 @@
     },
     {
       "id": "00-B",
-      "title": "ルール・判定・再開から、疑問を掘る",
       "status_path": "status/00-B-done.md",
       "status_sha": "a667111238dc17529cb0d36521a5a0494018bf5f",
       "output_paths": [
@@ -165,7 +185,6 @@
     },
     {
       "id": "00-C",
-      "title": "戦略の種類と相性から、疑問を掘る",
       "status_path": "status/00-C-done.md",
       "status_sha": "2bbd86e97c13c20076271d2a36fd2cf267cd91c7",
       "output_paths": [
@@ -178,7 +197,6 @@
     },
     {
       "id": "00-D",
-      "title": "ボールのない場所と、各ポジションから掘る",
       "status_path": "status/00-D-done.md",
       "status_sha": "4d5edad148ddfd5438823d38bb3e30a3d3b80b6c",
       "output_paths": [
@@ -191,7 +209,6 @@
     },
     {
       "id": "00-E",
-      "title": "両チーム・選手・監督の物語から掘る",
       "status_path": "status/00-E-done.md",
       "status_sha": "d514c32a643ebc8a354bcf675713d39b37dc3f5c",
       "output_paths": [
@@ -204,7 +221,6 @@
     },
     {
       "id": "00-F",
-      "title": "大会と、今何がかかるかから掘る",
       "status_path": "status/00-F-done.md",
       "status_sha": "3f6d450a9a93e55d40c244c5bf2ea3e995e697bc",
       "output_paths": [
@@ -217,7 +233,6 @@
     },
     {
       "id": "00-G",
-      "title": "味スタの会場・応援・現地文化から掘る",
       "status_path": "status/00-G-done.md",
       "status_sha": "f04d20e84e25f4582db230e64485fd69a9c4e399",
       "output_paths": [
@@ -230,7 +245,6 @@
     },
     {
       "id": "00-H",
-      "title": "初心者の盲点と、次に湧く疑問を掘る",
       "status_path": "status/00-H-done.md",
       "status_sha": "a61ca3e1a05466aa12c20cf48278f11766ee7d43",
       "output_paths": [
@@ -242,8 +256,21 @@
       ]
     },
     {
+      "id": "00-I",
+      "prs": [
+        183
+      ],
+      "status_path": "status/00-I-done.md",
+      "output_paths": [
+        "discovery/00-I/decisions.csv",
+        "discovery/00-I/proposed-tree.json",
+        "discovery/00-I/proposed-tree.md"
+      ],
+      "verified_at": "2026-10-21T14:08:19+09:00",
+      "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c"
+    },
+    {
       "id": "KSW-01",
-      "title": "柏：永井堅梧・古賀太陽・杉岡大暉（3人）",
       "status_path": "status/KSW-01-done.md",
       "status_sha": "4eb61c226cf7edea202495cfafdf3535377b5fdc",
       "output_paths": [
@@ -257,7 +284,6 @@
     },
     {
       "id": "KSW-02",
-      "title": "柏：久保藤次郎・戸嶋祥郎・小西雄大（3人）",
       "status_path": "status/KSW-02-done.md",
       "status_sha": "a7cb7d62b8e5f1c6e9bf1985103990ec64675d7b",
       "output_paths": [
@@ -271,7 +297,6 @@
     },
     {
       "id": "KSW-03",
-      "title": "柏：中川敦瑛・小泉佳穂・遠藤渓太（3人）",
       "status_path": "status/KSW-03-done.md",
       "status_sha": "ed9518b9336546e22427101cf3795b2471b7d79c",
       "output_paths": [
@@ -285,7 +310,6 @@
     },
     {
       "id": "KSW-04",
-      "title": "柏：山内日向汰・藤尾翔太・原田亘（3人）",
       "status_path": "status/KSW-04-done.md",
       "status_sha": "4e8c4888c50f446171b90adca49bc0c481311f2c",
       "output_paths": [
@@ -299,7 +323,6 @@
     },
     {
       "id": "KSW-05",
-      "title": "柏：垣田裕暉・瀬川祐輔・弓場堅真（3人）",
       "status_path": "status/KSW-05-done.md",
       "status_sha": "70468011771a39c3374184a0852de822a94ae386",
       "output_paths": [
@@ -313,7 +336,6 @@
     },
     {
       "id": "KSW-06",
-      "title": "柏：細谷真大・原川力・汰木康也（3人）",
       "status_path": "status/KSW-06-done.md",
       "status_sha": "a42f893611f3e51d52b0611c75457e11a6c2fd97",
       "output_paths": [
@@ -327,7 +349,6 @@
     },
     {
       "id": "KSW-07",
-      "title": "柏：三丸拡・犬飼智也・小島亨介（3人）",
       "status_path": "status/KSW-07-done.md",
       "status_sha": "b723cb8ef11ab30dbca991d2646cf282008b60c3",
       "output_paths": [
@@ -341,7 +362,6 @@
     },
     {
       "id": "KSW-08",
-      "title": "柏：山之内佑成・仲間隼斗・古谷柊介（3人）",
       "status_path": "status/KSW-08-done.md",
       "status_sha": "4c187444358d796511308160620aab99cd7843fd",
       "output_paths": [
@@ -355,7 +375,6 @@
     },
     {
       "id": "KSW-09",
-      "title": "柏：渡井理己（1人）",
       "status_path": "status/KSW-09-done.md",
       "status_sha": "cfa4ea361bfab4cbd750d680d0213837fb366746",
       "output_paths": [
@@ -367,7 +386,6 @@
     },
     {
       "id": "15",
-      "title": "FC東京：監督の詳細カードと戦略の記事",
       "status_path": "status/15-done.md",
       "status_sha": "9e1a93eb975381370d45f3efd99a7eb7857b89a5",
       "output_paths": [
@@ -383,7 +401,6 @@
     },
     {
       "id": "16",
-      "title": "柏レイソル：監督の詳細カードと戦略の記事",
       "status_path": "status/16-done.md",
       "status_sha": "87c59dfbee3a4d763d69261b5bab9cc372aae671",
       "output_paths": [
@@ -399,7 +416,6 @@
     },
     {
       "id": "17",
-      "title": "初心者ルール：試合の流れと再開",
       "status_path": "status/17-done.md",
       "status_sha": "5ebc38fd438da7bd21f949856eb7df52bb4ac769",
       "output_paths": [
@@ -419,7 +435,6 @@
     },
     {
       "id": "18",
-      "title": "初心者ルール：オフサイド・判定・交代・VAR",
       "status_path": "status/18-done.md",
       "status_sha": "5c98fe6c1c895f21fe000b63c90baba68533e29e",
       "output_paths": [
@@ -440,7 +455,6 @@
     },
     {
       "id": "19",
-      "title": "大会の関係と、今日両チームにかかるもの",
       "status_path": "status/19-done.md",
       "status_sha": "a7dccc2d2b892a600687fb71e3c54db3592c8604",
       "output_paths": [
@@ -459,7 +473,6 @@
     },
     {
       "id": "20",
-      "title": "戦略の基礎：作戦の種類と、効く理由",
       "status_path": "status/20-done.md",
       "status_sha": "94bca8643d85f7b9cb2c9338d6393d7f7696bb1e",
       "output_paths": [
@@ -478,8 +491,41 @@
       ]
     },
     {
+      "id": "21",
+      "prs": [
+        182
+      ],
+      "status_path": "status/21-done.md",
+      "output_paths": [
+        "content/5/5-03.md",
+        "content/5/5-03-a.md",
+        "content/5/5-03-b.md",
+        "content/5/5-03-c.md"
+      ],
+      "verified_at": "2026-10-21T14:08:19+09:00",
+      "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c"
+    },
+    {
+      "id": "22",
+      "prs": [
+        186
+      ],
+      "status_path": "status/22-done.md",
+      "output_paths": [
+        "content/6/6-01.md",
+        "content/6/6-01-a.md",
+        "content/6/6-02.md",
+        "content/6/6-02-a.md",
+        "content/6/6-02-b.md",
+        "content/6/6-03.md",
+        "content/6/6-03-a.md",
+        "content/6/6-03-b.md"
+      ],
+      "verified_at": "2026-10-21T14:08:19+09:00",
+      "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c"
+    },
+    {
       "id": "23",
-      "title": "味スタでの過ごしかた",
       "status_path": "status/23-done.md",
       "status_sha": "134c37704dfe64f93c67e1912ddc14f0b9c731c2",
       "output_paths": [
@@ -495,6 +541,85 @@
       "prs": [
         180
       ]
+    },
+    {
+      "id": "24-C",
+      "prs": [
+        184
+      ],
+      "status_path": "status/24-C-done.md",
+      "output_paths": [
+        "content/3/3-01.md"
+      ],
+      "verified_at": "2026-10-21T14:08:19+09:00",
+      "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c"
+    },
+    {
+      "id": "24-R",
+      "prs": [
+        189
+      ],
+      "status_path": "status/24-R-done.md",
+      "output_paths": [
+        "content/1/1-01.md",
+        "content/1/1-02.md",
+        "content/1/1-03.md",
+        "content/2/2-01.md",
+        "content/2/2-02.md"
+      ],
+      "verified_at": "2026-10-21T14:08:19+09:00",
+      "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c"
+    },
+    {
+      "id": "25-T",
+      "prs": [
+        188
+      ],
+      "status_path": "status/25-T-done.md",
+      "output_paths": [
+        "content/4/4-01.md",
+        "content/4/4-02.md",
+        "content/5/5-01.md",
+        "content/5/5-02.md"
+      ],
+      "verified_at": "2026-10-21T14:08:19+09:00",
+      "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c"
+    },
+    {
+      "id": "25-V",
+      "prs": [
+        187
+      ],
+      "status_path": "status/25-V-done.md",
+      "output_paths": [
+        "content/7/7-01.md"
+      ],
+      "verified_at": "2026-10-21T14:08:19+09:00",
+      "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c"
+    },
+    {
+      "id": "FCT-PREP",
+      "prs": [
+        190
+      ],
+      "status_path": "status/FCT-PREP-done.md",
+      "output_paths": [
+        "teams/fctokyo/roster.md",
+        "teams/fctokyo/assignments.md",
+        "teams/fctokyo/recent-matches.md",
+        "teams/fctokyo/lineup.md"
+      ],
+      "verified_at": "2026-10-21T14:08:19+09:00",
+      "commit": "237cee0e7ff7b5f9ff74f21d107cb60647ece43c"
+    }
+  ],
+  "active": [],
+  "reported_complete": [
+    {
+      "id": "FCT-PREP",
+      "reported_runs": 2,
+      "data_available": true,
+      "no_rerun": true
     }
   ]
 }
