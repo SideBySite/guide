@@ -3164,7 +3164,6 @@
         "28",
         "29",
         "30",
-        "EX-READY",
         "FCT-01",
         "FCT-02",
         "FCT-03",
@@ -3185,7 +3184,52 @@
         "KSW-09",
         "LOCAL-Q01",
         "LOCAL-Q02",
-        "LOCAL-Q03"
+        "LOCAL-Q03",
+        "EX-Q01",
+        "EX-Q02",
+        "EX-Q03",
+        "EX-Q04",
+        "EX-Q05",
+        "EX-Q06",
+        "EX-Q07",
+        "EX-Q08",
+        "EX-Q09",
+        "EX-Q10",
+        "EX-Q11",
+        "EX-Q12",
+        "EX-Q13",
+        "EX-Q14",
+        "EX-Q15",
+        "EX-Q16",
+        "EX-Q17",
+        "EX-Q18",
+        "EX-Q19",
+        "EX-Q20",
+        "EX-Q21",
+        "EX-Q22",
+        "EX-Q23",
+        "EX-Q24",
+        "EX-Q25",
+        "EX-Q26",
+        "EX-Q27",
+        "EX-Q28",
+        "EX-P01",
+        "EX-P02",
+        "EX-P03",
+        "EX-P04",
+        "EX-P05",
+        "EX-P06",
+        "EX-P07",
+        "EX-P08",
+        "EX-P09",
+        "EX-P10",
+        "EX-P11",
+        "EX-P12",
+        "EX-P13",
+        "EX-P14",
+        "EX-P15",
+        "EX-P16",
+        "EX-P17"
       ],
       "prompt_path": "prompts/31.md",
       "status_path": "../../status/31-done.md",
@@ -3640,6 +3684,3269 @@
         "checked_at": "2026-10-21T14:32:51+09:00",
         "message": "GitHubで作業状況を確認できない。別チャットへ送付済みなら、作業中の記録を引き継いで再送しない。"
       }
+    },
+    {
+      "id": "EX-W01",
+      "title": "執筆 8件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W01.md",
+      "status_path": "../../status/EX-W01-done.md",
+      "writes": [
+        "content/1/1-04.md",
+        "content/1/1-04-a.md",
+        "content/1/1-04-b.md",
+        "content/1/1-04-c.md",
+        "content/7/1-04-d.md",
+        "content/1/1-05.md",
+        "content/1/1-05-a.md",
+        "content/1/1-05-b.md",
+        "status/EX-W01-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "1-04",
+        "1-04-a",
+        "1-04-b",
+        "1-04-c",
+        "1-04-d",
+        "1-05",
+        "1-05-a",
+        "1-05-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W02",
+      "title": "執筆 7件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W02.md",
+      "status_path": "../../status/EX-W02-done.md",
+      "writes": [
+        "content/1/1-02-c.md",
+        "content/1/1-02-d.md",
+        "content/1/1-02-e.md",
+        "content/1/1-02-f.md",
+        "content/1/1-02-g.md",
+        "content/1/1-02-h.md",
+        "content/1/1-02-i.md",
+        "status/EX-W02-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "1-02-c",
+        "1-02-d",
+        "1-02-e",
+        "1-02-f",
+        "1-02-g",
+        "1-02-h",
+        "1-02-i"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W03",
+      "title": "執筆 10件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W03.md",
+      "status_path": "../../status/EX-W03-done.md",
+      "writes": [
+        "content/1/2-04-a.md",
+        "content/1/2-04-b.md",
+        "content/2/2-04.md",
+        "content/2/2-04-c.md",
+        "content/2/2-04-d.md",
+        "content/1/2-06-a.md",
+        "content/2/2-06.md",
+        "content/2/2-06-b.md",
+        "content/2/2-06-c.md",
+        "content/2/2-06-d.md",
+        "status/EX-W03-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "2-04-a",
+        "2-04-b",
+        "2-04",
+        "2-04-c",
+        "2-04-d",
+        "2-06-a",
+        "2-06",
+        "2-06-b",
+        "2-06-c",
+        "2-06-d"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W04",
+      "title": "執筆 9件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W04.md",
+      "status_path": "../../status/EX-W04-done.md",
+      "writes": [
+        "content/1/7-03-a.md",
+        "content/7/7-03-b.md",
+        "content/7/7-03-c.md",
+        "content/6/6-04.md",
+        "content/6/6-04-a.md",
+        "content/6/6-04-b.md",
+        "content/6/1-01-c.md",
+        "content/2/1-01-d.md",
+        "content/2/1-01-e.md",
+        "status/EX-W04-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-03-a",
+        "7-03-b",
+        "7-03-c",
+        "6-04",
+        "6-04-a",
+        "6-04-b",
+        "1-01-c",
+        "1-01-d",
+        "1-01-e"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W05",
+      "title": "執筆 10件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W05.md",
+      "status_path": "../../status/EX-W05-done.md",
+      "writes": [
+        "content/6/1-03-c.md",
+        "content/6/1-03-d.md",
+        "content/2/1-03-e.md",
+        "content/2/1-03-f.md",
+        "content/2/1-03-g.md",
+        "content/6/7-05-a.md",
+        "content/7/7-05.md",
+        "content/7/7-05-b.md",
+        "content/7/7-05-c.md",
+        "content/2/2-02-c.md",
+        "status/EX-W05-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "1-03-c",
+        "1-03-d",
+        "1-03-e",
+        "1-03-f",
+        "1-03-g",
+        "7-05-a",
+        "7-05",
+        "7-05-b",
+        "7-05-c",
+        "2-02-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W06",
+      "title": "執筆 9件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W06.md",
+      "status_path": "../../status/EX-W06-done.md",
+      "writes": [
+        "content/2/2-05.md",
+        "content/2/2-05-a.md",
+        "content/2/2-05-b.md",
+        "content/2/2-05-c.md",
+        "content/2/2-05-d.md",
+        "content/2/2-07.md",
+        "content/2/2-07-a.md",
+        "content/2/2-07-b.md",
+        "content/2/2-07-c.md",
+        "status/EX-W06-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "2-05",
+        "2-05-a",
+        "2-05-b",
+        "2-05-c",
+        "2-05-d",
+        "2-07",
+        "2-07-a",
+        "2-07-b",
+        "2-07-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W07",
+      "title": "執筆 8件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W07.md",
+      "status_path": "../../status/EX-W07-done.md",
+      "writes": [
+        "content/2/2-03-d.md",
+        "content/2/2-03-e.md",
+        "content/2/2-03-f.md",
+        "content/3/2-03-g.md",
+        "content/2/2-03-h.md",
+        "content/2/2-03-i.md",
+        "content/3/2-03-j.md",
+        "content/2/2-03-k.md",
+        "status/EX-W07-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "2-03-d",
+        "2-03-e",
+        "2-03-f",
+        "2-03-g",
+        "2-03-h",
+        "2-03-i",
+        "2-03-j",
+        "2-03-k"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W08",
+      "title": "執筆 8件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W08.md",
+      "status_path": "../../status/EX-W08-done.md",
+      "writes": [
+        "content/2/6-05-a.md",
+        "content/6/6-05.md",
+        "content/6/6-05-b.md",
+        "content/6/6-05-c.md",
+        "content/6/6-05-d.md",
+        "content/4/4-04.md",
+        "content/4/4-04-a.md",
+        "content/4/4-04-b.md",
+        "status/EX-W08-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-05-a",
+        "6-05",
+        "6-05-b",
+        "6-05-c",
+        "6-05-d",
+        "4-04",
+        "4-04-a",
+        "4-04-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W09",
+      "title": "執筆 10件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W09.md",
+      "status_path": "../../status/EX-W09-done.md",
+      "writes": [
+        "content/4/4-05.md",
+        "content/4/4-05-a.md",
+        "content/4/4-05-b.md",
+        "content/4/4-01-c.md",
+        "content/4/4-06.md",
+        "content/4/4-06-a.md",
+        "content/4/4-06-b.md",
+        "content/4/4-07.md",
+        "content/4/4-07-a.md",
+        "content/4/4-07-b.md",
+        "status/EX-W09-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "4-05",
+        "4-05-a",
+        "4-05-b",
+        "4-01-c",
+        "4-06",
+        "4-06-a",
+        "4-06-b",
+        "4-07",
+        "4-07-a",
+        "4-07-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W10",
+      "title": "執筆 10件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W10.md",
+      "status_path": "../../status/EX-W10-done.md",
+      "writes": [
+        "content/4/4-08.md",
+        "content/4/4-08-a.md",
+        "content/4/4-08-b.md",
+        "content/4/4-08-c.md",
+        "content/4/4-08-d.md",
+        "content/4/4-08-e.md",
+        "content/6/4-08-f.md",
+        "content/4/4-09.md",
+        "content/4/4-09-a.md",
+        "content/4/4-09-b.md",
+        "status/EX-W10-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "4-08",
+        "4-08-a",
+        "4-08-b",
+        "4-08-c",
+        "4-08-d",
+        "4-08-e",
+        "4-08-f",
+        "4-09",
+        "4-09-a",
+        "4-09-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W11",
+      "title": "執筆 10件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W11.md",
+      "status_path": "../../status/EX-W11-done.md",
+      "writes": [
+        "content/4/4-03-c.md",
+        "content/4/4-03-d.md",
+        "content/4/4-03-e.md",
+        "content/4/4-03-f.md",
+        "content/5/5-03-d.md",
+        "content/5/5-03-e.md",
+        "content/5/5-03-f.md",
+        "content/5/5-04.md",
+        "content/5/5-04-a.md",
+        "content/5/5-04-b.md",
+        "status/EX-W11-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "4-03-c",
+        "4-03-d",
+        "4-03-e",
+        "4-03-f",
+        "5-03-d",
+        "5-03-e",
+        "5-03-f",
+        "5-04",
+        "5-04-a",
+        "5-04-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W12",
+      "title": "執筆 7件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W12.md",
+      "status_path": "../../status/EX-W12-done.md",
+      "writes": [
+        "content/6/6-06.md",
+        "content/6/6-06-a.md",
+        "content/6/6-06-b.md",
+        "content/6/6-06-c.md",
+        "content/6/6-07.md",
+        "content/6/6-07-a.md",
+        "content/6/6-07-b.md",
+        "status/EX-W12-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-06",
+        "6-06-a",
+        "6-06-b",
+        "6-06-c",
+        "6-07",
+        "6-07-a",
+        "6-07-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W13",
+      "title": "執筆 8件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W13.md",
+      "status_path": "../../status/EX-W13-done.md",
+      "writes": [
+        "content/6/6-08.md",
+        "content/6/6-08-a.md",
+        "content/6/6-08-b.md",
+        "content/6/6-08-c.md",
+        "content/6/6-09.md",
+        "content/6/6-09-a.md",
+        "content/6/6-09-b.md",
+        "content/6/6-09-c.md",
+        "status/EX-W13-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-08",
+        "6-08-a",
+        "6-08-b",
+        "6-08-c",
+        "6-09",
+        "6-09-a",
+        "6-09-b",
+        "6-09-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W14",
+      "title": "執筆 10件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W14.md",
+      "status_path": "../../status/EX-W14-done.md",
+      "writes": [
+        "content/6/6-10.md",
+        "content/6/6-10-a.md",
+        "content/6/6-10-b.md",
+        "content/6/6-11.md",
+        "content/6/6-11-a.md",
+        "content/6/6-11-b.md",
+        "content/6/6-11-c.md",
+        "content/5/5-05.md",
+        "content/5/5-05-a.md",
+        "content/5/5-05-b.md",
+        "status/EX-W14-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-10",
+        "6-10-a",
+        "6-10-b",
+        "6-11",
+        "6-11-a",
+        "6-11-b",
+        "6-11-c",
+        "5-05",
+        "5-05-a",
+        "5-05-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W15",
+      "title": "執筆 8件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W15.md",
+      "status_path": "../../status/EX-W15-done.md",
+      "writes": [
+        "content/5/5-06.md",
+        "content/5/5-06-a.md",
+        "content/5/5-07.md",
+        "content/5/5-07-a.md",
+        "content/6/5-07-b.md",
+        "content/5/5-08.md",
+        "content/5/5-09.md",
+        "content/5/5-09-a.md",
+        "status/EX-W15-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "5-06",
+        "5-06-a",
+        "5-07",
+        "5-07-a",
+        "5-07-b",
+        "5-08",
+        "5-09",
+        "5-09-a"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W16",
+      "title": "執筆 8件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W16.md",
+      "status_path": "../../status/EX-W16-done.md",
+      "writes": [
+        "content/5/5-10.md",
+        "content/5/5-10-a.md",
+        "content/5/5-10-b.md",
+        "content/5/5-10-c.md",
+        "content/5/5-11.md",
+        "content/5/5-11-a.md",
+        "content/5/5-11-b.md",
+        "content/5/5-11-c.md",
+        "status/EX-W16-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "5-10",
+        "5-10-a",
+        "5-10-b",
+        "5-10-c",
+        "5-11",
+        "5-11-a",
+        "5-11-b",
+        "5-11-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W17",
+      "title": "執筆 10件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W17.md",
+      "status_path": "../../status/EX-W17-done.md",
+      "writes": [
+        "content/3/3-01-d.md",
+        "content/3/3-01-e.md",
+        "content/3/3-01-f.md",
+        "content/3/3-01-g.md",
+        "content/3/3-03.md",
+        "content/3/3-03-a.md",
+        "content/3/3-03-b.md",
+        "content/3/3-04.md",
+        "content/3/3-04-a.md",
+        "content/3/3-04-b.md",
+        "status/EX-W17-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-01-d",
+        "3-01-e",
+        "3-01-f",
+        "3-01-g",
+        "3-03",
+        "3-03-a",
+        "3-03-b",
+        "3-04",
+        "3-04-a",
+        "3-04-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W18",
+      "title": "執筆 9件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W18.md",
+      "status_path": "../../status/EX-W18-done.md",
+      "writes": [
+        "content/3/3-05.md",
+        "content/3/3-05-a.md",
+        "content/3/3-05-b.md",
+        "content/3/3-11-a.md",
+        "content/3/3-11-b.md",
+        "content/3/3-11.md",
+        "content/3/3-06.md",
+        "content/3/3-06-a.md",
+        "content/3/3-06-b.md",
+        "status/EX-W18-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-05",
+        "3-05-a",
+        "3-05-b",
+        "3-11-a",
+        "3-11-b",
+        "3-11",
+        "3-06",
+        "3-06-a",
+        "3-06-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W19",
+      "title": "執筆 8件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W19.md",
+      "status_path": "../../status/EX-W19-done.md",
+      "writes": [
+        "content/3/3-02-d.md",
+        "content/3/3-02-e.md",
+        "content/3/3-02-f.md",
+        "content/3/3-02-g.md",
+        "content/3/3-02-h.md",
+        "content/3/3-02-i.md",
+        "content/3/3-07.md",
+        "content/3/3-07-a.md",
+        "status/EX-W19-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-02-d",
+        "3-02-e",
+        "3-02-f",
+        "3-02-g",
+        "3-02-h",
+        "3-02-i",
+        "3-07",
+        "3-07-a"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W20",
+      "title": "執筆 8件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W20.md",
+      "status_path": "../../status/EX-W20-done.md",
+      "writes": [
+        "content/3/3-08.md",
+        "content/3/3-08-a.md",
+        "content/3/3-08-b.md",
+        "content/3/3-08-c.md",
+        "content/3/3-08-d.md",
+        "content/3/3-09.md",
+        "content/3/3-09-a.md",
+        "content/3/3-09-b.md",
+        "status/EX-W20-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-08",
+        "3-08-a",
+        "3-08-b",
+        "3-08-c",
+        "3-08-d",
+        "3-09",
+        "3-09-a",
+        "3-09-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W21",
+      "title": "執筆 7件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W21.md",
+      "status_path": "../../status/EX-W21-done.md",
+      "writes": [
+        "content/3/3-10.md",
+        "content/3/3-10-a.md",
+        "content/3/3-10-b.md",
+        "content/7/7-04.md",
+        "content/7/7-04-a.md",
+        "content/7/7-04-b.md",
+        "content/7/7-04-c.md",
+        "status/EX-W21-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-10",
+        "3-10-a",
+        "3-10-b",
+        "7-04",
+        "7-04-a",
+        "7-04-b",
+        "7-04-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W22",
+      "title": "執筆 10件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W22.md",
+      "status_path": "../../status/EX-W22-done.md",
+      "writes": [
+        "content/7/7-01-d.md",
+        "content/7/7-01-e.md",
+        "content/7/7-01-f.md",
+        "content/7/7-01-g.md",
+        "content/7/7-01-h.md",
+        "content/7/7-01-i.md",
+        "content/7/7-01-j.md",
+        "content/7/7-01-k.md",
+        "content/7/7-01-l.md",
+        "content/7/7-01-m.md",
+        "status/EX-W22-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-01-d",
+        "7-01-e",
+        "7-01-f",
+        "7-01-g",
+        "7-01-h",
+        "7-01-i",
+        "7-01-j",
+        "7-01-k",
+        "7-01-l",
+        "7-01-m"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W23",
+      "title": "執筆 9件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W23.md",
+      "status_path": "../../status/EX-W23-done.md",
+      "writes": [
+        "content/7/7-02-c.md",
+        "content/7/7-02-d.md",
+        "content/7/7-02-e.md",
+        "content/7/7-02-f.md",
+        "content/7/7-02-g.md",
+        "content/7/7-06.md",
+        "content/7/7-06-a.md",
+        "content/7/7-06-b.md",
+        "content/7/7-07.md",
+        "status/EX-W23-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-02-c",
+        "7-02-d",
+        "7-02-e",
+        "7-02-f",
+        "7-02-g",
+        "7-06",
+        "7-06-a",
+        "7-06-b",
+        "7-07"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W24",
+      "title": "執筆 9件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W24.md",
+      "status_path": "../../status/EX-W24-done.md",
+      "writes": [
+        "content/7/7-08.md",
+        "content/7/7-08-a.md",
+        "content/1/1-06.md",
+        "content/1/1-06-a.md",
+        "content/1/1-06-b.md",
+        "content/1/1-07.md",
+        "content/1/6-01-b.md",
+        "content/6/6-01-c.md",
+        "content/6/6-01-d.md",
+        "status/EX-W24-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-08",
+        "7-08-a",
+        "1-06",
+        "1-06-a",
+        "1-06-b",
+        "1-07",
+        "6-01-b",
+        "6-01-c",
+        "6-01-d"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-W25",
+      "title": "執筆 3件",
+      "group": "writing",
+      "depends_on": [
+        "00-I"
+      ],
+      "prompt_path": "runtime/prompts/EX-W25.md",
+      "status_path": "../../status/EX-W25-done.md",
+      "writes": [
+        "content/6/6-02-c.md",
+        "content/6/6-02-d.md",
+        "content/6/6-03-c.md",
+        "status/EX-W25-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-02-c",
+        "6-02-d",
+        "6-03-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-E01",
+      "title": "逸話採否 8件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W01",
+        "EX-W03",
+        "EX-W06",
+        "EX-W08",
+        "EX-W09",
+        "EX-W10"
+      ],
+      "prompt_path": "runtime/prompts/EX-E01.md",
+      "status_path": "../../status/EX-E01-done.md",
+      "writes": [
+        "content/1/1-04.md",
+        "content/1/1-05.md",
+        "content/2/2-04.md",
+        "content/2/2-07.md",
+        "content/4/4-04.md",
+        "content/4/4-05.md",
+        "content/4/4-06.md",
+        "content/4/4-08.md",
+        "status/EX-E01-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "1-04",
+        "1-05",
+        "2-04",
+        "2-07",
+        "4-04",
+        "4-05",
+        "4-06",
+        "4-08"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-E02",
+      "title": "逸話採否 8件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W10",
+        "EX-W12",
+        "EX-W13",
+        "EX-W14",
+        "EX-W15"
+      ],
+      "prompt_path": "runtime/prompts/EX-E02.md",
+      "status_path": "../../status/EX-E02-done.md",
+      "writes": [
+        "content/4/4-09.md",
+        "content/6/6-06.md",
+        "content/6/6-07.md",
+        "content/6/6-08.md",
+        "content/6/6-10.md",
+        "content/6/6-11.md",
+        "content/5/5-05.md",
+        "content/5/5-06.md",
+        "status/EX-E02-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "4-09",
+        "6-06",
+        "6-07",
+        "6-08",
+        "6-10",
+        "6-11",
+        "5-05",
+        "5-06"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-E03",
+      "title": "逸話採否 8件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W15",
+        "EX-W16",
+        "EX-W17",
+        "EX-W18",
+        "EX-W19"
+      ],
+      "prompt_path": "runtime/prompts/EX-E03.md",
+      "status_path": "../../status/EX-E03-done.md",
+      "writes": [
+        "content/5/5-07.md",
+        "content/5/5-08.md",
+        "content/5/5-09.md",
+        "content/5/5-10.md",
+        "content/5/5-11.md",
+        "content/3/3-03.md",
+        "content/3/3-05.md",
+        "content/3/3-07.md",
+        "status/EX-E03-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "5-07",
+        "5-08",
+        "5-09",
+        "5-10",
+        "5-11",
+        "3-03",
+        "3-05",
+        "3-07"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-E04",
+      "title": "逸話採否 4件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W20",
+        "EX-W21",
+        "EX-W23",
+        "EX-W24"
+      ],
+      "prompt_path": "runtime/prompts/EX-E04.md",
+      "status_path": "../../status/EX-E04-done.md",
+      "writes": [
+        "content/3/3-09.md",
+        "content/3/3-10.md",
+        "content/7/7-06.md",
+        "content/1/1-07.md",
+        "status/EX-E04-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-09",
+        "3-10",
+        "7-06",
+        "1-07"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D01",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W01",
+        "EX-E01",
+        "EX-W02",
+        "EX-W03"
+      ],
+      "prompt_path": "runtime/prompts/EX-D01.md",
+      "status_path": "../../status/EX-D01-done.md",
+      "writes": [
+        "content/1/1-04.md",
+        "content/1/1-04-a.md",
+        "content/1/1-04-b.md",
+        "content/1/1-05.md",
+        "content/1/1-05-a.md",
+        "content/1/1-05-b.md",
+        "content/1/1-04-c.md",
+        "content/1/1-02-c.md",
+        "content/1/2-04-a.md",
+        "content/1/2-04-b.md",
+        "content/1/1-02-d.md",
+        "content/1/2-06-a.md",
+        "content/1/1-02-e.md",
+        "content/1/1-02-f.md",
+        "content/1/1-02-g.md",
+        "status/EX-D01-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "1-04",
+        "1-04-a",
+        "1-04-b",
+        "1-05",
+        "1-05-a",
+        "1-05-b",
+        "1-04-c",
+        "1-02-c",
+        "2-04-a",
+        "2-04-b",
+        "1-02-d",
+        "2-06-a",
+        "1-02-e",
+        "1-02-f",
+        "1-02-g"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D02",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W02",
+        "EX-W04",
+        "EX-W05",
+        "EX-W03",
+        "EX-E01",
+        "EX-W06"
+      ],
+      "prompt_path": "runtime/prompts/EX-D02.md",
+      "status_path": "../../status/EX-D02-done.md",
+      "writes": [
+        "content/1/1-02-h.md",
+        "content/1/7-03-a.md",
+        "content/6/6-04.md",
+        "content/6/6-04-a.md",
+        "content/6/6-04-b.md",
+        "content/6/1-01-c.md",
+        "content/6/1-03-c.md",
+        "content/6/1-03-d.md",
+        "content/6/7-05-a.md",
+        "content/2/2-04.md",
+        "content/2/2-04-c.md",
+        "content/2/2-04-d.md",
+        "content/2/2-02-c.md",
+        "content/2/2-05.md",
+        "content/2/2-05-a.md",
+        "status/EX-D02-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "1-02-h",
+        "7-03-a",
+        "6-04",
+        "6-04-a",
+        "6-04-b",
+        "1-01-c",
+        "1-03-c",
+        "1-03-d",
+        "7-05-a",
+        "2-04",
+        "2-04-c",
+        "2-04-d",
+        "2-02-c",
+        "2-05",
+        "2-05-a"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D03",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W06",
+        "EX-W05",
+        "EX-W03",
+        "EX-E01",
+        "EX-W07"
+      ],
+      "prompt_path": "runtime/prompts/EX-D03.md",
+      "status_path": "../../status/EX-D03-done.md",
+      "writes": [
+        "content/2/2-05-b.md",
+        "content/2/2-05-c.md",
+        "content/2/2-05-d.md",
+        "content/2/1-03-e.md",
+        "content/2/1-03-f.md",
+        "content/2/2-06.md",
+        "content/2/2-06-b.md",
+        "content/2/2-06-c.md",
+        "content/2/2-06-d.md",
+        "content/2/2-07.md",
+        "content/2/2-07-a.md",
+        "content/2/2-07-b.md",
+        "content/2/2-07-c.md",
+        "content/2/2-03-d.md",
+        "content/2/2-03-e.md",
+        "status/EX-D03-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "2-05-b",
+        "2-05-c",
+        "2-05-d",
+        "1-03-e",
+        "1-03-f",
+        "2-06",
+        "2-06-b",
+        "2-06-c",
+        "2-06-d",
+        "2-07",
+        "2-07-a",
+        "2-07-b",
+        "2-07-c",
+        "2-03-d",
+        "2-03-e"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D04",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W07",
+        "EX-W04",
+        "EX-W08",
+        "EX-E01",
+        "EX-W09"
+      ],
+      "prompt_path": "runtime/prompts/EX-D04.md",
+      "status_path": "../../status/EX-D04-done.md",
+      "writes": [
+        "content/2/2-03-f.md",
+        "content/3/2-03-g.md",
+        "content/2/1-01-d.md",
+        "content/2/6-05-a.md",
+        "content/2/1-01-e.md",
+        "content/2/2-03-h.md",
+        "content/2/2-03-i.md",
+        "content/3/2-03-j.md",
+        "content/4/4-04.md",
+        "content/4/4-04-a.md",
+        "content/4/4-04-b.md",
+        "content/4/4-05.md",
+        "content/4/4-05-a.md",
+        "content/4/4-05-b.md",
+        "content/4/4-01-c.md",
+        "status/EX-D04-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "2-03-f",
+        "2-03-g",
+        "1-01-d",
+        "6-05-a",
+        "1-01-e",
+        "2-03-h",
+        "2-03-i",
+        "2-03-j",
+        "4-04",
+        "4-04-a",
+        "4-04-b",
+        "4-05",
+        "4-05-a",
+        "4-05-b",
+        "4-01-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D05",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W09",
+        "EX-E01",
+        "EX-W10",
+        "EX-E02"
+      ],
+      "prompt_path": "runtime/prompts/EX-D05.md",
+      "status_path": "../../status/EX-D05-done.md",
+      "writes": [
+        "content/4/4-06.md",
+        "content/4/4-06-a.md",
+        "content/4/4-06-b.md",
+        "content/4/4-07.md",
+        "content/4/4-07-a.md",
+        "content/4/4-07-b.md",
+        "content/4/4-08.md",
+        "content/4/4-08-a.md",
+        "content/4/4-08-b.md",
+        "content/4/4-08-c.md",
+        "content/4/4-08-d.md",
+        "content/4/4-08-e.md",
+        "content/4/4-09.md",
+        "content/4/4-09-a.md",
+        "content/4/4-09-b.md",
+        "status/EX-D05-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "4-06",
+        "4-06-a",
+        "4-06-b",
+        "4-07",
+        "4-07-a",
+        "4-07-b",
+        "4-08",
+        "4-08-a",
+        "4-08-b",
+        "4-08-c",
+        "4-08-d",
+        "4-08-e",
+        "4-09",
+        "4-09-a",
+        "4-09-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D06",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W11",
+        "EX-W08",
+        "EX-W12",
+        "EX-E02"
+      ],
+      "prompt_path": "runtime/prompts/EX-D06.md",
+      "status_path": "../../status/EX-D06-done.md",
+      "writes": [
+        "content/4/4-03-c.md",
+        "content/4/4-03-d.md",
+        "content/4/4-03-e.md",
+        "content/4/4-03-f.md",
+        "content/5/5-03-d.md",
+        "content/5/5-03-e.md",
+        "content/5/5-04.md",
+        "content/5/5-04-a.md",
+        "content/5/5-04-b.md",
+        "content/6/6-05.md",
+        "content/6/6-05-b.md",
+        "content/6/6-05-c.md",
+        "content/6/6-05-d.md",
+        "content/6/6-06.md",
+        "content/6/6-06-a.md",
+        "status/EX-D06-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "4-03-c",
+        "4-03-d",
+        "4-03-e",
+        "4-03-f",
+        "5-03-d",
+        "5-03-e",
+        "5-04",
+        "5-04-a",
+        "5-04-b",
+        "6-05",
+        "6-05-b",
+        "6-05-c",
+        "6-05-d",
+        "6-06",
+        "6-06-a"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D07",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W12",
+        "EX-E02",
+        "EX-W13",
+        "EX-W10",
+        "EX-W14"
+      ],
+      "prompt_path": "runtime/prompts/EX-D07.md",
+      "status_path": "../../status/EX-D07-done.md",
+      "writes": [
+        "content/6/6-06-b.md",
+        "content/6/6-06-c.md",
+        "content/6/6-07.md",
+        "content/6/6-07-a.md",
+        "content/6/6-07-b.md",
+        "content/6/6-08.md",
+        "content/6/6-08-a.md",
+        "content/6/6-08-b.md",
+        "content/6/6-08-c.md",
+        "content/6/4-08-f.md",
+        "content/6/6-09.md",
+        "content/6/6-09-a.md",
+        "content/6/6-09-b.md",
+        "content/6/6-09-c.md",
+        "content/6/6-10.md",
+        "status/EX-D07-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-06-b",
+        "6-06-c",
+        "6-07",
+        "6-07-a",
+        "6-07-b",
+        "6-08",
+        "6-08-a",
+        "6-08-b",
+        "6-08-c",
+        "4-08-f",
+        "6-09",
+        "6-09-a",
+        "6-09-b",
+        "6-09-c",
+        "6-10"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D08",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W14",
+        "EX-E02",
+        "EX-W15",
+        "EX-E03",
+        "EX-W16"
+      ],
+      "prompt_path": "runtime/prompts/EX-D08.md",
+      "status_path": "../../status/EX-D08-done.md",
+      "writes": [
+        "content/6/6-10-a.md",
+        "content/6/6-11.md",
+        "content/6/6-11-a.md",
+        "content/6/6-11-b.md",
+        "content/6/6-11-c.md",
+        "content/5/5-05.md",
+        "content/5/5-05-a.md",
+        "content/5/5-06.md",
+        "content/5/5-06-a.md",
+        "content/5/5-07.md",
+        "content/5/5-07-a.md",
+        "content/5/5-08.md",
+        "content/5/5-09.md",
+        "content/5/5-09-a.md",
+        "content/5/5-10.md",
+        "status/EX-D08-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-10-a",
+        "6-11",
+        "6-11-a",
+        "6-11-b",
+        "6-11-c",
+        "5-05",
+        "5-05-a",
+        "5-06",
+        "5-06-a",
+        "5-07",
+        "5-07-a",
+        "5-08",
+        "5-09",
+        "5-09-a",
+        "5-10"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D09",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W16",
+        "EX-E03",
+        "EX-W14",
+        "EX-W15",
+        "EX-W17"
+      ],
+      "prompt_path": "runtime/prompts/EX-D09.md",
+      "status_path": "../../status/EX-D09-done.md",
+      "writes": [
+        "content/5/5-10-a.md",
+        "content/5/5-10-b.md",
+        "content/5/5-10-c.md",
+        "content/5/5-11.md",
+        "content/5/5-11-a.md",
+        "content/5/5-11-b.md",
+        "content/5/5-11-c.md",
+        "content/5/5-05-b.md",
+        "content/6/5-07-b.md",
+        "content/6/6-10-b.md",
+        "content/3/3-01-d.md",
+        "content/3/3-03.md",
+        "content/3/3-03-a.md",
+        "content/3/3-03-b.md",
+        "content/3/3-01-e.md",
+        "status/EX-D09-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "5-10-a",
+        "5-10-b",
+        "5-10-c",
+        "5-11",
+        "5-11-a",
+        "5-11-b",
+        "5-11-c",
+        "5-05-b",
+        "5-07-b",
+        "6-10-b",
+        "3-01-d",
+        "3-03",
+        "3-03-a",
+        "3-03-b",
+        "3-01-e"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D10",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W17",
+        "EX-W18",
+        "EX-E03",
+        "EX-W19"
+      ],
+      "prompt_path": "runtime/prompts/EX-D10.md",
+      "status_path": "../../status/EX-D10-done.md",
+      "writes": [
+        "content/3/3-04.md",
+        "content/3/3-04-a.md",
+        "content/3/3-04-b.md",
+        "content/3/3-01-f.md",
+        "content/3/3-05.md",
+        "content/3/3-11-a.md",
+        "content/3/3-11-b.md",
+        "content/3/3-06.md",
+        "content/3/3-06-a.md",
+        "content/3/3-06-b.md",
+        "content/3/3-02-d.md",
+        "content/3/3-02-e.md",
+        "content/3/3-02-f.md",
+        "content/3/3-02-g.md",
+        "content/3/3-02-h.md",
+        "status/EX-D10-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-04",
+        "3-04-a",
+        "3-04-b",
+        "3-01-f",
+        "3-05",
+        "3-11-a",
+        "3-11-b",
+        "3-06",
+        "3-06-a",
+        "3-06-b",
+        "3-02-d",
+        "3-02-e",
+        "3-02-f",
+        "3-02-g",
+        "3-02-h"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D11",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W19",
+        "EX-E03",
+        "EX-W20",
+        "EX-E04",
+        "EX-W18",
+        "EX-W21"
+      ],
+      "prompt_path": "runtime/prompts/EX-D11.md",
+      "status_path": "../../status/EX-D11-done.md",
+      "writes": [
+        "content/3/3-02-i.md",
+        "content/3/3-07.md",
+        "content/3/3-07-a.md",
+        "content/3/3-08.md",
+        "content/3/3-08-a.md",
+        "content/3/3-08-b.md",
+        "content/3/3-08-c.md",
+        "content/3/3-08-d.md",
+        "content/3/3-09.md",
+        "content/3/3-09-a.md",
+        "content/3/3-09-b.md",
+        "content/3/3-05-a.md",
+        "content/3/3-05-b.md",
+        "content/3/3-10.md",
+        "content/3/3-10-a.md",
+        "status/EX-D11-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-02-i",
+        "3-07",
+        "3-07-a",
+        "3-08",
+        "3-08-a",
+        "3-08-b",
+        "3-08-c",
+        "3-08-d",
+        "3-09",
+        "3-09-a",
+        "3-09-b",
+        "3-05-a",
+        "3-05-b",
+        "3-10",
+        "3-10-a"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D12",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W21",
+        "EX-W22",
+        "EX-W01",
+        "EX-W05",
+        "EX-W23",
+        "EX-E04"
+      ],
+      "prompt_path": "runtime/prompts/EX-D12.md",
+      "status_path": "../../status/EX-D12-done.md",
+      "writes": [
+        "content/3/3-10-b.md",
+        "content/7/7-04.md",
+        "content/7/7-01-d.md",
+        "content/7/7-01-e.md",
+        "content/7/7-04-a.md",
+        "content/7/7-04-b.md",
+        "content/7/7-04-c.md",
+        "content/7/1-04-d.md",
+        "content/7/7-05.md",
+        "content/7/7-05-b.md",
+        "content/7/7-05-c.md",
+        "content/7/7-02-c.md",
+        "content/7/7-02-d.md",
+        "content/7/7-02-e.md",
+        "content/7/7-06.md",
+        "status/EX-D12-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-10-b",
+        "7-04",
+        "7-01-d",
+        "7-01-e",
+        "7-04-a",
+        "7-04-b",
+        "7-04-c",
+        "1-04-d",
+        "7-05",
+        "7-05-b",
+        "7-05-c",
+        "7-02-c",
+        "7-02-d",
+        "7-02-e",
+        "7-06"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D13",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W23",
+        "EX-W24",
+        "EX-W22",
+        "EX-W04"
+      ],
+      "prompt_path": "runtime/prompts/EX-D13.md",
+      "status_path": "../../status/EX-D13-done.md",
+      "writes": [
+        "content/7/7-06-a.md",
+        "content/7/7-06-b.md",
+        "content/7/7-07.md",
+        "content/7/7-08.md",
+        "content/7/7-08-a.md",
+        "content/7/7-01-f.md",
+        "content/7/7-01-g.md",
+        "content/7/7-01-h.md",
+        "content/7/7-01-i.md",
+        "content/7/7-02-f.md",
+        "content/7/7-03-b.md",
+        "content/7/7-01-j.md",
+        "content/7/7-03-c.md",
+        "content/1/1-06.md",
+        "content/1/1-06-a.md",
+        "status/EX-D13-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-06-a",
+        "7-06-b",
+        "7-07",
+        "7-08",
+        "7-08-a",
+        "7-01-f",
+        "7-01-g",
+        "7-01-h",
+        "7-01-i",
+        "7-02-f",
+        "7-03-b",
+        "7-01-j",
+        "7-03-c",
+        "1-06",
+        "1-06-a"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D14",
+      "title": "推敲 15件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W24",
+        "EX-E04",
+        "EX-W02",
+        "EX-W05",
+        "EX-W07",
+        "EX-W18",
+        "EX-W17",
+        "EX-W11",
+        "EX-W25",
+        "EX-W23"
+      ],
+      "prompt_path": "runtime/prompts/EX-D14.md",
+      "status_path": "../../status/EX-D14-done.md",
+      "writes": [
+        "content/1/1-06-b.md",
+        "content/1/1-07.md",
+        "content/1/6-01-b.md",
+        "content/1/1-02-i.md",
+        "content/2/1-03-g.md",
+        "content/2/2-03-k.md",
+        "content/3/3-11.md",
+        "content/3/3-01-g.md",
+        "content/5/5-03-f.md",
+        "content/6/6-01-c.md",
+        "content/6/6-02-c.md",
+        "content/6/6-02-d.md",
+        "content/6/6-03-c.md",
+        "content/6/6-01-d.md",
+        "content/7/7-02-g.md",
+        "status/EX-D14-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "1-06-b",
+        "1-07",
+        "6-01-b",
+        "1-02-i",
+        "1-03-g",
+        "2-03-k",
+        "3-11",
+        "3-01-g",
+        "5-03-f",
+        "6-01-c",
+        "6-02-c",
+        "6-02-d",
+        "6-03-c",
+        "6-01-d",
+        "7-02-g"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-D15",
+      "title": "推敲 3件",
+      "group": "writing",
+      "depends_on": [
+        "EX-W22"
+      ],
+      "prompt_path": "runtime/prompts/EX-D15.md",
+      "status_path": "../../status/EX-D15-done.md",
+      "writes": [
+        "content/7/7-01-k.md",
+        "content/7/7-01-l.md",
+        "content/7/7-01-m.md",
+        "status/EX-D15-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-01-k",
+        "7-01-l",
+        "7-01-m"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q01",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "26"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q01.md",
+      "status_path": "../../status/EX-Q01-done.md",
+      "writes": [
+        "content/1/1-01.md",
+        "content/1/1-01-a.md",
+        "content/1/1-01-b.md",
+        "content/1/1-02.md",
+        "content/1/1-02-a.md",
+        "content/1/1-02-b.md",
+        "content/1/1-03.md",
+        "content/1/1-03-a.md",
+        "content/1/1-03-b.md",
+        "content/2/2-01.md",
+        "status/EX-Q01-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "1-01",
+        "1-01-a",
+        "1-01-b",
+        "1-02",
+        "1-02-a",
+        "1-02-b",
+        "1-03",
+        "1-03-a",
+        "1-03-b",
+        "2-01"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q02",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "26"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q02.md",
+      "status_path": "../../status/EX-Q02-done.md",
+      "writes": [
+        "content/2/2-01-a.md",
+        "content/2/2-01-b.md",
+        "content/2/2-02.md",
+        "content/2/2-02-a.md",
+        "content/2/2-02-b.md",
+        "content/2/2-03.md",
+        "content/2/2-03-a.md",
+        "content/2/2-03-b.md",
+        "content/2/2-03-c.md",
+        "content/3/3-01.md",
+        "status/EX-Q02-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "2-01-a",
+        "2-01-b",
+        "2-02",
+        "2-02-a",
+        "2-02-b",
+        "2-03",
+        "2-03-a",
+        "2-03-b",
+        "2-03-c",
+        "3-01"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q03",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "26"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q03.md",
+      "status_path": "../../status/EX-Q03-done.md",
+      "writes": [
+        "content/3/3-01-a.md",
+        "content/3/3-01-b.md",
+        "content/3/3-01-c.md",
+        "content/3/3-02.md",
+        "content/3/3-02-a.md",
+        "content/3/3-02-b.md",
+        "content/3/3-02-c.md",
+        "content/4/4-01.md",
+        "content/4/4-01-a.md",
+        "content/4/4-01-b.md",
+        "status/EX-Q03-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-01-a",
+        "3-01-b",
+        "3-01-c",
+        "3-02",
+        "3-02-a",
+        "3-02-b",
+        "3-02-c",
+        "4-01",
+        "4-01-a",
+        "4-01-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q04",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "26"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q04.md",
+      "status_path": "../../status/EX-Q04-done.md",
+      "writes": [
+        "content/4/4-02.md",
+        "content/4/4-02-a.md",
+        "content/4/4-02-b.md",
+        "content/4/4-03.md",
+        "content/4/4-03-a.md",
+        "content/4/4-03-b.md",
+        "content/5/5-01.md",
+        "content/5/5-01-a.md",
+        "content/5/5-01-b.md",
+        "content/5/5-01-c.md",
+        "status/EX-Q04-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "4-02",
+        "4-02-a",
+        "4-02-b",
+        "4-03",
+        "4-03-a",
+        "4-03-b",
+        "5-01",
+        "5-01-a",
+        "5-01-b",
+        "5-01-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q05",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "26"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q05.md",
+      "status_path": "../../status/EX-Q05-done.md",
+      "writes": [
+        "content/5/5-02.md",
+        "content/5/5-02-a.md",
+        "content/5/5-02-b.md",
+        "content/5/5-02-c.md",
+        "content/5/5-03.md",
+        "content/5/5-03-a.md",
+        "content/5/5-03-b.md",
+        "content/5/5-03-c.md",
+        "content/6/6-01.md",
+        "content/6/6-01-a.md",
+        "status/EX-Q05-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "5-02",
+        "5-02-a",
+        "5-02-b",
+        "5-02-c",
+        "5-03",
+        "5-03-a",
+        "5-03-b",
+        "5-03-c",
+        "6-01",
+        "6-01-a"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q06",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "26"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q06.md",
+      "status_path": "../../status/EX-Q06-done.md",
+      "writes": [
+        "content/6/6-02.md",
+        "content/6/6-02-a.md",
+        "content/6/6-02-b.md",
+        "content/6/6-03.md",
+        "content/6/6-03-a.md",
+        "content/6/6-03-b.md",
+        "content/7/7-01.md",
+        "content/7/7-01-a.md",
+        "content/7/7-01-b.md",
+        "content/7/7-01-c.md",
+        "status/EX-Q06-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-02",
+        "6-02-a",
+        "6-02-b",
+        "6-03",
+        "6-03-a",
+        "6-03-b",
+        "7-01",
+        "7-01-a",
+        "7-01-b",
+        "7-01-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q07",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "26",
+        "EX-D01"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q07.md",
+      "status_path": "../../status/EX-Q07-done.md",
+      "writes": [
+        "content/7/7-02.md",
+        "content/7/7-02-a.md",
+        "content/7/7-02-b.md",
+        "content/7/7-03.md",
+        "content/1/1-04.md",
+        "content/1/1-04-a.md",
+        "content/1/1-04-b.md",
+        "content/1/1-05.md",
+        "content/1/1-05-a.md",
+        "content/1/1-05-b.md",
+        "status/EX-Q07-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-02",
+        "7-02-a",
+        "7-02-b",
+        "7-03",
+        "1-04",
+        "1-04-a",
+        "1-04-b",
+        "1-05",
+        "1-05-a",
+        "1-05-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q08",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D01",
+        "EX-D02"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q08.md",
+      "status_path": "../../status/EX-Q08-done.md",
+      "writes": [
+        "content/1/1-04-c.md",
+        "content/1/1-02-c.md",
+        "content/1/2-04-a.md",
+        "content/1/2-04-b.md",
+        "content/1/1-02-d.md",
+        "content/1/2-06-a.md",
+        "content/1/1-02-e.md",
+        "content/1/1-02-f.md",
+        "content/1/1-02-g.md",
+        "content/1/1-02-h.md",
+        "status/EX-Q08-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "1-04-c",
+        "1-02-c",
+        "2-04-a",
+        "2-04-b",
+        "1-02-d",
+        "2-06-a",
+        "1-02-e",
+        "1-02-f",
+        "1-02-g",
+        "1-02-h"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q09",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D02"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q09.md",
+      "status_path": "../../status/EX-Q09-done.md",
+      "writes": [
+        "content/1/7-03-a.md",
+        "content/6/6-04.md",
+        "content/6/6-04-a.md",
+        "content/6/6-04-b.md",
+        "content/6/1-01-c.md",
+        "content/6/1-03-c.md",
+        "content/6/1-03-d.md",
+        "content/6/7-05-a.md",
+        "content/2/2-04.md",
+        "content/2/2-04-c.md",
+        "status/EX-Q09-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-03-a",
+        "6-04",
+        "6-04-a",
+        "6-04-b",
+        "1-01-c",
+        "1-03-c",
+        "1-03-d",
+        "7-05-a",
+        "2-04",
+        "2-04-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q10",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D02",
+        "EX-D03"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q10.md",
+      "status_path": "../../status/EX-Q10-done.md",
+      "writes": [
+        "content/2/2-04-d.md",
+        "content/2/2-02-c.md",
+        "content/2/2-05.md",
+        "content/2/2-05-a.md",
+        "content/2/2-05-b.md",
+        "content/2/2-05-c.md",
+        "content/2/2-05-d.md",
+        "content/2/1-03-e.md",
+        "content/2/1-03-f.md",
+        "content/2/2-06.md",
+        "status/EX-Q10-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "2-04-d",
+        "2-02-c",
+        "2-05",
+        "2-05-a",
+        "2-05-b",
+        "2-05-c",
+        "2-05-d",
+        "1-03-e",
+        "1-03-f",
+        "2-06"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q11",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D03",
+        "EX-D04"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q11.md",
+      "status_path": "../../status/EX-Q11-done.md",
+      "writes": [
+        "content/2/2-06-b.md",
+        "content/2/2-06-c.md",
+        "content/2/2-06-d.md",
+        "content/2/2-07.md",
+        "content/2/2-07-a.md",
+        "content/2/2-07-b.md",
+        "content/2/2-07-c.md",
+        "content/2/2-03-d.md",
+        "content/2/2-03-e.md",
+        "content/2/2-03-f.md",
+        "status/EX-Q11-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "2-06-b",
+        "2-06-c",
+        "2-06-d",
+        "2-07",
+        "2-07-a",
+        "2-07-b",
+        "2-07-c",
+        "2-03-d",
+        "2-03-e",
+        "2-03-f"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q12",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D04"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q12.md",
+      "status_path": "../../status/EX-Q12-done.md",
+      "writes": [
+        "content/3/2-03-g.md",
+        "content/2/1-01-d.md",
+        "content/2/6-05-a.md",
+        "content/2/1-01-e.md",
+        "content/2/2-03-h.md",
+        "content/2/2-03-i.md",
+        "content/3/2-03-j.md",
+        "content/4/4-04.md",
+        "content/4/4-04-a.md",
+        "content/4/4-04-b.md",
+        "status/EX-Q12-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "2-03-g",
+        "1-01-d",
+        "6-05-a",
+        "1-01-e",
+        "2-03-h",
+        "2-03-i",
+        "2-03-j",
+        "4-04",
+        "4-04-a",
+        "4-04-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q13",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D04",
+        "EX-D05"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q13.md",
+      "status_path": "../../status/EX-Q13-done.md",
+      "writes": [
+        "content/4/4-05.md",
+        "content/4/4-05-a.md",
+        "content/4/4-05-b.md",
+        "content/4/4-01-c.md",
+        "content/4/4-06.md",
+        "content/4/4-06-a.md",
+        "content/4/4-06-b.md",
+        "content/4/4-07.md",
+        "content/4/4-07-a.md",
+        "content/4/4-07-b.md",
+        "status/EX-Q13-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "4-05",
+        "4-05-a",
+        "4-05-b",
+        "4-01-c",
+        "4-06",
+        "4-06-a",
+        "4-06-b",
+        "4-07",
+        "4-07-a",
+        "4-07-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q14",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D05",
+        "EX-D06"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q14.md",
+      "status_path": "../../status/EX-Q14-done.md",
+      "writes": [
+        "content/4/4-08.md",
+        "content/4/4-08-a.md",
+        "content/4/4-08-b.md",
+        "content/4/4-08-c.md",
+        "content/4/4-08-d.md",
+        "content/4/4-08-e.md",
+        "content/4/4-09.md",
+        "content/4/4-09-a.md",
+        "content/4/4-09-b.md",
+        "content/4/4-03-c.md",
+        "status/EX-Q14-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "4-08",
+        "4-08-a",
+        "4-08-b",
+        "4-08-c",
+        "4-08-d",
+        "4-08-e",
+        "4-09",
+        "4-09-a",
+        "4-09-b",
+        "4-03-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q15",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D06"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q15.md",
+      "status_path": "../../status/EX-Q15-done.md",
+      "writes": [
+        "content/4/4-03-d.md",
+        "content/4/4-03-e.md",
+        "content/4/4-03-f.md",
+        "content/5/5-03-d.md",
+        "content/5/5-03-e.md",
+        "content/5/5-04.md",
+        "content/5/5-04-a.md",
+        "content/5/5-04-b.md",
+        "content/6/6-05.md",
+        "content/6/6-05-b.md",
+        "status/EX-Q15-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "4-03-d",
+        "4-03-e",
+        "4-03-f",
+        "5-03-d",
+        "5-03-e",
+        "5-04",
+        "5-04-a",
+        "5-04-b",
+        "6-05",
+        "6-05-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q16",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D06",
+        "EX-D07"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q16.md",
+      "status_path": "../../status/EX-Q16-done.md",
+      "writes": [
+        "content/6/6-05-c.md",
+        "content/6/6-05-d.md",
+        "content/6/6-06.md",
+        "content/6/6-06-a.md",
+        "content/6/6-06-b.md",
+        "content/6/6-06-c.md",
+        "content/6/6-07.md",
+        "content/6/6-07-a.md",
+        "content/6/6-07-b.md",
+        "content/6/6-08.md",
+        "status/EX-Q16-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-05-c",
+        "6-05-d",
+        "6-06",
+        "6-06-a",
+        "6-06-b",
+        "6-06-c",
+        "6-07",
+        "6-07-a",
+        "6-07-b",
+        "6-08"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q17",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D07",
+        "EX-D08"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q17.md",
+      "status_path": "../../status/EX-Q17-done.md",
+      "writes": [
+        "content/6/6-08-a.md",
+        "content/6/6-08-b.md",
+        "content/6/6-08-c.md",
+        "content/6/4-08-f.md",
+        "content/6/6-09.md",
+        "content/6/6-09-a.md",
+        "content/6/6-09-b.md",
+        "content/6/6-09-c.md",
+        "content/6/6-10.md",
+        "content/6/6-10-a.md",
+        "status/EX-Q17-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-08-a",
+        "6-08-b",
+        "6-08-c",
+        "4-08-f",
+        "6-09",
+        "6-09-a",
+        "6-09-b",
+        "6-09-c",
+        "6-10",
+        "6-10-a"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q18",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D08"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q18.md",
+      "status_path": "../../status/EX-Q18-done.md",
+      "writes": [
+        "content/6/6-11.md",
+        "content/6/6-11-a.md",
+        "content/6/6-11-b.md",
+        "content/6/6-11-c.md",
+        "content/5/5-05.md",
+        "content/5/5-05-a.md",
+        "content/5/5-06.md",
+        "content/5/5-06-a.md",
+        "content/5/5-07.md",
+        "content/5/5-07-a.md",
+        "status/EX-Q18-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-11",
+        "6-11-a",
+        "6-11-b",
+        "6-11-c",
+        "5-05",
+        "5-05-a",
+        "5-06",
+        "5-06-a",
+        "5-07",
+        "5-07-a"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q19",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D08",
+        "EX-D09"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q19.md",
+      "status_path": "../../status/EX-Q19-done.md",
+      "writes": [
+        "content/5/5-08.md",
+        "content/5/5-09.md",
+        "content/5/5-09-a.md",
+        "content/5/5-10.md",
+        "content/5/5-10-a.md",
+        "content/5/5-10-b.md",
+        "content/5/5-10-c.md",
+        "content/5/5-11.md",
+        "content/5/5-11-a.md",
+        "content/5/5-11-b.md",
+        "status/EX-Q19-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "5-08",
+        "5-09",
+        "5-09-a",
+        "5-10",
+        "5-10-a",
+        "5-10-b",
+        "5-10-c",
+        "5-11",
+        "5-11-a",
+        "5-11-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q20",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D09",
+        "EX-D10"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q20.md",
+      "status_path": "../../status/EX-Q20-done.md",
+      "writes": [
+        "content/5/5-11-c.md",
+        "content/5/5-05-b.md",
+        "content/6/5-07-b.md",
+        "content/6/6-10-b.md",
+        "content/3/3-01-d.md",
+        "content/3/3-03.md",
+        "content/3/3-03-a.md",
+        "content/3/3-03-b.md",
+        "content/3/3-01-e.md",
+        "content/3/3-04.md",
+        "status/EX-Q20-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "5-11-c",
+        "5-05-b",
+        "5-07-b",
+        "6-10-b",
+        "3-01-d",
+        "3-03",
+        "3-03-a",
+        "3-03-b",
+        "3-01-e",
+        "3-04"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q21",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D10"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q21.md",
+      "status_path": "../../status/EX-Q21-done.md",
+      "writes": [
+        "content/3/3-04-a.md",
+        "content/3/3-04-b.md",
+        "content/3/3-01-f.md",
+        "content/3/3-05.md",
+        "content/3/3-11-a.md",
+        "content/3/3-11-b.md",
+        "content/3/3-06.md",
+        "content/3/3-06-a.md",
+        "content/3/3-06-b.md",
+        "content/3/3-02-d.md",
+        "status/EX-Q21-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-04-a",
+        "3-04-b",
+        "3-01-f",
+        "3-05",
+        "3-11-a",
+        "3-11-b",
+        "3-06",
+        "3-06-a",
+        "3-06-b",
+        "3-02-d"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q22",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D10",
+        "EX-D11"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q22.md",
+      "status_path": "../../status/EX-Q22-done.md",
+      "writes": [
+        "content/3/3-02-e.md",
+        "content/3/3-02-f.md",
+        "content/3/3-02-g.md",
+        "content/3/3-02-h.md",
+        "content/3/3-02-i.md",
+        "content/3/3-07.md",
+        "content/3/3-07-a.md",
+        "content/3/3-08.md",
+        "content/3/3-08-a.md",
+        "content/3/3-08-b.md",
+        "status/EX-Q22-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-02-e",
+        "3-02-f",
+        "3-02-g",
+        "3-02-h",
+        "3-02-i",
+        "3-07",
+        "3-07-a",
+        "3-08",
+        "3-08-a",
+        "3-08-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q23",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D11",
+        "EX-D12"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q23.md",
+      "status_path": "../../status/EX-Q23-done.md",
+      "writes": [
+        "content/3/3-08-c.md",
+        "content/3/3-08-d.md",
+        "content/3/3-09.md",
+        "content/3/3-09-a.md",
+        "content/3/3-09-b.md",
+        "content/3/3-05-a.md",
+        "content/3/3-05-b.md",
+        "content/3/3-10.md",
+        "content/3/3-10-a.md",
+        "content/3/3-10-b.md",
+        "status/EX-Q23-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "3-08-c",
+        "3-08-d",
+        "3-09",
+        "3-09-a",
+        "3-09-b",
+        "3-05-a",
+        "3-05-b",
+        "3-10",
+        "3-10-a",
+        "3-10-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q24",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D12"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q24.md",
+      "status_path": "../../status/EX-Q24-done.md",
+      "writes": [
+        "content/7/7-04.md",
+        "content/7/7-01-d.md",
+        "content/7/7-01-e.md",
+        "content/7/7-04-a.md",
+        "content/7/7-04-b.md",
+        "content/7/7-04-c.md",
+        "content/7/1-04-d.md",
+        "content/7/7-05.md",
+        "content/7/7-05-b.md",
+        "content/7/7-05-c.md",
+        "status/EX-Q24-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-04",
+        "7-01-d",
+        "7-01-e",
+        "7-04-a",
+        "7-04-b",
+        "7-04-c",
+        "1-04-d",
+        "7-05",
+        "7-05-b",
+        "7-05-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q25",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D12",
+        "EX-D13"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q25.md",
+      "status_path": "../../status/EX-Q25-done.md",
+      "writes": [
+        "content/7/7-02-c.md",
+        "content/7/7-02-d.md",
+        "content/7/7-02-e.md",
+        "content/7/7-06.md",
+        "content/7/7-06-a.md",
+        "content/7/7-06-b.md",
+        "content/7/7-07.md",
+        "content/7/7-08.md",
+        "content/7/7-08-a.md",
+        "content/7/7-01-f.md",
+        "status/EX-Q25-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-02-c",
+        "7-02-d",
+        "7-02-e",
+        "7-06",
+        "7-06-a",
+        "7-06-b",
+        "7-07",
+        "7-08",
+        "7-08-a",
+        "7-01-f"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q26",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D13",
+        "EX-D14"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q26.md",
+      "status_path": "../../status/EX-Q26-done.md",
+      "writes": [
+        "content/7/7-01-g.md",
+        "content/7/7-01-h.md",
+        "content/7/7-01-i.md",
+        "content/7/7-02-f.md",
+        "content/7/7-03-b.md",
+        "content/7/7-01-j.md",
+        "content/7/7-03-c.md",
+        "content/1/1-06.md",
+        "content/1/1-06-a.md",
+        "content/1/1-06-b.md",
+        "status/EX-Q26-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "7-01-g",
+        "7-01-h",
+        "7-01-i",
+        "7-02-f",
+        "7-03-b",
+        "7-01-j",
+        "7-03-c",
+        "1-06",
+        "1-06-a",
+        "1-06-b"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q27",
+      "title": "照合 10件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D14"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q27.md",
+      "status_path": "../../status/EX-Q27-done.md",
+      "writes": [
+        "content/1/1-07.md",
+        "content/1/6-01-b.md",
+        "content/1/1-02-i.md",
+        "content/2/1-03-g.md",
+        "content/2/2-03-k.md",
+        "content/3/3-11.md",
+        "content/3/3-01-g.md",
+        "content/5/5-03-f.md",
+        "content/6/6-01-c.md",
+        "content/6/6-02-c.md",
+        "status/EX-Q27-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "1-07",
+        "6-01-b",
+        "1-02-i",
+        "1-03-g",
+        "2-03-k",
+        "3-11",
+        "3-01-g",
+        "5-03-f",
+        "6-01-c",
+        "6-02-c"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-Q28",
+      "title": "照合 7件",
+      "group": "writing",
+      "depends_on": [
+        "EX-D14",
+        "EX-D15"
+      ],
+      "prompt_path": "runtime/prompts/EX-Q28.md",
+      "status_path": "../../status/EX-Q28-done.md",
+      "writes": [
+        "content/6/6-02-d.md",
+        "content/6/6-03-c.md",
+        "content/6/6-01-d.md",
+        "content/7/7-02-g.md",
+        "content/7/7-01-k.md",
+        "content/7/7-01-l.md",
+        "content/7/7-01-m.md",
+        "status/EX-Q28-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [
+        "6-02-d",
+        "6-03-c",
+        "6-01-d",
+        "7-02-g",
+        "7-01-k",
+        "7-01-l",
+        "7-01-m"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "EX-P01",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "FCT-01"
+      ],
+      "prompt_path": "runtime/prompts/EX-P01.md",
+      "status_path": "../../status/EX-P01-done.md",
+      "writes": [
+        "teams/fctokyo/people/seung-gyu-kim.md",
+        "teams/fctokyo/people/hirokazu-ishihara.md",
+        "teams/fctokyo/people/alexander-scholz.md",
+        "status/EX-P01-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "seung-gyu-kim",
+        "hirokazu-ishihara",
+        "alexander-scholz"
+      ]
+    },
+    {
+      "id": "EX-P02",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "FCT-02"
+      ],
+      "prompt_path": "runtime/prompts/EX-P02.md",
+      "status_path": "../../status/EX-P02-done.md",
+      "writes": [
+        "teams/fctokyo/people/hayato-inamura.md",
+        "teams/fctokyo/people/kashif-bangnagande.md",
+        "teams/fctokyo/people/shuto-nagano.md",
+        "status/EX-P02-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "hayato-inamura",
+        "kashif-bangnagande",
+        "shuto-nagano"
+      ]
+    },
+    {
+      "id": "EX-P03",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "FCT-03"
+      ],
+      "prompt_path": "runtime/prompts/EX-P03.md",
+      "status_path": "../../status/EX-P03-done.md",
+      "writes": [
+        "teams/fctokyo/people/takahiro-ko.md",
+        "teams/fctokyo/people/soma-anzai.md",
+        "teams/fctokyo/people/kota-tawaratsumida.md",
+        "status/EX-P03-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "takahiro-ko",
+        "soma-anzai",
+        "kota-tawaratsumida"
+      ]
+    },
+    {
+      "id": "EX-P04",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "FCT-04"
+      ],
+      "prompt_path": "runtime/prompts/EX-P04.md",
+      "status_path": "../../status/EX-P04-done.md",
+      "writes": [
+        "teams/fctokyo/people/motoki-nagakura.md",
+        "teams/fctokyo/people/marcelo-ryan.md",
+        "teams/fctokyo/people/kein-sato.md",
+        "status/EX-P04-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "motoki-nagakura",
+        "marcelo-ryan",
+        "kein-sato"
+      ]
+    },
+    {
+      "id": "EX-P05",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "FCT-05"
+      ],
+      "prompt_path": "runtime/prompts/EX-P05.md",
+      "status_path": "../../status/EX-P05-done.md",
+      "writes": [
+        "teams/fctokyo/people/dani-gomez.md",
+        "teams/fctokyo/people/fuki-yamada.md",
+        "teams/fctokyo/people/kyota-tokiwa.md",
+        "status/EX-P05-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "dani-gomez",
+        "fuki-yamada",
+        "kyota-tokiwa"
+      ]
+    },
+    {
+      "id": "EX-P06",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "FCT-06"
+      ],
+      "prompt_path": "runtime/prompts/EX-P06.md",
+      "status_path": "../../status/EX-P06-done.md",
+      "writes": [
+        "teams/fctokyo/people/rio-omori.md",
+        "teams/fctokyo/people/teruhito-nakagawa.md",
+        "teams/fctokyo/people/masato-morishige.md",
+        "status/EX-P06-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "rio-omori",
+        "teruhito-nakagawa",
+        "masato-morishige"
+      ]
+    },
+    {
+      "id": "EX-P07",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "FCT-07"
+      ],
+      "prompt_path": "runtime/prompts/EX-P07.md",
+      "status_path": "../../status/EX-P07-done.md",
+      "writes": [
+        "teams/fctokyo/people/kaede-suzuki.md",
+        "teams/fctokyo/people/hayate-tanaka.md",
+        "teams/fctokyo/people/kio-tanaka.md",
+        "status/EX-P07-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "kaede-suzuki",
+        "hayate-tanaka",
+        "kio-tanaka"
+      ]
+    },
+    {
+      "id": "EX-P08",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "FCT-08"
+      ],
+      "prompt_path": "runtime/prompts/EX-P08.md",
+      "status_path": "../../status/EX-P08-done.md",
+      "writes": [
+        "teams/fctokyo/people/wataru-goto.md",
+        "teams/fctokyo/people/kento-hashimoto.md",
+        "teams/fctokyo/people/shion-homma.md",
+        "status/EX-P08-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "wataru-goto",
+        "kento-hashimoto",
+        "shion-homma"
+      ]
+    },
+    {
+      "id": "EX-P09",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "FCT-09",
+        "KSW-01"
+      ],
+      "prompt_path": "runtime/prompts/EX-P09.md",
+      "status_path": "../../status/EX-P09-done.md",
+      "writes": [
+        "teams/fctokyo/people/sei-muroya.md",
+        "teams/kashiwa/people/kengo-nagai.md",
+        "teams/kashiwa/people/taiyo-koga.md",
+        "status/EX-P09-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "sei-muroya",
+        "kengo-nagai",
+        "taiyo-koga"
+      ]
+    },
+    {
+      "id": "EX-P10",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "KSW-01",
+        "KSW-02"
+      ],
+      "prompt_path": "runtime/prompts/EX-P10.md",
+      "status_path": "../../status/EX-P10-done.md",
+      "writes": [
+        "teams/kashiwa/people/daiki-sugioka.md",
+        "teams/kashiwa/people/tojiro-kubo.md",
+        "teams/kashiwa/people/sachiro-toshima.md",
+        "status/EX-P10-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "daiki-sugioka",
+        "tojiro-kubo",
+        "sachiro-toshima"
+      ]
+    },
+    {
+      "id": "EX-P11",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "KSW-02",
+        "KSW-03"
+      ],
+      "prompt_path": "runtime/prompts/EX-P11.md",
+      "status_path": "../../status/EX-P11-done.md",
+      "writes": [
+        "teams/kashiwa/people/yudai-konishi.md",
+        "teams/kashiwa/people/nobuteru-nakagawa.md",
+        "teams/kashiwa/people/yoshio-koizumi.md",
+        "status/EX-P11-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "yudai-konishi",
+        "nobuteru-nakagawa",
+        "yoshio-koizumi"
+      ]
+    },
+    {
+      "id": "EX-P12",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "KSW-03",
+        "KSW-04"
+      ],
+      "prompt_path": "runtime/prompts/EX-P12.md",
+      "status_path": "../../status/EX-P12-done.md",
+      "writes": [
+        "teams/kashiwa/people/keita-endo.md",
+        "teams/kashiwa/people/hinata-yamauchi.md",
+        "teams/kashiwa/people/shota-fujio.md",
+        "status/EX-P12-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "keita-endo",
+        "hinata-yamauchi",
+        "shota-fujio"
+      ]
+    },
+    {
+      "id": "EX-P13",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "KSW-04",
+        "KSW-05"
+      ],
+      "prompt_path": "runtime/prompts/EX-P13.md",
+      "status_path": "../../status/EX-P13-done.md",
+      "writes": [
+        "teams/kashiwa/people/wataru-harada.md",
+        "teams/kashiwa/people/yuki-kakita.md",
+        "teams/kashiwa/people/yusuke-segawa.md",
+        "status/EX-P13-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "wataru-harada",
+        "yuki-kakita",
+        "yusuke-segawa"
+      ]
+    },
+    {
+      "id": "EX-P14",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "KSW-05",
+        "KSW-06"
+      ],
+      "prompt_path": "runtime/prompts/EX-P14.md",
+      "status_path": "../../status/EX-P14-done.md",
+      "writes": [
+        "teams/kashiwa/people/kenshin-yuba.md",
+        "teams/kashiwa/people/mao-hosoya.md",
+        "teams/kashiwa/people/riki-harakawa.md",
+        "status/EX-P14-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "kenshin-yuba",
+        "mao-hosoya",
+        "riki-harakawa"
+      ]
+    },
+    {
+      "id": "EX-P15",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "KSW-06",
+        "KSW-07"
+      ],
+      "prompt_path": "runtime/prompts/EX-P15.md",
+      "status_path": "../../status/EX-P15-done.md",
+      "writes": [
+        "teams/kashiwa/people/koya-yuruki.md",
+        "teams/kashiwa/people/hiromu-mitsumaru.md",
+        "teams/kashiwa/people/tomoya-inukai.md",
+        "status/EX-P15-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "koya-yuruki",
+        "hiromu-mitsumaru",
+        "tomoya-inukai"
+      ]
+    },
+    {
+      "id": "EX-P16",
+      "title": "人物個別確認 3件",
+      "group": "kashiwa",
+      "depends_on": [
+        "KSW-07",
+        "KSW-08"
+      ],
+      "prompt_path": "runtime/prompts/EX-P16.md",
+      "status_path": "../../status/EX-P16-done.md",
+      "writes": [
+        "teams/kashiwa/people/ryosuke-kojima.md",
+        "teams/kashiwa/people/yusei-yamanouchi.md",
+        "teams/kashiwa/people/hayato-nakama.md",
+        "status/EX-P16-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "ryosuke-kojima",
+        "yusei-yamanouchi",
+        "hayato-nakama"
+      ]
+    },
+    {
+      "id": "EX-P17",
+      "title": "人物個別確認 2件",
+      "group": "kashiwa",
+      "depends_on": [
+        "KSW-08",
+        "KSW-09"
+      ],
+      "prompt_path": "runtime/prompts/EX-P17.md",
+      "status_path": "../../status/EX-P17-done.md",
+      "writes": [
+        "teams/kashiwa/people/shusuke-furuya.md",
+        "teams/kashiwa/people/masaki-watai.md",
+        "status/EX-P17-done.md"
+      ],
+      "required": true,
+      "verified_complete": false,
+      "article_ids": [],
+      "person_ids": [
+        "shusuke-furuya",
+        "masaki-watai"
+      ]
     }
   ],
   "snapshot": {

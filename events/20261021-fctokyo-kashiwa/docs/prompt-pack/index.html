@@ -41,4 +41,4 @@ function draw(){
 async function copyPrompt(id){const t=jobs.get(id);if(!ready(t))return;const a=document.getElementById('task-'+id).querySelector('textarea');try{await navigator.clipboard.writeText(t.prompt);document.getElementById('result-'+id).textContent='コピーしました。送付したら「別チャットで作業中」に記録してください。'}catch{document.getElementById('task-'+id).querySelector('details').open=true;a.focus();a.select();let ok=false;try{ok=document.execCommand('copy')}catch{}document.getElementById('result-'+id).textContent=ok?'コピーしました。送付後に作業中と記録してください。':'全文を選択しました。コピー操作をしてください。'}}
 document.getElementById('football-preview').srcdoc=data.football_preview_html;
 draw();
-</script></body></html>
+</script><section id="ex-runtime"><h2>00-J 追加指示</h2><a href="runtime/index.html">追加89担当のコピーカード</a></section></body></html>
