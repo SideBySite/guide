@@ -1,0 +1,316 @@
+[
+  {
+    "task_id": "FCT-01",
+    "team": "fctokyo",
+    "range": [
+      1,
+      3
+    ],
+    "people": [],
+    "max_people": 3
+  },
+  {
+    "task_id": "FCT-02",
+    "team": "fctokyo",
+    "range": [
+      4,
+      6
+    ],
+    "people": [],
+    "max_people": 3
+  },
+  {
+    "task_id": "FCT-03",
+    "team": "fctokyo",
+    "range": [
+      7,
+      9
+    ],
+    "people": [],
+    "max_people": 3
+  },
+  {
+    "task_id": "FCT-04",
+    "team": "fctokyo",
+    "range": [
+      10,
+      12
+    ],
+    "people": [],
+    "max_people": 3
+  },
+  {
+    "task_id": "FCT-05",
+    "team": "fctokyo",
+    "range": [
+      13,
+      15
+    ],
+    "people": [],
+    "max_people": 3
+  },
+  {
+    "task_id": "FCT-06",
+    "team": "fctokyo",
+    "range": [
+      16,
+      18
+    ],
+    "people": [],
+    "max_people": 3
+  },
+  {
+    "task_id": "FCT-07",
+    "team": "fctokyo",
+    "range": [
+      19,
+      21
+    ],
+    "people": [],
+    "max_people": 3
+  },
+  {
+    "task_id": "FCT-08",
+    "team": "fctokyo",
+    "range": [
+      22,
+      24
+    ],
+    "people": [],
+    "max_people": 3
+  },
+  {
+    "task_id": "FCT-09",
+    "team": "fctokyo",
+    "range": [
+      25,
+      27
+    ],
+    "people": [],
+    "max_people": 3
+  },
+  {
+    "task_id": "KSW-01",
+    "team": "kashiwa",
+    "range": [
+      1,
+      3
+    ],
+    "people": [
+      {
+        "name": "29 永井堅梧",
+        "role": "予想先発GK／10/17途中、10/14先発",
+        "path": "teams/kashiwa/people/kengo-nagai.md"
+      },
+      {
+        "name": "4 古賀太陽",
+        "role": "予想先発／後方の中心",
+        "path": "teams/kashiwa/people/taiyo-koga.md"
+      },
+      {
+        "name": "26 杉岡大暉",
+        "role": "予想先発／左後方",
+        "path": "teams/kashiwa/people/daiki-sugioka.md"
+      }
+    ],
+    "max_people": 3
+  },
+  {
+    "task_id": "KSW-02",
+    "team": "kashiwa",
+    "range": [
+      4,
+      6
+    ],
+    "people": [
+      {
+        "name": "24 久保藤次郎",
+        "role": "予想先発／右側",
+        "path": "teams/kashiwa/people/tojiro-kubo.md"
+      },
+      {
+        "name": "28 戸嶋祥郎",
+        "role": "予想先発・原田との競争",
+        "path": "teams/kashiwa/people/sachiro-toshima.md"
+      },
+      {
+        "name": "21 小西雄大",
+        "role": "予想先発／中央",
+        "path": "teams/kashiwa/people/yudai-konishi.md"
+      }
+    ],
+    "max_people": 3
+  },
+  {
+    "task_id": "KSW-03",
+    "team": "kashiwa",
+    "range": [
+      7,
+      9
+    ],
+    "people": [
+      {
+        "name": "39 中川敦瑛",
+        "role": "予想先発／中央",
+        "path": "teams/kashiwa/people/nobuteru-nakagawa.md"
+      },
+      {
+        "name": "8 小泉佳穂",
+        "role": "予想先発／前方の接続",
+        "path": "teams/kashiwa/people/yoshio-koizumi.md"
+      },
+      {
+        "name": "5 遠藤渓太",
+        "role": "予想先発／左側",
+        "path": "teams/kashiwa/people/keita-endo.md"
+      }
+    ],
+    "max_people": 3
+  },
+  {
+    "task_id": "KSW-04",
+    "team": "kashiwa",
+    "range": [
+      10,
+      12
+    ],
+    "people": [
+      {
+        "name": "87 山内日向汰",
+        "role": "予想先発／前線",
+        "path": "teams/kashiwa/people/hinata-yamauchi.md"
+      },
+      {
+        "name": "15 藤尾翔太",
+        "role": "予想先発／前線先頭",
+        "path": "teams/kashiwa/people/shota-fujio.md"
+      },
+      {
+        "name": "42 原田亘",
+        "role": "先発競争・後方交代",
+        "path": "teams/kashiwa/people/wataru-harada.md"
+      }
+    ],
+    "max_people": 3
+  },
+  {
+    "task_id": "KSW-05",
+    "team": "kashiwa",
+    "range": [
+      13,
+      15
+    ],
+    "people": [
+      {
+        "name": "18 垣田裕暉",
+        "role": "先発競争・10/14先発FW",
+        "path": "teams/kashiwa/people/yuki-kakita.md"
+      },
+      {
+        "name": "20 瀬川祐輔",
+        "role": "主要交代／J1途中から8得点",
+        "path": "teams/kashiwa/people/yusuke-segawa.md"
+      },
+      {
+        "name": "44 弓場堅真",
+        "role": "先発競争・主要交代",
+        "path": "teams/kashiwa/people/kenshin-yuba.md"
+      }
+    ],
+    "max_people": 3
+  },
+  {
+    "task_id": "KSW-06",
+    "team": "kashiwa",
+    "range": [
+      16,
+      18
+    ],
+    "people": [
+      {
+        "name": "9 細谷真大",
+        "role": "主要交代・FW先発競争",
+        "path": "teams/kashiwa/people/mao-hosoya.md"
+      },
+      {
+        "name": "40 原川力",
+        "role": "中盤入替・交代",
+        "path": "teams/kashiwa/people/riki-harakawa.md"
+      },
+      {
+        "name": "16 汰木康也",
+        "role": "先発競争・外側",
+        "path": "teams/kashiwa/people/koya-yuruki.md"
+      }
+    ],
+    "max_people": 3
+  },
+  {
+    "task_id": "KSW-07",
+    "team": "kashiwa",
+    "range": [
+      19,
+      21
+    ],
+    "people": [
+      {
+        "name": "2 三丸拡",
+        "role": "DFの控え",
+        "path": "teams/kashiwa/people/hiromu-mitsumaru.md"
+      },
+      {
+        "name": "13 犬飼智也",
+        "role": "DFの控え・10/14途中",
+        "path": "teams/kashiwa/people/tomoya-inukai.md"
+      },
+      {
+        "name": "25 小島亨介",
+        "role": "控えGK候補",
+        "path": "teams/kashiwa/people/ryosuke-kojima.md"
+      }
+    ],
+    "max_people": 3
+  },
+  {
+    "task_id": "KSW-08",
+    "team": "kashiwa",
+    "range": [
+      22,
+      24
+    ],
+    "people": [
+      {
+        "name": "32 山之内佑成",
+        "role": "DF控え・10/14途中",
+        "path": "teams/kashiwa/people/yusei-yamanouchi.md"
+      },
+      {
+        "name": "19 仲間隼斗",
+        "role": "MF控え・10/3途中",
+        "path": "teams/kashiwa/people/hayato-nakama.md"
+      },
+      {
+        "name": "30 古谷柊介",
+        "role": "MF控え・10/17ベンチ",
+        "path": "teams/kashiwa/people/shusuke-furuya.md"
+      }
+    ],
+    "max_people": 3
+  },
+  {
+    "task_id": "KSW-09",
+    "team": "kashiwa",
+    "range": [
+      25,
+      27
+    ],
+    "people": [
+      {
+        "name": "11 渡井理己",
+        "role": "MF控え・9/20途中",
+        "path": "teams/kashiwa/people/masaki-watai.md"
+      }
+    ],
+    "max_people": 3
+  }
+]
