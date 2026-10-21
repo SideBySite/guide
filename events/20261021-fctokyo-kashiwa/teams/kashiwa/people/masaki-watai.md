@@ -1,3 +1,33 @@
+---
+id: ksw-masaki-watai
+title: 渡井理己（柏レイソル・背番号11）
+category: people
+sources:
+  - https://www.fctokyo.co.jp/match/schedule/info/20261021/
+  - https://www.jleague.jp/match/j1/2026/102108/
+  - https://www.reysol.co.jp/team/players/2026/11.php
+  - https://www.reysol.co.jp/news/topteam/2026-2.html
+  - https://www.jleague.jp/player/1617910/?mode=pc
+  - https://www.reysol.co.jp/game/results/202627/1017.php
+  - https://www.reysol.co.jp/game/results/202627/1014.php
+  - https://www.reysol.co.jp/game/results/202627/1009.php
+  - https://www.reysol.co.jp/game/results/202627/1003.php
+  - https://www.reysol.co.jp/game/results/202627/0920.php
+  - https://www.jleague.jp/match/j1/2026/092001/live-commentary/
+  - https://www.reysol.co.jp/game/results/202627/0911.php
+  - https://www.fctokyo.co.jp/fan/fanzone/detail/342859/
+  - https://note.com/tokushima_vortis/n/nc4e0b7f64654
+  - https://www.vortis.jp/news/7730/
+  - https://www.reysol.co.jp/news/topteam/post-947.html
+  - https://www.goal.com/jp/ニュース/watai-goal/blt27af3675bccc915b
+  - https://www.footballista.jp/special/143723
+  - https://www.footballchannel.jp/2025/06/09/post729879/
+  - https://financie.jp/communities/170/activity_log
+  - https://ja.wikipedia.org/wiki/渡井理己
+  - https://en.wikipedia.org/wiki/Masaki_Watai
+checked_at: 2026-10-21T16:56:25.396+09:00
+---
+
 ## 渡井理己（#11、MF＝中盤・前線へのつなぎ役、右足、27歳）
 
 > **確認基準：2026年10月21日13:00ごろ（日本時間・試合前）**。今日のFC東京×柏は19:00、味の素スタジアムで行われる**2026/27明治安田J1リーグ第11節**なのだ。先発・控えは未発表として扱い、以下の「予想」と区別する。
