@@ -804,5 +804,98 @@
       "https://www.jleague.jp/match/j1/2026/102108/",
       "https://www.jfa.jp/laws/soccer/2026_27/"
     ]
+  },
+  {
+    "candidate_id": "D-36",
+    "question": "ベンチの選手は、試合中どんな準備をしている？",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
+    "category_hint": 6,
+    "trigger": "後半に向けてピッチ脇で控えの人が立ち上がり走り始めたとき",
+    "answer_scope": [
+      "控え選手は登録されても必ず出場するとは限らない",
+      "体を温める準備と交代待ちは別",
+      "監督やスタッフの動きも観察の手掛かり"
+    ],
+    "today_watch": "後半開始前後、座席から見える範囲のピッチ脇のアップとベンチを一度確認",
+    "priority": "star",
+    "novice_value": "試合に出ないかもしれない人にも見どころがある",
+    "distinct_from": "既存6-03-b『ベンチと交代』は総論、ここでは交代前の時間の使い方を扱う",
+    "fact_check": "アップする場所・見える範囲・当日の出場選手は現地確認。アップ＝交代確定ではない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.theifab.com/laws/latest/the-players/"
+    ]
+  },
+  {
+    "candidate_id": "D-37",
+    "question": "控えの人が試合の途中で走っているのはなぜ？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-36",
+    "category_hint": 6,
+    "trigger": "ピッチ外の決められた場所で控えの人が短いダッシュを繰り返すとき",
+    "answer_scope": [
+      "出場に備えたウォームアップ（体を温める運動）",
+      "実際に交代する人だけとは限らない",
+      "ピッチ内のプレーを邪魔しない場所で行う"
+    ],
+    "today_watch": "控えがアップを始めたら、何人いるかと、その後誰が呼ばれるかを別々に見守る",
+    "priority": "normal",
+    "novice_value": "交代発表より前の風景を味わえる",
+    "distinct_from": "D-36は控えの一日の役割、これは試合中の具体的なダッシュ",
+    "fact_check": "アップ場所の会場運用・交代選手は未確認。特定選手に紐づけない",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.theifab.com/laws/latest/the-players/"
+    ]
+  },
+  {
+    "candidate_id": "D-38",
+    "question": "交代が近いとき、選手とスタッフは何をするの？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-36",
+    "category_hint": 6,
+    "trigger": "ハーフウェーライン付近に交代待ちの選手が来てスタッフと並んだとき",
+    "answer_scope": [
+      "交代は審判に届け出てプレー停止中に行う",
+      "交代する人が退いてから入る",
+      "2026/27は退出時間の規定も改訂されている"
+    ],
+    "today_watch": "交代ボードが出たら数字だけでなく、入る人がどこで待ちどちらへ走るかを見る",
+    "priority": "star",
+    "novice_value": "交代を単なる背番号変更ではなく現場の段取りとして楽しめる",
+    "distinct_from": "既存2-03-b『交代枠』は人数・回数の規則、こちらはライン際の準備行動",
+    "fact_check": "J1運用細則と個々の交代は当日要確認。交代10秒規則には例外あり",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/outline/j1/",
+      "https://www.theifab.com/laws/latest/the-players/",
+      "https://www.theifab.com/law-changes/latest/"
+    ]
+  },
+  {
+    "candidate_id": "D-39",
+    "question": "交代した直後、周りの選手の位置はどう変わる？",
+    "level_hint": "L2",
+    "parent_question_or_existing_id": "D-36",
+    "category_hint": 6,
+    "trigger": "新しい選手が入ってから最初の数分、近くの味方が持ち場を入れ替えたとき",
+    "answer_scope": [
+      "入った人の位置と周囲二、三人の距離の変化",
+      "攻撃と守備で立つ位置が違う場合",
+      "代わる前の配置と後の配置を比較"
+    ],
+    "today_watch": "最初の交代が起きた側の端か中央を選び、直前の選手との違いだけ確認",
+    "priority": "normal",
+    "novice_value": "交代を試合全体の雰囲気の変化として見つけやすくなる",
+    "distinct_from": "既存5-03-c『交代で何が変わる？』は両チームの相性、これは一人の入場前後の足取り",
+    "fact_check": "交代内容・布陣変更は確定前に断言しない。交代の意図は不明",
+    "sources": [
+      "https://www.fctokyo.co.jp/match/schedule/info/20261021/",
+      "https://www.jleague.jp/match/j1/2026/102108/",
+      "https://www.jleague.jp/outline/j1/"
+    ]
   }
 ]
