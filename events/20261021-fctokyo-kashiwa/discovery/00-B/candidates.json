@@ -14,7 +14,7 @@
     "today_watch": "FC東京か柏がボールを失った直後、笛の向きと誰に再開球が渡ったかを見る",
     "priority": "star",
     "novice_value": "いま何が起きたか分かれば、その場で置いていかれない",
-    "distinct_from": "B-04は笛を吹かず続ける判断、B-24はFKの再開方法を扱う",
+    "distinct_from": "B-03は笛を吹かず続ける判断、B-24はFKの再開方法を扱う",
     "fact_check": "個々の接触の違法性は現場映像がない限り断定しない",
     "sources": [
       "https://www.jfa.jp/laws/soccer/2026_27/",
@@ -37,7 +37,7 @@
     "today_watch": "両チームの選手が同じボールに向かったとき、足と体の向き、審判の位置を比べる",
     "priority": "star",
     "novice_value": "倒れるたび笛が鳴るわけではないと知る入口",
-    "distinct_from": "B-01は停止全般、B-04は反則を認めたうえでの継続",
+    "distinct_from": "B-01は停止全般、B-03は反則があっても続ける判断",
     "fact_check": "判定そのものは当日の公式映像・審判説明がないと断言不可",
     "sources": [
       "https://www.jfa.jp/laws/soccer/2026_27/"
@@ -79,7 +79,7 @@
     "today_watch": "激しい接触の後も続いたら、次にボールが止まったときの主審の行き先を見る",
     "priority": "normal",
     "novice_value": "後からの警告を気まぐれだと思わず見られる",
-    "distinct_from": "B-03は続行判断、B-33はカード一般の色と重さ",
+    "distinct_from": "B-03は続行判断、B-32はカードの色と意味",
     "fact_check": "2026/27のDOGSOと有利適用時の具体例は規則に照合。実際の処分は推測しない",
     "sources": [
       "https://www.jfa.jp/laws/soccer/2026_27/",
@@ -322,8 +322,8 @@
   {
     "candidate_id": "B-16",
     "question": "線の外に出たと思ったのに、どうして続いてるの？",
-    "level_hint": "L2",
-    "parent_question_or_existing_id": "B-15",
+    "level_hint": "L1",
+    "parent_question_or_existing_id": null,
     "category_hint": 2,
     "trigger": "タッチライン沿いの球が出たように見えたが走り続ける",
     "answer_scope": [
@@ -334,7 +334,7 @@
     "today_watch": "味スタのタッチライン沿いのドリブルを、選手の足よりボール全体に注目して見る",
     "priority": "star",
     "novice_value": "線の見方を知れば不思議な続行が分かる",
-    "distinct_from": "B-15は反則と再開位置、こちらはそもそもアウトかどうか",
+    "distinct_from": "B-17はアウトしたあとの再開方法、こちらはボールがそもそも外に出たか",
     "fact_check": "肉眼で微妙な越境を断定しない",
     "sources": [
       "https://www.jfa.jp/laws/soccer/2026_27/"
